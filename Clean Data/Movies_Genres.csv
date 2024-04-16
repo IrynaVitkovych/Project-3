@@ -1,0 +1,4694 @@
+,Movie Name,Movie ID,Genre,Genre ID
+0,Leave the World Behind,1,Drama,1
+1,Leave the World Behind,1,Mystery,2
+2,Leave the World Behind,1,Thriller,3
+3,Poor Things,3,Drama,1
+4,Poor Things,3,Comedy,5
+5,Poor Things,3,Romance,7
+6,Killers of the Flower Moon,4,Drama,1
+7,Killers of the Flower Moon,4,Crime,8
+8,Killers of the Flower Moon,4,History,9
+9,May December,5,Drama,1
+10,May December,5,Comedy,5
+11,The Hunger Games: The Ballad of Songbirds & Snakes,6,Drama,1
+12,The Hunger Games: The Ballad of Songbirds & Snakes,6,Adventure,4
+13,The Hunger Games: The Ballad of Songbirds & Snakes,6,Action,10
+14,Oppenheimer,8,Drama,1
+15,Oppenheimer,8,History,9
+16,Oppenheimer,8,Biography,11
+17,Love Actually,9,Drama,1
+18,Love Actually,9,Comedy,5
+19,Love Actually,9,Romance,7
+20,Saltburn,11,Drama,1
+21,Saltburn,11,Thriller,3
+22,Saltburn,11,Comedy,5
+23,Rebel Moon - Part One: A Child of Fire,14,Drama,1
+24,Rebel Moon - Part One: A Child of Fire,14,Adventure,4
+25,Rebel Moon - Part One: A Child of Fire,14,Action,10
+26,The Holdovers,16,Drama,1
+27,The Holdovers,16,Comedy,5
+28,Maestro,21,Drama,1
+29,Maestro,21,Biography,11
+30,Maestro,21,Music,14
+31,The Creator,24,Drama,1
+32,The Creator,24,Adventure,4
+33,The Creator,24,Action,10
+34,A Haunting in Venice,32,Drama,1
+35,A Haunting in Venice,32,Crime,8
+36,A Haunting in Venice,32,Horror,16
+37,It's a Wonderful Life,36,Drama,1
+38,It's a Wonderful Life,36,Family,6
+39,It's a Wonderful Life,36,Fantasy,12
+40,The Santa Clause,38,Drama,1
+41,The Santa Clause,38,Comedy,5
+42,The Santa Clause,38,Family,6
+43,Finestkind,39,Drama,1
+44,Finestkind,39,Thriller,3
+45,Finestkind,39,Crime,8
+46,Scrooged,46,Drama,1
+47,Scrooged,46,Comedy,5
+48,Scrooged,46,Fantasy,12
+49,Ferrari,47,Drama,1
+50,Ferrari,47,History,9
+51,Ferrari,47,Biography,11
+52,Asteroid City,53,Drama,1
+53,Asteroid City,53,Comedy,5
+54,Asteroid City,53,Romance,7
+55,Eileen,55,Drama,1
+56,Eileen,55,Mystery,2
+57,Eileen,55,Thriller,3
+58,Dune,57,Drama,1
+59,Dune,57,Adventure,4
+60,Dune,57,Adventure,4
+61,Dune,57,Action,10
+62,Dune,57,Action,10
+63,Dune,57,Sci-Fi,13
+64,Priscilla,61,Drama,1
+65,Priscilla,61,Biography,11
+66,Priscilla,61,Music,14
+67,The Batman,63,Drama,1
+68,The Batman,63,Crime,8
+69,The Batman,63,Action,10
+70,American Fiction,66,Drama,1
+71,American Fiction,66,Comedy,5
+72,Interstellar,67,Drama,1
+73,Interstellar,67,Adventure,4
+74,Interstellar,67,Sci-Fi,13
+75,The Shawshank Redemption,70,Drama,1
+76,Last Christmas,72,Drama,1
+77,Last Christmas,72,Comedy,5
+78,Last Christmas,72,Fantasy,12
+79,Reptile,73,Drama,1
+80,Reptile,73,Mystery,2
+81,Reptile,73,Crime,8
+82,The Godfather,76,Drama,1
+83,The Godfather,76,Crime,8
+84,Gran Turismo,85,Drama,1
+85,Gran Turismo,85,Adventure,4
+86,Gran Turismo,85,Action,10
+87,Four Christmases,87,Drama,1
+88,Four Christmases,87,Comedy,5
+89,Four Christmases,87,Romance,7
+90,Glory,89,Drama,1
+91,Glory,89,History,9
+92,Glory,89,Biography,11
+93,The Muppet Christmas Carol,91,Drama,1
+94,The Muppet Christmas Carol,91,Comedy,5
+95,The Muppet Christmas Carol,91,Family,6
+96,The Family Stone,92,Drama,1
+97,The Family Stone,92,Comedy,5
+98,The Family Stone,92,Romance,7
+99,The Lord of the Rings: The Fellowship of the Ring,94,Drama,1
+100,The Lord of the Rings: The Fellowship of the Ring,94,Adventure,4
+101,The Lord of the Rings: The Fellowship of the Ring,94,Action,10
+102,Pride & Prejudice,95,Drama,1
+103,Pride & Prejudice,95,Romance,7
+104,Gladiator,96,Drama,1
+105,Gladiator,96,Adventure,4
+106,Gladiator,96,Action,10
+107,The Dark Knight,99,Drama,1
+108,The Dark Knight,99,Crime,8
+109,The Dark Knight,99,Action,10
+110,Blade Runner 2049,100,Drama,1
+111,Blade Runner 2049,100,Mystery,2
+112,Blade Runner 2049,100,Action,10
+113,Pulp Fiction,101,Drama,1
+114,Pulp Fiction,101,Crime,8
+115,The Age of Adaline,102,Drama,1
+116,The Age of Adaline,102,Romance,7
+117,The Age of Adaline,102,Fantasy,12
+118,Bad Santa,104,Drama,1
+119,Bad Santa,104,Comedy,5
+120,Bad Santa,104,Crime,8
+121,Sound of Freedom,108,Drama,1
+122,Sound of Freedom,108,Crime,8
+123,Sound of Freedom,108,Biography,11
+124,Predestination,109,Drama,1
+125,Predestination,109,Action,10
+126,Predestination,109,Sci-Fi,13
+127,Fight Club,111,Drama,1
+128,L.A. Confidential,112,Drama,1
+129,L.A. Confidential,112,Mystery,2
+130,L.A. Confidential,112,Crime,8
+131,Top Gun: Maverick,114,Drama,1
+132,Top Gun: Maverick,114,Action,10
+133,Pearl,118,Drama,1
+134,Pearl,118,Thriller,3
+135,Pearl,118,Horror,16
+136,Once Upon a Time in Hollywood,122,Drama,1
+137,Once Upon a Time in Hollywood,122,Comedy,5
+138,Love,124,Drama,1
+139,Love,124,Romance,7
+140,Babylon,131,Drama,1
+141,Babylon,131,Comedy,5
+142,Babylon,131,History,9
+143,Whiplash,132,Drama,1
+144,Whiplash,132,Music,14
+145,Titanic,133,Drama,1
+146,Titanic,133,Romance,7
+147,A Good Person,135,Drama,1
+148,The Color Purple,136,Drama,1
+149,Fair Play,138,Drama,1
+150,Fair Play,138,Mystery,2
+151,Fair Play,138,Thriller,3
+152,Dumb Money,141,Drama,1
+153,Dumb Money,141,Comedy,5
+154,Dumb Money,141,Biography,11
+155,Love Story,142,Drama,1
+156,Love Story,142,Romance,7
+157,Requiem for a Dream,143,Drama,1
+158,The Favourite,144,Drama,1
+159,The Favourite,144,Comedy,5
+160,The Favourite,144,Biography,11
+161,Nyad,145,Drama,1
+162,Nyad,145,Biography,11
+163,Nyad,145,Sport,19
+164,Goodfellas,146,Drama,1
+165,Goodfellas,146,Crime,8
+166,Goodfellas,146,Biography,11
+167,Midsommar,147,Drama,1
+168,Midsommar,147,Mystery,2
+169,Midsommar,147,Horror,16
+170,Inglourious Basterds,150,Drama,1
+171,Inglourious Basterds,150,Adventure,4
+172,Inglourious Basterds,150,War,20
+173,The Family Man,153,Drama,1
+174,The Family Man,153,Comedy,5
+175,The Family Man,153,Fantasy,12
+176,Triangle of Sadness,155,Drama,1
+177,Triangle of Sadness,155,Comedy,5
+178,Black Swan,156,Drama,1
+179,Black Swan,156,Thriller,3
+180,Kingdom of Heaven,157,Drama,1
+181,Kingdom of Heaven,157,Adventure,4
+182,Kingdom of Heaven,157,Action,10
+183,The Northman,158,Drama,1
+184,The Northman,158,Adventure,4
+185,The Northman,158,Action,10
+186,Se7en,162,Drama,1
+187,Se7en,162,Mystery,2
+188,Se7en,162,Crime,8
+189,Origin,164,Drama,1
+190,Origin,164,History,9
+191,Pain Hustlers,166,Drama,1
+192,Pain Hustlers,166,Crime,8
+193,The Silence of the Lambs,167,Drama,1
+194,The Silence of the Lambs,167,Thriller,3
+195,The Silence of the Lambs,167,Crime,8
+196,Joker,168,Drama,1
+197,Joker,168,Thriller,3
+198,Joker,168,Crime,8
+199,American Beauty,172,Drama,1
+200,Heat,174,Drama,1
+201,Heat,174,Crime,8
+202,Heat,174,Action,10
+203,LÃ©on: The Professional,175,Drama,1
+204,LÃ©on: The Professional,175,Crime,8
+205,LÃ©on: The Professional,175,Action,10
+206,Little Women,180,Drama,1
+207,Little Women,180,Drama,1
+208,Little Women,180,Family,6
+209,Little Women,180,Romance,7
+210,Little Women,180,Romance,7
+211,The Killing of a Sacred Deer,181,Drama,1
+212,The Killing of a Sacred Deer,181,Mystery,2
+213,The Killing of a Sacred Deer,181,Horror,16
+214,American Psycho,182,Drama,1
+215,American Psycho,182,Crime,8
+216,American Psycho,182,Horror,16
+217,Eyes Wide Shut,184,Drama,1
+218,Eyes Wide Shut,184,Mystery,2
+219,Eyes Wide Shut,184,Thriller,3
+220,Beau Is Afraid,186,Drama,1
+221,Beau Is Afraid,186,Comedy,5
+222,Beau Is Afraid,186,Horror,16
+223,Django Unchained,187,Drama,1
+224,Django Unchained,187,Western,21
+225,Schindler's List,189,Drama,1
+226,Schindler's List,189,History,9
+227,Schindler's List,189,Biography,11
+228,The Lord of the Rings: The Return of the King,191,Drama,1
+229,The Lord of the Rings: The Return of the King,191,Adventure,4
+230,The Lord of the Rings: The Return of the King,191,Action,10
+231,The Departed,192,Drama,1
+232,The Departed,192,Thriller,3
+233,The Departed,192,Crime,8
+234,Promising Young Woman,193,Drama,1
+235,Promising Young Woman,193,Mystery,2
+236,Promising Young Woman,193,Crime,8
+237,The Covenant,196,Drama,1
+238,The Covenant,196,Thriller,3
+239,The Covenant,196,Action,10
+240,Don't Worry Darling,199,Drama,1
+241,Don't Worry Darling,199,Mystery,2
+242,Don't Worry Darling,199,Thriller,3
+243,Forrest Gump,201,Drama,1
+244,Forrest Gump,201,Romance,7
+245,There Will Be Blood,204,Drama,1
+246,Avengers: Endgame,206,Drama,1
+247,Avengers: Endgame,206,Adventure,4
+248,Avengers: Endgame,206,Action,10
+249,Jack Frost,207,Drama,1
+250,Jack Frost,207,Comedy,5
+251,Jack Frost,207,Family,6
+252,No Country for Old Men,211,Drama,1
+253,No Country for Old Men,211,Thriller,3
+254,No Country for Old Men,211,Crime,8
+255,Watchmen,217,Drama,1
+256,Watchmen,217,Mystery,2
+257,Watchmen,217,Action,10
+258,Apocalypse Now,218,Drama,1
+259,Apocalypse Now,218,Mystery,2
+260,Apocalypse Now,218,War,20
+261,Tombstone,219,Drama,1
+262,Tombstone,219,History,9
+263,Tombstone,219,Biography,11
+264,Gone Girl,222,Drama,1
+265,Gone Girl,222,Mystery,2
+266,Gone Girl,222,Thriller,3
+267,Saving Private Ryan,223,Drama,1
+268,Saving Private Ryan,223,War,20
+269,The Notebook,224,Drama,1
+270,The Notebook,224,Romance,7
+271,Twilight,226,Drama,1
+272,Twilight,226,Romance,7
+273,Twilight,226,Fantasy,12
+274,The Whale,227,Drama,1
+275,Scarface,228,Drama,1
+276,Scarface,228,Crime,8
+277,Blade Runner,229,Drama,1
+278,Blade Runner,229,Action,10
+279,Blade Runner,229,Sci-Fi,13
+280,Fifty Shades of Grey,230,Drama,1
+281,Fifty Shades of Grey,230,Thriller,3
+282,Fifty Shades of Grey,230,Romance,7
+283,The Green Mile,232,Drama,1
+284,The Green Mile,232,Crime,8
+285,The Green Mile,232,Fantasy,12
+286,A Boy Called Christmas,233,Drama,1
+287,A Boy Called Christmas,233,Adventure,4
+288,A Boy Called Christmas,233,Family,6
+289,Wind River,234,Drama,1
+290,Wind River,234,Mystery,2
+291,Wind River,234,Crime,8
+292,Barry Lyndon,239,Drama,1
+293,Barry Lyndon,239,Adventure,4
+294,Barry Lyndon,239,War,20
+295,10 Things I Hate About You,240,Drama,1
+296,10 Things I Hate About You,240,Comedy,5
+297,10 Things I Hate About You,240,Romance,7
+298,The Marsh King's Daughter,241,Drama,1
+299,The Marsh King's Daughter,241,Mystery,2
+300,The Marsh King's Daughter,241,Crime,8
+301,Good Will Hunting,243,Drama,1
+302,Good Will Hunting,243,Romance,7
+303,Don't Look Up,244,Drama,1
+304,Don't Look Up,244,Comedy,5
+305,Don't Look Up,244,Sci-Fi,13
+306,The Prestige,245,Drama,1
+307,The Prestige,245,Mystery,2
+308,The Prestige,245,Sci-Fi,13
+309,"Crazy, Stupid, Love.",246,Drama,1
+310,"Crazy, Stupid, Love.",246,Comedy,5
+311,"Crazy, Stupid, Love.",246,Romance,7
+312,Men,248,Drama,1
+313,Men,248,Fantasy,12
+314,Men,248,Horror,16
+315,The Banshees of Inisherin,250,Drama,1
+316,The Banshees of Inisherin,250,Comedy,5
+317,Prisoners,252,Drama,1
+318,Prisoners,252,Mystery,2
+319,Prisoners,252,Crime,8
+320,Death on the Nile,254,Drama,1
+321,Death on the Nile,254,Mystery,2
+322,Death on the Nile,254,Crime,8
+323,Troy,259,Drama,1
+324,The Dark Knight Rises,261,Drama,1
+325,The Dark Knight Rises,261,Thriller,3
+326,The Dark Knight Rises,261,Action,10
+327,Call Me by Your Name,263,Drama,1
+328,Call Me by Your Name,263,Romance,7
+329,Eternal Sunshine of the Spotless Mind,268,Drama,1
+330,Eternal Sunshine of the Spotless Mind,268,Romance,7
+331,Eternal Sunshine of the Spotless Mind,268,Sci-Fi,13
+332,300,269,Drama,1
+333,300,269,Action,10
+334,Green Book,272,Drama,1
+335,Green Book,272,Comedy,5
+336,Green Book,272,Biography,11
+337,Top Gun,274,Drama,1
+338,Top Gun,274,Action,10
+339,12 Angry Men,276,Drama,1
+340,12 Angry Men,276,Crime,8
+341,Burlesque,277,Drama,1
+342,Burlesque,277,Music,14
+343,Burlesque,277,Musical,17
+344,BlackBerry,278,Drama,1
+345,BlackBerry,278,Comedy,5
+346,BlackBerry,278,Biography,11
+347,The Lobster,281,Drama,1
+348,The Lobster,281,Romance,7
+349,The Lobster,281,Sci-Fi,13
+350,Fiddler on the Roof,284,Drama,1
+351,Fiddler on the Roof,284,Family,6
+352,Fiddler on the Roof,284,Musical,17
+353,Glass Onion,285,Drama,1
+354,Glass Onion,285,Comedy,5
+355,Glass Onion,285,Crime,8
+356,Memory,286,Drama,1
+357,Memory,286,Thriller,3
+358,Memory,286,Crime,8
+359,Memory,286,Action,10
+360,The Many Saints of Newark,287,Drama,1
+361,The Many Saints of Newark,287,Crime,8
+362,The Longest Ride,289,Drama,1
+363,The Longest Ride,289,Comedy,5
+364,The Longest Ride,289,Romance,7
+365,A Man Called Otto,290,Drama,1
+366,A Man Called Otto,290,Comedy,5
+367,Holiday Inn,293,Drama,1
+368,Holiday Inn,293,Comedy,5
+369,Holiday Inn,293,Music,14
+370,The Deer Hunter,294,Drama,1
+371,The Deer Hunter,294,War,20
+372,"Are You There God? It's Me, Margaret.",295,Drama,1
+373,"Are You There God? It's Me, Margaret.",295,Comedy,5
+374,"Are You There God? It's Me, Margaret.",295,Family,6
+375,The Help,296,Drama,1
+376,La La Land,298,Drama,1
+377,La La Land,298,Comedy,5
+378,La La Land,298,Music,14
+379,The Truman Show,299,Drama,1
+380,The Truman Show,299,Comedy,5
+381,The Sound of Music,300,Drama,1
+382,The Sound of Music,300,Family,6
+383,The Sound of Music,300,Biography,11
+384,The Outsiders,301,Drama,1
+385,The Outsiders,301,Crime,8
+386,Taxi Driver,302,Drama,1
+387,Taxi Driver,302,Crime,8
+388,Fast Times at Ridgemont High,303,Drama,1
+389,Fast Times at Ridgemont High,303,Comedy,5
+390,Hereditary,305,Drama,1
+391,Hereditary,305,Mystery,2
+392,Hereditary,305,Horror,16
+393,Her,306,Drama,1
+394,Her,306,Romance,7
+395,Her,306,Sci-Fi,13
+396,The Irishman,307,Drama,1
+397,The Irishman,307,Crime,8
+398,The Irishman,307,Biography,11
+399,Catch Me If You Can,308,Drama,1
+400,Catch Me If You Can,308,Crime,8
+401,Catch Me If You Can,308,Biography,11
+402,The Shining,309,Drama,1
+403,The Shining,309,Horror,16
+404,Knives Out,310,Drama,1
+405,Knives Out,310,Comedy,5
+406,Knives Out,310,Crime,8
+407,Next Goal Wins,311,Drama,1
+408,Next Goal Wins,311,Comedy,5
+409,Next Goal Wins,311,Sport,19
+410,Air,313,Drama,1
+411,Air,313,Sport,19
+412,Nobody,318,Drama,1
+413,Nobody,318,Crime,8
+414,Nobody,318,Action,10
+415,Murder on the Orient Express,319,Drama,1
+416,Murder on the Orient Express,319,Mystery,2
+417,Murder on the Orient Express,319,Crime,8
+418,The Secret Life of Walter Mitty,320,Drama,1
+419,The Secret Life of Walter Mitty,320,Adventure,4
+420,The Secret Life of Walter Mitty,320,Comedy,5
+421,Love & Other Drugs,322,Drama,1
+422,Love & Other Drugs,322,Comedy,5
+423,Love & Other Drugs,322,Romance,7
+424,Ford v Ferrari,324,Drama,1
+425,Ford v Ferrari,324,Action,10
+426,Ford v Ferrari,324,Biography,11
+427,Aftersun,325,Drama,1
+428,The Burial,331,Drama,1
+429,Mulholland Drive,336,Drama,1
+430,Mulholland Drive,336,Mystery,2
+431,Mulholland Drive,336,Thriller,3
+432,Drive,337,Drama,1
+433,Drive,337,Action,10
+434,The Man Who Invented Christmas,338,Drama,1
+435,The Man Who Invented Christmas,338,Comedy,5
+436,The Man Who Invented Christmas,338,Biography,11
+437,The Lord of the Rings: The Two Towers,339,Drama,1
+438,The Lord of the Rings: The Two Towers,339,Adventure,4
+439,The Lord of the Rings: The Two Towers,339,Action,10
+440,"Planes, Trains & Automobiles",343,Drama,1
+441,"Planes, Trains & Automobiles",343,Comedy,5
+442,Where the Crawdads Sing,349,Drama,1
+443,Where the Crawdads Sing,349,Mystery,2
+444,Where the Crawdads Sing,349,Romance,7
+445,The Abyss,350,Drama,1
+446,The Abyss,350,Mystery,2
+447,The Abyss,350,Adventure,4
+448,The Godfather Part II,351,Drama,1
+449,The Godfather Part II,351,Crime,8
+450,Gerald's Game,358,Drama,1
+451,Gerald's Game,358,Thriller,3
+452,Gerald's Game,358,Horror,16
+453,65,359,Drama,1
+454,65,359,Adventure,4
+455,65,359,Action,10
+456,Paper Moon,360,Drama,1
+457,Paper Moon,360,Comedy,5
+458,Paper Moon,360,Crime,8
+459,Boyz n the Hood,363,Drama,1
+460,Boyz n the Hood,363,Crime,8
+461,The Dreamers,364,Drama,1
+462,The Dreamers,364,Romance,7
+463,The Bikeriders,365,Drama,1
+464,The Bikeriders,365,Crime,8
+465,Last Night in Soho,369,Drama,1
+466,Last Night in Soho,369,Mystery,2
+467,Last Night in Soho,369,Horror,16
+468,Hidden Figures,372,Drama,1
+469,Hidden Figures,372,History,9
+470,Hidden Figures,372,Biography,11
+471,The Hateful Eight,376,Drama,1
+472,The Hateful Eight,376,Mystery,2
+473,The Hateful Eight,376,Crime,8
+474,Meet Me in St. Louis,378,Drama,1
+475,Meet Me in St. Louis,378,Comedy,5
+476,Meet Me in St. Louis,378,Family,6
+477,The Great Gatsby,381,Drama,1
+478,The Great Gatsby,381,Romance,7
+479,Old,382,Drama,1
+480,Old,382,Mystery,2
+481,Old,382,Horror,16
+482,The Usual Suspects,383,Drama,1
+483,The Usual Suspects,383,Mystery,2
+484,The Usual Suspects,383,Crime,8
+485,Me Before You,384,Drama,1
+486,Me Before You,384,Romance,7
+487,Dead Poets Society,386,Drama,1
+488,Dead Poets Society,386,Comedy,5
+489,A Beautiful Mind,390,Drama,1
+490,A Beautiful Mind,390,Mystery,2
+491,A Beautiful Mind,390,Biography,11
+492,Ex Machina,391,Drama,1
+493,Ex Machina,391,Thriller,3
+494,Ex Machina,391,Sci-Fi,13
+495,Sicario,394,Drama,1
+496,Sicario,394,Crime,8
+497,Sicario,394,Action,10
+498,Unfaithful,395,Drama,1
+499,Unfaithful,395,Thriller,3
+500,Unfaithful,395,Romance,7
+501,Lolita,401,Drama,1
+502,Lolita,401,Romance,7
+503,Rustin,402,Drama,1
+504,Rustin,402,History,9
+505,Rustin,402,Biography,11
+506,Lady Bird,406,Drama,1
+507,Lady Bird,406,Comedy,5
+508,Network,408,Drama,1
+509,Amsterdam,411,Drama,1
+510,Amsterdam,411,Comedy,5
+511,Amsterdam,411,History,9
+512,Excalibur,412,Drama,1
+513,Excalibur,412,Adventure,4
+514,Excalibur,412,Fantasy,12
+515,The Place Beyond the Pines,415,Drama,1
+516,The Place Beyond the Pines,415,Thriller,3
+517,The Place Beyond the Pines,415,Crime,8
+518,Secretary,416,Drama,1
+519,Secretary,416,Comedy,5
+520,Secretary,416,Romance,7
+521,The Martian,420,Drama,1
+522,The Martian,420,Adventure,4
+523,The Martian,420,Sci-Fi,13
+524,The Greatest Showman,421,Drama,1
+525,The Greatest Showman,421,Biography,11
+526,The Greatest Showman,421,Musical,17
+527,I Can Only Imagine,422,Drama,1
+528,I Can Only Imagine,422,Family,6
+529,I Can Only Imagine,422,Biography,11
+530,Mother!,423,Drama,1
+531,Mother!,423,Mystery,2
+532,Mother!,423,Horror,16
+533,The Talented Mr. Ripley,424,Drama,1
+534,The Talented Mr. Ripley,424,Thriller,3
+535,The Talented Mr. Ripley,424,Crime,8
+536,While You Were Sleeping,426,Drama,1
+537,While You Were Sleeping,426,Comedy,5
+538,While You Were Sleeping,426,Romance,7
+539,Braveheart,430,Drama,1
+540,Braveheart,430,History,9
+541,Braveheart,430,Biography,11
+542,Basic Instinct,431,Drama,1
+543,Basic Instinct,431,Mystery,2
+544,Basic Instinct,431,Thriller,3
+545,Elvis,433,Drama,1
+546,Elvis,433,Biography,11
+547,Elvis,433,Music,14
+548,8 Mile,434,Drama,1
+549,8 Mile,434,Music,14
+550,About Time,436,Drama,1
+551,About Time,436,Comedy,5
+552,About Time,436,Fantasy,12
+553,The Revenant,437,Drama,1
+554,The Revenant,437,Adventure,4
+555,The Revenant,437,Action,10
+556,Pale Rider,438,Drama,1
+557,Pale Rider,438,Western,21
+558,Boogie Nights,440,Drama,1
+559,Meet Joe Black,442,Drama,1
+560,Meet Joe Black,442,Romance,7
+561,Meet Joe Black,442,Fantasy,12
+562,One Flew Over the Cuckoo's Nest,446,Drama,1
+563,Batman Begins,447,Drama,1
+564,Batman Begins,447,Crime,8
+565,Batman Begins,447,Action,10
+566,Blockers,448,Drama,1
+567,Blockers,448,Comedy,5
+568,Uncut Gems,453,Drama,1
+569,Uncut Gems,453,Thriller,3
+570,Uncut Gems,453,Crime,8
+571,Bridget Jones's Diary,456,Drama,1
+572,Bridget Jones's Diary,456,Comedy,5
+573,Bridget Jones's Diary,456,Romance,7
+574,1917,457,Drama,1
+575,1917,457,Action,10
+576,1917,457,War,20
+577,The Lion King,458,Drama,1
+578,The Lion King,458,Drama,1
+579,The Lion King,458,Adventure,4
+580,The Lion King,458,Adventure,4
+581,The Lion King,458,Animation,15
+582,The Lion King,458,Animation,15
+583,The Last Duel,459,Drama,1
+584,The Last Duel,459,History,9
+585,The Last Duel,459,Action,10
+586,West Side Story,461,Drama,1
+587,West Side Story,461,Drama,1
+588,West Side Story,461,Crime,8
+589,West Side Story,461,Crime,8
+590,West Side Story,461,Musical,17
+591,West Side Story,461,Musical,17
+592,American History X,462,Drama,1
+593,American History X,462,Crime,8
+594,The Pianist,463,Drama,1
+595,The Pianist,463,Biography,11
+596,The Pianist,463,Music,14
+597,Dunkirk,465,Drama,1
+598,Dunkirk,465,History,9
+599,Dunkirk,465,Action,10
+600,The Social Network,468,Drama,1
+601,The Social Network,468,Biography,11
+602,Hacksaw Ridge,470,Drama,1
+603,Hacksaw Ridge,470,History,9
+604,Hacksaw Ridge,470,Biography,11
+605,The Phantom of the Opera,471,Drama,1
+606,The Phantom of the Opera,471,Romance,7
+607,The Phantom of the Opera,471,Musical,17
+608,Once Upon a Time in America,472,Drama,1
+609,Once Upon a Time in America,472,Crime,8
+610,Donnie Darko,474,Drama,1
+611,Donnie Darko,474,Mystery,2
+612,Donnie Darko,474,Sci-Fi,13
+613,The Girl Next Door,478,Drama,1
+614,The Girl Next Door,478,Drama,1
+615,The Girl Next Door,478,Comedy,5
+616,The Girl Next Door,478,Romance,7
+617,The Girl Next Door,478,Crime,8
+618,The Girl Next Door,478,Horror,16
+619,Almost Famous,479,Drama,1
+620,Almost Famous,479,Adventure,4
+621,Almost Famous,479,Comedy,5
+622,Jojo Rabbit,484,Drama,1
+623,Jojo Rabbit,484,Comedy,5
+624,Jojo Rabbit,484,War,20
+625,The Lighthouse,485,Drama,1
+626,The Lighthouse,485,Fantasy,12
+627,The Lighthouse,485,Horror,16
+628,The Girl with the Dragon Tattoo,488,Drama,1
+629,The Girl with the Dragon Tattoo,488,Mystery,2
+630,The Girl with the Dragon Tattoo,488,Crime,8
+631,Fury,489,Drama,1
+632,Fury,489,Action,10
+633,Fury,489,War,20
+634,The King,490,Drama,1
+635,The King,490,History,9
+636,The King,490,Biography,11
+637,The Fabelmans,491,Drama,1
+638,The Witch,494,Drama,1
+639,The Witch,494,Fantasy,12
+640,The Witch,494,Horror,16
+641,Stand by Me,498,Drama,1
+642,Stand by Me,498,Adventure,4
+643,Stand by Me,498,Comedy,5
+644,The Voyeurs,499,Drama,1
+645,The Voyeurs,499,Mystery,2
+646,The Voyeurs,499,Thriller,3
+647,The Big Short,500,Drama,1
+648,The Big Short,500,Comedy,5
+649,The Big Short,500,Biography,11
+650,Annihilation,502,Drama,1
+651,Annihilation,502,Adventure,4
+652,Annihilation,502,Horror,16
+653,True Romance,504,Drama,1
+654,True Romance,504,Romance,7
+655,True Romance,504,Crime,8
+656,Brothers,509,Drama,1
+657,Brothers,509,Thriller,3
+658,Brothers,509,War,20
+659,Prey,512,Drama,1
+660,Prey,512,Adventure,4
+661,Prey,512,Action,10
+662,Full Metal Jacket,515,Drama,1
+663,Full Metal Jacket,515,War,20
+664,Zodiac,518,Drama,1
+665,Zodiac,518,Mystery,2
+666,Zodiac,518,Crime,8
+667,Belfast,519,Drama,1
+668,Belfast,519,Romance,7
+669,Belfast,519,Biography,11
+670,Lost in Translation,523,Drama,1
+671,Lost in Translation,523,Comedy,5
+672,The Devil Wears Prada,524,Drama,1
+673,The Devil Wears Prada,524,Comedy,5
+674,Edward Scissorhands,527,Drama,1
+675,Edward Scissorhands,527,Romance,7
+676,Edward Scissorhands,527,Fantasy,12
+677,Snowpiercer,530,Drama,1
+678,Snowpiercer,530,Action,10
+679,Snowpiercer,530,Sci-Fi,13
+680,How It Ends,531,Drama,1
+681,How It Ends,531,Action,10
+682,How It Ends,531,Horror,16
+683,Shame,534,Drama,1
+684,Under the Skin,535,Drama,1
+685,Under the Skin,535,Mystery,2
+686,Under the Skin,535,Horror,16
+687,Carol,541,Drama,1
+688,Carol,541,Romance,7
+689,Bram Stoker's Dracula,543,Drama,1
+690,Bram Stoker's Dracula,543,Fantasy,12
+691,Bram Stoker's Dracula,543,Horror,16
+692,Single All the Way,545,Drama,1
+693,Single All the Way,545,Comedy,5
+694,Single All the Way,545,Romance,7
+695,Guillermo del Toro's Pinocchio,549,Drama,1
+696,Guillermo del Toro's Pinocchio,549,Family,6
+697,Guillermo del Toro's Pinocchio,549,Animation,15
+698,The Noel Diary,556,Drama,1
+699,The Noel Diary,556,Comedy,5
+700,The Noel Diary,556,Romance,7
+701,The Bishop's Wife,560,Drama,1
+702,The Bishop's Wife,560,Comedy,5
+703,The Bishop's Wife,560,Fantasy,12
+704,28 Days Later,561,Drama,1
+705,28 Days Later,561,Sci-Fi,13
+706,28 Days Later,561,Horror,16
+707,The Breakfast Club,563,Drama,1
+708,The Breakfast Club,563,Comedy,5
+709,Moonlight,569,Drama,1
+710,Dear John,578,Drama,1
+711,Dear John,578,Romance,7
+712,Dear John,578,War,20
+713,What's Eating Gilbert Grape,580,Drama,1
+714,TÃ¡r,581,Drama,1
+715,TÃ¡r,581,Music,14
+716,The Blue Lagoon,584,Drama,1
+717,The Blue Lagoon,584,Adventure,4
+718,The Blue Lagoon,584,Romance,7
+719,American Hustle,586,Drama,1
+720,American Hustle,586,Crime,8
+721,To Catch a Killer,595,Drama,1
+722,To Catch a Killer,595,Crime,8
+723,To Catch a Killer,595,Action,10
+724,The Sixth Sense,596,Drama,1
+725,The Sixth Sense,596,Mystery,2
+726,The Sixth Sense,596,Thriller,3
+727,Silver Linings Playbook,598,Drama,1
+728,Silver Linings Playbook,598,Comedy,5
+729,Silver Linings Playbook,598,Romance,7
+730,Casino,600,Drama,1
+731,Casino,600,Crime,8
+732,Platoon,604,Drama,1
+733,Platoon,604,War,20
+734,Deep Water,605,Drama,1
+735,Deep Water,605,Mystery,2
+736,Deep Water,605,Thriller,3
+737,Les MisÃ©rables,606,Drama,1
+738,Les MisÃ©rables,606,Romance,7
+739,Les MisÃ©rables,606,Musical,17
+740,Beautiful Boy,608,Drama,1
+741,Beautiful Boy,608,Biography,11
+742,Saturday Night Fever,609,Drama,1
+743,Saturday Night Fever,609,Music,14
+744,Army of the Dead,610,Drama,1
+745,Army of the Dead,610,Crime,8
+746,Army of the Dead,610,Action,10
+747,The Father,611,Drama,1
+748,The Father,611,Mystery,2
+749,Diary of a Wimpy Kid,612,Drama,1
+750,Diary of a Wimpy Kid,612,Comedy,5
+751,Diary of a Wimpy Kid,612,Family,6
+752,Love at First Sight,613,Drama,1
+753,Love at First Sight,613,Romance,7
+754,The Perks of Being a Wallflower,614,Drama,1
+755,Casablanca,615,Drama,1
+756,Casablanca,615,Romance,7
+757,Casablanca,615,War,20
+758,Blonde,618,Drama,1
+759,Blonde,618,History,9
+760,Hamilton,619,Drama,1
+761,Hamilton,619,History,9
+762,Hamilton,619,Biography,11
+763,My Big Fat Greek Wedding 3,621,Drama,1
+764,My Big Fat Greek Wedding 3,621,Comedy,5
+765,My Big Fat Greek Wedding 3,621,Romance,7
+766,The Imitation Game,626,Drama,1
+767,The Imitation Game,626,Thriller,3
+768,The Imitation Game,626,Biography,11
+769,After,628,Drama,1
+770,After,628,Romance,7
+771,Into the Wild,631,Drama,1
+772,Into the Wild,631,Adventure,4
+773,Into the Wild,631,Biography,11
+774,Training Day,634,Drama,1
+775,Training Day,634,Thriller,3
+776,Training Day,634,Crime,8
+777,Lady Chatterley's Lover,638,Drama,1
+778,Lady Chatterley's Lover,638,Romance,7
+779,Black Hawk Down,639,Drama,1
+780,Black Hawk Down,639,History,9
+781,Black Hawk Down,639,Action,10
+782,Bad Santa 2,640,Drama,1
+783,Bad Santa 2,640,Comedy,5
+784,Bad Santa 2,640,Crime,8
+785,Baby Driver,641,Drama,1
+786,Baby Driver,641,Crime,8
+787,Baby Driver,641,Action,10
+788,Bones and All,642,Drama,1
+789,Bones and All,642,Romance,7
+790,Bones and All,642,Horror,16
+791,Closer,643,Drama,1
+792,Closer,643,Romance,7
+793,The Pelican Brief,650,Drama,1
+794,The Pelican Brief,650,Mystery,2
+795,The Pelican Brief,650,Crime,8
+796,Atonement,651,Drama,1
+797,Atonement,651,Mystery,2
+798,Atonement,651,Romance,7
+799,The Fugitive,652,Drama,1
+800,The Fugitive,652,Crime,8
+801,The Fugitive,652,Action,10
+802,The Secret: Dare to Dream,653,Drama,1
+803,The Secret: Dare to Dream,653,Romance,7
+804,Passengers,654,Drama,1
+805,Passengers,654,Romance,7
+806,Passengers,654,Sci-Fi,13
+807,Groundhog Day,656,Drama,1
+808,Groundhog Day,656,Comedy,5
+809,Groundhog Day,656,Fantasy,12
+810,Scrooge,657,Drama,1
+811,Scrooge,657,Family,6
+812,Scrooge,657,Fantasy,12
+813,Notting Hill,659,Drama,1
+814,Notting Hill,659,Comedy,5
+815,Notting Hill,659,Romance,7
+816,Logan,660,Drama,1
+817,Logan,660,Action,10
+818,Logan,660,Sci-Fi,13
+819,City of Angels,667,Drama,1
+820,City of Angels,667,Romance,7
+821,City of Angels,667,Fantasy,12
+822,Pleasure,668,Drama,1
+823,A Time to Kill,671,Drama,1
+824,A Time to Kill,671,Thriller,3
+825,A Time to Kill,671,Crime,8
+826,Rocky,673,Drama,1
+827,Rocky,673,Sport,19
+828,The Virgin Suicides,675,Drama,1
+829,The Virgin Suicides,675,Romance,7
+830,Doctor Sleep,676,Drama,1
+831,Doctor Sleep,676,Fantasy,12
+832,Doctor Sleep,676,Horror,16
+833,A Star Is Born,678,Drama,1
+834,A Star Is Born,678,Romance,7
+835,A Star Is Born,678,Music,14
+836,Australia,679,Drama,1
+837,Australia,679,Adventure,4
+838,Australia,679,Romance,7
+839,Payback,682,Drama,1
+840,Payback,682,Crime,8
+841,Payback,682,Action,10
+842,The Lovely Bones,687,Drama,1
+843,The Lovely Bones,687,Thriller,3
+844,The Lovely Bones,687,Fantasy,12
+845,War for the Planet of the Apes,688,Drama,1
+846,War for the Planet of the Apes,688,Adventure,4
+847,War for the Planet of the Apes,688,Action,10
+848,The Curious Case of Benjamin Button,689,Drama,1
+849,The Curious Case of Benjamin Button,689,Romance,7
+850,The Curious Case of Benjamin Button,689,Fantasy,12
+851,Ambulance,690,Drama,1
+852,Ambulance,690,Crime,8
+853,Ambulance,690,Action,10
+854,A Bronx Tale,691,Drama,1
+855,A Bronx Tale,691,Crime,8
+856,Romeo + Juliet,693,Drama,1
+857,Romeo + Juliet,693,Romance,7
+858,Trainspotting,696,Drama,1
+859,The Reader,701,Drama,1
+860,The Reader,701,Mystery,2
+861,The Reader,701,Romance,7
+862,Nocturnal Animals,702,Drama,1
+863,Nocturnal Animals,702,Thriller,3
+864,Haunted Mansion,707,Drama,1
+865,Haunted Mansion,707,Comedy,5
+866,Haunted Mansion,707,Family,6
+867,The Hospital,711,Drama,1
+868,The Hospital,711,Mystery,2
+869,The Hospital,711,Comedy,5
+870,Little Children,715,Drama,1
+871,Little Children,715,Romance,7
+872,Save the Last Dance,719,Drama,1
+873,Save the Last Dance,719,Romance,7
+874,Save the Last Dance,719,Music,14
+875,The House That Jack Built,721,Drama,1
+876,The House That Jack Built,721,Crime,8
+877,The House That Jack Built,721,Horror,16
+878,Gone with the Wind,724,Drama,1
+879,Gone with the Wind,724,Romance,7
+880,Gone with the Wind,724,War,20
+881,Gangs of New York,725,Drama,1
+882,Gangs of New York,725,Crime,8
+883,Jules,728,Drama,1
+884,Jules,728,Comedy,5
+885,Jules,728,Sci-Fi,13
+886,"Three Billboards Outside Ebbing, Missouri",729,Drama,1
+887,"Three Billboards Outside Ebbing, Missouri",729,Comedy,5
+888,"Three Billboards Outside Ebbing, Missouri",729,Crime,8
+889,Margin Call,730,Drama,1
+890,Margin Call,730,Thriller,3
+891,Black Panther: Wakanda Forever,731,Drama,1
+892,Black Panther: Wakanda Forever,731,Adventure,4
+893,Black Panther: Wakanda Forever,731,Action,10
+894,The Tomorrow War,732,Drama,1
+895,The Tomorrow War,732,Adventure,4
+896,The Tomorrow War,732,Action,10
+897,Bohemian Rhapsody,733,Drama,1
+898,Bohemian Rhapsody,733,Biography,11
+899,Bohemian Rhapsody,733,Music,14
+900,Disobedience,734,Drama,1
+901,Frequency,736,Drama,1
+902,Frequency,736,Mystery,2
+903,Frequency,736,Crime,8
+904,Chronicle,737,Drama,1
+905,Chronicle,737,Action,10
+906,Chronicle,737,Sci-Fi,13
+907,Looper,738,Drama,1
+908,Looper,738,Action,10
+909,Looper,738,Sci-Fi,13
+910,Showgirls,740,Drama,1
+911,Waitress,741,Drama,1
+912,Waitress,741,Comedy,5
+913,Waitress,741,Romance,7
+914,"To Sir, with Love",744,Drama,1
+915,Man on Fire,745,Drama,1
+916,Man on Fire,745,Crime,8
+917,Man on Fire,745,Action,10
+918,Crazy Rich Asians,746,Drama,1
+919,Crazy Rich Asians,746,Comedy,5
+920,Crazy Rich Asians,746,Romance,7
+921,The Little Things,749,Drama,1
+922,The Little Things,749,Mystery,2
+923,The Little Things,749,Crime,8
+924,The Firm,750,Drama,1
+925,The Firm,750,Mystery,2
+926,The Firm,750,Thriller,3
+927,Unforgiven,752,Drama,1
+928,Unforgiven,752,Western,21
+929,Big,753,Drama,1
+930,Big,753,Comedy,5
+931,Big,753,Fantasy,12
+932,The Death of Stalin,756,Drama,1
+933,The Death of Stalin,756,Comedy,5
+934,The Death of Stalin,756,History,9
+935,Nightcrawler,758,Drama,1
+936,Nightcrawler,758,Thriller,3
+937,Nightcrawler,758,Crime,8
+938,Love Again,759,Drama,1
+939,Love Again,759,Comedy,5
+940,Love Again,759,Romance,7
+941,The Proposal,763,Drama,1
+942,The Proposal,763,Comedy,5
+943,The Proposal,763,Romance,7
+944,V for Vendetta,766,Drama,1
+945,V for Vendetta,766,Action,10
+946,V for Vendetta,766,Sci-Fi,13
+947,The Greatest Beer Run Ever,767,Drama,1
+948,The Greatest Beer Run Ever,767,Adventure,4
+949,The Greatest Beer Run Ever,767,War,20
+950,White Noise,769,Drama,1
+951,White Noise,769,Comedy,5
+952,White Noise,769,Horror,16
+953,Before Sunrise,770,Drama,1
+954,Before Sunrise,770,Romance,7
+955,Hell or High Water,773,Drama,1
+956,Hell or High Water,773,Thriller,3
+957,Hell or High Water,773,Crime,8
+958,The Persian Version,776,Drama,1
+959,The Persian Version,776,Comedy,5
+960,The Persian Version,776,Romance,7
+961,The Legend of Tarzan,778,Drama,1
+962,The Legend of Tarzan,778,Adventure,4
+963,The Legend of Tarzan,778,Action,10
+964,Rise of the Planet of the Apes,780,Drama,1
+965,Rise of the Planet of the Apes,780,Action,10
+966,Rise of the Planet of the Apes,780,Sci-Fi,13
+967,Unbroken,782,Drama,1
+968,Unbroken,782,Action,10
+969,Unbroken,782,Biography,11
+970,Primal Fear,784,Drama,1
+971,Primal Fear,784,Mystery,2
+972,Primal Fear,784,Crime,8
+973,Coco,785,Drama,1
+974,Coco,785,Adventure,4
+975,Coco,785,Animation,15
+976,The Stranger,786,Drama,1
+977,The Stranger,786,Thriller,3
+978,The Stranger,786,Crime,8
+979,Amadeus,787,Drama,1
+980,Amadeus,787,Biography,11
+981,Amadeus,787,Music,14
+982,Mystic River,788,Drama,1
+983,Mystic River,788,Mystery,2
+984,Mystic River,788,Crime,8
+985,American Gangster,791,Drama,1
+986,American Gangster,791,Crime,8
+987,American Gangster,791,Biography,11
+988,Fingernails,793,Drama,1
+989,Fingernails,793,Romance,7
+990,Fingernails,793,Sci-Fi,13
+991,Focus,794,Drama,1
+992,Focus,794,Comedy,5
+993,Focus,794,Crime,8
+994,Legend,797,Drama,1
+995,Legend,797,Adventure,4
+996,Legend,797,Romance,7
+997,Legend,797,Crime,8
+998,Legend,797,Biography,11
+999,Legend,797,Fantasy,12
+1000,Remember the Night,798,Drama,1
+1001,Remember the Night,798,Comedy,5
+1002,Remember the Night,798,Romance,7
+1003,Sleeping Beauty,799,Drama,1
+1004,Sleeping Beauty,799,Mystery,2
+1005,Sleeping Beauty,799,Romance,7
+1006,Remember the Titans,800,Drama,1
+1007,Remember the Titans,800,Biography,11
+1008,Remember the Titans,800,Sport,19
+1009,The Impossible,804,Drama,1
+1010,The Impossible,804,Thriller,3
+1011,The Impossible,804,History,9
+1012,Room,805,Drama,1
+1013,Room,805,Thriller,3
+1014,The Invisible Man,806,Drama,1
+1015,The Invisible Man,806,Mystery,2
+1016,The Invisible Man,806,Horror,16
+1017,Dawn of the Planet of the Apes,807,Drama,1
+1018,Dawn of the Planet of the Apes,807,Adventure,4
+1019,Dawn of the Planet of the Apes,807,Action,10
+1020,Wild Things,808,Drama,1
+1021,Wild Things,808,Mystery,2
+1022,Wild Things,808,Crime,8
+1023,Passages,809,Drama,1
+1024,Passages,809,Romance,7
+1025,500 Days of Summer,810,Drama,1
+1026,500 Days of Summer,810,Comedy,5
+1027,500 Days of Summer,810,Romance,7
+1028,The Devil's Advocate,811,Drama,1
+1029,The Devil's Advocate,811,Mystery,2
+1030,The Devil's Advocate,811,Fantasy,12
+1031,Nightmare Alley,815,Drama,1
+1032,Nightmare Alley,815,Thriller,3
+1033,Nightmare Alley,815,Crime,8
+1034,Cinderella,816,Drama,1
+1035,Cinderella,816,Adventure,4
+1036,Cinderella,816,Comedy,5
+1037,Cinderella,816,Family,6
+1038,Cinderella,816,Family,6
+1039,Cinderella,816,Fantasy,12
+1040,The Shape of Water,820,Drama,1
+1041,The Shape of Water,820,Romance,7
+1042,The Shape of Water,820,Fantasy,12
+1043,The Hobbit: The Desolation of Smaug,822,Drama,1
+1044,The Hobbit: The Desolation of Smaug,822,Adventure,4
+1045,The Hobbit: The Desolation of Smaug,822,Fantasy,12
+1046,Children of Men,824,Drama,1
+1047,Children of Men,824,Action,10
+1048,Children of Men,824,Sci-Fi,13
+1049,In Bruges,825,Drama,1
+1050,In Bruges,825,Comedy,5
+1051,In Bruges,825,Crime,8
+1052,A Castle for Christmas,829,Drama,1
+1053,A Castle for Christmas,829,Adventure,4
+1054,A Castle for Christmas,829,Comedy,5
+1055,Spotlight,834,Drama,1
+1056,Spotlight,834,Crime,8
+1057,Spotlight,834,Biography,11
+1058,Click,838,Drama,1
+1059,Click,838,Comedy,5
+1060,Click,838,Fantasy,12
+1061,Red Sparrow,840,Drama,1
+1062,Red Sparrow,840,Thriller,3
+1063,Red Sparrow,840,Action,10
+1064,The Miracle Club,841,Drama,1
+1065,The Miracle Club,841,Comedy,5
+1066,12 Years a Slave,842,Drama,1
+1067,12 Years a Slave,842,History,9
+1068,12 Years a Slave,842,Biography,11
+1069,The Devil All the Time,844,Drama,1
+1070,The Devil All the Time,844,Thriller,3
+1071,The Devil All the Time,844,Crime,8
+1072,The Patriot,845,Drama,1
+1073,The Patriot,845,History,9
+1074,The Patriot,845,Action,10
+1075,Red Dawn,846,Drama,1
+1076,Red Dawn,846,Thriller,3
+1077,Red Dawn,846,Action,10
+1078,She Came to Me,848,Drama,1
+1079,She Came to Me,848,Comedy,5
+1080,She Came to Me,848,Romance,7
+1081,The Last of the Mohicans,849,Drama,1
+1082,The Last of the Mohicans,849,Adventure,4
+1083,The Last of the Mohicans,849,Action,10
+1084,Interview with the Vampire: The Vampire Chronicles,853,Drama,1
+1085,Interview with the Vampire: The Vampire Chronicles,853,Fantasy,12
+1086,Interview with the Vampire: The Vampire Chronicles,853,Horror,16
+1087,Gran Torino,855,Drama,1
+1088,Creed III,858,Drama,1
+1089,Creed III,858,Sport,19
+1090,Foe,863,Drama,1
+1091,Foe,863,Thriller,3
+1092,Foe,863,Sci-Fi,13
+1093,Erin Brockovich,865,Drama,1
+1094,Erin Brockovich,865,Biography,11
+1095,Dark Waters,873,Drama,1
+1096,Dark Waters,873,History,9
+1097,Dark Waters,873,Biography,11
+1098,Freud's Last Session,874,Drama,1
+1099,Good Time,877,Drama,1
+1100,Good Time,877,Thriller,3
+1101,Good Time,877,Crime,8
+1102,Easy A,878,Drama,1
+1103,Easy A,878,Comedy,5
+1104,Easy A,878,Romance,7
+1105,Brokeback Mountain,879,Drama,1
+1106,Brokeback Mountain,879,Romance,7
+1107,Warrior,881,Drama,1
+1108,Warrior,881,Action,10
+1109,Warrior,881,Sport,19
+1110,My Girl,883,Drama,1
+1111,My Girl,883,Comedy,5
+1112,My Girl,883,Family,6
+1113,Dirty Dancing,884,Drama,1
+1114,Dirty Dancing,884,Romance,7
+1115,Dirty Dancing,884,Music,14
+1116,Mixed Nuts,885,Drama,1
+1117,Mixed Nuts,885,Comedy,5
+1118,The Karate Kid,890,Drama,1
+1119,The Karate Kid,890,Drama,1
+1120,The Karate Kid,890,Family,6
+1121,The Karate Kid,890,Family,6
+1122,The Karate Kid,890,Action,10
+1123,The Karate Kid,890,Action,10
+1124,The French Dispatch,893,Drama,1
+1125,The French Dispatch,893,Comedy,5
+1126,The French Dispatch,893,Romance,7
+1127,Showing Up,894,Drama,1
+1128,Showing Up,894,Comedy,5
+1129,Robin Hood,896,Drama,1
+1130,Robin Hood,896,Adventure,4
+1131,Robin Hood,896,Action,10
+1132,Remember Me,897,Drama,1
+1133,Remember Me,897,Romance,7
+1134,Steel Magnolias,898,Drama,1
+1135,Steel Magnolias,898,Comedy,5
+1136,Steel Magnolias,898,Romance,7
+1137,Midway,899,Drama,1
+1138,Midway,899,History,9
+1139,Midway,899,Action,10
+1140,"Girl, Interrupted",900,Drama,1
+1141,"Girl, Interrupted",900,Biography,11
+1142,Lone Survivor,901,Drama,1
+1143,Lone Survivor,901,Action,10
+1144,Lone Survivor,901,Biography,11
+1145,The Town,910,Drama,1
+1146,The Town,910,Thriller,3
+1147,The Town,910,Crime,8
+1148,Thirteen,911,Drama,1
+1149,Bridge to Terabithia,913,Drama,1
+1150,Bridge to Terabithia,913,Family,6
+1151,Bridge to Terabithia,913,Fantasy,12
+1152,Monster,914,Drama,1
+1153,Monster,914,Crime,8
+1154,Monster,914,Biography,11
+1155,Champions,916,Drama,1
+1156,Champions,916,Comedy,5
+1157,Champions,916,Sport,19
+1158,Last Holiday,923,Drama,1
+1159,Last Holiday,923,Comedy,5
+1160,Last Holiday,923,Romance,7
+1161,Birdman or (The Unexpected Virtue of Ignorance),925,Drama,1
+1162,Birdman or (The Unexpected Virtue of Ignorance),925,Comedy,5
+1163,Mask,926,Drama,1
+1164,Mask,926,Biography,11
+1165,The Game,927,Drama,1
+1166,The Game,927,Mystery,2
+1167,The Game,927,Thriller,3
+1168,Knights of the Zodiac,928,Drama,1
+1169,Knights of the Zodiac,928,Adventure,4
+1170,Knights of the Zodiac,928,Action,10
+1171,Alfie,929,Drama,1
+1172,Alfie,929,Comedy,5
+1173,Tetris,933,Drama,1
+1174,Tetris,933,History,9
+1175,Tetris,933,Biography,11
+1176,Licorice Pizza,934,Drama,1
+1177,Licorice Pizza,934,Comedy,5
+1178,Licorice Pizza,934,Romance,7
+1179,"The Cook, the Thief, His Wife & Her Lover",935,Drama,1
+1180,"The Cook, the Thief, His Wife & Her Lover",935,Crime,8
+1181,Anastasia,936,Drama,1
+1182,Anastasia,936,Adventure,4
+1183,Anastasia,936,Animation,15
+1184,Misery,937,Drama,1
+1185,Misery,937,Thriller,3
+1186,Lakeview Terrace,938,Drama,1
+1187,Lakeview Terrace,938,Thriller,3
+1188,Lakeview Terrace,938,Crime,8
+1189,Chinatown,941,Drama,1
+1190,Chinatown,941,Mystery,2
+1191,Chinatown,941,Thriller,3
+1192,Mrs. Doubtfire,945,Drama,1
+1193,Mrs. Doubtfire,945,Comedy,5
+1194,When Harry Met Sally...,946,Drama,1
+1195,When Harry Met Sally...,946,Comedy,5
+1196,When Harry Met Sally...,946,Romance,7
+1197,Cruel Intentions,948,Drama,1
+1198,Cruel Intentions,948,Romance,7
+1199,Traffic,951,Drama,1
+1200,Traffic,951,Thriller,3
+1201,Traffic,951,Crime,8
+1202,A Christmas Carol,71,Drama,1
+1203,A Christmas Carol,71,Adventure,4
+1204,A Christmas Carol,71,Comedy,5
+1205,A Christmas Carol,71,Family,6
+1206,A Christmas Carol,71,Fantasy,12
+1207,A Christmas Carol,71,Animation,15
+1208,Suspiria,954,Drama,1
+1209,Suspiria,954,Fantasy,12
+1210,Suspiria,954,Horror,16
+1211,Nomadland,955,Drama,1
+1212,I'm Thinking of Ending Things,956,Drama,1
+1213,I'm Thinking of Ending Things,956,Thriller,3
+1214,Reality,957,Drama,1
+1215,Mud,958,Drama,1
+1216,Mud,958,Adventure,4
+1217,Pearl Harbor,960,Drama,1
+1218,Pearl Harbor,960,History,9
+1219,Pearl Harbor,960,Action,10
+1220,Brazil,961,Drama,1
+1221,Brazil,961,Thriller,3
+1222,Brazil,961,Sci-Fi,13
+1223,Blue Velvet,962,Drama,1
+1224,Blue Velvet,962,Mystery,2
+1225,Blue Velvet,962,Crime,8
+1226,Sideways,963,Drama,1
+1227,Sideways,963,Comedy,5
+1228,Sideways,963,Romance,7
+1229,Sleepers,964,Drama,1
+1230,Sleepers,964,Thriller,3
+1231,Sleepers,964,Crime,8
+1232,A Merry Friggin' Christmas,965,Drama,1
+1233,A Merry Friggin' Christmas,965,Comedy,5
+1234,Demolition,966,Drama,1
+1235,Demolition,966,Comedy,5
+1236,Marriage Story,967,Drama,1
+1237,Marriage Story,967,Romance,7
+1238,The Road,968,Drama,1
+1239,The Road,968,Thriller,3
+1240,Manchester by the Sea,972,Drama,1
+1241,The Call of the Wild,973,Drama,1
+1242,The Call of the Wild,973,Adventure,4
+1243,The Call of the Wild,973,Family,6
+1244,American Sniper,974,Drama,1
+1245,American Sniper,974,Action,10
+1246,American Sniper,974,Biography,11
+1247,Hannibal,976,Drama,1
+1248,Hannibal,976,Thriller,3
+1249,Hannibal,976,Crime,8
+1250,13 Hours,978,Drama,1
+1251,13 Hours,978,History,9
+1252,13 Hours,978,Action,10
+1253,Moulin Rouge!,979,Drama,1
+1254,Moulin Rouge!,979,Romance,7
+1255,Moulin Rouge!,979,Musical,17
+1256,Coraline,983,Drama,1
+1257,Coraline,983,Family,6
+1258,Coraline,983,Animation,15
+1259,The NeverEnding Story,986,Drama,1
+1260,The NeverEnding Story,986,Adventure,4
+1261,The NeverEnding Story,986,Family,6
+1262,Dances with Wolves,988,Drama,1
+1263,Dances with Wolves,988,Adventure,4
+1264,Dances with Wolves,988,Western,21
+1265,Juno,989,Drama,1
+1266,Juno,989,Comedy,5
+1267,The Giver,991,Drama,1
+1268,The Giver,991,Romance,7
+1269,The Giver,991,Sci-Fi,13
+1270,Crash,992,Drama,1
+1271,Crash,992,Drama,1
+1272,Crash,992,Thriller,3
+1273,Crash,992,Crime,8
+1274,I Am Legend,993,Drama,1
+1275,I Am Legend,993,Action,10
+1276,I Am Legend,993,Horror,16
+1277,The Power of the Dog,994,Drama,1
+1278,The Power of the Dog,994,Western,21
+1279,The Peanut Butter Falcon,996,Drama,1
+1280,The Peanut Butter Falcon,996,Adventure,4
+1281,The Peanut Butter Falcon,996,Comedy,5
+1282,The Ballad of Buster Scruggs,1001,Drama,1
+1283,The Ballad of Buster Scruggs,1001,Comedy,5
+1284,The Ballad of Buster Scruggs,1001,Musical,17
+1285,Little Miss Sunshine,1005,Drama,1
+1286,Little Miss Sunshine,1005,Comedy,5
+1287,House of Gucci,1007,Drama,1
+1288,House of Gucci,1007,Crime,8
+1289,House of Gucci,1007,Biography,11
+1290,A Few Good Men,1010,Drama,1
+1291,A Few Good Men,1010,Thriller,3
+1292,Bad Times at the El Royale,1011,Drama,1
+1293,Bad Times at the El Royale,1011,Mystery,2
+1294,Bad Times at the El Royale,1011,Crime,8
+1295,Cloud Atlas,1012,Drama,1
+1296,Cloud Atlas,1012,Mystery,2
+1297,Cloud Atlas,1012,Sci-Fi,13
+1298,The Last Samurai,1017,Drama,1
+1299,The Last Samurai,1017,Action,10
+1300,Sea of Love,1020,Drama,1
+1301,Sea of Love,1020,Mystery,2
+1302,Sea of Love,1020,Crime,8
+1303,Scent of a Woman,1029,Drama,1
+1304,Blue Valentine,1030,Drama,1
+1305,Blue Valentine,1030,Romance,7
+1306,Greyhound,1031,Drama,1
+1307,Greyhound,1031,History,9
+1308,Greyhound,1031,Action,10
+1309,A Bridge Too Far,1032,Drama,1
+1310,A Bridge Too Far,1032,History,9
+1311,A Bridge Too Far,1032,War,20
+1312,The English Patient,1033,Drama,1
+1313,The English Patient,1033,Romance,7
+1314,The English Patient,1033,War,20
+1315,King Arthur: Legend of the Sword,1034,Drama,1
+1316,King Arthur: Legend of the Sword,1034,Adventure,4
+1317,King Arthur: Legend of the Sword,1034,Action,10
+1318,The Snowman,1036,Drama,1
+1319,The Snowman,1036,Mystery,2
+1320,The Snowman,1036,Crime,8
+1321,The Parent Trap,1037,Drama,1
+1322,The Parent Trap,1037,Adventure,4
+1323,The Parent Trap,1037,Comedy,5
+1324,Phantom Thread,1039,Drama,1
+1325,Phantom Thread,1039,Romance,7
+1326,Phantom Thread,1039,History,9
+1327,Cashback,1041,Drama,1
+1328,Cashback,1041,Comedy,5
+1329,Cashback,1041,Romance,7
+1330,Hostiles,1045,Drama,1
+1331,Hostiles,1045,Western,21
+1332,A Million Miles Away,1047,Drama,1
+1333,A Million Miles Away,1047,Biography,11
+1334,Robin Hood: Prince of Thieves,1048,Drama,1
+1335,Robin Hood: Prince of Thieves,1048,Adventure,4
+1336,Robin Hood: Prince of Thieves,1048,Action,10
+1337,Wonder,1051,Drama,1
+1338,Wonder,1051,Family,6
+1339,The Big Ugly,1055,Drama,1
+1340,The Big Ugly,1055,Thriller,3
+1341,The Big Ugly,1055,Crime,8
+1342,The Man Who Knew Too Much,1058,Drama,1
+1343,The Man Who Knew Too Much,1058,Thriller,3
+1344,The Book of Eli,1059,Drama,1
+1345,The Book of Eli,1059,Adventure,4
+1346,The Book of Eli,1059,Action,10
+1347,Purple Hearts,1062,Drama,1
+1348,Purple Hearts,1062,Romance,7
+1349,Purple Hearts,1062,Music,14
+1350,Zero Dark Thirty,1065,Drama,1
+1351,Zero Dark Thirty,1065,Thriller,3
+1352,Zero Dark Thirty,1065,History,9
+1353,Jerry and Marge Go Large,1069,Drama,1
+1354,Jerry and Marge Go Large,1069,Comedy,5
+1355,Jerry and Marge Go Large,1069,Biography,11
+1356,The Prince of Egypt,1071,Drama,1
+1357,The Prince of Egypt,1071,Adventure,4
+1358,The Prince of Egypt,1071,Animation,15
+1359,Lawrence of Arabia,1072,Drama,1
+1360,Lawrence of Arabia,1072,Adventure,4
+1361,Lawrence of Arabia,1072,Biography,11
+1362,Rush,1073,Drama,1
+1363,Rush,1073,Action,10
+1364,Rush,1073,Biography,11
+1365,"Good Luck to You, Leo Grande",1074,Drama,1
+1366,"Good Luck to You, Leo Grande",1074,Comedy,5
+1367,Stillwater,1076,Drama,1
+1368,Stillwater,1076,Mystery,2
+1369,Stillwater,1076,Crime,8
+1370,The Master,1083,Drama,1
+1371,The Master,1083,History,9
+1372,The Butterfly Effect,1085,Drama,1
+1373,The Butterfly Effect,1085,Thriller,3
+1374,The Butterfly Effect,1085,Sci-Fi,13
+1375,"I, Tonya",1086,Drama,1
+1376,"I, Tonya",1086,Comedy,5
+1377,"I, Tonya",1086,Biography,11
+1378,Revolutionary Road,1088,Drama,1
+1379,Revolutionary Road,1088,Romance,7
+1380,Master and Commander: The Far Side of the World,1090,Drama,1
+1381,Master and Commander: The Far Side of the World,1090,Adventure,4
+1382,Master and Commander: The Far Side of the World,1090,Action,10
+1383,Spring Breakers,1091,Drama,1
+1384,Spring Breakers,1091,Thriller,3
+1385,Spring Breakers,1091,Crime,8
+1386,Alive,1096,Drama,1
+1387,Alive,1096,Adventure,4
+1388,Alive,1096,Biography,11
+1389,Jackie Brown,1098,Drama,1
+1390,Jackie Brown,1098,Thriller,3
+1391,Jackie Brown,1098,Crime,8
+1392,Straight Outta Compton,1100,Drama,1
+1393,Straight Outta Compton,1100,History,9
+1394,Straight Outta Compton,1100,Biography,11
+1395,Annie,1101,Drama,1
+1396,Annie,1101,Comedy,5
+1397,Annie,1101,Family,6
+1398,Jack Reacher: Never Go Back,1105,Drama,1
+1399,Jack Reacher: Never Go Back,1105,Crime,8
+1400,Jack Reacher: Never Go Back,1105,Action,10
+1401,Lee,1106,Drama,1
+1402,Lee,1106,History,9
+1403,Lee,1106,Biography,11
+1404,Immortals,1108,Drama,1
+1405,Immortals,1108,Action,10
+1406,Immortals,1108,Fantasy,12
+1407,The Long Kiss Goodnight,1112,Drama,1
+1408,The Long Kiss Goodnight,1112,Crime,8
+1409,The Long Kiss Goodnight,1112,Action,10
+1410,Boiling Point,1114,Drama,1
+1411,Boiling Point,1114,Thriller,3
+1412,Four Weddings and a Funeral,1116,Drama,1
+1413,Four Weddings and a Funeral,1116,Comedy,5
+1414,Four Weddings and a Funeral,1116,Romance,7
+1415,Cast Away,1118,Drama,1
+1416,Cast Away,1118,Adventure,4
+1417,Cast Away,1118,Romance,7
+1418,Cop Land,1121,Drama,1
+1419,Cop Land,1121,Thriller,3
+1420,Cop Land,1121,Crime,8
+1421,The Untouchables,1123,Drama,1
+1422,The Untouchables,1123,Thriller,3
+1423,The Untouchables,1123,Crime,8
+1424,The Village,1126,Drama,1
+1425,The Village,1126,Mystery,2
+1426,The Village,1126,Thriller,3
+1427,Luther: The Fallen Sun,1127,Drama,1
+1428,Luther: The Fallen Sun,1127,Mystery,2
+1429,Luther: The Fallen Sun,1127,Crime,8
+1430,JFK,1129,Drama,1
+1431,JFK,1129,Thriller,3
+1432,JFK,1129,History,9
+1433,Melancholia,1133,Drama,1
+1434,Melancholia,1133,Sci-Fi,13
+1435,Appaloosa,1135,Drama,1
+1436,Appaloosa,1135,Crime,8
+1437,Appaloosa,1135,Action,10
+1438,Chef,1136,Drama,1
+1439,Chef,1136,Adventure,4
+1440,Chef,1136,Comedy,5
+1441,Sweeney Todd: The Demon Barber of Fleet Street,1137,Drama,1
+1442,Sweeney Todd: The Demon Barber of Fleet Street,1137,Horror,16
+1443,Sweeney Todd: The Demon Barber of Fleet Street,1137,Musical,17
+1444,Master Gardener,1141,Drama,1
+1445,Master Gardener,1141,Mystery,2
+1446,Master Gardener,1141,Thriller,3
+1447,17 Again,1153,Drama,1
+1448,17 Again,1153,Comedy,5
+1449,17 Again,1153,Fantasy,12
+1450,Rosemary's Baby,1154,Drama,1
+1451,Rosemary's Baby,1154,Horror,16
+1452,Big Fish,1155,Drama,1
+1453,Big Fish,1155,Adventure,4
+1454,Big Fish,1155,Fantasy,12
+1455,Sicario: Day of the Soldado,1156,Drama,1
+1456,Sicario: Day of the Soldado,1156,Crime,8
+1457,Sicario: Day of the Soldado,1156,Action,10
+1458,The American,1157,Drama,1
+1459,The American,1157,Crime,8
+1460,The American,1157,Action,10
+1461,Tinker Tailor Soldier Spy,1158,Drama,1
+1462,Tinker Tailor Soldier Spy,1158,Mystery,2
+1463,Tinker Tailor Soldier Spy,1158,Thriller,3
+1464,Redeeming Love,1159,Drama,1
+1465,Redeeming Love,1159,Romance,7
+1466,Pig,1161,Drama,1
+1467,Pig,1161,Mystery,2
+1468,Silence,1162,Drama,1
+1469,Silence,1162,History,9
+1470,A.I. Artificial Intelligence,1163,Drama,1
+1471,A.I. Artificial Intelligence,1163,Sci-Fi,13
+1472,Sense and Sensibility,1164,Drama,1
+1473,Sense and Sensibility,1164,Romance,7
+1474,Perfume: The Story of a Murderer,1165,Drama,1
+1475,Perfume: The Story of a Murderer,1165,Crime,8
+1476,Perfume: The Story of a Murderer,1165,Fantasy,12
+1477,Gods of Egypt,1166,Drama,1
+1478,Gods of Egypt,1166,Adventure,4
+1479,Gods of Egypt,1166,Action,10
+1480,Dogma,1168,Drama,1
+1481,Dogma,1168,Adventure,4
+1482,Dogma,1168,Comedy,5
+1483,Ad Astra,1169,Drama,1
+1484,Ad Astra,1169,Mystery,2
+1485,Ad Astra,1169,Adventure,4
+1486,10 Cloverfield Lane,1172,Drama,1
+1487,10 Cloverfield Lane,1172,Mystery,2
+1488,10 Cloverfield Lane,1172,Horror,16
+1489,Last Tango in Paris,1173,Drama,1
+1490,Last Tango in Paris,1173,Romance,7
+1491,The Fallout,1175,Drama,1
+1492,Raging Bull,1176,Drama,1
+1493,Raging Bull,1176,Biography,11
+1494,Raging Bull,1176,Sport,19
+1495,Silverado,1177,Drama,1
+1496,Silverado,1177,Crime,8
+1497,Silverado,1177,Action,10
+1498,Creed,1179,Drama,1
+1499,Creed,1179,Action,10
+1500,Creed,1179,Sport,19
+1501,Apollo 13,1180,Drama,1
+1502,Apollo 13,1180,Adventure,4
+1503,Apollo 13,1180,History,9
+1504,The Magnificent Seven,1183,Drama,1
+1505,The Magnificent Seven,1183,Adventure,4
+1506,The Magnificent Seven,1183,Action,10
+1507,Legends of the Fall,1184,Drama,1
+1508,Legends of the Fall,1184,Romance,7
+1509,Legends of the Fall,1184,War,20
+1510,The Boy in the Striped Pajamas,1185,Drama,1
+1511,The Boy in the Striped Pajamas,1185,War,20
+1512,Possession,1190,Drama,1
+1513,Possession,1190,Horror,16
+1514,High Plains Drifter,1193,Drama,1
+1515,High Plains Drifter,1193,Mystery,2
+1516,High Plains Drifter,1193,Western,21
+1517,The Art of Racing in the Rain,1194,Drama,1
+1518,The Art of Racing in the Rain,1194,Comedy,5
+1519,The Art of Racing in the Rain,1194,Romance,7
+1520,The Highwaymen,1199,Drama,1
+1521,The Highwaymen,1199,Crime,8
+1522,The Highwaymen,1199,Biography,11
+1523,A Place in the Sun,1202,Drama,1
+1524,A Place in the Sun,1202,Romance,7
+1525,Donnie Brasco,1203,Drama,1
+1526,Donnie Brasco,1203,Crime,8
+1527,Donnie Brasco,1203,Biography,11
+1528,Vicky Cristina Barcelona,1206,Drama,1
+1529,Vicky Cristina Barcelona,1206,Comedy,5
+1530,Vicky Cristina Barcelona,1206,Romance,7
+1531,Sleepless in Seattle,1209,Drama,1
+1532,Sleepless in Seattle,1209,Comedy,5
+1533,Sleepless in Seattle,1209,Romance,7
+1534,Citizen Kane,1210,Drama,1
+1535,Citizen Kane,1210,Mystery,2
+1536,Fifty Shades Freed,1211,Drama,1
+1537,Fifty Shades Freed,1211,Thriller,3
+1538,Fifty Shades Freed,1211,Romance,7
+1539,After We Collided,1213,Drama,1
+1540,After We Collided,1213,Romance,7
+1541,The Count of Monte Cristo,1214,Drama,1
+1542,The Count of Monte Cristo,1214,Adventure,4
+1543,The Count of Monte Cristo,1214,Action,10
+1544,Jerry Maguire,1215,Drama,1
+1545,Jerry Maguire,1215,Comedy,5
+1546,Jerry Maguire,1215,Romance,7
+1547,Sharper,1216,Drama,1
+1548,Sharper,1216,Thriller,3
+1549,Sharper,1216,Crime,8
+1550,Friday,1217,Drama,1
+1551,Friday,1217,Comedy,5
+1552,Marie Antoinette,1218,Drama,1
+1553,Marie Antoinette,1218,History,9
+1554,Marie Antoinette,1218,Biography,11
+1555,The Machinist,1219,Drama,1
+1556,The Machinist,1219,Thriller,3
+1557,My Best Friend's Wedding,1222,Drama,1
+1558,My Best Friend's Wedding,1222,Comedy,5
+1559,My Best Friend's Wedding,1222,Romance,7
+1560,Secondhand Lions,1224,Drama,1
+1561,Secondhand Lions,1224,Comedy,5
+1562,Secondhand Lions,1224,Family,6
+1563,Argo,1225,Drama,1
+1564,Argo,1225,Thriller,3
+1565,Argo,1225,Biography,11
+1566,The Twilight Saga: Breaking Dawn - Part 2,1228,Drama,1
+1567,The Twilight Saga: Breaking Dawn - Part 2,1228,Adventure,4
+1568,The Twilight Saga: Breaking Dawn - Part 2,1228,Fantasy,12
+1569,Hustlers,1229,Drama,1
+1570,Hustlers,1229,Comedy,5
+1571,Hustlers,1229,Crime,8
+1572,The Thin Red Line,1230,Drama,1
+1573,The Thin Red Line,1230,History,9
+1574,The Thin Red Line,1230,War,20
+1575,The Outfit,1231,Drama,1
+1576,The Outfit,1231,Mystery,2
+1577,The Outfit,1231,Crime,8
+1578,Clear and Present Danger,1232,Drama,1
+1579,Clear and Present Danger,1232,Crime,8
+1580,Clear and Present Danger,1232,Action,10
+1581,Ghost,1243,Drama,1
+1582,Ghost,1243,Romance,7
+1583,Ghost,1243,Fantasy,12
+1584,It Chapter Two,1246,Drama,1
+1585,It Chapter Two,1246,Fantasy,12
+1586,It Chapter Two,1246,Horror,16
+1587,A Quiet Place Part II,1250,Drama,1
+1588,A Quiet Place Part II,1250,Sci-Fi,13
+1589,A Quiet Place Part II,1250,Horror,16
+1590,Darkest Hour,1251,Drama,1
+1591,Darkest Hour,1251,Biography,11
+1592,Darkest Hour,1251,War,20
+1593,Slap Shot,1255,Drama,1
+1594,Slap Shot,1255,Comedy,5
+1595,Slap Shot,1255,Sport,19
+1596,Law Abiding Citizen,1256,Drama,1
+1597,Law Abiding Citizen,1256,Crime,8
+1598,Law Abiding Citizen,1256,Action,10
+1599,Collateral,1257,Drama,1
+1600,Collateral,1257,Crime,8
+1601,Collateral,1257,Action,10
+1602,Gattaca,1258,Drama,1
+1603,Gattaca,1258,Thriller,3
+1604,Gattaca,1258,Sci-Fi,13
+1605,The Ref,1259,Drama,1
+1606,The Ref,1259,Comedy,5
+1607,The Ref,1259,Crime,8
+1608,The Terminal,1261,Drama,1
+1609,The Terminal,1261,Comedy,5
+1610,The Terminal,1261,Romance,7
+1611,Magnolia,1262,Drama,1
+1612,Three Thousand Years of Longing,1263,Drama,1
+1613,Three Thousand Years of Longing,1263,Romance,7
+1614,Three Thousand Years of Longing,1263,Fantasy,12
+1615,Enemy,1264,Drama,1
+1616,Enemy,1264,Mystery,2
+1617,Enemy,1264,Thriller,3
+1618,The Gift,1266,Drama,1
+1619,The Gift,1266,Mystery,2
+1620,The Gift,1266,Thriller,3
+1621,You've Got Mail,1271,Drama,1
+1622,You've Got Mail,1271,Comedy,5
+1623,You've Got Mail,1271,Romance,7
+1624,This Is 40,1272,Drama,1
+1625,This Is 40,1272,Comedy,5
+1626,This Is 40,1272,Romance,7
+1627,Gifted,1281,Drama,1
+1628,Somewhere in Queens,1282,Drama,1
+1629,Somewhere in Queens,1282,Comedy,5
+1630,Somewhere in Queens,1282,Sport,19
+1631,Captain Fantastic,1285,Drama,1
+1632,Captain Fantastic,1285,Comedy,5
+1633,The King's Speech,1286,Drama,1
+1634,The King's Speech,1286,History,9
+1635,The King's Speech,1286,Biography,11
+1636,Flight,1287,Drama,1
+1637,Flight,1287,Thriller,3
+1638,Falling Down,1292,Drama,1
+1639,Falling Down,1292,Crime,8
+1640,Falling Down,1292,Action,10
+1641,Source Code,1293,Drama,1
+1642,Source Code,1293,Mystery,2
+1643,Source Code,1293,Action,10
+1644,Varsity Blues,1296,Drama,1
+1645,Varsity Blues,1296,Comedy,5
+1646,Varsity Blues,1296,Romance,7
+1647,Fear,1299,Drama,1
+1648,Fear,1299,Thriller,3
+1649,Holes,1304,Drama,1
+1650,Holes,1304,Adventure,4
+1651,Holes,1304,Comedy,5
+1652,Crimes of the Future,1305,Drama,1
+1653,Crimes of the Future,1305,Sci-Fi,13
+1654,Crimes of the Future,1305,Horror,16
+1655,Eastern Promises,1306,Drama,1
+1656,Eastern Promises,1306,Thriller,3
+1657,Eastern Promises,1306,Crime,8
+1658,The Garden of Eden,1308,Drama,1
+1659,The Garden of Eden,1308,Thriller,3
+1660,Blood Diamond,1310,Drama,1
+1661,Blood Diamond,1310,Thriller,3
+1662,Blood Diamond,1310,Adventure,4
+1663,Sophie's Choice,1317,Drama,1
+1664,Sophie's Choice,1317,Romance,7
+1665,The Name of the Rose,1322,Drama,1
+1666,The Name of the Rose,1322,Mystery,2
+1667,The Name of the Rose,1322,Thriller,3
+1668,Black Mass,1323,Drama,1
+1669,Black Mass,1323,Crime,8
+1670,Black Mass,1323,Biography,11
+1671,9Â½ Weeks,1325,Drama,1
+1672,9Â½ Weeks,1325,Romance,7
+1673,This Christmas,1326,Drama,1
+1674,This Christmas,1326,Comedy,5
+1675,This Christmas,1326,Romance,7
+1676,The Beach,1329,Drama,1
+1677,The Beach,1329,Adventure,4
+1678,The Beach,1329,Romance,7
+1679,True Grit,1332,Drama,1
+1680,True Grit,1332,Western,21
+1681,Gravity,1334,Drama,1
+1682,Gravity,1334,Thriller,3
+1683,Gravity,1334,Sci-Fi,13
+1684,Hugo,1335,Drama,1
+1685,Hugo,1335,Adventure,4
+1686,Hugo,1335,Family,6
+1687,The Client,1336,Drama,1
+1688,The Client,1336,Mystery,2
+1689,The Client,1336,Crime,8
+1690,Footloose,1337,Drama,1
+1691,Footloose,1337,Romance,7
+1692,Footloose,1337,Music,14
+1693,Parenthood,1338,Drama,1
+1694,Parenthood,1338,Comedy,5
+1695,Glass,1340,Drama,1
+1696,Glass,1340,Sci-Fi,13
+1697,Glass,1340,Horror,16
+1698,The Hurt Locker,1342,Drama,1
+1699,The Hurt Locker,1342,Thriller,3
+1700,The Hurt Locker,1342,War,20
+1701,Brightburn,1347,Drama,1
+1702,Brightburn,1347,Mystery,2
+1703,Brightburn,1347,Horror,16
+1704,Deliverance,1348,Drama,1
+1705,Deliverance,1348,Thriller,3
+1706,Deliverance,1348,Adventure,4
+1707,The Time Traveler's Wife,1349,Drama,1
+1708,The Time Traveler's Wife,1349,Comedy,5
+1709,The Time Traveler's Wife,1349,Fantasy,12
+1710,American Graffiti,1353,Drama,1
+1711,American Graffiti,1353,Comedy,5
+1712,Under the Silver Lake,1356,Drama,1
+1713,Under the Silver Lake,1356,Mystery,2
+1714,Under the Silver Lake,1356,Crime,8
+1715,The Woman King,1359,Drama,1
+1716,The Woman King,1359,History,9
+1717,The Woman King,1359,Action,10
+1718,Shooter,1360,Drama,1
+1719,Shooter,1360,Thriller,3
+1720,Shooter,1360,Action,10
+1721,Downsizing,1361,Drama,1
+1722,Downsizing,1361,Fantasy,12
+1723,Downsizing,1361,Sci-Fi,13
+1724,The Pursuit of Happyness,1365,Drama,1
+1725,The Pursuit of Happyness,1365,Biography,11
+1726,The Crow,1367,Drama,1
+1727,The Crow,1367,Crime,8
+1728,The Crow,1367,Action,10
+1729,Gone Baby Gone,1374,Drama,1
+1730,Gone Baby Gone,1374,Mystery,2
+1731,Gone Baby Gone,1374,Crime,8
+1732,El Camino: A Breaking Bad Movie,1375,Drama,1
+1733,El Camino: A Breaking Bad Movie,1375,Crime,8
+1734,El Camino: A Breaking Bad Movie,1375,Action,10
+1735,Rocketman,1378,Drama,1
+1736,Rocketman,1378,Biography,11
+1737,Rocketman,1378,Music,14
+1738,50 First Dates,1379,Drama,1
+1739,50 First Dates,1379,Comedy,5
+1740,50 First Dates,1379,Romance,7
+1741,The Courier,1380,Drama,1
+1742,The Courier,1380,Mystery,2
+1743,The Courier,1380,History,9
+1744,Downton Abbey,1382,Drama,1
+1745,Downton Abbey,1382,Romance,7
+1746,Mona Lisa Smile,1385,Drama,1
+1747,Watcher,1387,Drama,1
+1748,Watcher,1387,Thriller,3
+1749,Watcher,1387,Horror,16
+1750,Empire of the Sun,1389,Drama,1
+1751,Empire of the Sun,1389,War,20
+1752,The Sandlot,1390,Drama,1
+1753,The Sandlot,1390,Comedy,5
+1754,The Sandlot,1390,Family,6
+1755,The Good Son,1391,Drama,1
+1756,The Good Son,1391,Thriller,3
+1757,Butcher's Crossing,1392,Drama,1
+1758,Butcher's Crossing,1392,Western,21
+1759,The Craft,1395,Drama,1
+1760,The Craft,1395,Fantasy,12
+1761,The Craft,1395,Horror,16
+1762,Ben-Hur,1397,Drama,1
+1763,Ben-Hur,1397,Drama,1
+1764,Ben-Hur,1397,Adventure,4
+1765,Ben-Hur,1397,Adventure,4
+1766,Ben-Hur,1397,Action,10
+1767,Miss Peregrine's Home for Peculiar Children,1399,Drama,1
+1768,Miss Peregrine's Home for Peculiar Children,1399,Adventure,4
+1769,Miss Peregrine's Home for Peculiar Children,1399,Family,6
+1770,The Founder,1401,Drama,1
+1771,The Founder,1401,Biography,11
+1772,Dog Day Afternoon,1402,Drama,1
+1773,Dog Day Afternoon,1402,Crime,8
+1774,Dog Day Afternoon,1402,Biography,11
+1775,Million Dollar Baby,1409,Drama,1
+1776,Million Dollar Baby,1409,Sport,19
+1777,Bombshell,1413,Drama,1
+1778,Bombshell,1413,Biography,11
+1779,Den of Thieves,1416,Drama,1
+1780,Den of Thieves,1416,Crime,8
+1781,Den of Thieves,1416,Action,10
+1782,The Guilty,1417,Drama,1
+1783,The Guilty,1417,Thriller,3
+1784,The Guilty,1417,Crime,8
+1785,99 Homes,1418,Drama,1
+1786,99 Homes,1418,Crime,8
+1787,The School for Good and Evil,1422,Drama,1
+1788,The School for Good and Evil,1422,Comedy,5
+1789,The School for Good and Evil,1422,Action,10
+1790,Winter's Bone,1423,Drama,1
+1791,Winter's Bone,1423,Mystery,2
+1792,Witness,1425,Drama,1
+1793,Witness,1425,Thriller,3
+1794,Witness,1425,Romance,7
+1795,Inside Man,1426,Drama,1
+1796,Inside Man,1426,Mystery,2
+1797,Inside Man,1426,Crime,8
+1798,Never Let Me Go,1428,Drama,1
+1799,Never Let Me Go,1428,Romance,7
+1800,Never Let Me Go,1428,Sci-Fi,13
+1801,Burnt,1431,Drama,1
+1802,Burnt,1431,Comedy,5
+1803,Dogville,1433,Drama,1
+1804,Dogville,1433,Crime,8
+1805,Boston Strangler,1434,Drama,1
+1806,Boston Strangler,1434,Crime,8
+1807,Boston Strangler,1434,History,9
+1808,Rain Man,1436,Drama,1
+1809,Backdraft,1440,Drama,1
+1810,Backdraft,1440,Mystery,2
+1811,Backdraft,1440,Action,10
+1812,A Thousand and One,1441,Drama,1
+1813,A Thousand and One,1441,Crime,8
+1814,The Intern,1446,Drama,1
+1815,The Intern,1446,Comedy,5
+1816,Moonstruck,1447,Drama,1
+1817,Moonstruck,1447,Comedy,5
+1818,Moonstruck,1447,Romance,7
+1819,"Paris, Texas",1449,Drama,1
+1820,The Nativity Story,1450,Drama,1
+1821,The Nativity Story,1450,Adventure,4
+1822,The Nativity Story,1450,Family,6
+1823,The Girl on the Train,1454,Drama,1
+1824,The Girl on the Train,1454,Mystery,2
+1825,The Girl on the Train,1454,Crime,8
+1826,The Graduate,1457,Drama,1
+1827,The Graduate,1457,Comedy,5
+1828,The Graduate,1457,Romance,7
+1829,This Is Where I Leave You,1466,Drama,1
+1830,This Is Where I Leave You,1466,Comedy,5
+1831,Contagion,1468,Drama,1
+1832,Contagion,1468,Thriller,3
+1833,Heaven Help Us,1470,Drama,1
+1834,Heaven Help Us,1470,Comedy,5
+1835,Heaven Help Us,1470,Romance,7
+1836,Slumdog Millionaire,1476,Drama,1
+1837,Slumdog Millionaire,1476,Romance,7
+1838,Slumdog Millionaire,1476,Crime,8
+1839,Lincoln,1480,Drama,1
+1840,Lincoln,1480,History,9
+1841,Lincoln,1480,Biography,11
+1842,Fried Green Tomatoes,1481,Drama,1
+1843,Godmothered,1482,Drama,1
+1844,Godmothered,1482,Comedy,5
+1845,Godmothered,1482,Family,6
+1846,Ghost in the Shell,1484,Drama,1
+1847,Ghost in the Shell,1484,Crime,8
+1848,Ghost in the Shell,1484,Action,10
+1849,The Blind Side,1486,Drama,1
+1850,The Blind Side,1486,Biography,11
+1851,The Blind Side,1486,Sport,19
+1852,Exodus: Gods and Kings,1488,Drama,1
+1853,Exodus: Gods and Kings,1488,Adventure,4
+1854,Exodus: Gods and Kings,1488,Action,10
+1855,Inside,1490,Drama,1
+1856,Inside,1490,Thriller,3
+1857,Ever After: A Cinderella Story,1491,Drama,1
+1858,Ever After: A Cinderella Story,1491,Romance,7
+1859,Philadelphia,1493,Drama,1
+1860,Real Steel,1496,Drama,1
+1861,Real Steel,1496,Action,10
+1862,Real Steel,1496,Sci-Fi,13
+1863,Red Rocket,1497,Drama,1
+1864,Red Rocket,1497,Comedy,5
+1865,To Kill a Mockingbird,1499,Drama,1
+1866,To Kill a Mockingbird,1499,Crime,8
+1867,Anna Karenina,1500,Drama,1
+1868,Anna Karenina,1500,Romance,7
+1869,Moneyball,1501,Drama,1
+1870,Moneyball,1501,Biography,11
+1871,Moneyball,1501,Sport,19
+1872,Dallas Buyers Club,1505,Drama,1
+1873,Dallas Buyers Club,1505,Biography,11
+1874,Insomnia,1506,Drama,1
+1875,Insomnia,1506,Mystery,2
+1876,Insomnia,1506,Thriller,3
+1877,Munich,1507,Drama,1
+1878,Munich,1507,History,9
+1879,Munich,1507,Action,10
+1880,Funny Games,1508,Drama,1
+1881,Funny Games,1508,Thriller,3
+1882,Funny Games,1508,Crime,8
+1883,The Aviator,1511,Drama,1
+1884,The Aviator,1511,Biography,11
+1885,Pieces of a Woman,1517,Drama,1
+1886,Instant Family,1520,Drama,1
+1887,Instant Family,1520,Comedy,5
+1888,Living,1521,Drama,1
+1889,The Tragedy of Macbeth,1523,Drama,1
+1890,The Tragedy of Macbeth,1523,Mystery,2
+1891,The Tragedy of Macbeth,1523,Thriller,3
+1892,Joy,1524,Drama,1
+1893,Joy,1524,Biography,11
+1894,The Land Before Time,1526,Drama,1
+1895,The Land Before Time,1526,Adventure,4
+1896,The Land Before Time,1526,Animation,15
+1897,Signs,1527,Drama,1
+1898,Signs,1527,Mystery,2
+1899,Signs,1527,Sci-Fi,13
+1900,Fifty Shades Darker,1530,Drama,1
+1901,Fifty Shades Darker,1530,Thriller,3
+1902,Fifty Shades Darker,1530,Romance,7
+1903,Contact,1531,Drama,1
+1904,Contact,1531,Mystery,2
+1905,Contact,1531,Sci-Fi,13
+1906,DogMan,1536,Drama,1
+1907,DogMan,1536,Thriller,3
+1908,The Lost Daughter,1537,Drama,1
+1909,Elysium,1538,Drama,1
+1910,Elysium,1538,Action,10
+1911,Elysium,1538,Sci-Fi,13
+1912,Finch,1540,Drama,1
+1913,Finch,1540,Adventure,4
+1914,Finch,1540,Sci-Fi,13
+1915,Killing Them Softly,1541,Drama,1
+1916,Killing Them Softly,1541,Thriller,3
+1917,Killing Them Softly,1541,Crime,8
+1918,The Twilight Saga: New Moon,1542,Drama,1
+1919,The Twilight Saga: New Moon,1542,Adventure,4
+1920,The Twilight Saga: New Moon,1542,Fantasy,12
+1921,Corpse Bride,1545,Drama,1
+1922,Corpse Bride,1545,Family,6
+1923,Corpse Bride,1545,Animation,15
+1924,King Arthur,1546,Drama,1
+1925,King Arthur,1546,Adventure,4
+1926,King Arthur,1546,Action,10
+1927,Forgetting Sarah Marshall,1547,Drama,1
+1928,Forgetting Sarah Marshall,1547,Comedy,5
+1929,Forgetting Sarah Marshall,1547,Romance,7
+1930,Willow,1549,Drama,1
+1931,Willow,1549,Adventure,4
+1932,Willow,1549,Action,10
+1933,Spencer,1554,Drama,1
+1934,Spencer,1554,Biography,11
+1935,Vice,1555,Drama,1
+1936,Vice,1555,Comedy,5
+1937,Vice,1555,Biography,11
+1938,Into the Woods,1559,Drama,1
+1939,Into the Woods,1559,Adventure,4
+1940,Into the Woods,1559,Comedy,5
+1941,I See You,1560,Drama,1
+1942,I See You,1560,Mystery,2
+1943,I See You,1560,Horror,16
+1944,Behind Enemy Lines,1563,Drama,1
+1945,Behind Enemy Lines,1563,Thriller,3
+1946,Behind Enemy Lines,1563,Action,10
+1947,Moon,1568,Drama,1
+1948,Moon,1568,Mystery,2
+1949,Moon,1568,Sci-Fi,13
+1950,Deepwater Horizon,1570,Drama,1
+1951,Deepwater Horizon,1570,History,9
+1952,Deepwater Horizon,1570,Action,10
+1953,Fatal Attraction,1573,Drama,1
+1954,Fatal Attraction,1573,Thriller,3
+1955,300: Rise of an Empire,1574,Drama,1
+1956,300: Rise of an Empire,1574,Action,10
+1957,300: Rise of an Empire,1574,War,20
+1958,Pretty Baby,1575,Drama,1
+1959,Teen Wolf: The Movie,1578,Drama,1
+1960,Teen Wolf: The Movie,1578,Action,10
+1961,Teen Wolf: The Movie,1578,Fantasy,12
+1962,Roald Dahl's Matilda the Musical,1579,Drama,1
+1963,Roald Dahl's Matilda the Musical,1579,Comedy,5
+1964,Roald Dahl's Matilda the Musical,1579,Family,6
+1965,Lawless,1581,Drama,1
+1966,Lawless,1581,Crime,8
+1967,Lawless,1581,Biography,11
+1968,A Walk to Remember,1582,Drama,1
+1969,A Walk to Remember,1582,Romance,7
+1970,Life of Pi,1588,Drama,1
+1971,Life of Pi,1588,Adventure,4
+1972,Life of Pi,1588,Fantasy,12
+1973,Red Dragon,1589,Drama,1
+1974,Red Dragon,1589,Thriller,3
+1975,Red Dragon,1589,Crime,8
+1976,Sound of Metal,1593,Drama,1
+1977,Sound of Metal,1593,Music,14
+1978,Maleficent,1597,Drama,1
+1979,Maleficent,1597,Adventure,4
+1980,Maleficent,1597,Action,10
+1981,Mr. Nobody,1598,Drama,1
+1982,Mr. Nobody,1598,Romance,7
+1983,Mr. Nobody,1598,Fantasy,12
+1984,Hackers,1600,Drama,1
+1985,Hackers,1600,Romance,7
+1986,Hackers,1600,Crime,8
+1987,The Long Riders,1602,Drama,1
+1988,The Long Riders,1602,Crime,8
+1989,The Long Riders,1602,Biography,11
+1990,Golda,1603,Drama,1
+1991,Golda,1603,History,9
+1992,Golda,1603,Biography,11
+1993,Breakfast at Tiffany's,1605,Drama,1
+1994,Breakfast at Tiffany's,1605,Comedy,5
+1995,Breakfast at Tiffany's,1605,Romance,7
+1996,Wild at Heart,1606,Drama,1
+1997,Wild at Heart,1606,Thriller,3
+1998,Wild at Heart,1606,Crime,8
+1999,Spartacus,1607,Drama,1
+2000,Spartacus,1607,Adventure,4
+2001,Spartacus,1607,Biography,11
+2002,Burn After Reading,1609,Drama,1
+2003,Burn After Reading,1609,Comedy,5
+2004,Burn After Reading,1609,Crime,8
+2005,Close Encounters of the Third Kind,1610,Drama,1
+2006,Close Encounters of the Third Kind,1610,Sci-Fi,13
+2007,Emma.,1616,Drama,1
+2008,Emma.,1616,Comedy,5
+2009,Emma.,1616,Romance,7
+2010,Sanctuary,1617,Drama,1
+2011,Sanctuary,1617,Thriller,3
+2012,Rudy,1619,Drama,1
+2013,Rudy,1619,Biography,11
+2014,Rudy,1619,Sport,19
+2015,The Great Escape,1620,Drama,1
+2016,The Great Escape,1620,Adventure,4
+2017,The Great Escape,1620,History,9
+2018,Don Jon,1624,Drama,1
+2019,Don Jon,1624,Comedy,5
+2020,Don Jon,1624,Romance,7
+2021,Women Talking,1625,Drama,1
+2022,Naked Lunch,1627,Drama,1
+2023,Jarhead,1631,Drama,1
+2024,Jarhead,1631,Biography,11
+2025,Jarhead,1631,War,20
+2026,The Twilight Saga: Breaking Dawn - Part 1,1632,Drama,1
+2027,The Twilight Saga: Breaking Dawn - Part 1,1632,Adventure,4
+2028,The Twilight Saga: Breaking Dawn - Part 1,1632,Fantasy,12
+2029,Layer Cake,1634,Drama,1
+2030,Layer Cake,1634,Crime,8
+2031,Layer Cake,1634,Action,10
+2032,Big George Foreman,1639,Drama,1
+2033,Big George Foreman,1639,Biography,11
+2034,Big George Foreman,1639,Sport,19
+2035,Oldboy,1641,Drama,1
+2036,Oldboy,1641,Mystery,2
+2037,Oldboy,1641,Action,10
+2038,The Royal Tenenbaums,1644,Drama,1
+2039,The Royal Tenenbaums,1644,Comedy,5
+2040,You Hurt My Feelings,1645,Drama,1
+2041,You Hurt My Feelings,1645,Comedy,5
+2042,Magic Mike,1650,Drama,1
+2043,Magic Mike,1650,Comedy,5
+2044,It Lives Inside,1651,Drama,1
+2045,It Lives Inside,1651,Thriller,3
+2046,It Lives Inside,1651,Horror,16
+2047,The Prophecy,1652,Drama,1
+2048,The Prophecy,1652,Crime,8
+2049,The Prophecy,1652,Action,10
+2050,Big Daddy,1654,Drama,1
+2051,Big Daddy,1654,Comedy,5
+2052,Walk the Line,1655,Drama,1
+2053,Walk the Line,1655,Biography,11
+2054,Walk the Line,1655,Music,14
+2055,The Fault in Our Stars,1656,Drama,1
+2056,The Fault in Our Stars,1656,Romance,7
+2057,My Big Fat Greek Wedding,1658,Drama,1
+2058,My Big Fat Greek Wedding,1658,Comedy,5
+2059,My Big Fat Greek Wedding,1658,Romance,7
+2060,Thelma & Louise,1661,Drama,1
+2061,Thelma & Louise,1661,Adventure,4
+2062,Thelma & Louise,1661,Crime,8
+2063,Carrie,1244,Drama,1
+2064,Carrie,1244,Mystery,2
+2065,Carrie,1244,Thriller,3
+2066,Carrie,1244,Horror,16
+2067,Carrie,1244,Horror,16
+2068,The Sum of All Fears,1667,Drama,1
+2069,The Sum of All Fears,1667,Thriller,3
+2070,The Sum of All Fears,1667,Action,10
+2071,Witness for the Prosecution,1668,Drama,1
+2072,Witness for the Prosecution,1668,Mystery,2
+2073,Witness for the Prosecution,1668,Crime,8
+2074,Moonrise Kingdom,1669,Drama,1
+2075,Moonrise Kingdom,1669,Adventure,4
+2076,Moonrise Kingdom,1669,Comedy,5
+2077,Hard Candy,1670,Drama,1
+2078,Hard Candy,1670,Thriller,3
+2079,Blow,1673,Drama,1
+2080,Blow,1673,Crime,8
+2081,Blow,1673,Biography,11
+2082,Original Sin,1676,Drama,1
+2083,Original Sin,1676,Mystery,2
+2084,Original Sin,1676,Romance,7
+2085,After Hours,1678,Drama,1
+2086,After Hours,1678,Comedy,5
+2087,After Hours,1678,Crime,8
+2088,The Monuments Men,1679,Drama,1
+2089,The Monuments Men,1679,Comedy,5
+2090,The Monuments Men,1679,History,9
+2091,Young Guns,1682,Drama,1
+2092,Young Guns,1682,Action,10
+2093,Young Guns,1682,Western,21
+2094,About a Boy,1684,Drama,1
+2095,About a Boy,1684,Comedy,5
+2096,About a Boy,1684,Romance,7
+2097,Southpaw,1687,Drama,1
+2098,Southpaw,1687,Action,10
+2099,Southpaw,1687,Sport,19
+2100,He's Just Not That Into You,1691,Drama,1
+2101,He's Just Not That Into You,1691,Comedy,5
+2102,He's Just Not That Into You,1691,Romance,7
+2103,Coyote Ugly,1692,Drama,1
+2104,Coyote Ugly,1692,Comedy,5
+2105,Coyote Ugly,1692,Music,14
+2106,The Punisher,1693,Drama,1
+2107,The Punisher,1693,Crime,8
+2108,The Punisher,1693,Action,10
+2109,Palmer,1700,Drama,1
+2110,The Elephant Man,1703,Drama,1
+2111,The Elephant Man,1703,Biography,11
+2112,Desperado,1706,Drama,1
+2113,Desperado,1706,Crime,8
+2114,Desperado,1706,Action,10
+2115,The Apartment,1707,Drama,1
+2116,The Apartment,1707,Comedy,5
+2117,The Apartment,1707,Romance,7
+2118,St. Elmo's Fire,1708,Drama,1
+2119,St. Elmo's Fire,1708,Romance,7
+2120,The Florida Project,1709,Drama,1
+2121,The Fighter,1713,Drama,1
+2122,The Fighter,1713,Action,10
+2123,The Fighter,1713,Biography,11
+2124,Pinocchio,1715,Drama,1
+2125,Pinocchio,1715,Adventure,4
+2126,Pinocchio,1715,Comedy,5
+2127,Missing,1717,Drama,1
+2128,Missing,1717,Mystery,2
+2129,Missing,1717,Thriller,3
+2130,Cold Mountain,1718,Drama,1
+2131,Cold Mountain,1718,Adventure,4
+2132,Cold Mountain,1718,Romance,7
+2133,State of Play,1719,Drama,1
+2134,State of Play,1719,Mystery,2
+2135,State of Play,1719,Crime,8
+2136,The Lodge,1724,Drama,1
+2137,The Lodge,1724,Mystery,2
+2138,The Lodge,1724,Horror,16
+2139,Bridge of Spies,1725,Drama,1
+2140,Bridge of Spies,1725,Thriller,3
+2141,Bridge of Spies,1725,History,9
+2142,Lucky Number Slevin,1726,Drama,1
+2143,Lucky Number Slevin,1726,Thriller,3
+2144,Lucky Number Slevin,1726,Crime,8
+2145,Gosford Park,1728,Drama,1
+2146,Gosford Park,1728,Mystery,2
+2147,Gosford Park,1728,Comedy,5
+2148,Monsters,1729,Drama,1
+2149,Monsters,1729,Adventure,4
+2150,Monsters,1729,Romance,7
+2151,Serpico,1730,Drama,1
+2152,Serpico,1730,Crime,8
+2153,Serpico,1730,Biography,11
+2154,Draft Day,1731,Drama,1
+2155,Draft Day,1731,Sport,19
+2156,The Theory of Everything,1733,Drama,1
+2157,The Theory of Everything,1733,Romance,7
+2158,The Theory of Everything,1733,Biography,11
+2159,The Lincoln Lawyer,1735,Drama,1
+2160,The Lincoln Lawyer,1735,Mystery,2
+2161,The Lincoln Lawyer,1735,Crime,8
+2162,The Bodyguard,1738,Drama,1
+2163,The Bodyguard,1738,Action,10
+2164,The Bodyguard,1738,Music,14
+2165,We Can Be Heroes,1739,Drama,1
+2166,We Can Be Heroes,1739,Comedy,5
+2167,We Can Be Heroes,1739,Action,10
+2168,Birth,1740,Drama,1
+2169,Birth,1740,Mystery,2
+2170,Birth,1740,Fantasy,12
+2171,The Remains of the Day,1741,Drama,1
+2172,The Remains of the Day,1741,Romance,7
+2173,The Man in the Iron Mask,1743,Drama,1
+2174,The Man in the Iron Mask,1743,Adventure,4
+2175,The Man in the Iron Mask,1743,Action,10
+2176,We Were Soldiers,1744,Drama,1
+2177,We Were Soldiers,1744,History,9
+2178,We Were Soldiers,1744,Action,10
+2179,Doctor Zhivago,1745,Drama,1
+2180,Doctor Zhivago,1745,Romance,7
+2181,Doctor Zhivago,1745,War,20
+2182,Dragged Across Concrete,1746,Drama,1
+2183,Dragged Across Concrete,1746,Crime,8
+2184,Dragged Across Concrete,1746,Action,10
+2185,Annette,1749,Drama,1
+2186,Annette,1749,Romance,7
+2187,Annette,1749,Musical,17
+2188,"Definitely, Maybe",1750,Drama,1
+2189,"Definitely, Maybe",1750,Comedy,5
+2190,"Definitely, Maybe",1750,Romance,7
+2191,The Fly,1751,Drama,1
+2192,The Fly,1751,Sci-Fi,13
+2193,The Fly,1751,Horror,16
+2194,The Mighty Ducks,1752,Drama,1
+2195,The Mighty Ducks,1752,Comedy,5
+2196,The Mighty Ducks,1752,Family,6
+2197,Mr. Monk's Last Case: A Monk Movie,22,Mystery,2
+2198,Mr. Monk's Last Case: A Monk Movie,22,Comedy,5
+2199,Mr. Monk's Last Case: A Monk Movie,22,Crime,8
+2200,Five Nights at Freddy's,37,Mystery,2
+2201,Five Nights at Freddy's,37,Thriller,3
+2202,Five Nights at Freddy's,37,Horror,16
+2203,Thanksgiving,40,Mystery,2
+2204,Thanksgiving,40,Thriller,3
+2205,Thanksgiving,40,Horror,16
+2206,X,50,Mystery,2
+2207,X,50,Thriller,3
+2208,X,50,Horror,16
+2209,Saw X,127,Mystery,2
+2210,Saw X,127,Thriller,3
+2211,Saw X,127,Horror,16
+2212,It's a Wonderful Knife,129,Mystery,2
+2213,It's a Wonderful Knife,129,Comedy,5
+2214,It's a Wonderful Knife,129,Horror,16
+2215,Prometheus,159,Mystery,2
+2216,Prometheus,159,Adventure,4
+2217,Prometheus,159,Sci-Fi,13
+2218,Infinity Pool,238,Mystery,2
+2219,Infinity Pool,238,Crime,8
+2220,Infinity Pool,238,Horror,16
+2221,Black Christmas,249,Mystery,2
+2222,Black Christmas,249,Mystery,2
+2223,Black Christmas,249,Thriller,3
+2224,Black Christmas,249,Thriller,3
+2225,Black Christmas,249,Horror,16
+2226,Black Christmas,249,Horror,16
+2227,Black Christmas,249,Horror,16
+2228,Shutter Island,257,Mystery,2
+2229,Shutter Island,257,Thriller,3
+2230,Hypnotic,262,Mystery,2
+2231,Hypnotic,262,Thriller,3
+2232,Hypnotic,262,Action,10
+2233,Get Out,264,Mystery,2
+2234,Get Out,264,Thriller,3
+2235,Get Out,264,Horror,16
+2236,Silent Hill,282,Mystery,2
+2237,Silent Hill,282,Horror,16
+2238,Jack Reacher,283,Mystery,2
+2239,Jack Reacher,283,Thriller,3
+2240,Jack Reacher,283,Action,10
+2241,Divergent,327,Mystery,2
+2242,Divergent,327,Adventure,4
+2243,Divergent,327,Action,10
+2244,Memento,356,Mystery,2
+2245,Memento,356,Thriller,3
+2246,The Nun II,361,Mystery,2
+2247,The Nun II,361,Thriller,3
+2248,The Nun II,361,Horror,16
+2249,Barbarian,375,Mystery,2
+2250,Barbarian,375,Thriller,3
+2251,Barbarian,375,Horror,16
+2252,Smile,399,Mystery,2
+2253,Smile,399,Thriller,3
+2254,Smile,399,Horror,16
+2255,Scream VI,410,Mystery,2
+2256,Scream VI,410,Thriller,3
+2257,Scream VI,410,Horror,16
+2258,The Thing,417,Mystery,2
+2259,The Thing,417,Sci-Fi,13
+2260,The Thing,417,Horror,16
+2261,Knock at the Cabin,429,Mystery,2
+2262,Knock at the Cabin,429,Thriller,3
+2263,Knock at the Cabin,429,Horror,16
+2264,The Maze Runner,443,Mystery,2
+2265,The Maze Runner,443,Action,10
+2266,The Maze Runner,443,Sci-Fi,13
+2267,Nope,452,Mystery,2
+2268,Nope,452,Sci-Fi,13
+2269,Nope,452,Horror,16
+2270,The Autopsy of Jane Doe,505,Mystery,2
+2271,The Autopsy of Jane Doe,505,Thriller,3
+2272,The Autopsy of Jane Doe,505,Horror,16
+2273,Clue,540,Mystery,2
+2274,Clue,540,Comedy,5
+2275,Clue,540,Crime,8
+2276,The Wicker Man,588,Mystery,2
+2277,The Wicker Man,588,Thriller,3
+2278,The Wicker Man,588,Horror,16
+2279,Scream,589,Mystery,2
+2280,Scream,589,Mystery,2
+2281,Scream,589,Thriller,3
+2282,Scream,589,Horror,16
+2283,Scream,589,Horror,16
+2284,Jaws,603,Mystery,2
+2285,Jaws,603,Thriller,3
+2286,Jaws,603,Adventure,4
+2287,Now You See Me,620,Mystery,2
+2288,Now You See Me,620,Thriller,3
+2289,Now You See Me,620,Crime,8
+2290,The Pale Blue Eye,622,Mystery,2
+2291,The Pale Blue Eye,622,Crime,8
+2292,The Pale Blue Eye,622,Horror,16
+2293,The Ritual,630,Mystery,2
+2294,The Ritual,630,Thriller,3
+2295,The Ritual,630,Horror,16
+2296,The Conjuring,684,Mystery,2
+2297,The Conjuring,684,Thriller,3
+2298,The Conjuring,684,Horror,16
+2299,Saw,697,Mystery,2
+2300,Saw,697,Thriller,3
+2301,Saw,697,Horror,16
+2302,Psycho,698,Mystery,2
+2303,Psycho,698,Thriller,3
+2304,Psycho,698,Horror,16
+2305,Us,713,Mystery,2
+2306,Us,713,Thriller,3
+2307,Us,713,Horror,16
+2308,Insidious: The Red Door,718,Mystery,2
+2309,Insidious: The Red Door,718,Thriller,3
+2310,Insidious: The Red Door,718,Horror,16
+2311,Hot Fuzz,720,Mystery,2
+2312,Hot Fuzz,720,Comedy,5
+2313,Hot Fuzz,720,Action,10
+2314,The Commuter,743,Mystery,2
+2315,The Commuter,743,Thriller,3
+2316,The Commuter,743,Action,10
+2317,Angel Heart,772,Mystery,2
+2318,Angel Heart,772,Thriller,3
+2319,Angel Heart,772,Horror,16
+2320,The Black Phone,801,Mystery,2
+2321,The Black Phone,801,Thriller,3
+2322,The Black Phone,801,Horror,16
+2323,It Follows,857,Mystery,2
+2324,It Follows,857,Thriller,3
+2325,It Follows,857,Horror,16
+2326,Malignant,882,Mystery,2
+2327,Malignant,882,Crime,8
+2328,Malignant,882,Horror,16
+2329,"Confess, Fletch",917,Mystery,2
+2330,"Confess, Fletch",917,Comedy,5
+2331,"Confess, Fletch",917,Crime,8
+2332,The Boogeyman,932,Mystery,2
+2333,The Boogeyman,932,Thriller,3
+2334,The Boogeyman,932,Horror,16
+2335,The Nun,943,Mystery,2
+2336,The Nun,943,Thriller,3
+2337,The Nun,943,Horror,16
+2338,Minority Report,952,Mystery,2
+2339,Minority Report,952,Crime,8
+2340,Minority Report,952,Action,10
+2341,The Cabin in the Woods,980,Mystery,2
+2342,The Cabin in the Woods,980,Thriller,3
+2343,The Cabin in the Woods,980,Horror,16
+2344,1408,981,Mystery,2
+2345,1408,981,Fantasy,12
+2346,1408,981,Horror,16
+2347,Sinister,984,Mystery,2
+2348,Sinister,984,Thriller,3
+2349,Sinister,984,Horror,16
+2350,They Cloned Tyrone,1006,Mystery,2
+2351,They Cloned Tyrone,1006,Comedy,5
+2352,They Cloned Tyrone,1006,Sci-Fi,13
+2353,Kiss Kiss Bang Bang,1022,Mystery,2
+2354,Kiss Kiss Bang Bang,1022,Comedy,5
+2355,Kiss Kiss Bang Bang,1022,Crime,8
+2356,Sleepy Hollow,1052,Mystery,2
+2357,Sleepy Hollow,1052,Fantasy,12
+2358,Sleepy Hollow,1052,Horror,16
+2359,The Others,1056,Mystery,2
+2360,The Others,1056,Thriller,3
+2361,The Others,1056,Horror,16
+2362,Quantum of Solace,1060,Mystery,2
+2363,Quantum of Solace,1060,Adventure,4
+2364,Quantum of Solace,1060,Action,10
+2365,Rear Window,1070,Mystery,2
+2366,Rear Window,1070,Thriller,3
+2367,The Bourne Identity,1082,Mystery,2
+2368,The Bourne Identity,1082,Thriller,3
+2369,The Bourne Identity,1082,Action,10
+2370,eXistenZ,1099,Mystery,2
+2371,eXistenZ,1099,Sci-Fi,13
+2372,eXistenZ,1099,Horror,16
+2373,North by Northwest,1111,Mystery,2
+2374,North by Northwest,1111,Adventure,4
+2375,North by Northwest,1111,Action,10
+2376,Insidious,1139,Mystery,2
+2377,Insidious,1139,Thriller,3
+2378,Insidious,1139,Horror,16
+2379,See How They Run,1142,Mystery,2
+2380,See How They Run,1142,Comedy,5
+2381,See How They Run,1142,Crime,8
+2382,Lifeforce,1160,Mystery,2
+2383,Lifeforce,1160,Action,10
+2384,Lifeforce,1160,Horror,16
+2385,Bird Box,1174,Mystery,2
+2386,Bird Box,1174,Sci-Fi,13
+2387,Bird Box,1174,Horror,16
+2388,Vertigo,1248,Mystery,2
+2389,Vertigo,1248,Thriller,3
+2390,Vertigo,1248,Romance,7
+2391,Sherlock Holmes,1279,Mystery,2
+2392,Sherlock Holmes,1279,Adventure,4
+2393,Sherlock Holmes,1279,Action,10
+2394,The Da Vinci Code,1280,Mystery,2
+2395,The Da Vinci Code,1280,Thriller,3
+2396,Allegiant,1300,Mystery,2
+2397,Allegiant,1300,Adventure,4
+2398,Allegiant,1300,Action,10
+2399,Vanilla Sky,1302,Mystery,2
+2400,Vanilla Sky,1302,Romance,7
+2401,Vanilla Sky,1302,Fantasy,12
+2402,Orphan,1303,Mystery,2
+2403,Orphan,1303,Thriller,3
+2404,Orphan,1303,Horror,16
+2405,Run,1324,Mystery,2
+2406,Run,1324,Thriller,3
+2407,Vivarium,1330,Mystery,2
+2408,Vivarium,1330,Sci-Fi,13
+2409,Vivarium,1330,Horror,16
+2410,Super 8,1355,Mystery,2
+2411,Super 8,1355,Action,10
+2412,Super 8,1355,Sci-Fi,13
+2413,Ma,1363,Mystery,2
+2414,Ma,1363,Thriller,3
+2415,Ma,1363,Horror,16
+2416,The Ring,1408,Mystery,2
+2417,The Ring,1408,Horror,16
+2418,Identity,1410,Mystery,2
+2419,Identity,1410,Thriller,3
+2420,The Adjustment Bureau,1461,Mystery,2
+2421,The Adjustment Bureau,1461,Romance,7
+2422,The Adjustment Bureau,1461,Crime,8
+2423,The Visit,1465,Mystery,2
+2424,The Visit,1465,Thriller,3
+2425,The Visit,1465,Horror,16
+2426,High Life,1478,Mystery,2
+2427,High Life,1478,Thriller,3
+2428,High Life,1478,Sci-Fi,13
+2429,Palm Springs,1516,Mystery,2
+2430,Palm Springs,1516,Comedy,5
+2431,Palm Springs,1516,Fantasy,12
+2432,Dark City,1533,Mystery,2
+2433,Dark City,1533,Fantasy,12
+2434,Dark City,1533,Sci-Fi,13
+2435,The Blair Witch Project,1548,Mystery,2
+2436,The Blair Witch Project,1548,Horror,16
+2437,A Simple Favor,1628,Mystery,2
+2438,A Simple Favor,1628,Comedy,5
+2439,A Simple Favor,1628,Crime,8
+2440,Charade,1638,Mystery,2
+2441,Charade,1638,Comedy,5
+2442,Charade,1638,Romance,7
+2443,Hellraiser,1611,Mystery,2
+2444,Hellraiser,1611,Thriller,3
+2445,Hellraiser,1611,Thriller,3
+2446,Hellraiser,1611,Horror,16
+2447,Hellraiser,1611,Horror,16
+2448,The Conjuring 2,1665,Mystery,2
+2449,The Conjuring 2,1665,Thriller,3
+2450,The Conjuring 2,1665,Horror,16
+2451,The Bourne Ultimatum,1674,Mystery,2
+2452,The Bourne Ultimatum,1674,Thriller,3
+2453,The Bourne Ultimatum,1674,Action,10
+2454,The Ninth Gate,1694,Mystery,2
+2455,The Ninth Gate,1694,Thriller,3
+2456,"As Above, So Below",1697,Mystery,2
+2457,"As Above, So Below",1697,Thriller,3
+2458,"As Above, So Below",1697,Horror,16
+2459,Marlowe,1701,Mystery,2
+2460,Marlowe,1701,Thriller,3
+2461,Marlowe,1701,Crime,8
+2462,The Strangers,1727,Mystery,2
+2463,The Strangers,1727,Thriller,3
+2464,The Strangers,1727,Horror,16
+2465,Die Hard,27,Thriller,3
+2466,Die Hard,27,Action,10
+2467,Violent Night,30,Thriller,3
+2468,Violent Night,30,Comedy,5
+2469,Violent Night,30,Action,10
+2470,Mission: Impossible - Dead Reckoning Part One,51,Thriller,3
+2471,Mission: Impossible - Dead Reckoning Part One,51,Adventure,4
+2472,Mission: Impossible - Dead Reckoning Part One,51,Action,10
+2473,Talk to Me,62,Thriller,3
+2474,Talk to Me,62,Horror,16
+2475,The Equalizer 3,78,Thriller,3
+2476,The Equalizer 3,78,Crime,8
+2477,The Equalizer 3,78,Action,10
+2478,John Wick: Chapter 4,83,Thriller,3
+2479,John Wick: Chapter 4,83,Crime,8
+2480,John Wick: Chapter 4,83,Action,10
+2481,Die Hard 2,137,Thriller,3
+2482,Die Hard 2,137,Action,10
+2483,Fargo,140,Thriller,3
+2484,Fargo,140,Crime,8
+2485,Godzilla vs. Kong,151,Thriller,3
+2486,Godzilla vs. Kong,151,Action,10
+2487,Godzilla vs. Kong,151,Sci-Fi,13
+2488,Hunter Killer,165,Thriller,3
+2489,Hunter Killer,165,Action,10
+2490,The Menu,177,Thriller,3
+2491,The Menu,177,Comedy,5
+2492,The Menu,177,Horror,16
+2493,Expend4bles,178,Thriller,3
+2494,Expend4bles,178,Adventure,4
+2495,Expend4bles,178,Action,10
+2496,Bullet Train,195,Thriller,3
+2497,Bullet Train,195,Comedy,5
+2498,Bullet Train,195,Action,10
+2499,Lucy,203,Thriller,3
+2500,Lucy,203,Action,10
+2501,Lucy,203,Sci-Fi,13
+2502,No Time to Die,216,Thriller,3
+2503,No Time to Die,216,Adventure,4
+2504,No Time to Die,216,Action,10
+2505,John Wick,235,Thriller,3
+2506,John Wick,235,Crime,8
+2507,John Wick,235,Action,10
+2508,Tenet,275,Thriller,3
+2509,Tenet,275,Action,10
+2510,Tenet,275,Sci-Fi,13
+2511,Casino Royale,279,Thriller,3
+2512,Casino Royale,279,Adventure,4
+2513,Casino Royale,279,Action,10
+2514,No One Will Save You,292,Thriller,3
+2515,No One Will Save You,292,Sci-Fi,13
+2516,No One Will Save You,292,Horror,16
+2517,Better Watch Out,315,Thriller,3
+2518,Better Watch Out,315,Comedy,5
+2519,Better Watch Out,315,Horror,16
+2520,The Fast and the Furious,316,Thriller,3
+2521,The Fast and the Furious,316,Crime,8
+2522,The Fast and the Furious,316,Action,10
+2523,The Equalizer,323,Thriller,3
+2524,The Equalizer,323,Crime,8
+2525,The Equalizer,323,Action,10
+2526,Mob Land,326,Thriller,3
+2527,Mob Land,326,Crime,8
+2528,Mob Land,326,Action,10
+2529,Taken,329,Thriller,3
+2530,Taken,329,Crime,8
+2531,Taken,329,Action,10
+2532,Cobweb,362,Thriller,3
+2533,Cobweb,362,Horror,16
+2534,Alien: Covenant,367,Thriller,3
+2535,Alien: Covenant,367,Sci-Fi,13
+2536,Alien: Covenant,367,Horror,16
+2537,Kill Bill: Vol. 1,368,Thriller,3
+2538,Kill Bill: Vol. 1,368,Crime,8
+2539,Kill Bill: Vol. 1,368,Action,10
+2540,Point Break,373,Thriller,3
+2541,Point Break,373,Crime,8
+2542,Point Break,373,Action,10
+2543,Skyfall,374,Thriller,3
+2544,Skyfall,374,Adventure,4
+2545,Skyfall,374,Action,10
+2546,The Mist,396,Thriller,3
+2547,The Mist,396,Sci-Fi,13
+2548,The Mist,396,Horror,16
+2549,Kandahar,404,Thriller,3
+2550,Kandahar,404,Action,10
+2551,The Fast and the Furious: Tokyo Drift,428,Thriller,3
+2552,The Fast and the Furious: Tokyo Drift,428,Crime,8
+2553,The Fast and the Furious: Tokyo Drift,428,Action,10
+2554,Fall,475,Thriller,3
+2555,Fall,475,Action,10
+2556,The Hunt,482,Thriller,3
+2557,The Hunt,482,Action,10
+2558,The Hunt,482,Horror,16
+2559,Godzilla,128,Thriller,3
+2560,Godzilla,128,Adventure,4
+2561,Godzilla,128,Action,10
+2562,Godzilla,128,Action,10
+2563,Godzilla,128,Sci-Fi,13
+2564,Godzilla,128,Sci-Fi,13
+2565,Operation Fortune: Ruse de Guerre,508,Thriller,3
+2566,Operation Fortune: Ruse de Guerre,508,Comedy,5
+2567,Operation Fortune: Ruse de Guerre,508,Action,10
+2568,Sin City,510,Thriller,3
+2569,Sin City,510,Crime,8
+2570,Mission: Impossible - Fallout,511,Thriller,3
+2571,Mission: Impossible - Fallout,511,Adventure,4
+2572,Mission: Impossible - Fallout,511,Action,10
+2573,GoldenEye,513,Thriller,3
+2574,GoldenEye,513,Adventure,4
+2575,GoldenEye,513,Action,10
+2576,Die Hard with a Vengeance,517,Thriller,3
+2577,Die Hard with a Vengeance,517,Adventure,4
+2578,Die Hard with a Vengeance,517,Action,10
+2579,Cocaine Bear,528,Thriller,3
+2580,Cocaine Bear,528,Comedy,5
+2581,Reservoir Dogs,529,Thriller,3
+2582,Reservoir Dogs,529,Crime,8
+2583,The Gray Man,536,Thriller,3
+2584,The Gray Man,536,Action,10
+2585,Ocean's Eleven,547,Thriller,3
+2586,Ocean's Eleven,547,Crime,8
+2587,"Silent Night, Deadly Night",567,Thriller,3
+2588,"Silent Night, Deadly Night",567,Horror,16
+2589,Licence to Kill,571,Thriller,3
+2590,Licence to Kill,571,Adventure,4
+2591,Licence to Kill,571,Action,10
+2592,John Wick: Chapter 3 - Parabellum,572,Thriller,3
+2593,John Wick: Chapter 3 - Parabellum,572,Crime,8
+2594,John Wick: Chapter 3 - Parabellum,572,Action,10
+2595,Extraction II,573,Thriller,3
+2596,Extraction II,573,Action,10
+2597,Heart of Stone,583,Thriller,3
+2598,Heart of Stone,583,Crime,8
+2599,Heart of Stone,583,Action,10
+2600,Mission: Impossible,597,Thriller,3
+2601,Mission: Impossible,597,Adventure,4
+2602,Mission: Impossible,597,Action,10
+2603,F9: The Fast Saga,599,Thriller,3
+2604,F9: The Fast Saga,599,Crime,8
+2605,F9: The Fast Saga,599,Action,10
+2606,In Time,602,Thriller,3
+2607,In Time,602,Action,10
+2608,In Time,602,Sci-Fi,13
+2609,Bodies Bodies Bodies,616,Thriller,3
+2610,Bodies Bodies Bodies,616,Comedy,5
+2611,Bodies Bodies Bodies,616,Horror,16
+2612,Die Another Day,617,Thriller,3
+2613,Die Another Day,617,Adventure,4
+2614,Die Another Day,617,Action,10
+2615,Lethal Weapon,623,Thriller,3
+2616,Lethal Weapon,623,Crime,8
+2617,Lethal Weapon,623,Action,10
+2618,Knock Knock,636,Thriller,3
+2619,Knock Knock,636,Crime,8
+2620,Fast & Furious,647,Thriller,3
+2621,Fast & Furious,647,Crime,8
+2622,Fast & Furious,647,Action,10
+2623,M3GAN,669,Thriller,3
+2624,M3GAN,669,Sci-Fi,13
+2625,M3GAN,669,Horror,16
+2626,Split,683,Thriller,3
+2627,Split,683,Horror,16
+2628,The King's Man,694,Thriller,3
+2629,The King's Man,694,Adventure,4
+2630,The King's Man,694,Action,10
+2631,Retribution,716,Thriller,3
+2632,Retribution,716,Action,10
+2633,Event Horizon,726,Thriller,3
+2634,Event Horizon,726,Sci-Fi,13
+2635,Event Horizon,726,Horror,16
+2636,True Lies,739,Thriller,3
+2637,True Lies,739,Comedy,5
+2638,True Lies,739,Action,10
+2639,The Mother,742,Thriller,3
+2640,The Mother,742,Action,10
+2641,John Wick: Chapter 2,755,Thriller,3
+2642,John Wick: Chapter 2,755,Crime,8
+2643,John Wick: Chapter 2,755,Action,10
+2644,The Royal Hotel,761,Thriller,3
+2645,Mission: Impossible II,762,Thriller,3
+2646,Mission: Impossible II,762,Adventure,4
+2647,Mission: Impossible II,762,Action,10
+2648,The Equalizer 2,779,Thriller,3
+2649,The Equalizer 2,779,Crime,8
+2650,The Equalizer 2,779,Action,10
+2651,The Hunt for Red October,813,Thriller,3
+2652,The Hunt for Red October,813,Adventure,4
+2653,The Hunt for Red October,813,Action,10
+2654,2 Fast 2 Furious,817,Thriller,3
+2655,2 Fast 2 Furious,817,Crime,8
+2656,2 Fast 2 Furious,817,Action,10
+2657,Plane,833,Thriller,3
+2658,Plane,833,Adventure,4
+2659,Plane,833,Action,10
+2660,Live Free or Die Hard,839,Thriller,3
+2661,Live Free or Die Hard,839,Action,10
+2662,Life,847,Thriller,3
+2663,Life,847,Sci-Fi,13
+2664,Life,847,Horror,16
+2665,For Your Eyes Only,861,Thriller,3
+2666,For Your Eyes Only,861,Adventure,4
+2667,For Your Eyes Only,861,Action,10
+2668,Sunshine,862,Thriller,3
+2669,Sunshine,862,Sci-Fi,13
+2670,The World Is Not Enough,867,Thriller,3
+2671,The World Is Not Enough,867,Adventure,4
+2672,The World Is Not Enough,867,Action,10
+2673,The Kill Room,868,Thriller,3
+2674,The Kill Room,868,Comedy,5
+2675,The Pope's Exorcist,871,Thriller,3
+2676,The Pope's Exorcist,871,Horror,16
+2677,Spectre,887,Thriller,3
+2678,Spectre,887,Adventure,4
+2679,Spectre,887,Action,10
+2680,Patriot Games,888,Thriller,3
+2681,Patriot Games,888,Action,10
+2682,Anna,892,Thriller,3
+2683,Anna,892,Action,10
+2684,The Descent,904,Thriller,3
+2685,The Descent,904,Adventure,4
+2686,The Descent,904,Horror,16
+2687,Furious 7,905,Thriller,3
+2688,Furious 7,905,Crime,8
+2689,Furious 7,905,Action,10
+2690,The Accountant,919,Thriller,3
+2691,The Accountant,919,Action,10
+2692,I Spit on Your Grave,921,Thriller,3
+2693,I Spit on Your Grave,921,Horror,16
+2694,Venom: Let There Be Carnage,922,Thriller,3
+2695,Venom: Let There Be Carnage,922,Action,10
+2696,Venom: Let There Be Carnage,922,Sci-Fi,13
+2697,Tomorrow Never Dies,940,Thriller,3
+2698,Tomorrow Never Dies,940,Adventure,4
+2699,Tomorrow Never Dies,940,Action,10
+2700,Wrong Turn,977,Thriller,3
+2701,Wrong Turn,977,Thriller,3
+2702,Wrong Turn,977,Horror,16
+2703,Wrong Turn,977,Horror,16
+2704,Limitless,997,Thriller,3
+2705,Limitless,997,Sci-Fi,13
+2706,Upgrade,999,Thriller,3
+2707,Upgrade,999,Action,10
+2708,Upgrade,999,Sci-Fi,13
+2709,Wrath of Man,1000,Thriller,3
+2710,Wrath of Man,1000,Crime,8
+2711,Wrath of Man,1000,Action,10
+2712,Fast Five,1003,Thriller,3
+2713,Fast Five,1003,Crime,8
+2714,Fast Five,1003,Action,10
+2715,Polar,1015,Thriller,3
+2716,Polar,1015,Action,10
+2717,Speed,1028,Thriller,3
+2718,Speed,1028,Adventure,4
+2719,Speed,1028,Action,10
+2720,First Blood,1063,Thriller,3
+2721,First Blood,1063,Adventure,4
+2722,First Blood,1063,Action,10
+2723,Road House,1080,Thriller,3
+2724,Road House,1080,Action,10
+2725,The Warriors,1093,Thriller,3
+2726,The Warriors,1093,Crime,8
+2727,The Warriors,1093,Action,10
+2728,Christine,1094,Thriller,3
+2729,Christine,1094,Horror,16
+2730,District 9,1095,Thriller,3
+2731,District 9,1095,Action,10
+2732,District 9,1095,Sci-Fi,13
+2733,The Running Man,1097,Thriller,3
+2734,The Running Man,1097,Action,10
+2735,The Running Man,1097,Sci-Fi,13
+2736,Cape Fear,1102,Thriller,3
+2737,Cape Fear,1102,Crime,8
+2738,Kill Bill: Vol. 2,1104,Thriller,3
+2739,Kill Bill: Vol. 2,1104,Crime,8
+2740,Kill Bill: Vol. 2,1104,Action,10
+2741,Final Destination,1117,Thriller,3
+2742,Final Destination,1117,Horror,16
+2743,Eden Lake,1119,Thriller,3
+2744,Eden Lake,1119,Horror,16
+2745,Red Notice,1124,Thriller,3
+2746,Red Notice,1124,Comedy,5
+2747,Red Notice,1124,Action,10
+2748,Mission: Impossible - Ghost Protocol,1131,Thriller,3
+2749,Mission: Impossible - Ghost Protocol,1131,Adventure,4
+2750,Mission: Impossible - Ghost Protocol,1131,Action,10
+2751,Mission: Impossible III,1188,Thriller,3
+2752,Mission: Impossible III,1188,Adventure,4
+2753,Mission: Impossible III,1188,Action,10
+2754,No Escape,1196,Thriller,3
+2755,No Escape,1196,Action,10
+2756,Triple Frontier,1221,Thriller,3
+2757,Triple Frontier,1221,Action,10
+2758,Never Say Never Again,1223,Thriller,3
+2759,Never Say Never Again,1223,Adventure,4
+2760,Never Say Never Again,1223,Action,10
+2761,The Fate of the Furious,1235,Thriller,3
+2762,The Fate of the Furious,1235,Crime,8
+2763,The Fate of the Furious,1235,Action,10
+2764,Fresh,1237,Thriller,3
+2765,Fresh,1237,Horror,16
+2766,The Driver,1238,Thriller,3
+2767,The Driver,1238,Crime,8
+2768,The Driver,1238,Action,10
+2769,Twister,1239,Thriller,3
+2770,Twister,1239,Adventure,4
+2771,Twister,1239,Action,10
+2772,Extraction,1275,Thriller,3
+2773,Extraction,1275,Action,10
+2774,The Rock,1278,Thriller,3
+2775,The Rock,1278,Adventure,4
+2776,The Rock,1278,Action,10
+2777,Taken 2,1294,Thriller,3
+2778,Taken 2,1294,Crime,8
+2779,Taken 2,1294,Action,10
+2780,Dr. No,1298,Thriller,3
+2781,Dr. No,1298,Adventure,4
+2782,Dr. No,1298,Action,10
+2783,Mission: Impossible - Rogue Nation,1311,Thriller,3
+2784,Mission: Impossible - Rogue Nation,1311,Adventure,4
+2785,Mission: Impossible - Rogue Nation,1311,Action,10
+2786,Commando,1321,Thriller,3
+2787,Commando,1321,Adventure,4
+2788,Commando,1321,Action,10
+2789,The Old Guard,1327,Thriller,3
+2790,The Old Guard,1327,Action,10
+2791,A Good Day to Die Hard,1351,Thriller,3
+2792,A Good Day to Die Hard,1351,Action,10
+2793,Jason Bourne,1362,Thriller,3
+2794,Jason Bourne,1362,Action,10
+2795,The Living Daylights,1373,Thriller,3
+2796,The Living Daylights,1373,Adventure,4
+2797,The Living Daylights,1373,Action,10
+2798,Infinite,1388,Thriller,3
+2799,Infinite,1388,Action,10
+2800,Infinite,1388,Sci-Fi,13
+2801,Con Air,1396,Thriller,3
+2802,Con Air,1396,Crime,8
+2803,Con Air,1396,Action,10
+2804,The Spy Who Loved Me,1403,Thriller,3
+2805,The Spy Who Loved Me,1403,Adventure,4
+2806,The Spy Who Loved Me,1403,Action,10
+2807,Underworld,1404,Thriller,3
+2808,Underworld,1404,Action,10
+2809,Underworld,1404,Fantasy,12
+2810,The Boondock Saints,1421,Thriller,3
+2811,The Boondock Saints,1421,Crime,8
+2812,The Boondock Saints,1421,Action,10
+2813,The Neon Demon,1427,Thriller,3
+2814,The Neon Demon,1427,Horror,16
+2815,Ghost Rider,1439,Thriller,3
+2816,Ghost Rider,1439,Action,10
+2817,Ghost Rider,1439,Fantasy,12
+2818,Criminal,1452,Thriller,3
+2819,Criminal,1452,Action,10
+2820,Criminal,1452,Sci-Fi,13
+2821,The Expendables,1455,Thriller,3
+2822,The Expendables,1455,Adventure,4
+2823,The Expendables,1455,Action,10
+2824,The Lesson,1458,Thriller,3
+2825,On Her Majesty's Secret Service,1474,Thriller,3
+2826,On Her Majesty's Secret Service,1474,Adventure,4
+2827,On Her Majesty's Secret Service,1474,Action,10
+2828,The Purge,1485,Thriller,3
+2829,The Purge,1485,Sci-Fi,13
+2830,The Purge,1485,Horror,16
+2831,The 355,1489,Thriller,3
+2832,The 355,1489,Action,10
+2833,Frozen,210,Thriller,3
+2834,Frozen,210,Adventure,4
+2835,Frozen,210,Adventure,4
+2836,Frozen,210,Comedy,5
+2837,Frozen,210,Animation,15
+2838,6 Underground,1539,Thriller,3
+2839,6 Underground,1539,Action,10
+2840,Fast & Furious Presents: Hobbs & Shaw,1551,Thriller,3
+2841,Fast & Furious Presents: Hobbs & Shaw,1551,Adventure,4
+2842,Fast & Furious Presents: Hobbs & Shaw,1551,Action,10
+2843,The Wrath of Becky,1552,Thriller,3
+2844,The Wrath of Becky,1552,Action,10
+2845,The Wrath of Becky,1552,Horror,16
+2846,Cloverfield,1553,Thriller,3
+2847,Cloverfield,1553,Sci-Fi,13
+2848,Cloverfield,1553,Horror,16
+2849,Halloween,1562,Thriller,3
+2850,Halloween,1562,Horror,16
+2851,Spy Game,1564,Thriller,3
+2852,Spy Game,1564,Crime,8
+2853,Spy Game,1564,Action,10
+2854,Demolition Man,1576,Thriller,3
+2855,Demolition Man,1576,Action,10
+2856,Demolition Man,1576,Sci-Fi,13
+2857,Ocean's Twelve,1577,Thriller,3
+2858,Ocean's Twelve,1577,Crime,8
+2859,Diamonds Are Forever,1587,Thriller,3
+2860,Diamonds Are Forever,1587,Adventure,4
+2861,Diamonds Are Forever,1587,Action,10
+2862,Ocean's Thirteen,1590,Thriller,3
+2863,Ocean's Thirteen,1590,Crime,8
+2864,Sin City: A Dame to Kill For,1618,Thriller,3
+2865,Sin City: A Dame to Kill For,1618,Crime,8
+2866,Sin City: A Dame to Kill For,1618,Action,10
+2867,Poltergeist,1622,Thriller,3
+2868,Poltergeist,1622,Horror,16
+2869,Don't Breathe,1637,Thriller,3
+2870,Don't Breathe,1637,Crime,8
+2871,Don't Breathe,1637,Horror,16
+2872,The Man with the Golden Gun,1646,Thriller,3
+2873,The Man with the Golden Gun,1646,Adventure,4
+2874,The Man with the Golden Gun,1646,Action,10
+2875,Poseidon,1675,Thriller,3
+2876,Poseidon,1675,Adventure,4
+2877,Poseidon,1675,Action,10
+2878,Salt,1688,Thriller,3
+2879,Salt,1688,Action,10
+2880,Truth or Dare,1690,Thriller,3
+2881,Truth or Dare,1690,Horror,16
+2882,San Andreas,1698,Thriller,3
+2883,San Andreas,1698,Adventure,4
+2884,San Andreas,1698,Action,10
+2885,The Island,1710,Thriller,3
+2886,The Island,1710,Action,10
+2887,The Island,1710,Sci-Fi,13
+2888,Goldfinger,1732,Thriller,3
+2889,Goldfinger,1732,Adventure,4
+2890,Goldfinger,1732,Action,10
+2891,Geostorm,1734,Thriller,3
+2892,Geostorm,1734,Action,10
+2893,Geostorm,1734,Sci-Fi,13
+2894,Greenland,1737,Thriller,3
+2895,Greenland,1737,Action,10
+2896,Wonka,2,Adventure,4
+2897,Wonka,2,Comedy,5
+2898,Wonka,2,Family,6
+2899,Napoleon,7,Adventure,4
+2900,Napoleon,7,Action,10
+2901,Napoleon,7,Biography,11
+2902,Barbie,12,Adventure,4
+2903,Barbie,12,Comedy,5
+2904,Barbie,12,Fantasy,12
+2905,Indiana Jones and the Dial of Destiny,18,Adventure,4
+2906,Indiana Jones and the Dial of Destiny,18,Action,10
+2907,Indiana Jones and the Dial of Destiny,18,Sci-Fi,13
+2908,Elf,19,Adventure,4
+2909,Elf,19,Comedy,5
+2910,Elf,19,Family,6
+2911,Chicken Run: Dawn of the Nugget,26,Adventure,4
+2912,Chicken Run: Dawn of the Nugget,26,Comedy,5
+2913,Chicken Run: Dawn of the Nugget,26,Animation,15
+2914,The Killer,28,Adventure,4
+2915,The Killer,28,Crime,8
+2916,The Killer,28,Action,10
+2917,The Super Mario Bros. Movie,29,Adventure,4
+2918,The Super Mario Bros. Movie,29,Comedy,5
+2919,The Super Mario Bros. Movie,29,Animation,15
+2920,Home Alone 2: Lost in New York,31,Adventure,4
+2921,Home Alone 2: Lost in New York,31,Comedy,5
+2922,Home Alone 2: Lost in New York,31,Crime,8
+2923,The Marvels,33,Adventure,4
+2924,The Marvels,33,Action,10
+2925,The Marvels,33,Fantasy,12
+2926,Wish,34,Adventure,4
+2927,Wish,34,Comedy,5
+2928,Wish,34,Animation,15
+2929,The Polar Express,35,Adventure,4
+2930,The Polar Express,35,Comedy,5
+2931,The Polar Express,35,Animation,15
+2932,The Hunger Games,42,Adventure,4
+2933,The Hunger Games,42,Action,10
+2934,The Hunger Games,42,Sci-Fi,13
+2935,Trolls Band Together,45,Adventure,4
+2936,Trolls Band Together,45,Comedy,5
+2937,Trolls Band Together,45,Animation,15
+2938,Charlie and the Chocolate Factory,49,Adventure,4
+2939,Charlie and the Chocolate Factory,49,Comedy,5
+2940,Charlie and the Chocolate Factory,49,Family,6
+2941,Spider-Man: Across the Spider-Verse,52,Adventure,4
+2942,Spider-Man: Across the Spider-Verse,52,Action,10
+2943,Spider-Man: Across the Spider-Verse,52,Animation,15
+2944,Blue Beetle,54,Adventure,4
+2945,Blue Beetle,54,Action,10
+2946,Blue Beetle,54,Sci-Fi,13
+2947,Love and Monsters,56,Adventure,4
+2948,Love and Monsters,56,Comedy,5
+2949,Love and Monsters,56,Action,10
+2950,Jingle All the Way,60,Adventure,4
+2951,Jingle All the Way,60,Comedy,5
+2952,Jingle All the Way,60,Family,6
+2953,Everything Everywhere All at Once,64,Adventure,4
+2954,Everything Everywhere All at Once,64,Comedy,5
+2955,Everything Everywhere All at Once,64,Action,10
+2956,Harry Potter and the Sorcerer's Stone,65,Adventure,4
+2957,Harry Potter and the Sorcerer's Stone,65,Family,6
+2958,Harry Potter and the Sorcerer's Stone,65,Fantasy,12
+2959,Klaus,69,Adventure,4
+2960,Klaus,69,Comedy,5
+2961,Klaus,69,Animation,15
+2962,The Suicide Squad,74,Adventure,4
+2963,The Suicide Squad,74,Comedy,5
+2964,The Suicide Squad,74,Action,10
+2965,Chicken Run,86,Adventure,4
+2966,Chicken Run,86,Comedy,5
+2967,Chicken Run,86,Animation,15
+2968,Mad Max: Fury Road,88,Adventure,4
+2969,Mad Max: Fury Road,88,Action,10
+2970,Mad Max: Fury Road,88,Sci-Fi,13
+2971,Suicide Squad,90,Adventure,4
+2972,Suicide Squad,90,Action,10
+2973,Suicide Squad,90,Fantasy,12
+2974,The Hunger Games: Catching Fire,97,Adventure,4
+2975,The Hunger Games: Catching Fire,97,Action,10
+2976,The Hunger Games: Catching Fire,97,Sci-Fi,13
+2977,Guardians of the Galaxy Vol. 3,106,Adventure,4
+2978,Guardians of the Galaxy Vol. 3,106,Comedy,5
+2979,Guardians of the Galaxy Vol. 3,106,Action,10
+2980,Fast X,107,Adventure,4
+2981,Fast X,107,Crime,8
+2982,Fast X,107,Action,10
+2983,Transformers: Rise of the Beasts,113,Adventure,4
+2984,Transformers: Rise of the Beasts,113,Action,10
+2985,Transformers: Rise of the Beasts,113,Sci-Fi,13
+2986,The Christmas Chronicles,116,Adventure,4
+2987,The Christmas Chronicles,116,Comedy,5
+2988,The Christmas Chronicles,116,Family,6
+2989,Dungeons & Dragons: Honor Among Thieves,117,Adventure,4
+2990,Dungeons & Dragons: Honor Among Thieves,117,Comedy,5
+2991,Dungeons & Dragons: Honor Among Thieves,117,Action,10
+2992,Avatar: The Way of Water,123,Adventure,4
+2993,Avatar: The Way of Water,123,Action,10
+2994,Avatar: The Way of Water,123,Fantasy,12
+2995,Inception,125,Adventure,4
+2996,Inception,125,Action,10
+2997,Inception,125,Sci-Fi,13
+2998,The Goonies,126,Adventure,4
+2999,The Goonies,126,Comedy,5
+3000,The Goonies,126,Family,6
+3001,Shazam! Fury of the Gods,134,Adventure,4
+3002,Shazam! Fury of the Gods,134,Comedy,5
+3003,Shazam! Fury of the Gods,134,Action,10
+3004,The Wizard of Oz,139,Adventure,4
+3005,The Wizard of Oz,139,Family,6
+3006,The Wizard of Oz,139,Fantasy,12
+3007,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",149,Adventure,4
+3008,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",149,Family,6
+3009,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",149,Fantasy,12
+3010,Spider-Man: No Way Home,160,Adventure,4
+3011,Spider-Man: No Way Home,160,Action,10
+3012,Spider-Man: No Way Home,160,Fantasy,12
+3013,Elemental,163,Adventure,4
+3014,Elemental,163,Comedy,5
+3015,Elemental,163,Animation,15
+3016,The Flash,169,Adventure,4
+3017,The Flash,169,Action,10
+3018,The Flash,169,Fantasy,12
+3019,The Princess Bride,171,Adventure,4
+3020,The Princess Bride,171,Comedy,5
+3021,The Princess Bride,171,Family,6
+3022,Jurassic Park,173,Adventure,4
+3023,Jurassic Park,173,Action,10
+3024,Jurassic Park,173,Sci-Fi,13
+3025,Harry Potter and the Goblet of Fire,176,Adventure,4
+3026,Harry Potter and the Goblet of Fire,176,Family,6
+3027,Harry Potter and the Goblet of Fire,176,Fantasy,12
+3028,Godzilla: King of the Monsters,179,Adventure,4
+3029,Godzilla: King of the Monsters,179,Action,10
+3030,Godzilla: King of the Monsters,179,Fantasy,12
+3031,Harry Potter and the Deathly Hallows: Part 2,188,Adventure,4
+3032,Harry Potter and the Deathly Hallows: Part 2,188,Family,6
+3033,Harry Potter and the Deathly Hallows: Part 2,188,Fantasy,12
+3034,Sing 2,190,Adventure,4
+3035,Sing 2,190,Comedy,5
+3036,Sing 2,190,Animation,15
+3037,Kung Fu Panda,197,Adventure,4
+3038,Kung Fu Panda,197,Action,10
+3039,Kung Fu Panda,197,Animation,15
+3040,Beauty and the Beast,198,Adventure,4
+3041,Beauty and the Beast,198,Family,6
+3042,Beauty and the Beast,198,Family,6
+3043,Beauty and the Beast,198,Fantasy,12
+3044,Beauty and the Beast,198,Fantasy,12
+3045,Beauty and the Beast,198,Animation,15
+3046,The Little Mermaid,200,Adventure,4
+3047,The Little Mermaid,200,Adventure,4
+3048,The Little Mermaid,200,Family,6
+3049,The Little Mermaid,200,Family,6
+3050,The Little Mermaid,200,Fantasy,12
+3051,The Little Mermaid,200,Animation,15
+3052,The Santa Clause 3: The Escape Clause,205,Adventure,4
+3053,The Santa Clause 3: The Escape Clause,205,Comedy,5
+3054,The Santa Clause 3: The Escape Clause,205,Family,6
+3055,Vacation,208,Adventure,4
+3056,Vacation,208,Adventure,4
+3057,Vacation,208,Comedy,5
+3058,Vacation,208,Comedy,5
+3059,Teenage Mutant Ninja Turtles: Mutant Mayhem,209,Adventure,4
+3060,Teenage Mutant Ninja Turtles: Mutant Mayhem,209,Action,10
+3061,Teenage Mutant Ninja Turtles: Mutant Mayhem,209,Animation,15
+3062,Raiders of the Lost Ark,212,Adventure,4
+3063,Raiders of the Lost Ark,212,Action,10
+3064,The Hunger Games: Mockingjay - Part 2,213,Adventure,4
+3065,The Hunger Games: Mockingjay - Part 2,213,Action,10
+3066,The Hunger Games: Mockingjay - Part 2,213,Sci-Fi,13
+3067,Back to the Future,231,Adventure,4
+3068,Back to the Future,231,Comedy,5
+3069,Back to the Future,231,Sci-Fi,13
+3070,Uncharted,237,Adventure,4
+3071,Uncharted,237,Action,10
+3072,Harry Potter and the Prisoner of Azkaban,242,Adventure,4
+3073,Harry Potter and the Prisoner of Azkaban,242,Family,6
+3074,Harry Potter and the Prisoner of Azkaban,242,Fantasy,12
+3075,The Hunger Games: Mockingjay - Part 1,251,Adventure,4
+3076,The Hunger Games: Mockingjay - Part 1,251,Action,10
+3077,The Hunger Games: Mockingjay - Part 1,251,Sci-Fi,13
+3078,Man of Steel,255,Adventure,4
+3079,Man of Steel,255,Action,10
+3080,Man of Steel,255,Sci-Fi,13
+3081,Aquaman,256,Adventure,4
+3082,Aquaman,256,Action,10
+3083,Aquaman,256,Fantasy,12
+3084,Harry Potter and the Chamber of Secrets,258,Adventure,4
+3085,Harry Potter and the Chamber of Secrets,258,Family,6
+3086,Harry Potter and the Chamber of Secrets,258,Fantasy,12
+3087,Spider-Man: Into the Spider-Verse,260,Adventure,4
+3088,Spider-Man: Into the Spider-Verse,260,Action,10
+3089,Spider-Man: Into the Spider-Verse,260,Animation,15
+3090,Meg 2: The Trench,266,Adventure,4
+3091,Meg 2: The Trench,266,Action,10
+3092,Meg 2: The Trench,266,Horror,16
+3093,Arthur Christmas,271,Adventure,4
+3094,Arthur Christmas,271,Comedy,5
+3095,Arthur Christmas,271,Animation,15
+3096,Star Wars: Episode IV - A New Hope,280,Adventure,4
+3097,Star Wars: Episode IV - A New Hope,280,Action,10
+3098,Star Wars: Episode IV - A New Hope,280,Fantasy,12
+3099,Pirates of the Caribbean: The Curse of the Black Pearl,288,Adventure,4
+3100,Pirates of the Caribbean: The Curse of the Black Pearl,288,Action,10
+3101,Pirates of the Caribbean: The Curse of the Black Pearl,288,Fantasy,12
+3102,Aliens,291,Adventure,4
+3103,Aliens,291,Action,10
+3104,Aliens,291,Sci-Fi,13
+3105,Strays,330,Adventure,4
+3106,Strays,330,Comedy,5
+3107,Ghosted,335,Adventure,4
+3108,Ghosted,335,Comedy,5
+3109,Ghosted,335,Action,10
+3110,Green Lantern,344,Adventure,4
+3111,Green Lantern,344,Action,10
+3112,Green Lantern,344,Sci-Fi,13
+3113,Cruella,345,Adventure,4
+3114,Cruella,345,Comedy,5
+3115,Cruella,345,Crime,8
+3116,Harry Potter and the Deathly Hallows: Part 1,346,Adventure,4
+3117,Harry Potter and the Deathly Hallows: Part 1,346,Family,6
+3118,Harry Potter and the Deathly Hallows: Part 1,346,Fantasy,12
+3119,The Christmas Chronicles: Part Two,347,Adventure,4
+3120,The Christmas Chronicles: Part Two,347,Comedy,5
+3121,The Christmas Chronicles: Part Two,347,Family,6
+3122,The Fifth Element,352,Adventure,4
+3123,The Fifth Element,352,Action,10
+3124,The Fifth Element,352,Sci-Fi,13
+3125,Black Adam,354,Adventure,4
+3126,Black Adam,354,Action,10
+3127,Black Adam,354,Fantasy,12
+3128,Avatar,357,Adventure,4
+3129,Avatar,357,Action,10
+3130,Avatar,357,Fantasy,12
+3131,The Hobbit: An Unexpected Journey,371,Adventure,4
+3132,The Hobbit: An Unexpected Journey,371,Fantasy,12
+3133,2001: A Space Odyssey,377,Adventure,4
+3134,2001: A Space Odyssey,377,Sci-Fi,13
+3135,The Nutcracker and the Four Realms,380,Adventure,4
+3136,The Nutcracker and the Four Realms,380,Family,6
+3137,The Nutcracker and the Four Realms,380,Fantasy,12
+3138,Free Guy,385,Adventure,4
+3139,Free Guy,385,Comedy,5
+3140,Free Guy,385,Action,10
+3141,Harry Potter and the Order of the Phoenix,387,Adventure,4
+3142,Harry Potter and the Order of the Phoenix,387,Family,6
+3143,Harry Potter and the Order of the Phoenix,387,Action,10
+3144,Kong: Skull Island,389,Adventure,4
+3145,Kong: Skull Island,389,Action,10
+3146,Kong: Skull Island,389,Fantasy,12
+3147,Thor: Love and Thunder,392,Adventure,4
+3148,Thor: Love and Thunder,392,Comedy,5
+3149,Thor: Love and Thunder,392,Action,10
+3150,Indiana Jones and the Temple of Doom,397,Adventure,4
+3151,Indiana Jones and the Temple of Doom,397,Action,10
+3152,Shazam!,398,Adventure,4
+3153,Shazam!,398,Comedy,5
+3154,Shazam!,398,Action,10
+3155,Cars,403,Adventure,4
+3156,Cars,403,Comedy,5
+3157,Cars,403,Animation,15
+3158,Guardians of the Galaxy,413,Adventure,4
+3159,Guardians of the Galaxy,413,Comedy,5
+3160,Guardians of the Galaxy,413,Action,10
+3161,Spider-Man,419,Adventure,4
+3162,Spider-Man,419,Action,10
+3163,Spider-Man,419,Sci-Fi,13
+3164,Harry Potter and the Half-Blood Prince,427,Adventure,4
+3165,Harry Potter and the Half-Blood Prince,427,Family,6
+3166,Harry Potter and the Half-Blood Prince,427,Action,10
+3167,Percy Jackson & the Olympians: The Lightning Thief,435,Adventure,4
+3168,Percy Jackson & the Olympians: The Lightning Thief,435,Family,6
+3169,Percy Jackson & the Olympians: The Lightning Thief,435,Fantasy,12
+3170,Kung Fu Panda 3,439,Adventure,4
+3171,Kung Fu Panda 3,439,Action,10
+3172,Kung Fu Panda 3,439,Animation,15
+3173,Puss in Boots: The Last Wish,444,Adventure,4
+3174,Puss in Boots: The Last Wish,444,Comedy,5
+3175,Puss in Boots: The Last Wish,444,Animation,15
+3176,Jumanji,449,Adventure,4
+3177,Jumanji,449,Comedy,5
+3178,Jumanji,449,Family,6
+3179,The Mummy,450,Adventure,4
+3180,The Mummy,450,Adventure,4
+3181,The Mummy,450,Action,10
+3182,The Mummy,450,Action,10
+3183,The Mummy,450,Fantasy,12
+3184,The Mummy,450,Fantasy,12
+3185,Indiana Jones and the Last Crusade,451,Adventure,4
+3186,Indiana Jones and the Last Crusade,451,Action,10
+3187,The Grand Budapest Hotel,455,Adventure,4
+3188,The Grand Budapest Hotel,455,Comedy,5
+3189,The Grand Budapest Hotel,455,Crime,8
+3190,The Lost City,460,Adventure,4
+3191,The Lost City,460,Comedy,5
+3192,The Lost City,460,Action,10
+3193,The Star,464,Adventure,4
+3194,The Star,464,Comedy,5
+3195,The Star,464,Animation,15
+3196,Trolls,469,Adventure,4
+3197,Trolls,469,Comedy,5
+3198,Trolls,469,Animation,15
+3199,Fatman,473,Adventure,4
+3200,Fatman,473,Comedy,5
+3201,Fatman,473,Action,10
+3202,Batman v Superman: Dawn of Justice,481,Adventure,4
+3203,Batman v Superman: Dawn of Justice,481,Action,10
+3204,Batman v Superman: Dawn of Justice,481,Sci-Fi,13
+3205,Ratatouille,483,Adventure,4
+3206,Ratatouille,483,Comedy,5
+3207,Ratatouille,483,Animation,15
+3208,Avengers: Infinity War,487,Adventure,4
+3209,Avengers: Infinity War,487,Action,10
+3210,Avengers: Infinity War,487,Sci-Fi,13
+3211,Star Wars: Episode IX - The Rise of Skywalker,493,Adventure,4
+3212,Star Wars: Episode IX - The Rise of Skywalker,493,Action,10
+3213,Star Wars: Episode IX - The Rise of Skywalker,493,Fantasy,12
+3214,PAW Patrol: The Mighty Movie,495,Adventure,4
+3215,PAW Patrol: The Mighty Movie,495,Action,10
+3216,PAW Patrol: The Mighty Movie,495,Animation,15
+3217,Star Wars: Episode I - The Phantom Menace,496,Adventure,4
+3218,Star Wars: Episode I - The Phantom Menace,496,Action,10
+3219,Star Wars: Episode I - The Phantom Menace,496,Fantasy,12
+3220,Crocodile Dundee,497,Adventure,4
+3221,Crocodile Dundee,497,Comedy,5
+3222,Crocodile Dundee,497,Action,10
+3223,Wonder Woman,514,Adventure,4
+3224,Wonder Woman,514,Action,10
+3225,Wonder Woman,514,Fantasy,12
+3226,Deadpool 2,516,Adventure,4
+3227,Deadpool 2,516,Comedy,5
+3228,Deadpool 2,516,Action,10
+3229,Idiocracy,520,Adventure,4
+3230,Idiocracy,520,Comedy,5
+3231,Idiocracy,520,Sci-Fi,13
+3232,Kingsman: The Secret Service,526,Adventure,4
+3233,Kingsman: The Secret Service,526,Comedy,5
+3234,Kingsman: The Secret Service,526,Action,10
+3235,Iron Man,532,Adventure,4
+3236,Iron Man,532,Action,10
+3237,Iron Man,532,Sci-Fi,13
+3238,Indiana Jones and the Kingdom of the Crystal Skull,533,Adventure,4
+3239,Indiana Jones and the Kingdom of the Crystal Skull,533,Action,10
+3240,The Adventures of Sharkboy and Lavagirl 3-D,537,Adventure,4
+3241,The Adventures of Sharkboy and Lavagirl 3-D,537,Comedy,5
+3242,The Adventures of Sharkboy and Lavagirl 3-D,537,Action,10
+3243,Zack Snyder's Justice League,539,Adventure,4
+3244,Zack Snyder's Justice League,539,Action,10
+3245,Zack Snyder's Justice League,539,Fantasy,12
+3246,Men in Black,542,Adventure,4
+3247,Men in Black,542,Comedy,5
+3248,Men in Black,542,Action,10
+3249,DC League of Super-Pets,544,Adventure,4
+3250,DC League of Super-Pets,544,Action,10
+3251,DC League of Super-Pets,544,Animation,15
+3252,Eternals,546,Adventure,4
+3253,Eternals,546,Action,10
+3254,Eternals,546,Fantasy,12
+3255,Ghostbusters: Afterlife,548,Adventure,4
+3256,Ghostbusters: Afterlife,548,Comedy,5
+3257,Ghostbusters: Afterlife,548,Fantasy,12
+3258,Edge of Tomorrow,552,Adventure,4
+3259,Edge of Tomorrow,552,Action,10
+3260,Edge of Tomorrow,552,Sci-Fi,13
+3261,Toy Story,554,Adventure,4
+3262,Toy Story,554,Comedy,5
+3263,Toy Story,554,Animation,15
+3264,Ant-Man and the Wasp: Quantumania,555,Adventure,4
+3265,Ant-Man and the Wasp: Quantumania,555,Comedy,5
+3266,Ant-Man and the Wasp: Quantumania,555,Action,10
+3267,Inside Out,558,Adventure,4
+3268,Inside Out,558,Comedy,5
+3269,Inside Out,558,Animation,15
+3270,Doctor Strange in the Multiverse of Madness,562,Adventure,4
+3271,Doctor Strange in the Multiverse of Madness,562,Action,10
+3272,Doctor Strange in the Multiverse of Madness,562,Fantasy,12
+3273,Jurassic World Dominion,565,Adventure,4
+3274,Jurassic World Dominion,565,Action,10
+3275,Jurassic World Dominion,565,Sci-Fi,13
+3276,Trolls World Tour,568,Adventure,4
+3277,Trolls World Tour,568,Comedy,5
+3278,Trolls World Tour,568,Animation,15
+3279,A Knight's Tale,570,Adventure,4
+3280,A Knight's Tale,570,Romance,7
+3281,A Knight's Tale,570,Action,10
+3282,Shrek,575,Adventure,4
+3283,Shrek,575,Comedy,5
+3284,Shrek,575,Animation,15
+3285,Alita: Battle Angel,577,Adventure,4
+3286,Alita: Battle Angel,577,Action,10
+3287,Alita: Battle Angel,577,Sci-Fi,13
+3288,Jurassic World,579,Adventure,4
+3289,Jurassic World,579,Action,10
+3290,Jurassic World,579,Sci-Fi,13
+3291,Hook,592,Adventure,4
+3292,Hook,592,Comedy,5
+3293,Hook,592,Family,6
+3294,Kung Fu Panda 2,593,Adventure,4
+3295,Kung Fu Panda 2,593,Action,10
+3296,Kung Fu Panda 2,593,Animation,15
+3297,Fantastic Beasts: The Secrets of Dumbledore,601,Adventure,4
+3298,Fantastic Beasts: The Secrets of Dumbledore,601,Family,6
+3299,Fantastic Beasts: The Secrets of Dumbledore,601,Fantasy,12
+3300,Planet of the Apes,607,Adventure,4
+3301,Planet of the Apes,607,Adventure,4
+3302,Planet of the Apes,607,Action,10
+3303,Planet of the Apes,607,Sci-Fi,13
+3304,Planet of the Apes,607,Sci-Fi,13
+3305,E.T. the Extra-Terrestrial,627,Adventure,4
+3306,E.T. the Extra-Terrestrial,627,Family,6
+3307,E.T. the Extra-Terrestrial,627,Sci-Fi,13
+3308,Scrooge: A Christmas Carol,629,Adventure,4
+3309,Scrooge: A Christmas Carol,629,Comedy,5
+3310,Scrooge: A Christmas Carol,629,Animation,15
+3311,Independence Day,632,Adventure,4
+3312,Independence Day,632,Action,10
+3313,Independence Day,632,Sci-Fi,13
+3314,Transformers,633,Adventure,4
+3315,Transformers,633,Action,10
+3316,Transformers,633,Sci-Fi,13
+3317,Stardust,637,Adventure,4
+3318,Stardust,637,Family,6
+3319,Stardust,637,Fantasy,12
+3320,Labyrinth,645,Adventure,4
+3321,Labyrinth,645,Family,6
+3322,Labyrinth,645,Fantasy,12
+3323,Soul,646,Adventure,4
+3324,Soul,646,Comedy,5
+3325,Soul,646,Animation,15
+3326,Superman,648,Adventure,4
+3327,Superman,648,Action,10
+3328,Superman,648,Sci-Fi,13
+3329,Predator,649,Adventure,4
+3330,Predator,649,Action,10
+3331,Predator,649,Horror,16
+3332,Transformers: The Last Knight,655,Adventure,4
+3333,Transformers: The Last Knight,655,Action,10
+3334,Transformers: The Last Knight,655,Sci-Fi,13
+3335,Jumanji: Welcome to the Jungle,658,Adventure,4
+3336,Jumanji: Welcome to the Jungle,658,Comedy,5
+3337,Jumanji: Welcome to the Jungle,658,Action,10
+3338,Nimona,664,Adventure,4
+3339,Nimona,664,Action,10
+3340,Nimona,664,Animation,15
+3341,Paddington 2,665,Adventure,4
+3342,Paddington 2,665,Comedy,5
+3343,Paddington 2,665,Family,6
+3344,Batman,666,Adventure,4
+3345,Batman,666,Action,10
+3346,Rogue One: A Star Wars Story,672,Adventure,4
+3347,Rogue One: A Star Wars Story,672,Action,10
+3348,Rogue One: A Star Wars Story,672,Sci-Fi,13
+3349,The Day After Tomorrow,680,Adventure,4
+3350,The Day After Tomorrow,680,Action,10
+3351,The Day After Tomorrow,680,Sci-Fi,13
+3352,Mad Max,681,Adventure,4
+3353,Mad Max,681,Action,10
+3354,Mad Max,681,Sci-Fi,13
+3355,Moana,686,Adventure,4
+3356,Moana,686,Comedy,5
+3357,Moana,686,Animation,15
+3358,Star Wars: Episode VII - The Force Awakens,692,Adventure,4
+3359,Star Wars: Episode VII - The Force Awakens,692,Action,10
+3360,Star Wars: Episode VII - The Force Awakens,692,Sci-Fi,13
+3361,Total Recall,699,Adventure,4
+3362,Total Recall,699,Action,10
+3363,Total Recall,699,Sci-Fi,13
+3364,Captain Marvel,700,Adventure,4
+3365,Captain Marvel,700,Action,10
+3366,Captain Marvel,700,Sci-Fi,13
+3367,Rise of the Guardians,704,Adventure,4
+3368,Rise of the Guardians,704,Action,10
+3369,Rise of the Guardians,704,Animation,15
+3370,Zootopia,705,Adventure,4
+3371,Zootopia,705,Comedy,5
+3372,Zootopia,705,Animation,15
+3373,Venom,706,Adventure,4
+3374,Venom,706,Action,10
+3375,Venom,706,Sci-Fi,13
+3376,World War Z,709,Adventure,4
+3377,World War Z,709,Action,10
+3378,World War Z,709,Horror,16
+3379,Black Panther,710,Adventure,4
+3380,Black Panther,710,Action,10
+3381,Black Panther,710,Sci-Fi,13
+3382,Armageddon,712,Adventure,4
+3383,Armageddon,712,Action,10
+3384,Armageddon,712,Sci-Fi,13
+3385,Ready Player One,714,Adventure,4
+3386,Ready Player One,714,Action,10
+3387,Ready Player One,714,Sci-Fi,13
+3388,Paddington,717,Adventure,4
+3389,Paddington,717,Comedy,5
+3390,Paddington,717,Family,6
+3391,The Incredibles,722,Adventure,4
+3392,The Incredibles,722,Action,10
+3393,The Incredibles,722,Animation,15
+3394,Star Wars: Episode V - The Empire Strikes Back,735,Adventure,4
+3395,Star Wars: Episode V - The Empire Strikes Back,735,Action,10
+3396,Star Wars: Episode V - The Empire Strikes Back,735,Fantasy,12
+3397,King Kong,747,Adventure,4
+3398,King Kong,747,Romance,7
+3399,King Kong,747,Action,10
+3400,Moonfall,748,Adventure,4
+3401,Moonfall,748,Action,10
+3402,Moonfall,748,Sci-Fi,13
+3403,Starship Troopers,764,Adventure,4
+3404,Starship Troopers,764,Action,10
+3405,Starship Troopers,764,Sci-Fi,13
+3406,Finding Nemo,768,Adventure,4
+3407,Finding Nemo,768,Comedy,5
+3408,Finding Nemo,768,Animation,15
+3409,Night at the Museum,771,Adventure,4
+3410,Night at the Museum,771,Comedy,5
+3411,Night at the Museum,771,Family,6
+3412,Valerian and the City of a Thousand Planets,774,Adventure,4
+3413,Valerian and the City of a Thousand Planets,774,Action,10
+3414,Valerian and the City of a Thousand Planets,774,Fantasy,12
+3415,X-Men,775,Adventure,4
+3416,X-Men,775,Action,10
+3417,X-Men,775,Sci-Fi,13
+3418,Maze Runner: The Scorch Trials,783,Adventure,4
+3419,Maze Runner: The Scorch Trials,783,Action,10
+3420,Maze Runner: The Scorch Trials,783,Sci-Fi,13
+3421,WALLÂ·E,789,Adventure,4
+3422,WALLÂ·E,789,Family,6
+3423,WALLÂ·E,789,Animation,15
+3424,Alice in Wonderland,790,Adventure,4
+3425,Alice in Wonderland,790,Family,6
+3426,Alice in Wonderland,790,Fantasy,12
+3427,Pirates of the Caribbean: Dead Men Tell No Tales,795,Adventure,4
+3428,Pirates of the Caribbean: Dead Men Tell No Tales,795,Action,10
+3429,Pirates of the Caribbean: Dead Men Tell No Tales,795,Fantasy,12
+3430,Captain America: The First Avenger,802,Adventure,4
+3431,Captain America: The First Avenger,802,Action,10
+3432,Captain America: The First Avenger,802,Sci-Fi,13
+3433,Wonder Woman 1984,819,Adventure,4
+3434,Wonder Woman 1984,819,Action,10
+3435,Wonder Woman 1984,819,Fantasy,12
+3436,How to Train Your Dragon,823,Adventure,4
+3437,How to Train Your Dragon,823,Action,10
+3438,How to Train Your Dragon,823,Animation,15
+3439,Scooby-Doo,826,Adventure,4
+3440,Scooby-Doo,826,Comedy,5
+3441,Scooby-Doo,826,Family,6
+3442,Stargate,828,Adventure,4
+3443,Stargate,828,Action,10
+3444,Stargate,828,Sci-Fi,13
+3445,Terminator: Dark Fate,830,Adventure,4
+3446,Terminator: Dark Fate,830,Action,10
+3447,Terminator: Dark Fate,830,Sci-Fi,13
+3448,Thor: Ragnarok,831,Adventure,4
+3449,Thor: Ragnarok,831,Comedy,5
+3450,Thor: Ragnarok,831,Action,10
+3451,Star Wars: Episode III - Revenge of the Sith,835,Adventure,4
+3452,Star Wars: Episode III - Revenge of the Sith,835,Action,10
+3453,Star Wars: Episode III - Revenge of the Sith,835,Fantasy,12
+3454,Fantastic Mr. Fox,836,Adventure,4
+3455,Fantastic Mr. Fox,836,Comedy,5
+3456,Fantastic Mr. Fox,836,Animation,15
+3457,Galaxy Quest,843,Adventure,4
+3458,Galaxy Quest,843,Comedy,5
+3459,Galaxy Quest,843,Sci-Fi,13
+3460,Up,850,Adventure,4
+3461,Up,850,Comedy,5
+3462,Up,850,Animation,15
+3463,Spider-Man: Homecoming,852,Adventure,4
+3464,Spider-Man: Homecoming,852,Action,10
+3465,Spider-Man: Homecoming,852,Sci-Fi,13
+3466,Pirates of the Caribbean: Dead Man's Chest,854,Adventure,4
+3467,Pirates of the Caribbean: Dead Man's Chest,854,Action,10
+3468,Pirates of the Caribbean: Dead Man's Chest,854,Fantasy,12
+3469,Sucker Punch,856,Adventure,4
+3470,Sucker Punch,856,Action,10
+3471,Sucker Punch,856,Fantasy,12
+3472,Star Trek,859,Adventure,4
+3473,Star Trek,859,Action,10
+3474,Star Trek,859,Sci-Fi,13
+3475,Frozen II,866,Adventure,4
+3476,Frozen II,866,Comedy,5
+3477,Frozen II,866,Animation,15
+3478,Everest,872,Adventure,4
+3479,Everest,872,Action,10
+3480,Everest,872,Biography,11
+3481,Tomorrowland,875,Adventure,4
+3482,Tomorrowland,875,Family,6
+3483,Tomorrowland,875,Action,10
+3484,Aladdin,880,Adventure,4
+3485,Aladdin,880,Adventure,4
+3486,Aladdin,880,Comedy,5
+3487,Aladdin,880,Comedy,5
+3488,Aladdin,880,Family,6
+3489,Aladdin,880,Animation,15
+3490,Star Wars: Episode VIII - The Last Jedi,889,Adventure,4
+3491,Star Wars: Episode VIII - The Last Jedi,889,Action,10
+3492,Star Wars: Episode VIII - The Last Jedi,889,Fantasy,12
+3493,National Lampoon's European Vacation,891,Adventure,4
+3494,National Lampoon's European Vacation,891,Comedy,5
+3495,The Road Warrior,906,Adventure,4
+3496,The Road Warrior,906,Action,10
+3497,The Road Warrior,906,Sci-Fi,13
+3498,Conan the Barbarian,907,Adventure,4
+3499,Conan the Barbarian,907,Adventure,4
+3500,Conan the Barbarian,907,Action,10
+3501,Conan the Barbarian,907,Action,10
+3502,Conan the Barbarian,907,Fantasy,12
+3503,Conan the Barbarian,907,Fantasy,12
+3504,Black Widow,912,Adventure,4
+3505,Black Widow,912,Action,10
+3506,Black Widow,912,Sci-Fi,13
+3507,Serenity,920,Adventure,4
+3508,Serenity,920,Action,10
+3509,Serenity,920,Sci-Fi,13
+3510,"Monsters, Inc.",924,Adventure,4
+3511,"Monsters, Inc.",924,Comedy,5
+3512,"Monsters, Inc.",924,Animation,15
+3513,Tangled,939,Adventure,4
+3514,Tangled,939,Comedy,5
+3515,Tangled,939,Animation,15
+3516,TRON: Legacy,949,Adventure,4
+3517,TRON: Legacy,949,Action,10
+3518,TRON: Legacy,949,Sci-Fi,13
+3519,Justice League,953,Adventure,4
+3520,Justice League,953,Action,10
+3521,Justice League,953,Fantasy,12
+3522,Highlander,959,Adventure,4
+3523,Highlander,959,Action,10
+3524,Highlander,959,Fantasy,12
+3525,War of the Worlds,969,Adventure,4
+3526,War of the Worlds,969,Action,10
+3527,War of the Worlds,969,Sci-Fi,13
+3528,The Bad Guys,970,Adventure,4
+3529,The Bad Guys,970,Action,10
+3530,The Bad Guys,970,Animation,15
+3531,Ice Age,975,Adventure,4
+3532,Ice Age,975,Comedy,5
+3533,Ice Age,975,Animation,15
+3534,Solo: A Star Wars Story,985,Adventure,4
+3535,Solo: A Star Wars Story,985,Action,10
+3536,Solo: A Star Wars Story,985,Sci-Fi,13
+3537,Star Wars: Episode VI - Return of the Jedi,990,Adventure,4
+3538,Star Wars: Episode VI - Return of the Jedi,990,Action,10
+3539,Star Wars: Episode VI - Return of the Jedi,990,Fantasy,12
+3540,Spider-Man 2,995,Adventure,4
+3541,Spider-Man 2,995,Action,10
+3542,Spider-Man 2,995,Sci-Fi,13
+3543,The Amazing Spider-Man,998,Adventure,4
+3544,The Amazing Spider-Man,998,Action,10
+3545,The Amazing Spider-Man,998,Sci-Fi,13
+3546,Kingsman: The Golden Circle,1009,Adventure,4
+3547,Kingsman: The Golden Circle,1009,Comedy,5
+3548,Kingsman: The Golden Circle,1009,Action,10
+3549,Shang-Chi and the Legend of the Ten Rings,1014,Adventure,4
+3550,Shang-Chi and the Legend of the Ten Rings,1014,Action,10
+3551,Shang-Chi and the Legend of the Ten Rings,1014,Fantasy,12
+3552,Pacific Rim,1016,Adventure,4
+3553,Pacific Rim,1016,Action,10
+3554,Pacific Rim,1016,Sci-Fi,13
+3555,Fantastic Beasts and Where to Find Them,1019,Adventure,4
+3556,Fantastic Beasts and Where to Find Them,1019,Family,6
+3557,Fantastic Beasts and Where to Find Them,1019,Fantasy,12
+3558,Morbius,1026,Adventure,4
+3559,Morbius,1026,Action,10
+3560,Morbius,1026,Horror,16
+3561,Batman Forever,1027,Adventure,4
+3562,Batman Forever,1027,Action,10
+3563,Avengers: Age of Ultron,1038,Adventure,4
+3564,Avengers: Age of Ultron,1038,Action,10
+3565,Avengers: Age of Ultron,1038,Sci-Fi,13
+3566,Maze Runner: The Death Cure,1040,Adventure,4
+3567,Maze Runner: The Death Cure,1040,Action,10
+3568,Maze Runner: The Death Cure,1040,Sci-Fi,13
+3569,Oblivion,1046,Adventure,4
+3570,Oblivion,1046,Action,10
+3571,Oblivion,1046,Sci-Fi,13
+3572,Guardians of the Galaxy Vol. 2,1050,Adventure,4
+3573,Guardians of the Galaxy Vol. 2,1050,Comedy,5
+3574,Guardians of the Galaxy Vol. 2,1050,Action,10
+3575,Ponyo,1061,Adventure,4
+3576,Ponyo,1061,Comedy,5
+3577,Ponyo,1061,Animation,15
+3578,G.I. Joe: The Rise of Cobra,1064,Adventure,4
+3579,G.I. Joe: The Rise of Cobra,1064,Action,10
+3580,G.I. Joe: The Rise of Cobra,1064,Sci-Fi,13
+3581,Mortal Kombat,1066,Adventure,4
+3582,Mortal Kombat,1066,Action,10
+3583,Mortal Kombat,1066,Fantasy,12
+3584,Snow Day,1077,Adventure,4
+3585,Snow Day,1077,Comedy,5
+3586,Snow Day,1077,Family,6
+3587,X-Men: Apocalypse,1081,Adventure,4
+3588,X-Men: Apocalypse,1081,Action,10
+3589,X-Men: Apocalypse,1081,Sci-Fi,13
+3590,Jumanji: The Next Level,1103,Adventure,4
+3591,Jumanji: The Next Level,1103,Comedy,5
+3592,Jumanji: The Next Level,1103,Action,10
+3593,The Adam Project,1107,Adventure,4
+3594,The Adam Project,1107,Comedy,5
+3595,The Adam Project,1107,Action,10
+3596,2012,1110,Adventure,4
+3597,2012,1110,Action,10
+3598,2012,1110,Sci-Fi,13
+3599,The Hobbit: The Battle of the Five Armies,1115,Adventure,4
+3600,The Hobbit: The Battle of the Five Armies,1115,Fantasy,12
+3601,Fantastic Four,1122,Adventure,4
+3602,Fantastic Four,1122,Action,10
+3603,Fantastic Four,1122,Sci-Fi,13
+3604,Iron Man 3,1125,Adventure,4
+3605,Iron Man 3,1125,Action,10
+3606,Iron Man 3,1125,Sci-Fi,13
+3607,Spider-Man: Far from Home,1144,Adventure,4
+3608,Spider-Man: Far from Home,1144,Comedy,5
+3609,Spider-Man: Far from Home,1144,Action,10
+3610,The Man from U.N.C.L.E.,1145,Adventure,4
+3611,The Man from U.N.C.L.E.,1145,Comedy,5
+3612,The Man from U.N.C.L.E.,1145,Action,10
+3613,Men in Black II,1146,Adventure,4
+3614,Men in Black II,1146,Comedy,5
+3615,Men in Black II,1146,Action,10
+3616,Austin Powers: International Man of Mystery,1147,Adventure,4
+3617,Austin Powers: International Man of Mystery,1147,Comedy,5
+3618,Hercules,1148,Adventure,4
+3619,Hercules,1148,Adventure,4
+3620,Hercules,1148,Comedy,5
+3621,Hercules,1148,Action,10
+3622,Hercules,1148,Fantasy,12
+3623,Hercules,1148,Animation,15
+3624,The Chronicles of Narnia: Prince Caspian,1150,Adventure,4
+3625,The Chronicles of Narnia: Prince Caspian,1150,Family,6
+3626,The Chronicles of Narnia: Prince Caspian,1150,Action,10
+3627,Toy Story 3,1167,Adventure,4
+3628,Toy Story 3,1167,Comedy,5
+3629,Toy Story 3,1167,Animation,15
+3630,Austin Powers in Goldmember,1170,Adventure,4
+3631,Austin Powers in Goldmember,1170,Comedy,5
+3632,Austin Powers in Goldmember,1170,Action,10
+3633,X-Men: Days of Future Past,1171,Adventure,4
+3634,X-Men: Days of Future Past,1171,Action,10
+3635,X-Men: Days of Future Past,1171,Sci-Fi,13
+3636,Turning Red,1178,Adventure,4
+3637,Turning Red,1178,Comedy,5
+3638,Turning Red,1178,Animation,15
+3639,Star Wars: Episode II - Attack of the Clones,1189,Adventure,4
+3640,Star Wars: Episode II - Attack of the Clones,1189,Action,10
+3641,Star Wars: Episode II - Attack of the Clones,1189,Fantasy,12
+3642,Spider-Man 3,1191,Adventure,4
+3643,Spider-Man 3,1191,Action,10
+3644,Spider-Man 3,1191,Sci-Fi,13
+3645,Toy Story 4,1195,Adventure,4
+3646,Toy Story 4,1195,Comedy,5
+3647,Toy Story 4,1195,Animation,15
+3648,Monty Python and the Holy Grail,1197,Adventure,4
+3649,Monty Python and the Holy Grail,1197,Comedy,5
+3650,Monty Python and the Holy Grail,1197,Fantasy,12
+3651,Pirates of the Caribbean: On Stranger Tides,1198,Adventure,4
+3652,Pirates of the Caribbean: On Stranger Tides,1198,Action,10
+3653,Pirates of the Caribbean: On Stranger Tides,1198,Fantasy,12
+3654,Riddick,1200,Adventure,4
+3655,Riddick,1200,Action,10
+3656,Riddick,1200,Sci-Fi,13
+3657,Pirates of the Caribbean: At World's End,1201,Adventure,4
+3658,Pirates of the Caribbean: At World's End,1201,Action,10
+3659,Pirates of the Caribbean: At World's End,1201,Fantasy,12
+3660,Game Night,1205,Adventure,4
+3661,Game Night,1205,Comedy,5
+3662,Game Night,1205,Action,10
+3663,Sonic the Hedgehog 2,1212,Adventure,4
+3664,Sonic the Hedgehog 2,1212,Comedy,5
+3665,Sonic the Hedgehog 2,1212,Action,10
+3666,I Am Number Four,1220,Adventure,4
+3667,I Am Number Four,1220,Action,10
+3668,I Am Number Four,1220,Sci-Fi,13
+3669,The Amazing Spider-Man 2,1236,Adventure,4
+3670,The Amazing Spider-Man 2,1236,Action,10
+3671,The Amazing Spider-Man 2,1236,Sci-Fi,13
+3672,The Lost World: Jurassic Park,1241,Adventure,4
+3673,The Lost World: Jurassic Park,1241,Action,10
+3674,The Lost World: Jurassic Park,1241,Sci-Fi,13
+3675,Rat Race,1242,Adventure,4
+3676,Rat Race,1242,Comedy,5
+3677,Rat Race,1242,Action,10
+3678,Sausage Party,1245,Adventure,4
+3679,Sausage Party,1245,Comedy,5
+3680,Sausage Party,1245,Animation,15
+3681,Men in Black 3,1253,Adventure,4
+3682,Men in Black 3,1253,Comedy,5
+3683,Men in Black 3,1253,Action,10
+3684,Moonraker,1254,Adventure,4
+3685,Moonraker,1254,Action,10
+3686,Moonraker,1254,Sci-Fi,13
+3687,Ender's Game,1268,Adventure,4
+3688,Ender's Game,1268,Action,10
+3689,Ender's Game,1268,Sci-Fi,13
+3690,The Predator,1269,Adventure,4
+3691,The Predator,1269,Action,10
+3692,The Predator,1269,Horror,16
+3693,The Chronicles of Riddick,1277,Adventure,4
+3694,The Chronicles of Riddick,1277,Action,10
+3695,The Chronicles of Riddick,1277,Sci-Fi,13
+3696,Dora and the Lost City of Gold,1284,Adventure,4
+3697,Dora and the Lost City of Gold,1284,Comedy,5
+3698,Dora and the Lost City of Gold,1284,Action,10
+3699,Fast & Furious 6,1290,Adventure,4
+3700,Fast & Furious 6,1290,Crime,8
+3701,Fast & Furious 6,1290,Action,10
+3702,Big Trouble in Little China,1291,Adventure,4
+3703,Big Trouble in Little China,1291,Comedy,5
+3704,Big Trouble in Little China,1291,Action,10
+3705,The Counselor,1301,Adventure,4
+3706,The Counselor,1301,Crime,8
+3707,The Counselor,1301,Action,10
+3708,Madagascar,1307,Adventure,4
+3709,Madagascar,1307,Comedy,5
+3710,Madagascar,1307,Animation,15
+3711,Escape from New York,1312,Adventure,4
+3712,Escape from New York,1312,Action,10
+3713,Escape from New York,1312,Sci-Fi,13
+3714,"O Brother, Where Art Thou?",1313,Adventure,4
+3715,"O Brother, Where Art Thou?",1313,Comedy,5
+3716,"O Brother, Where Art Thou?",1313,Crime,8
+3717,Spaceballs,1315,Adventure,4
+3718,Spaceballs,1315,Comedy,5
+3719,Spaceballs,1315,Sci-Fi,13
+3720,Enola Holmes,1316,Adventure,4
+3721,Enola Holmes,1316,Crime,8
+3722,Enola Holmes,1316,Action,10
+3723,Fantastic Beasts: The Crimes of Grindelwald,1319,Adventure,4
+3724,Fantastic Beasts: The Crimes of Grindelwald,1319,Family,6
+3725,Fantastic Beasts: The Crimes of Grindelwald,1319,Fantasy,12
+3726,Terminator Salvation,1333,Adventure,4
+3727,Terminator Salvation,1333,Action,10
+3728,Terminator Salvation,1333,Sci-Fi,13
+3729,Teenage Mutant Ninja Turtles,1339,Adventure,4
+3730,Teenage Mutant Ninja Turtles,1339,Adventure,4
+3731,Teenage Mutant Ninja Turtles,1339,Comedy,5
+3732,Teenage Mutant Ninja Turtles,1339,Comedy,5
+3733,Teenage Mutant Ninja Turtles,1339,Action,10
+3734,Teenage Mutant Ninja Turtles,1339,Action,10
+3735,Shrek 2,1341,Adventure,4
+3736,Shrek 2,1341,Comedy,5
+3737,Shrek 2,1341,Animation,15
+3738,A Walk in the Woods,1343,Adventure,4
+3739,A Walk in the Woods,1343,Comedy,5
+3740,A Walk in the Woods,1343,Biography,11
+3741,Doctor Strange,1344,Adventure,4
+3742,Doctor Strange,1344,Action,10
+3743,Doctor Strange,1344,Fantasy,12
+3744,The Girl in the Spider's Web,1345,Adventure,4
+3745,The Girl in the Spider's Web,1345,Crime,8
+3746,The Girl in the Spider's Web,1345,Action,10
+3747,Hellboy,1354,Adventure,4
+3748,Hellboy,1354,Adventure,4
+3749,Hellboy,1354,Action,10
+3750,Hellboy,1354,Action,10
+3751,Hellboy,1354,Fantasy,12
+3752,Hellboy,1354,Fantasy,12
+3753,The Life Aquatic with Steve Zissou,1358,Adventure,4
+3754,The Life Aquatic with Steve Zissou,1358,Comedy,5
+3755,The Life Aquatic with Steve Zissou,1358,Action,10
+3756,The Emperor's New Groove,1368,Adventure,4
+3757,The Emperor's New Groove,1368,Comedy,5
+3758,The Emperor's New Groove,1368,Animation,15
+3759,The Mummy Returns,1369,Adventure,4
+3760,The Mummy Returns,1369,Action,10
+3761,The Mummy Returns,1369,Fantasy,12
+3762,Predators,1371,Adventure,4
+3763,Predators,1371,Action,10
+3764,Predators,1371,Fantasy,12
+3765,Adventures in Babysitting,1386,Adventure,4
+3766,Adventures in Babysitting,1386,Comedy,5
+3767,Adventures in Babysitting,1386,Crime,8
+3768,The Blues Brothers,1398,Adventure,4
+3769,The Blues Brothers,1398,Comedy,5
+3770,The Blues Brothers,1398,Action,10
+3771,Van Helsing,1400,Adventure,4
+3772,Van Helsing,1400,Action,10
+3773,Van Helsing,1400,Fantasy,12
+3774,Mad Max Beyond Thunderdome,1407,Adventure,4
+3775,Mad Max Beyond Thunderdome,1407,Action,10
+3776,Mad Max Beyond Thunderdome,1407,Sci-Fi,13
+3777,Tomb Raider,1412,Adventure,4
+3778,Tomb Raider,1412,Action,10
+3779,Tomb Raider,1412,Fantasy,12
+3780,Toy Story 2,1414,Adventure,4
+3781,Toy Story 2,1414,Comedy,5
+3782,Toy Story 2,1414,Animation,15
+3783,The Divergent Series: Insurgent,1415,Adventure,4
+3784,The Divergent Series: Insurgent,1415,Action,10
+3785,The Divergent Series: Insurgent,1415,Sci-Fi,13
+3786,The Three Musketeers,1419,Adventure,4
+3787,The Three Musketeers,1419,Action,10
+3788,The Three Musketeers,1419,Fantasy,12
+3789,Sonic the Hedgehog,1424,Adventure,4
+3790,Sonic the Hedgehog,1424,Comedy,5
+3791,Sonic the Hedgehog,1424,Action,10
+3792,Robin Hood: Men in Tights,1429,Adventure,4
+3793,Robin Hood: Men in Tights,1429,Comedy,5
+3794,Robin Hood: Men in Tights,1429,Musical,17
+3795,Crocodile Dundee II,1432,Adventure,4
+3796,Crocodile Dundee II,1432,Comedy,5
+3797,Crocodile Dundee II,1432,Action,10
+3798,Mulan,1435,Adventure,4
+3799,Mulan,1435,Comedy,5
+3800,Mulan,1435,Animation,15
+3801,Bumblebee,1437,Adventure,4
+3802,Bumblebee,1437,Action,10
+3803,Bumblebee,1437,Sci-Fi,13
+3804,Dark Phoenix,1443,Adventure,4
+3805,Dark Phoenix,1443,Action,10
+3806,Dark Phoenix,1443,Sci-Fi,13
+3807,The Princess and the Frog,1448,Adventure,4
+3808,The Princess and the Frog,1448,Comedy,5
+3809,The Princess and the Frog,1448,Animation,15
+3810,Trapped in Paradise,1453,Adventure,4
+3811,Trapped in Paradise,1453,Comedy,5
+3812,Trapped in Paradise,1453,Crime,8
+3813,The Dirty Dozen,1460,Adventure,4
+3814,The Dirty Dozen,1460,Action,10
+3815,The Dirty Dozen,1460,War,20
+3816,Peter Pan,1464,Adventure,4
+3817,Peter Pan,1464,Family,6
+3818,Peter Pan,1464,Fantasy,12
+3819,A Series of Unfortunate Events,1471,Adventure,4
+3820,A Series of Unfortunate Events,1471,Comedy,5
+3821,A Series of Unfortunate Events,1471,Family,6
+3822,Jurassic World: Fallen Kingdom,1472,Adventure,4
+3823,Jurassic World: Fallen Kingdom,1472,Action,10
+3824,Jurassic World: Fallen Kingdom,1472,Sci-Fi,13
+3825,A Very Harold & Kumar Christmas,1475,Adventure,4
+3826,A Very Harold & Kumar Christmas,1475,Comedy,5
+3827,Barbarella,1477,Adventure,4
+3828,Barbarella,1477,Comedy,5
+3829,Barbarella,1477,Fantasy,12
+3830,Despicable Me,1483,Adventure,4
+3831,Despicable Me,1483,Comedy,5
+3832,Despicable Me,1483,Animation,15
+3833,X-Men: The Last Stand,1487,Adventure,4
+3834,X-Men: The Last Stand,1487,Action,10
+3835,X-Men: The Last Stand,1487,Sci-Fi,13
+3836,The Incredible Hulk,1498,Adventure,4
+3837,The Incredible Hulk,1498,Action,10
+3838,The Incredible Hulk,1498,Sci-Fi,13
+3839,Incredibles 2,1502,Adventure,4
+3840,Incredibles 2,1502,Action,10
+3841,Incredibles 2,1502,Animation,15
+3842,Captain America: The Winter Soldier,1504,Adventure,4
+3843,Captain America: The Winter Soldier,1504,Action,10
+3844,Captain America: The Winter Soldier,1504,Sci-Fi,13
+3845,Inferno,1509,Adventure,4
+3846,Inferno,1509,Crime,8
+3847,Inferno,1509,Action,10
+3848,The Chronicles of Narnia: The Voyage of the Dawn Treader,1510,Adventure,4
+3849,The Chronicles of Narnia: The Voyage of the Dawn Treader,1510,Family,6
+3850,The Chronicles of Narnia: The Voyage of the Dawn Treader,1510,Fantasy,12
+3851,Super Mario Bros.,1512,Adventure,4
+3852,Super Mario Bros.,1512,Comedy,5
+3853,Super Mario Bros.,1512,Family,6
+3854,Terminator Genisys,1513,Adventure,4
+3855,Terminator Genisys,1513,Action,10
+3856,Terminator Genisys,1513,Sci-Fi,13
+3857,Big Hero 6,1519,Adventure,4
+3858,Big Hero 6,1519,Action,10
+3859,Big Hero 6,1519,Animation,15
+3860,In the Heart of the Sea,1532,Adventure,4
+3861,In the Heart of the Sea,1532,Action,10
+3862,In the Heart of the Sea,1532,Biography,11
+3863,Raya and the Last Dragon,1535,Adventure,4
+3864,Raya and the Last Dragon,1535,Action,10
+3865,Raya and the Last Dragon,1535,Animation,15
+3866,Who Framed Roger Rabbit,1543,Adventure,4
+3867,Who Framed Roger Rabbit,1543,Comedy,5
+3868,Who Framed Roger Rabbit,1543,Animation,15
+3869,The Hitchhiker's Guide to the Galaxy,1544,Adventure,4
+3870,The Hitchhiker's Guide to the Galaxy,1544,Comedy,5
+3871,The Hitchhiker's Guide to the Galaxy,1544,Sci-Fi,13
+3872,Now You See Me 2,1566,Adventure,4
+3873,Now You See Me 2,1566,Comedy,5
+3874,Now You See Me 2,1566,Action,10
+3875,The Golden Compass,1569,Adventure,4
+3876,The Golden Compass,1569,Family,6
+3877,The Golden Compass,1569,Fantasy,12
+3878,Percy Jackson: Sea of Monsters,1571,Adventure,4
+3879,Percy Jackson: Sea of Monsters,1571,Family,6
+3880,Percy Jackson: Sea of Monsters,1571,Fantasy,12
+3881,Back to the Future Part II,1572,Adventure,4
+3882,Back to the Future Part II,1572,Comedy,5
+3883,Back to the Future Part II,1572,Sci-Fi,13
+3884,Hotel Transylvania,1585,Adventure,4
+3885,Hotel Transylvania,1585,Comedy,5
+3886,Hotel Transylvania,1585,Animation,15
+3887,Epic Movie,1595,Adventure,4
+3888,Epic Movie,1595,Comedy,5
+3889,Epic Movie,1595,Fantasy,12
+3890,Tarzan,1596,Adventure,4
+3891,Tarzan,1596,Comedy,5
+3892,Tarzan,1596,Animation,15
+3893,Mortal Engines,1601,Adventure,4
+3894,Mortal Engines,1601,Action,10
+3895,Mortal Engines,1601,Fantasy,12
+3896,The Great Wall,1604,Adventure,4
+3897,The Great Wall,1604,Action,10
+3898,The Great Wall,1604,Fantasy,12
+3899,The Lego Movie,1612,Adventure,4
+3900,The Lego Movie,1612,Action,10
+3901,The Lego Movie,1612,Animation,15
+3902,Atlantis: The Lost Empire,1614,Adventure,4
+3903,Atlantis: The Lost Empire,1614,Action,10
+3904,Atlantis: The Lost Empire,1614,Animation,15
+3905,Brave,1615,Adventure,4
+3906,Brave,1615,Action,10
+3907,Brave,1615,Animation,15
+3908,How to Train Your Dragon: The Hidden World,1621,Adventure,4
+3909,How to Train Your Dragon: The Hidden World,1621,Action,10
+3910,How to Train Your Dragon: The Hidden World,1621,Animation,15
+3911,Jungle Cruise,1626,Adventure,4
+3912,Jungle Cruise,1626,Comedy,5
+3913,Jungle Cruise,1626,Action,10
+3914,Robots,1629,Adventure,4
+3915,Robots,1629,Comedy,5
+3916,Robots,1629,Animation,15
+3917,Taken 3,1633,Adventure,4
+3918,Taken 3,1633,Crime,8
+3919,Taken 3,1633,Action,10
+3920,Jupiter Ascending,1635,Adventure,4
+3921,Jupiter Ascending,1635,Action,10
+3922,Jupiter Ascending,1635,Sci-Fi,13
+3923,PokÃ©mon: Detective Pikachu,1640,Adventure,4
+3924,PokÃ©mon: Detective Pikachu,1640,Comedy,5
+3925,PokÃ©mon: Detective Pikachu,1640,Action,10
+3926,9,1647,Adventure,4
+3927,9,1647,Action,10
+3928,9,1647,Animation,15
+3929,Luca,1649,Adventure,4
+3930,Luca,1649,Comedy,5
+3931,Luca,1649,Animation,15
+3932,Independence Day: Resurgence,1653,Adventure,4
+3933,Independence Day: Resurgence,1653,Action,10
+3934,Independence Day: Resurgence,1653,Sci-Fi,13
+3935,Cars 2,1657,Adventure,4
+3936,Cars 2,1657,Comedy,5
+3937,Cars 2,1657,Animation,15
+3938,Star Trek Beyond,1660,Adventure,4
+3939,Star Trek Beyond,1660,Action,10
+3940,Star Trek Beyond,1660,Sci-Fi,13
+3941,John Carter,1663,Adventure,4
+3942,John Carter,1663,Action,10
+3943,John Carter,1663,Sci-Fi,13
+3944,Knight and Day,1672,Adventure,4
+3945,Knight and Day,1672,Comedy,5
+3946,Knight and Day,1672,Action,10
+3947,Bill & Ted's Excellent Adventure,1677,Adventure,4
+3948,Bill & Ted's Excellent Adventure,1677,Comedy,5
+3949,Bill & Ted's Excellent Adventure,1677,Music,14
+3950,Night at the Museum: Battle of the Smithsonian,1680,Adventure,4
+3951,Night at the Museum: Battle of the Smithsonian,1680,Comedy,5
+3952,Night at the Museum: Battle of the Smithsonian,1680,Family,6
+3953,Charlie's Angels,1681,Adventure,4
+3954,Charlie's Angels,1681,Comedy,5
+3955,Charlie's Angels,1681,Action,10
+3956,Spy Kids,1683,Adventure,4
+3957,Spy Kids,1683,Comedy,5
+3958,Spy Kids,1683,Action,10
+3959,Clash of the Titans,1689,Adventure,4
+3960,Clash of the Titans,1689,Action,10
+3961,Clash of the Titans,1689,Fantasy,12
+3962,Flash Gordon,1695,Adventure,4
+3963,Flash Gordon,1695,Action,10
+3964,Flash Gordon,1695,Sci-Fi,13
+3965,The Witches,1699,Adventure,4
+3966,The Witches,1699,Comedy,5
+3967,The Witches,1699,Family,6
+3968,Rampage,1702,Adventure,4
+3969,Rampage,1702,Action,10
+3970,Rampage,1702,Sci-Fi,13
+3971,Masters of the Universe,1712,Adventure,4
+3972,Masters of the Universe,1712,Action,10
+3973,Masters of the Universe,1712,Fantasy,12
+3974,The Jungle Book,1716,Adventure,4
+3975,The Jungle Book,1716,Action,10
+3976,The Jungle Book,1716,Animation,15
+3977,Transformers: Age of Extinction,1748,Adventure,4
+3978,Transformers: Age of Extinction,1748,Action,10
+3979,Transformers: Age of Extinction,1748,Sci-Fi,13
+3980,Candy Cane Lane,10,Comedy,5
+3981,Candy Cane Lane,10,Family,6
+3982,Candy Cane Lane,10,Fantasy,12
+3983,National Lampoon's Christmas Vacation,13,Comedy,5
+3984,The Family Plan,15,Comedy,5
+3985,The Family Plan,15,Action,10
+3986,Family Switch,17,Comedy,5
+3987,Family Switch,17,Family,6
+3988,How the Grinch Stole Christmas,20,Comedy,5
+3989,How the Grinch Stole Christmas,20,Family,6
+3990,How the Grinch Stole Christmas,20,Fantasy,12
+3991,Leo,23,Comedy,5
+3992,Leo,23,Family,6
+3993,Leo,23,Animation,15
+3994,The Grinch,25,Comedy,5
+3995,The Grinch,25,Family,6
+3996,The Grinch,25,Animation,15
+3997,The Holiday,41,Comedy,5
+3998,The Holiday,41,Romance,7
+3999,A Christmas Story,43,Comedy,5
+4000,A Christmas Story,43,Family,6
+4001,No Hard Feelings,48,Comedy,5
+4002,No Hard Feelings,48,Romance,7
+4003,Spirited,58,Comedy,5
+4004,Spirited,58,Family,6
+4005,Spirited,58,Musical,17
+4006,Dream Scenario,59,Comedy,5
+4007,Dream Scenario,59,Horror,16
+4008,Genie,68,Comedy,5
+4009,Genie,68,Fantasy,12
+4010,Gremlins,75,Comedy,5
+4011,Gremlins,75,Fantasy,12
+4012,Gremlins,75,Horror,16
+4013,The Wolf of Wall Street,77,Comedy,5
+4014,The Wolf of Wall Street,77,Crime,8
+4015,The Wolf of Wall Street,77,Biography,11
+4016,Merry Little Batman,79,Comedy,5
+4017,Merry Little Batman,79,Family,6
+4018,Merry Little Batman,79,Animation,15
+4019,Christmas with the Kranks,82,Comedy,5
+4020,Christmas with the Kranks,82,Family,6
+4021,The Santa Clause 2,84,Comedy,5
+4022,The Santa Clause 2,84,Family,6
+4023,The Santa Clause 2,84,Fantasy,12
+4024,Office Christmas Party,93,Comedy,5
+4025,Freelance,98,Comedy,5
+4026,Freelance,98,Action,10
+4027,Scott Pilgrim vs. the World,105,Comedy,5
+4028,Scott Pilgrim vs. the World,105,Action,10
+4029,Scott Pilgrim vs. the World,105,Fantasy,12
+4030,Krampus,110,Comedy,5
+4031,Krampus,110,Fantasy,12
+4032,Krampus,110,Horror,16
+4033,Beverly Hills Cop,115,Comedy,5
+4034,Beverly Hills Cop,115,Crime,8
+4035,Beverly Hills Cop,115,Action,10
+4036,Deck the Halls,120,Comedy,5
+4037,Deck the Halls,120,Family,6
+4038,Bottoms,121,Comedy,5
+4039,A Christmas Story Christmas,130,Comedy,5
+4040,A Christmas Story Christmas,130,Family,6
+4041,Mean Girls,152,Comedy,5
+4042,She's All That,154,Comedy,5
+4043,She's All That,154,Romance,7
+4044,The Rocky Horror Picture Show,161,Comedy,5
+4045,The Rocky Horror Picture Show,161,Horror,16
+4046,The Rocky Horror Picture Show,161,Musical,17
+4047,Old Dads,170,Comedy,5
+4048,Fred Claus,183,Comedy,5
+4049,Fred Claus,183,Family,6
+4050,Fred Claus,183,Fantasy,12
+4051,Eight Crazy Nights,185,Comedy,5
+4052,Eight Crazy Nights,185,Animation,15
+4053,Eight Crazy Nights,185,Musical,17
+4054,The Night Before,194,Comedy,5
+4055,The Night Before,194,Fantasy,12
+4056,Noelle,202,Comedy,5
+4057,Noelle,202,Family,6
+4058,Noelle,202,Fantasy,12
+4059,American Pie,215,Comedy,5
+4060,Please Don't Destroy: The Treasure of Foggy Mountain,221,Comedy,5
+4061,The Big Lebowski,225,Comedy,5
+4062,The Big Lebowski,225,Crime,8
+4063,Holidate,236,Comedy,5
+4064,Holidate,236,Romance,7
+4065,Joy Ride,247,Comedy,5
+4066,Trading Places,253,Comedy,5
+4067,Some Like It Hot,265,Comedy,5
+4068,Some Like It Hot,265,Romance,7
+4069,Some Like It Hot,265,Music,14
+4070,Love Hard,267,Comedy,5
+4071,Love Hard,267,Romance,7
+4072,We're the Millers,270,Comedy,5
+4073,We're the Millers,270,Crime,8
+4074,Theater Camp,273,Comedy,5
+4075,She's the Man,314,Comedy,5
+4076,She's the Man,314,Romance,7
+4077,She's the Man,314,Sport,19
+4078,Tropic Thunder,317,Comedy,5
+4079,Tropic Thunder,317,Action,10
+4080,Tropic Thunder,317,War,20
+4081,Christmas in Connecticut,321,Comedy,5
+4082,Christmas in Connecticut,321,Romance,7
+4083,Totally Killer,328,Comedy,5
+4084,Totally Killer,328,Horror,16
+4085,Pretty Woman,332,Comedy,5
+4086,Pretty Woman,332,Romance,7
+4087,Renfield,333,Comedy,5
+4088,Renfield,333,Fantasy,12
+4089,Renfield,333,Horror,16
+4090,Happiest Season,334,Comedy,5
+4091,Happiest Season,334,Romance,7
+4092,Superbad,341,Comedy,5
+4093,Ghostbusters,342,Comedy,5
+4094,Ghostbusters,342,Action,10
+4095,Ghostbusters,342,Fantasy,12
+4096,Good Burger 2,348,Comedy,5
+4097,Good Burger 2,348,Family,6
+4098,8-Bit Christmas,353,Comedy,5
+4099,8-Bit Christmas,353,Family,6
+4100,Mr. & Mrs. Smith,355,Comedy,5
+4101,Mr. & Mrs. Smith,355,Crime,8
+4102,Mr. & Mrs. Smith,355,Action,10
+4103,Deadpool,366,Comedy,5
+4104,Deadpool,366,Action,10
+4105,Ready or Not,370,Comedy,5
+4106,Ready or Not,370,Action,10
+4107,Ready or Not,370,Horror,16
+4108,Birds of Prey,379,Comedy,5
+4109,Birds of Prey,379,Crime,8
+4110,Birds of Prey,379,Action,10
+4111,Dazed and Confused,393,Comedy,5
+4112,Home Sweet Home Alone,400,Comedy,5
+4113,Home Sweet Home Alone,400,Family,6
+4114,Home Sweet Home Alone,400,Crime,8
+4115,A Bad Moms Christmas,405,Comedy,5
+4116,National Lampoon's Animal House,425,Comedy,5
+4117,The Hangover,432,Comedy,5
+4118,Falling for Christmas,445,Comedy,5
+4119,Falling for Christmas,445,Romance,7
+4120,Surviving Christmas,454,Comedy,5
+4121,Surviving Christmas,454,Romance,7
+4122,Encanto,467,Comedy,5
+4123,Encanto,467,Family,6
+4124,Encanto,467,Animation,15
+4125,Uncle Buck,476,Comedy,5
+4126,The Other Guys,477,Comedy,5
+4127,The Other Guys,477,Crime,8
+4128,The Other Guys,477,Action,10
+4129,Snatch,480,Comedy,5
+4130,Snatch,480,Crime,8
+4131,Sing,486,Comedy,5
+4132,Sing,486,Family,6
+4133,Sing,486,Animation,15
+4134,The Unbearable Weight of Massive Talent,492,Comedy,5
+4135,The Unbearable Weight of Massive Talent,492,Crime,8
+4136,The Unbearable Weight of Massive Talent,492,Action,10
+4137,Matilda,501,Comedy,5
+4138,Matilda,501,Family,6
+4139,Matilda,501,Fantasy,12
+4140,"Red, White & Royal Blue",503,Comedy,5
+4141,"Red, White & Royal Blue",503,Romance,7
+4142,Baywatch,507,Comedy,5
+4143,Baywatch,507,Crime,8
+4144,Baywatch,507,Action,10
+4145,BlacKkKlansman,521,Comedy,5
+4146,BlacKkKlansman,521,Crime,8
+4147,BlacKkKlansman,521,Biography,11
+4148,What Happens Later,525,Comedy,5
+4149,What Happens Later,525,Romance,7
+4150,Quiz Lady,538,Comedy,5
+4151,13 Going on 30,550,Comedy,5
+4152,13 Going on 30,550,Romance,7
+4153,13 Going on 30,550,Fantasy,12
+4154,Serendipity,551,Comedy,5
+4155,Serendipity,551,Romance,7
+4156,Beetlejuice,553,Comedy,5
+4157,Beetlejuice,553,Fantasy,12
+4158,The Nice Guys,557,Comedy,5
+4159,The Nice Guys,557,Crime,8
+4160,The Nice Guys,557,Action,10
+4161,Not Another Teen Movie,559,Comedy,5
+4162,Jennifer's Body,564,Comedy,5
+4163,Jennifer's Body,564,Horror,16
+4164,Just Friends,566,Comedy,5
+4165,Just Friends,566,Romance,7
+4166,Let It Snow,574,Comedy,5
+4167,Let It Snow,574,Romance,7
+4168,An American Pickle,582,Comedy,5
+4169,An American Pickle,582,Fantasy,12
+4170,The Mean One,585,Comedy,5
+4171,The Mean One,585,Horror,16
+4172,Smokin' Aces,587,Comedy,5
+4173,Smokin' Aces,587,Crime,8
+4174,Smokin' Aces,587,Action,10
+4175,The Lost Boys,590,Comedy,5
+4176,The Lost Boys,590,Horror,16
+4177,Love the Coopers,591,Comedy,5
+4178,Love the Coopers,591,Romance,7
+4179,Love the Coopers,591,Fantasy,12
+4180,It Happened on Fifth Avenue,624,Comedy,5
+4181,It Happened on Fifth Avenue,624,Romance,7
+4182,It Happened on Fifth Avenue,624,Music,14
+4183,My Cousin Vinny,625,Comedy,5
+4184,My Cousin Vinny,625,Crime,8
+4185,Step Brothers,635,Comedy,5
+4186,Vegas Vacation,644,Comedy,5
+4187,Grease,661,Comedy,5
+4188,Grease,661,Romance,7
+4189,Grease,661,Musical,17
+4190,Ferris Bueller's Day Off,662,Comedy,5
+4191,"What's Up, Doc?",663,Comedy,5
+4192,"What's Up, Doc?",663,Romance,7
+4193,Beverly Hills Cop III,670,Comedy,5
+4194,Beverly Hills Cop III,670,Crime,8
+4195,Beverly Hills Cop III,670,Action,10
+4196,Ted,674,Comedy,5
+4197,Daddy's Home 2,685,Comedy,5
+4198,Fool's Paradise,695,Comedy,5
+4199,Ernest Saves Christmas,703,Comedy,5
+4200,Ernest Saves Christmas,703,Family,6
+4201,Ernest Saves Christmas,703,Fantasy,12
+4202,Office Space,708,Comedy,5
+4203,The Mask,723,Comedy,5
+4204,The Mask,723,Crime,8
+4205,The Mask,723,Action,10
+4206,Airplane!,727,Comedy,5
+4207,Mamma Mia! Here We Go Again,751,Comedy,5
+4208,Mamma Mia! Here We Go Again,751,Romance,7
+4209,Mamma Mia! Here We Go Again,751,Musical,17
+4210,Clueless,754,Comedy,5
+4211,Clueless,754,Romance,7
+4212,Airheads,757,Comedy,5
+4213,Airheads,757,Crime,8
+4214,Airheads,757,Music,14
+4215,Waiting...,760,Comedy,5
+4216,Something from Tiffany's,765,Comedy,5
+4217,Something from Tiffany's,765,Family,6
+4218,Something from Tiffany's,765,Romance,7
+4219,Pitch Perfect,777,Comedy,5
+4220,Pitch Perfect,777,Romance,7
+4221,Pitch Perfect,777,Music,14
+4222,Sixteen Candles,792,Comedy,5
+4223,Sixteen Candles,792,Romance,7
+4224,The Witches of Eastwick,803,Comedy,5
+4225,The Witches of Eastwick,803,Fantasy,12
+4226,The Witches of Eastwick,803,Horror,16
+4227,Weird: The Al Yankovic Story,812,Comedy,5
+4228,Weird: The Al Yankovic Story,812,Crime,8
+4229,Weird: The Al Yankovic Story,812,Music,14
+4230,Scary Movie,814,Comedy,5
+4231,The Out-Laws,818,Comedy,5
+4232,The Out-Laws,818,Crime,8
+4233,The Out-Laws,818,Action,10
+4234,Mamma Mia!,821,Comedy,5
+4235,Mamma Mia!,821,Romance,7
+4236,Mamma Mia!,821,Musical,17
+4237,Beverly Hills Cop II,827,Comedy,5
+4238,Beverly Hills Cop II,827,Crime,8
+4239,Beverly Hills Cop II,827,Action,10
+4240,Gremlins 2: The New Batch,832,Comedy,5
+4241,Gremlins 2: The New Batch,832,Fantasy,12
+4242,Gremlins 2: The New Batch,832,Horror,16
+4243,Dumb and Dumber,837,Comedy,5
+4244,Book Club: The Next Chapter,864,Comedy,5
+4245,Legally Blonde,869,Comedy,5
+4246,Legally Blonde,869,Romance,7
+4247,Sky High,870,Comedy,5
+4248,Sky High,870,Family,6
+4249,Sky High,870,Action,10
+4250,School of Rock,876,Comedy,5
+4251,School of Rock,876,Music,14
+4252,Talladega Nights: The Ballad of Ricky Bobby,886,Comedy,5
+4253,Talladega Nights: The Ballad of Ricky Bobby,886,Sport,19
+4254,Better Off Dead...,895,Comedy,5
+4255,Better Off Dead...,895,Romance,7
+4256,White Chicks,903,Comedy,5
+4257,White Chicks,903,Crime,8
+4258,Napoleon Dynamite,909,Comedy,5
+4259,EuroTrip,918,Comedy,5
+4260,Just Go with It,931,Comedy,5
+4261,Just Go with It,931,Romance,7
+4262,Mary Poppins,942,Comedy,5
+4263,Mary Poppins,942,Family,6
+4264,Mary Poppins,942,Fantasy,12
+4265,You Are So Not Invited to My Bat Mitzvah,947,Comedy,5
+4266,"Lock, Stock and Two Smoking Barrels",982,Comedy,5
+4267,"Lock, Stock and Two Smoking Barrels",982,Crime,8
+4268,"Lock, Stock and Two Smoking Barrels",982,Action,10
+4269,The Rocker,987,Comedy,5
+4270,The Rocker,987,Music,14
+4271,Hot Tub Time Machine,1002,Comedy,5
+4272,Hot Tub Time Machine,1002,Sci-Fi,13
+4273,That's My Boy,1004,Comedy,5
+4274,Kick-Ass,1008,Comedy,5
+4275,Kick-Ass,1008,Crime,8
+4276,Kick-Ass,1008,Action,10
+4277,Hit Man,1013,Comedy,5
+4278,Hit Man,1013,Action,10
+4279,Dodgeball: A True Underdog Story,1018,Comedy,5
+4280,Dodgeball: A True Underdog Story,1018,Sport,19
+4281,Shaun of the Dead,1021,Comedy,5
+4282,Shaun of the Dead,1021,Horror,16
+4283,Piranha 3D,1023,Comedy,5
+4284,Piranha 3D,1023,Horror,16
+4285,What We Do in the Shadows,1024,Comedy,5
+4286,What We Do in the Shadows,1024,Horror,16
+4287,Tusk,1025,Comedy,5
+4288,Tusk,1025,Horror,16
+4289,Weird Science,1035,Comedy,5
+4290,Weird Science,1035,Romance,7
+4291,Weird Science,1035,Sci-Fi,13
+4292,The Addams Family,1042,Comedy,5
+4293,The Addams Family,1042,Fantasy,12
+4294,Chicago,1043,Comedy,5
+4295,Chicago,1043,Crime,8
+4296,Chicago,1043,Musical,17
+4297,Friends with Benefits,1044,Comedy,5
+4298,Friends with Benefits,1044,Romance,7
+4299,About My Father,1049,Comedy,5
+4300,Daddy's Home,1067,Comedy,5
+4301,Daddy's Home,1067,Family,6
+4302,Zombieland,1068,Comedy,5
+4303,Zombieland,1068,Action,10
+4304,Zombieland,1068,Horror,16
+4305,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1078,Comedy,5
+4306,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1078,War,20
+4307,Ace Ventura: Pet Detective,1084,Comedy,5
+4308,Rush Hour,1089,Comedy,5
+4309,Rush Hour,1089,Crime,8
+4310,Rush Hour,1089,Action,10
+4311,The Replacements,1109,Comedy,5
+4312,The Replacements,1109,Sport,19
+4313,Caddyshack,1113,Comedy,5
+4314,Caddyshack,1113,Sport,19
+4315,Valentine's Day,1120,Comedy,5
+4316,Valentine's Day,1120,Romance,7
+4317,The 40-Year-Old Virgin,1128,Comedy,5
+4318,The 40-Year-Old Virgin,1128,Romance,7
+4319,Bridesmaids,1130,Comedy,5
+4320,RED,1132,Comedy,5
+4321,RED,1132,Crime,8
+4322,RED,1132,Action,10
+4323,Borat,1140,Comedy,5
+4324,Logan Lucky,1143,Comedy,5
+4325,Logan Lucky,1143,Crime,8
+4326,Logan Lucky,1143,Action,10
+4327,The Great Outdoors,1149,Comedy,5
+4328,The Little Rascals,1151,Comedy,5
+4329,The Little Rascals,1151,Family,6
+4330,The Little Rascals,1151,Romance,7
+4331,Ticket to Paradise,1181,Comedy,5
+4332,Ticket to Paradise,1181,Romance,7
+4333,Bring It On,1182,Comedy,5
+4334,Bring It On,1182,Romance,7
+4335,Bring It On,1182,Sport,19
+4336,Happy Gilmore,1186,Comedy,5
+4337,Happy Gilmore,1186,Sport,19
+4338,This Is the End,1187,Comedy,5
+4339,This Is the End,1187,Fantasy,12
+4340,Grown Ups,1192,Comedy,5
+4341,Ocean's Eight,1204,Comedy,5
+4342,Ocean's Eight,1204,Crime,8
+4343,Ocean's Eight,1204,Action,10
+4344,That Awkward Moment,1207,Comedy,5
+4345,That Awkward Moment,1207,Romance,7
+4346,Movie 43,1208,Comedy,5
+4347,"Love, Rosie",1226,Comedy,5
+4348,"Love, Rosie",1226,Romance,7
+4349,21 Jump Street,1233,Comedy,5
+4350,21 Jump Street,1233,Crime,8
+4351,21 Jump Street,1233,Action,10
+4352,Blazing Saddles,1234,Comedy,5
+4353,Blazing Saddles,1234,Western,21
+4354,Good Burger,1240,Comedy,5
+4355,Good Burger,1240,Family,6
+4356,Mafia Mamma,1247,Comedy,5
+4357,Mafia Mamma,1247,Crime,8
+4358,Mafia Mamma,1247,Action,10
+4359,Mars Attacks!,1249,Comedy,5
+4360,Mars Attacks!,1249,Sci-Fi,13
+4361,You People,1252,Comedy,5
+4362,You People,1252,Romance,7
+4363,Cold Pursuit,1260,Comedy,5
+4364,Cold Pursuit,1260,Crime,8
+4365,Cold Pursuit,1260,Action,10
+4366,Police Academy,1265,Comedy,5
+4367,Heathers,1267,Comedy,5
+4368,Heathers,1267,Crime,8
+4369,Sex Drive,1270,Comedy,5
+4370,Sex Drive,1270,Romance,7
+4371,Anchorman: The Legend of Ron Burgundy,1273,Comedy,5
+4372,There's Something About Mary,1274,Comedy,5
+4373,There's Something About Mary,1274,Romance,7
+4374,Horrible Bosses,1276,Comedy,5
+4375,Horrible Bosses,1276,Crime,8
+4376,Career Opportunities,1289,Comedy,5
+4377,Career Opportunities,1289,Romance,7
+4378,The Change-Up,1295,Comedy,5
+4379,The Change-Up,1295,Fantasy,12
+4380,Midnight Run,1297,Comedy,5
+4381,Midnight Run,1297,Crime,8
+4382,Midnight Run,1297,Action,10
+4383,Mallrats,1309,Comedy,5
+4384,Mallrats,1309,Romance,7
+4385,Overboard,1314,Comedy,5
+4386,Overboard,1314,Romance,7
+4387,The Machine,1320,Comedy,5
+4388,The Machine,1320,Action,10
+4389,Willy's Wonderland,1328,Comedy,5
+4390,Willy's Wonderland,1328,Action,10
+4391,Willy's Wonderland,1328,Horror,16
+4392,Singin' in the Rain,1331,Comedy,5
+4393,Singin' in the Rain,1331,Romance,7
+4394,Singin' in the Rain,1331,Musical,17
+4395,Wedding Crashers,1346,Comedy,5
+4396,Wedding Crashers,1346,Romance,7
+4397,Road Trip,1350,Comedy,5
+4398,Coming to America,1352,Comedy,5
+4399,Coming to America,1352,Romance,7
+4400,Ghostbusters II,1364,Comedy,5
+4401,Ghostbusters II,1364,Action,10
+4402,Ghostbusters II,1364,Fantasy,12
+4403,Sister Act 2: Back in the Habit,1366,Comedy,5
+4404,Sister Act 2: Back in the Habit,1366,Family,6
+4405,Sister Act 2: Back in the Habit,1366,Music,14
+4406,Knocked Up,1372,Comedy,5
+4407,Knocked Up,1372,Romance,7
+4408,Old School,1376,Comedy,5
+4409,The Princess Diaries,1377,Comedy,5
+4410,The Princess Diaries,1377,Family,6
+4411,The Princess Diaries,1377,Romance,7
+4412,Porky's,1381,Comedy,5
+4413,The Waterboy,1383,Comedy,5
+4414,The Waterboy,1383,Sport,19
+4415,How to Lose a Guy in 10 Days,1384,Comedy,5
+4416,How to Lose a Guy in 10 Days,1384,Romance,7
+4417,Young Frankenstein,1393,Comedy,5
+4418,This Is Spinal Tap,1394,Comedy,5
+4419,This Is Spinal Tap,1394,Music,14
+4420,Zoolander,1405,Comedy,5
+4421,Life of the Party,1406,Comedy,5
+4422,Long Shot,1411,Comedy,5
+4423,Long Shot,1411,Romance,7
+4424,Billy Madison,1420,Comedy,5
+4425,Booksmart,1430,Comedy,5
+4426,Midnight in Paris,1438,Comedy,5
+4427,Midnight in Paris,1438,Romance,7
+4428,Midnight in Paris,1438,Fantasy,12
+4429,Casper,1442,Comedy,5
+4430,Casper,1442,Family,6
+4431,Casper,1442,Fantasy,12
+4432,Liar Liar,1444,Comedy,5
+4433,Liar Liar,1444,Fantasy,12
+4434,Hall Pass,1445,Comedy,5
+4435,Hall Pass,1445,Romance,7
+4436,The Hitman's Bodyguard,1451,Comedy,5
+4437,The Hitman's Bodyguard,1451,Crime,8
+4438,The Hitman's Bodyguard,1451,Action,10
+4439,Addams Family Values,1456,Comedy,5
+4440,Addams Family Values,1456,Fantasy,12
+4441,The Dictator,1459,Comedy,5
+4442,The House Bunny,1462,Comedy,5
+4443,Army of Thieves,1469,Comedy,5
+4444,Army of Thieves,1469,Crime,8
+4445,Army of Thieves,1469,Action,10
+4446,Flora and Son,1479,Comedy,5
+4447,Flora and Son,1479,Romance,7
+4448,Flora and Son,1479,Music,14
+4449,Blended,1495,Comedy,5
+4450,Blended,1495,Romance,7
+4451,Bedazzled,1503,Comedy,5
+4452,Bedazzled,1503,Fantasy,12
+4453,Grown Ups 2,1514,Comedy,5
+4454,"Me, Myself & Irene",1515,Comedy,5
+4455,Sweet Home Alabama,1518,Comedy,5
+4456,Sweet Home Alabama,1518,Romance,7
+4457,Bad Boys,1522,Comedy,5
+4458,Bad Boys,1522,Crime,8
+4459,Bad Boys,1522,Action,10
+4460,Spy,1525,Comedy,5
+4461,Spy,1525,Action,10
+4462,An American Werewolf in London,1528,Comedy,5
+4463,An American Werewolf in London,1528,Horror,16
+4464,War Dogs,1529,Comedy,5
+4465,War Dogs,1529,Crime,8
+4466,War Dogs,1529,Biography,11
+4467,Life of Brian,1534,Comedy,5
+4468,Zombieland: Double Tap,1550,Comedy,5
+4469,Zombieland: Double Tap,1550,Action,10
+4470,Zombieland: Double Tap,1550,Horror,16
+4471,The Wedding Singer,1556,Comedy,5
+4472,The Wedding Singer,1556,Romance,7
+4473,The Wedding Singer,1556,Music,14
+4474,Pixels,1558,Comedy,5
+4475,Pixels,1558,Action,10
+4476,Pixels,1558,Fantasy,12
+4477,The Toxic Avenger,1565,Comedy,5
+4478,The Toxic Avenger,1565,Action,10
+4479,The Toxic Avenger,1565,Horror,16
+4480,Megamind,1567,Comedy,5
+4481,Megamind,1567,Action,10
+4482,Megamind,1567,Animation,15
+4483,Bruce Almighty,1580,Comedy,5
+4484,Bruce Almighty,1580,Fantasy,12
+4485,Couples Retreat,1583,Comedy,5
+4486,Kazaam,1584,Comedy,5
+4487,Kazaam,1584,Family,6
+4488,Kazaam,1584,Fantasy,12
+4489,Marry Me,1586,Comedy,5
+4490,Marry Me,1586,Romance,7
+4491,Marry Me,1586,Music,14
+4492,Project X,1592,Comedy,5
+4493,The Whole Nine Yards,1594,Comedy,5
+4494,The Whole Nine Yards,1594,Crime,8
+4495,A Fish Called Wanda,1599,Comedy,5
+4496,A Fish Called Wanda,1599,Crime,8
+4497,Christmas with You,1608,Comedy,5
+4498,Christmas with You,1608,Family,6
+4499,Christmas with You,1608,Romance,7
+4500,Bad Moms,1613,Comedy,5
+4501,Ted 2,1623,Comedy,5
+4502,Norbit,1630,Comedy,5
+4503,Norbit,1630,Romance,7
+4504,Yesterday,1636,Comedy,5
+4505,Yesterday,1636,Fantasy,12
+4506,Yesterday,1636,Music,14
+4507,Real Genius,1642,Comedy,5
+4508,Real Genius,1642,Romance,7
+4509,Real Genius,1642,Sci-Fi,13
+4510,The Birdcage,1648,Comedy,5
+4511,Maybe I Do,1659,Comedy,5
+4512,Maybe I Do,1659,Romance,7
+4513,Scary Movie 2,1666,Comedy,5
+4514,Scary Movie 2,1666,Horror,16
+4515,Back to School,1685,Comedy,5
+4516,Back to School,1685,Romance,7
+4517,Back to School,1685,Sport,19
+4518,Bananas,1686,Comedy,5
+4519,Bad Teacher,1696,Comedy,5
+4520,Bad Teacher,1696,Romance,7
+4521,Wayne's World,1704,Comedy,5
+4522,Wayne's World,1704,Music,14
+4523,Father of the Bride,1711,Comedy,5
+4524,Father of the Bride,1711,Family,6
+4525,Father of the Bride,1711,Romance,7
+4526,Death Becomes Her,1714,Comedy,5
+4527,Death Becomes Her,1714,Fantasy,12
+4528,Death Becomes Her,1714,Horror,16
+4529,Raising Arizona,1721,Comedy,5
+4530,Raising Arizona,1721,Crime,8
+4531,Anna and the Apocalypse,1722,Comedy,5
+4532,Anna and the Apocalypse,1722,Horror,16
+4533,Anna and the Apocalypse,1722,Musical,17
+4534,Sex Tape,1723,Comedy,5
+4535,Sex Tape,1723,Romance,7
+4536,Richie Rich,1736,Comedy,5
+4537,Richie Rich,1736,Family,6
+4538,American Made,1753,Comedy,5
+4539,American Made,1753,Crime,8
+4540,American Made,1753,Action,10
+4541,Willy Wonka & the Chocolate Factory,44,Family,6
+4542,Willy Wonka & the Chocolate Factory,44,Fantasy,12
+4543,Willy Wonka & the Chocolate Factory,44,Musical,17
+4544,The Nightmare Before Christmas,119,Family,6
+4545,The Nightmare Before Christmas,119,Fantasy,12
+4546,The Nightmare Before Christmas,119,Animation,15
+4547,Jingle Jangle: A Christmas Journey,851,Family,6
+4548,Jingle Jangle: A Christmas Journey,851,Fantasy,12
+4549,Jingle Jangle: A Christmas Journey,851,Musical,17
+4550,The Nutcracker: The Untold Story,971,Family,6
+4551,The Nutcracker: The Untold Story,971,Action,10
+4552,The Nutcracker: The Untold Story,971,Fantasy,12
+4553,Greater,1283,Family,6
+4554,Greater,1283,Biography,11
+4555,Greater,1283,Sport,19
+4556,Natural Born Killers,1075,Romance,7
+4557,Natural Born Killers,1075,Crime,8
+4558,Natural Born Killers,1075,Action,10
+4559,The Gentlemen,148,Crime,8
+4560,The Gentlemen,148,Action,10
+4561,From Dusk Till Dawn,388,Crime,8
+4562,From Dusk Till Dawn,388,Action,10
+4563,From Dusk Till Dawn,388,Horror,16
+4564,RoboCop,418,Crime,8
+4565,RoboCop,418,Crime,8
+4566,RoboCop,418,Action,10
+4567,RoboCop,418,Action,10
+4568,RoboCop,418,Sci-Fi,13
+4569,RoboCop,418,Sci-Fi,13
+4570,A Clockwork Orange,466,Crime,8
+4571,A Clockwork Orange,466,Sci-Fi,13
+4572,Batman Returns,522,Crime,8
+4573,Batman Returns,522,Action,10
+4574,Batman Returns,522,Fantasy,12
+4575,The Cell,677,Crime,8
+4576,The Cell,677,Sci-Fi,13
+4577,The Cell,677,Horror,16
+4578,Dredd,915,Crime,8
+4579,Dredd,915,Action,10
+4580,Dredd,915,Sci-Fi,13
+4581,Face/Off,1227,Crime,8
+4582,Face/Off,1227,Action,10
+4583,Face/Off,1227,Sci-Fi,13
+4584,Public Enemies,1370,Crime,8
+4585,Public Enemies,1370,Action,10
+4586,Public Enemies,1370,Biography,11
+4587,Bonnie and Clyde,1643,Crime,8
+4588,Bonnie and Clyde,1643,Action,10
+4589,Bonnie and Clyde,1643,Biography,11
+4590,Occupied City,1742,History,9
+4591,Occupied City,1742,Documentary,18
+4592,Occupied City,1742,War,20
+4593,Underwater,80,Action,10
+4594,Underwater,80,Sci-Fi,13
+4595,Underwater,80,Horror,16
+4596,The Matrix,214,Action,10
+4597,The Matrix,214,Sci-Fi,13
+4598,Terminator 2: Judgment Day,297,Action,10
+4599,Terminator 2: Judgment Day,297,Sci-Fi,13
+4600,Sisu,340,Action,10
+4601,Sisu,340,War,20
+4602,The Terminator,414,Action,10
+4603,The Terminator,414,Sci-Fi,13
+4604,The Matrix Resurrections,441,Action,10
+4605,The Matrix Resurrections,441,Sci-Fi,13
+4606,The Meg,576,Action,10
+4607,The Meg,576,Sci-Fi,13
+4608,The Meg,576,Horror,16
+4609,The Avengers,594,Action,10
+4610,The Avengers,594,Sci-Fi,13
+4611,Blade,902,Action,10
+4612,Blade,902,Sci-Fi,13
+4613,Blade,902,Horror,16
+4614,Thor,930,Action,10
+4615,Thor,930,Fantasy,12
+4616,Legion,950,Action,10
+4617,Legion,950,Fantasy,12
+4618,Legion,950,Horror,16
+4619,X-Men Origins: Wolverine,1053,Action,10
+4620,X-Men Origins: Wolverine,1053,Sci-Fi,13
+4621,Constantine,1054,Action,10
+4622,Constantine,1054,Fantasy,12
+4623,Constantine,1054,Horror,16
+4624,Batman & Robin,1057,Action,10
+4625,Batman & Robin,1057,Sci-Fi,13
+4626,X-Men: First Class,1079,Action,10
+4627,X-Men: First Class,1079,Sci-Fi,13
+4628,The Matrix Reloaded,1087,Action,10
+4629,The Matrix Reloaded,1087,Sci-Fi,13
+4630,Dawn of the Dead,1092,Action,10
+4631,Dawn of the Dead,1092,Horror,16
+4632,The Wolverine,1134,Action,10
+4633,The Wolverine,1134,Sci-Fi,13
+4634,Captain America: Civil War,1138,Action,10
+4635,Captain America: Civil War,1138,Sci-Fi,13
+4636,They Live,1152,Action,10
+4637,They Live,1152,Sci-Fi,13
+4638,They Live,1152,Horror,16
+4639,U-571,1288,Action,10
+4640,U-571,1288,War,20
+4641,AlienÂ³,1318,Action,10
+4642,AlienÂ³,1318,Sci-Fi,13
+4643,AlienÂ³,1318,Horror,16
+4644,Pitch Black,1463,Action,10
+4645,Pitch Black,1463,Sci-Fi,13
+4646,Pitch Black,1463,Horror,16
+4647,Species,1492,Action,10
+4648,Species,1492,Sci-Fi,13
+4649,Species,1492,Horror,16
+4650,Iron Man 2,1494,Action,10
+4651,Iron Man 2,1494,Sci-Fi,13
+4652,Resident Evil,1557,Action,10
+4653,Resident Evil,1557,Sci-Fi,13
+4654,Resident Evil,1557,Horror,16
+4655,Terminator 3: Rise of the Machines,1664,Action,10
+4656,Terminator 3: Rise of the Machines,1664,Sci-Fi,13
+4657,Alien: Resurrection,1671,Action,10
+4658,Alien: Resurrection,1671,Sci-Fi,13
+4659,Alien: Resurrection,1671,Horror,16
+4660,Hulk,1705,Action,10
+4661,Hulk,1705,Sci-Fi,13
+4662,Hollow Man,1720,Action,10
+4663,Hollow Man,1720,Sci-Fi,13
+4664,Hollow Man,1720,Horror,16
+4665,American Symphony,944,Biography,11
+4666,American Symphony,944,Music,14
+4667,American Symphony,944,Documentary,18
+4668,The Last Voyage of the Demeter,312,Fantasy,12
+4669,The Last Voyage of the Demeter,312,Horror,16
+4670,Dark Harvest,1473,Fantasy,12
+4671,Dark Harvest,1473,Horror,16
+4672,Pet Sematary: Bloodlines,1591,Fantasy,12
+4673,Pet Sematary: Bloodlines,1591,Horror,16
+4674,Alien,220,Sci-Fi,13
+4675,Alien,220,Horror,16
+4676,28 Weeks Later,1561,Sci-Fi,13
+4677,28 Weeks Later,1561,Horror,16
+4678,Taylor Swift: The Eras Tour,81,Music,14
+4679,Taylor Swift: The Eras Tour,81,Documentary,18
+4680,The Exorcist: Believer,103,Horror,16
+4681,Evil Dead Rise,304,Horror,16
+4682,The Exorcist,407,Horror,16
+4683,It,409,Horror,16
+4684,The Human Centipede (First Sequence),781,Horror,16
+4685,A Nightmare on Elm Street,796,Horror,16
+4686,The Texas Chain Saw Massacre,860,Horror,16
+4687,Hostel,1357,Horror,16
+4688,The Evil Dead,1662,Horror,16
+4689,Drag Me to Hell,1747,Horror,16
+4690,The Mission,908,Documentary,18
+4691,After Death,1467,Documentary,18
+4692,The Outlaw Josey Wales,506,Western,21

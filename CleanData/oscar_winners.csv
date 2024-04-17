@@ -1,7 +1,7 @@
 Year Film,Year Ceremony,Award,Name of Winner,Movie Name,Oscar Award ID
 1927,1928,ACTOR,Emil Jannings,The Last Command,OWA0001
 1927,1928,ACTRESS,Janet Gaynor,7th Heaven,OWA0002
-1927,1928,ART DIRECTION,William Cameron Menzies,The Dove;,OWA0003
+1927,1928,ART DIRECTION,William Cameron Menzies,The Dove,OWA0003
 1927,1928,CINEMATOGRAPHY,Charles Rosher,Sunrise,OWA0004
 1927,1928,CINEMATOGRAPHY,Karl Struss,Sunrise,OWA0004
 1927,1928,DIRECTING (Comedy Picture),Lewis Milestone,Two Arabian Knights,OWA0005
@@ -61,7 +61,7 @@ Year Film,Year Ceremony,Award,Name of Winner,Movie Name,Oscar Award ID
 1934,1935,ACTOR,Clark Gable,It Happened One Night,OWA0001
 1934,1935,ACTRESS,Claudette Colbert,It Happened One Night,OWA0002
 1934,1935,ART DIRECTION,"Cedric Gibbons, Fredric Hope",The Merry Widow,OWA0003
-1934,1935,ASSISTANT DIRECTOR,John Waters,Viva Villa!,OWA0019
+1934,1935,ASSISTANT DIRECTOR,John Waters,Viva Villa,OWA0019
 1934,1935,CINEMATOGRAPHY,Victor Milner,Cleopatra,OWA0004
 1934,1935,DIRECTING,Frank Capra,It Happened One Night,OWA0012
 1934,1935,FILM EDITING,Conrad Nervig,Eskimo,OWA0020
@@ -79,7 +79,7 @@ Year Film,Year Ceremony,Award,Name of Winner,Movie Name,Oscar Award ID
 1935,1936,ART DIRECTION,Richard Day,The Dark Angel,OWA0003
 1935,1936,ASSISTANT DIRECTOR,"Clem Beauchamp, Paul Wing",The Lives of a Bengal Lancer,OWA0019
 1935,1936,CINEMATOGRAPHY,Hal Mohr,A Midsummer Night's Dream,OWA0004
-1935,1936,DANCE DIRECTION,Dave Gould,Broadway Melody of 1936;,OWA0023
+1935,1936,DANCE DIRECTION,Dave Gould,Broadway Melody of 1936,OWA0023
 1935,1936,DIRECTING,John Ford,The Informer,OWA0012
 1935,1936,FILM EDITING,Ralph Dawson,A Midsummer Night's Dream,OWA0020
 1935,1936,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Informer,OWA0021
@@ -149,7 +149,7 @@ Year Film,Year Ceremony,Award,Name of Winner,Movie Name,Oscar Award ID
 1938,1939,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Cowboy and the Lady,OWA0015
 1938,1939,WRITING (Original Story),"Dore Schary, Eleanore Griffin",Boys Town,OWA0011
 1938,1939,WRITING (Screenplay),"Screenplay and Dialogue by George Bernard Shaw; Adaptation by W. P. Lipscomb, Cecil Lewis, Ian Dalrymple",Pygmalion,OWA0024
-1939,1940,ACTOR,Robert Donat,"Goodbye, Mr. Chips",OWA0001
+1939,1940,ACTOR,Robert Donat,Goodbye Mr. Chips,OWA0001
 1939,1940,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,Stagecoach,OWA0025
 1939,1940,ACTRESS,Vivien Leigh,Gone with the Wind,OWA0002
 1939,1940,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind,OWA0026

@@ -1,4 +1,4 @@
-Movie Name,Rating,Votes,Meta Score,PG Rating,Year,Duration,Movie ID,Director ID,Oscar Award ID,GG Award ID
+Movie_Name,Rating,Votes,Meta_score,PG_Rating,Year,Duration,Movie_ID,Director_ID,Oscar_Award_ID,GG_Award_ID
 Leave the World Behind,6.5,90000,67,R,2023,2h 18m,1,1,,
 Wonka,7.4,24000,66,PG,2023,1h 56m,2,2,,
 Paddington 2,7.8,90000,88,PG,2017,1h 43m,665,2,,

@@ -1,7 +1,7 @@
 AND THE AWARD GOES TO……
 OSCAR / GOLDEN GLOBE AWARD PROJECT
 
-Overview
+Overview:
 This project celebrates and documents my Oscar/Golden Globe award nomination/win in the entertainment industry. The purpose of this repository is to showcase the journey, achievements, and related content associated with the award recognition.
 The Academy Awards of Merit, commonly known as the Oscars or Academy Awards, are awards for artistic and technical merit for the film industry. 
 The Golden Globe Awards are accolades bestowed for excellence in both American and international film/television. It is an annual award ceremony held since 1944 to honor artists and professionals and their work. 
@@ -16,11 +16,11 @@ Data Files Description:
 
 
 
-Ethical Consideration
+Ethical Consideration:
 We ensured to verify the accuracy and integrity of the data just to avoid spreading misinformation or misrepresenting facts, especially when discussing award nominations or winners. Also, clearly label and disclose the data cleaning and all the steps we took to maintain transparency.
 We also ensured that personal or sensitive information in our data, such as demographics are aggregated to protect individuals’ privacy.
 
-Data Sources
+Data Sources:
             Official Oscar Awards Website
              Imdb movie website – https://imdb.com
              Kaggle Oscar award -  https://www.kaggle.com/datasets/unanimad/the-oscar-award

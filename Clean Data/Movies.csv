@@ -1,1620 +1,1621 @@
 Movie_Name,Rating,Votes,Meta_Score,PG_Rating,Year,Duration,Director,Movie_ID,Director_ID
 Leave the World Behind,6.5,90000,67,R,2023,2h 18m,Sam Esmail,1,1
 Wonka,7.4,24000,66,PG,2023,1h 56m,Paul King,2,2
-Paddington 2,7.8,90000,88,PG,2017,1h 43m,Paul King,665,2
-Paddington,7.3,129000,77,PG,2014,1h 35m,Paul King,717,2
 Poor Things,8.5,6700,86,R,2023,2h 21m,Yorgos Lanthimos,3,3
-The Favourite,7.5,216000,91,R,2018,1h 59m,Yorgos Lanthimos,144,3
-The Killing of a Sacred Deer,7,174000,73,R,2017,2h 1m,Yorgos Lanthimos,181,3
-The Lobster,7.1,281000,82,R,2015,1h 59m,Yorgos Lanthimos,281,3
 Killers of the Flower Moon,7.8,128000,89,R,2023,3h 26m,Martin Scorsese,4,4
-The Wolf of Wall Street,8.2,1500000,75,R,2013,3h,Martin Scorsese,77,4
-Goodfellas,8.7,1200000,92,R,1990,2h 25m,Martin Scorsese,146,4
-The Departed,8.5,1400000,85,R,2006,2h 31m,Martin Scorsese,192,4
-Shutter Island,8.2,1400000,63,R,2010,2h 18m,Martin Scorsese,257,4
-Taxi Driver,8.2,899000,94,R,1976,1h 54m,Martin Scorsese,302,4
-The Irishman,7.8,421000,94,R,2019,3h 29m,Martin Scorsese,307,4
-Casino,8.2,553000,73,R,1995,2h 58m,Martin Scorsese,600,4
-Gangs of New York,7.5,466000,72,R,2002,2h 47m,Martin Scorsese,725,4
-Cape Fear,7.3,212000,73,R,1991,2h 8m,Martin Scorsese,1102,4
-Silence,7.2,121000,79,R,2016,2h 41m,Martin Scorsese,1162,4
-Raging Bull,8.1,373000,90,R,1980,2h 9m,Martin Scorsese,1176,4
-Hugo,7.5,334000,83,PG,2011,2h 6m,Martin Scorsese,1335,4
-The Aviator,7.5,379000,77,PG-13,2004,2h 50m,Martin Scorsese,1511,4
-After Hours,7.6,78000,90,R,1985,1h 37m,Martin Scorsese,1678,4
 May December,7,21000,85,R,2023,1h 57m,Todd Haynes,5,5
-Carol,7.2,140000,94,R,2015,1h 58m,Todd Haynes,541,5
-Dark Waters,7.6,98000,73,PG-13,2019,2h 6m,Todd Haynes,873,5
 The Hunger Games: The Ballad of Songbirds & Snakes,7.1,56000,54,PG-13,2023,2h 37m,Francis Lawrence,6,6
-The Hunger Games: Catching Fire,7.5,707000,76,PG-13,2013,2h 26m,Francis Lawrence,97,6
-The Hunger Games: Mockingjay - Part 2,6.5,362000,65,PG-13,2015,2h 17m,Francis Lawrence,213,6
-The Hunger Games: Mockingjay - Part 1,6.6,491000,64,PG-13,2014,2h 3m,Francis Lawrence,251,6
-Red Sparrow,6.6,198000,53,R,2018,2h 20m,Francis Lawrence,840,6
-I Am Legend,7.2,800000,65,PG-13,2007,1h 41m,Francis Lawrence,993,6
-Constantine,7,368000,50,R,2005,2h 1m,Francis Lawrence,1054,6
 Napoleon,6.6,66000,64,R,2023,2h 38m,Ridley Scott,7,7
-Gladiator,8.5,1600000,67,R,2000,2h 35m,Ridley Scott,96,7
-Kingdom of Heaven,7.2,308000,63,R,2005,2h 24m,Ridley Scott,157,7
-Prometheus,7,635000,64,R,2012,2h 4m,Ridley Scott,159,7
-Alien,8.5,931000,89,R,1979,1h 57m,Ridley Scott,220,7
-Blade Runner,8.1,809000,84,R,1982,1h 57m,Ridley Scott,229,7
-Alien: Covenant,6.4,298000,65,R,2017,2h 2m,Ridley Scott,367,7
-The Martian,8,905000,80,PG-13,2015,2h 24m,Ridley Scott,420,7
-The Last Duel,7.4,176000,67,R,2021,2h 32m,Ridley Scott,459,7
-Black Hawk Down,7.7,417000,74,R,2001,2h 24m,Ridley Scott,639,7
-American Gangster,7.8,446000,76,R,2007,2h 37m,Ridley Scott,791,7
-Robin Hood,6.6,280000,53,PG-13,2010,2h 20m,Ridley Scott,896,7
-Hannibal,6.8,289000,57,R,2001,2h 11m,Ridley Scott,976,7
-House of Gucci,6.6,154000,59,R,2021,2h 38m,Ridley Scott,1007,7
-The Counselor,5.4,105000,48,R,2013,1h 57m,Ridley Scott,1301,7
-Exodus: Gods and Kings,6,176000,52,PG-13,2014,2h 30m,Ridley Scott,1488,7
-Thelma & Louise,7.6,168000,89,R,1991,2h 10m,Ridley Scott,1661,7
 Oppenheimer,8.4,553000,89,R,2023,3h,Christopher Nolan,8,8
-Interstellar,8.7,2000000,74,PG-13,2014,2h 49m,Christopher Nolan,67,8
-The Dark Knight,9,2800000,84,PG-13,2008,2h 32m,Christopher Nolan,99,8
-Inception,8.8,2500000,74,PG-13,2010,2h 28m,Christopher Nolan,125,8
-The Prestige,8.5,1400000,66,PG-13,2006,2h 10m,Christopher Nolan,245,8
-The Dark Knight Rises,8.4,1800000,78,PG-13,2012,2h 44m,Christopher Nolan,261,8
-Tenet,7.3,572000,69,PG-13,2020,2h 30m,Christopher Nolan,275,8
-Memento,8.4,1300000,83,R,2000,1h 53m,Christopher Nolan,356,8
-Batman Begins,8.2,1500000,70,PG-13,2005,2h 20m,Christopher Nolan,447,8
-Dunkirk,7.8,721000,94,PG-13,2017,1h 46m,Christopher Nolan,465,8
-Insomnia,7.2,313000,78,R,2002,1h 58m,Christopher Nolan,1506,8
 Love Actually,7.6,517000,55,R,2003,2h 15m,Richard Curtis,9,9
-About Time,7.8,377000,55,R,2013,2h 3m,Richard Curtis,436,9
 Candy Cane Lane,5.6,13000,47,PG,2023,1h 57m,Reginald Hudlin,10,10
 Saltburn,7.5,13000,61,R,2023,2h 11m,Emerald Fennell,11,11
-Promising Young Woman,7.5,201000,72,R,2020,1h 53m,Emerald Fennell,193,11
 Barbie,7,417000,80,PG-13,2023,1h 54m,Greta Gerwig,12,12
-Little Women,7.8,234000,91,PG,2019,2h 15m,Greta Gerwig,180,12
-Lady Bird,7.4,318000,93,R,2017,1h 34m,Greta Gerwig,406,12
 National Lampoon's Christmas Vacation,7.5,213000,49,PG-13,1989,1h 37m,Jeremiah S. Chechik,13,13
 Rebel Moon - Part One: A Child of Fire,6.3,1900,32,PG-13,2023,2h 13m,Zack Snyder,14,14
-Watchmen,7.6,574000,56,R,2009,2h 42m,Zack Snyder,217,14
-Man of Steel,7.1,802000,55,PG-13,2013,2h 23m,Zack Snyder,255,14
-300,7.6,853000,52,R,2006,1h 57m,Zack Snyder,269,14
-Batman v Superman: Dawn of Justice,6.5,744000,44,PG-13,2016,2h 31m,Zack Snyder,481,14
-Zack Snyder's Justice League,7.9,429000,54,R,2021,4h 2m,Zack Snyder,539,14
-Army of the Dead,5.8,183000,57,R,2021,2h 28m,Zack Snyder,610,14
-Sucker Punch,6,250000,33,PG-13,2011,1h 50m,Zack Snyder,856,14
-Justice League,6.1,473000,45,PG-13,2017,2h,Zack Snyder,953,14
-Dawn of the Dead,7.3,268000,59,R,2004,1h 41m,Zack Snyder,1092,14
 The Family Plan,6.3,9200,40,PG-13,2023,1h 58m,Simon Cellan Jones,15,15
 The Holdovers,8,24000,82,R,2023,2h 13m,Alexander Payne,16,16
-Sideways,7.5,200000,94,R,2004,2h 7m,Alexander Payne,963,16
-Downsizing,5.8,121000,64,R,2017,2h 15m,Alexander Payne,1361,16
 Family Switch,5.6,16000,37,PG,2023,1h 46m,McG,17,17
-Terminator Salvation,6.5,374000,49,PG-13,2009,1h 55m,McG,1333,17
-Charlie's Angels,5.6,194000,52,PG-13,2000,1h 38m,McG,1681,17
 Indiana Jones and the Dial of Destiny,6.6,159000,58,PG-13,2023,2h 34m,James Mangold,18,18
-Ford v Ferrari,8.1,448000,81,PG-13,2019,2h 32m,James Mangold,324,18
-Logan,8.1,813000,77,R,2017,2h 17m,James Mangold,660,18
-"Girl, Interrupted",7.3,206000,51,R,1999,2h 7m,James Mangold,900,18
-Cop Land,7,104000,64,R,1997,1h 45m,James Mangold,1121,18
-The Wolverine,6.7,486000,61,PG-13,2013,2h 6m,James Mangold,1134,18
-Identity,7.3,263000,64,R,2003,1h 30m,James Mangold,1410,18
-Walk the Line,7.8,262000,72,PG-13,2005,2h 16m,James Mangold,1655,18
-Knight and Day,6.3,208000,46,PG-13,2010,1h 49m,James Mangold,1672,18
 Elf,7.1,300000,66,PG,2003,1h 37m,Jon Favreau,19,19
-Iron Man,7.9,1100000,79,PG-13,2008,2h 6m,Jon Favreau,532,19
-Chef,7.3,228000,68,R,2014,1h 54m,Jon Favreau,1136,19
-Iron Man 2,6.9,856000,57,PG-13,2010,2h 4m,Jon Favreau,1494,19
-The Jungle Book,7.4,289000,77,PG,2016,1h 46m,Jon Favreau,1716,19
 How the Grinch Stole Christmas,6.3,280000,46,PG,2000,1h 44m,Ron Howard,20,20
-A Beautiful Mind,8.2,972000,72,PG-13,2001,2h 15m,Ron Howard,390,20
-Solo: A Star Wars Story,6.9,372000,62,PG-13,2018,2h 15m,Ron Howard,985,20
-Rush,8.1,505000,74,R,2013,2h 3m,Ron Howard,1073,20
-Apollo 13,7.7,310000,78,PG,1995,2h 20m,Ron Howard,1180,20
-The Da Vinci Code,6.6,453000,46,PG-13,2006,2h 29m,Ron Howard,1280,20
-Parenthood,7.1,54000,82,PG-13,1989,2h 4m,Ron Howard,1338,20
-Backdraft,6.7,86000,39,R,1991,2h 17m,Ron Howard,1440,20
-Inferno,6.2,187000,42,PG-13,2016,2h 1m,Ron Howard,1509,20
-In the Heart of the Sea,6.9,147000,47,PG-13,2015,2h 2m,Ron Howard,1532,20
-Willow,7.2,129000,47,PG,1988,2h 6m,Ron Howard,1549,20
 Maestro,7.3,3600,78,R,2023,2h 9m,Bradley Cooper,21,21
-A Star Is Born,7.6,410000,88,R,2018,2h 16m,Bradley Cooper,678,21
 Mr. Monk's Last Case: A Monk Movie,7,3500,65,TV-PG,2023,1h 37m,Randy Zisk,22,22
 The Creator,6.9,92000,63,PG-13,2023,2h 13m,Gareth Edwards,24,26
-Godzilla,6.4,432000,62,PG-13,2014,2h 3m,Gareth Edwards,128,26
-Rogue One: A Star Wars Story,7.8,675000,65,PG-13,2016,2h 13m,Gareth Edwards,672,26
-Monsters,6.4,96000,63,R,2010,1h 34m,Gareth Edwards,1729,26
 Chicken Run: Dawn of the Nugget,6.5,6300,63,PG,2023,1h 41m,Sam Fell,26,29
 Die Hard,8.2,924000,72,R,1988,2h 12m,John McTiernan,27,30
-Die Hard with a Vengeance,7.6,403000,58,R,1995,2h 8m,John McTiernan,517,30
-Predator,7.8,446000,47,R,1987,1h 47m,John McTiernan,649,30
-The Hunt for Red October,7.5,211000,58,PG,1990,2h 15m,John McTiernan,813,30
 The Killer,6.8,140000,73,R,2023,1h 58m,David Fincher,28,31
-Fight Club,8.8,2300000,67,R,1999,2h 19m,David Fincher,111,31
-Se7en,8.6,1800000,65,R,1995,2h 7m,David Fincher,162,31
-Gone Girl,8.1,1000000,79,R,2014,2h 29m,David Fincher,222,31
-The Social Network,7.8,745000,95,PG-13,2010,2h,David Fincher,468,31
-The Girl with the Dragon Tattoo,7.8,487000,71,R,2011,2h 38m,David Fincher,488,31
-Zodiac,7.7,584000,79,R,2007,2h 37m,David Fincher,518,31
-The Curious Case of Benjamin Button,7.8,685000,70,PG-13,2008,2h 46m,David Fincher,689,31
-The Game,7.7,421000,63,R,1997,2h 9m,David Fincher,927,31
-AlienÂ³,6.4,315000,59,R,1992,1h 54m,David Fincher,1318,31
 Violent Night,6.7,88000,55,R,2022,1h 52m,Tommy Wirkola,30,35
 Home Alone 2: Lost in New York,6.9,389000,46,PG,1992,2h,Chris Columbus,31,36
-Harry Potter and the Sorcerer's Stone,7.6,838000,65,PG,2001,2h 32m,Chris Columbus,65,36
-Harry Potter and the Chamber of Secrets,7.4,677000,63,PG,2002,2h 41m,Chris Columbus,258,36
-The Christmas Chronicles: Part Two,6,35000,51,PG,2020,1h 52m,Chris Columbus,347,36
-Percy Jackson & the Olympians: The Lightning Thief,5.9,198000,47,PG,2010,1h 58m,Chris Columbus,435,36
-Mrs. Doubtfire,7.1,285000,54,PG-13,1993,2h 5m,Chris Columbus,945,36
-Adventures in Babysitting,6.9,48000,45,PG-13,1987,1h 42m,Chris Columbus,1386,36
-Pixels,5.6,156000,27,PG-13,2015,1h 45m,Chris Columbus,1558,36
 A Haunting in Venice,6.5,84000,63,PG-13,2023,1h 43m,Kenneth Branagh,32,37
-Death on the Nile,6.3,180000,52,PG-13,2022,2h 7m,Kenneth Branagh,254,37
-Murder on the Orient Express,6.5,285000,52,PG-13,2017,1h 54m,Kenneth Branagh,319,37
-Belfast,7.2,87000,75,PG-13,2021,1h 38m,Kenneth Branagh,519,37
-Cinderella,6.9,188000,67,PG,2015,1h 45m,Kenneth Branagh,816,37
-Thor,7,888000,57,PG-13,2011,1h 55m,Kenneth Branagh,930,37
 The Marvels,5.9,64000,50,PG-13,2023,1h 45m,Nia DaCosta,33,38
 The Polar Express,6.6,233000,61,G,2004,1h 40m,Robert Zemeckis,35,41
-A Christmas Carol,6.8,127000,55,PG,2009,1h 36m,Robert Zemeckis,71,41
-Forrest Gump,8.8,2200000,82,PG-13,1994,2h 22m,Robert Zemeckis,201,41
-Back to the Future,8.5,1300000,87,PG,1985,1h 56m,Robert Zemeckis,231,41
-Cast Away,7.8,627000,73,PG-13,2000,2h 23m,Robert Zemeckis,1118,41
-Flight,7.3,371000,76,R,2012,2h 18m,Robert Zemeckis,1287,41
-Contact,7.5,289000,62,PG,1997,2h 30m,Robert Zemeckis,1531,41
-Who Framed Roger Rabbit,7.7,213000,83,PG,1988,1h 44m,Robert Zemeckis,1543,41
-Back to the Future Part II,7.8,563000,57,PG,1989,1h 48m,Robert Zemeckis,1572,41
-The Witches,5.4,45000,47,PG,2020,1h 46m,Robert Zemeckis,1699,41
-Death Becomes Her,6.6,129000,56,PG-13,1992,1h 44m,Robert Zemeckis,1714,41
-Pinocchio,5.1,41000,38,PG,2022,1h 45m,Robert Zemeckis,1715,41
 It's a Wonderful Life,8.6,486000,89,PG,1946,2h 10m,Frank Capra,36,42
 Five Nights at Freddy's,5.5,78000,33,PG-13,2023,1h 49m,Emma Tammi,37,43
 The Santa Clause,6.6,130000,57,PG,1994,1h 37m,John Pasquin,38,44
 Finestkind,5.8,1900,44,R,2023,2h 6m,Brian Helgeland,39,45
-A Knight's Tale,7,198000,56,PG-13,2001,2h 12m,Brian Helgeland,570,45
-Payback,7.1,143000,46,R,1999,1h 40m,Brian Helgeland,682,45
-Legend,6.9,198000,55,R,2015,2h 12m,Brian Helgeland,797,45
 Thanksgiving,6.8,15000,63,R,2023,1h 46m,Eli Roth,40,46
-Knock Knock,4.9,102000,53,R,2015,1h 39m,Eli Roth,636,46
-Hostel,5.9,189000,55,R,2005,1h 34m,Eli Roth,1357,46
 The Holiday,6.9,312000,52,PG-13,2006,2h 16m,Nancy Meyers,41,47
-The Parent Trap,6.6,151000,64,PG,1998,2h 8m,Nancy Meyers,1037,47
-The Intern,7.1,269000,51,PG-13,2015,2h 1m,Nancy Meyers,1446,47
 The Hunger Games,7.2,982000,68,PG-13,2012,2h 22m,Gary Ross,42,48
-Ocean's Eight,6.3,237000,61,PG-13,2018,1h 50m,Gary Ross,1204,48
 A Christmas Story,7.9,165000,77,PG,1983,1h 33m,Bob Clark,43,49
-Black Christmas,7.1,47000,65,R,1974,1h 38m,Bob Clark,249,49
-Porky's,6.2,45000,40,R,1981,1h 34m,Bob Clark,1381,49
 Willy Wonka & the Chocolate Factory,7.8,218000,67,G,1971,1h 40m,Mel Stuart,44,50
 Scrooged,6.9,113000,38,PG-13,1988,1h 41m,Richard Donner,46,53
-The Goonies,7.7,293000,62,PG,1985,1h 54m,Richard Donner,126,53
-Lethal Weapon,7.6,272000,68,R,1987,1h 49m,Richard Donner,623,53
-Superman,7.4,185000,82,PG,1978,2h 23m,Richard Donner,648,53
 Ferrari,6.7,1800,74,R,2023,2h 10m,Michael Mann,47,54
-Heat,8.3,703000,76,R,1995,2h 50m,Michael Mann,174,54
-The Last of the Mohicans,7.7,184000,76,R,1992,1h 52m,Michael Mann,849,54
-Collateral,7.5,427000,71,R,2004,2h,Michael Mann,1257,54
-Public Enemies,7,315000,70,R,2009,2h 20m,Michael Mann,1370,54
 No Hard Feelings,6.4,118000,59,R,2023,1h 43m,Gene Stupnitsky,48,55
 Charlie and the Chocolate Factory,6.7,514000,72,PG,2005,1h 55m,Tim Burton,49,56
-Batman Returns,7.1,323000,68,PG-13,1992,2h 6m,Tim Burton,522,56
-Edward Scissorhands,7.9,516000,74,PG-13,1990,1h 45m,Tim Burton,527,56
-Beetlejuice,7.5,331000,70,PG,1988,1h 32m,Tim Burton,553,56
-Planet of the Apes,5.7,226000,50,PG-13,2001,2h,Tim Burton,607,56
-Batman,7.5,399000,69,PG-13,1989,2h 6m,Tim Burton,666,56
-Alice in Wonderland,6.4,435000,53,PG,2010,1h 48m,Tim Burton,790,56
-Sleepy Hollow,7.3,379000,65,R,1999,1h 45m,Tim Burton,1052,56
-Sweeney Todd: The Demon Barber of Fleet Street,7.3,383000,83,R,2007,1h 56m,Tim Burton,1137,56
-Big Fish,8,454000,58,PG-13,2003,2h 5m,Tim Burton,1155,56
-Mars Attacks!,6.4,240000,52,PG-13,1996,1h 46m,Tim Burton,1249,56
-Miss Peregrine's Home for Peculiar Children,6.7,185000,57,PG-13,2016,2h 7m,Tim Burton,1399,56
 X,6.5,157000,79,R,2022,1h 45m,Ti West,50,57
-Pearl,7,83000,76,R,2022,1h 43m,Ti West,118,57
 Mission: Impossible - Dead Reckoning Part One,7.8,202000,81,PG-13,2023,2h 43m,Christopher McQuarrie,51,58
-Jack Reacher,7,359000,50,PG-13,2012,2h 10m,Christopher McQuarrie,283,58
-Mission: Impossible - Fallout,7.7,370000,86,PG-13,2018,2h 27m,Christopher McQuarrie,511,58
-Mission: Impossible - Rogue Nation,7.4,404000,75,PG-13,2015,2h 11m,Christopher McQuarrie,1311,58
 Asteroid City,6.6,91000,75,PG-13,2023,1h 45m,Wes Anderson,53,62
-The Grand Budapest Hotel,8.1,869000,88,R,2014,1h 39m,Wes Anderson,455,62
-Fantastic Mr. Fox,7.9,263000,83,PG,2009,1h 27m,Wes Anderson,836,62
-The French Dispatch,7.1,146000,74,R,2021,1h 47m,Wes Anderson,893,62
-The Life Aquatic with Steve Zissou,7.2,208000,62,R,2004,1h 59m,Wes Anderson,1358,62
-The Royal Tenenbaums,7.6,309000,76,R,2001,1h 50m,Wes Anderson,1644,62
-Moonrise Kingdom,7.8,364000,84,PG-13,2012,1h 34m,Wes Anderson,1669,62
 Blue Beetle,6,79000,61,PG-13,2023,2h 7m,Angel Manuel Soto,54,63
 Eileen,6.7,2300,71,R,2023,1h 37m,William Oldroyd,55,64
 Love and Monsters,6.9,140000,63,PG-13,2020,1h 49m,Michael Matthews,56,65
 Dune,8,734000,74,PG-13,2021,2h 35m,Denis Villeneuve,57,66
-Blade Runner 2049,8,637000,81,R,2017,2h 44m,Denis Villeneuve,100,66
-Prisoners,8.1,785000,70,R,2013,2h 33m,Denis Villeneuve,252,66
-Sicario,7.7,462000,82,R,2015,2h 1m,Denis Villeneuve,394,66
-Enemy,6.9,209000,61,R,2013,1h 31m,Denis Villeneuve,1264,66
 Spirited,6.6,46000,55,PG-13,2022,2h 7m,Sean Anders,58,67
-Daddy's Home 2,6,81000,30,PG-13,2017,1h 40m,Sean Anders,685,67
-That's My Boy,5.5,107000,31,R,2012,1h 56m,Sean Anders,1004,67
-Daddy's Home,6.2,127000,42,PG-13,2015,1h 36m,Sean Anders,1067,67
-Sex Drive,6.5,91000,49,R,2008,1h 49m,Sean Anders,1270,67
-Instant Family,7.3,117000,57,PG-13,2018,1h 58m,Sean Anders,1520,67
 Dream Scenario,7.4,7500,74,R,2023,1h 42m,Kristoffer Borgli,59,68
 Jingle All the Way,5.7,113000,34,PG,1996,1h 29m,Brian Levant,60,69
 Priscilla,6.9,8400,78,R,2023,1h 53m,Sofia Coppola,61,70
-Lost in Translation,7.7,480000,91,R,2003,1h 42m,Sofia Coppola,523,70
-The Virgin Suicides,7.2,166000,77,R,1999,1h 37m,Sofia Coppola,675,70
-Marie Antoinette,6.5,119000,65,PG-13,2006,2h 3m,Sofia Coppola,1218,70
 The Batman,7.8,751000,72,PG-13,2022,2h 56m,Matt Reeves,63,73
-War for the Planet of the Apes,7.4,276000,82,PG-13,2017,2h 20m,Matt Reeves,688,73
-Dawn of the Planet of the Apes,7.6,462000,79,PG-13,2014,2h 10m,Matt Reeves,807,73
-Cloverfield,7,416000,64,PG-13,2008,1h 25m,Matt Reeves,1553,73
+Harry Potter and the Sorcerer's Stone,7.6,838000,65,PG,2001,2h 32m,Chris Columbus,65,36
 American Fiction,7.8,1200,81,R,2023,1h 57m,Cord Jefferson,66,76
+Interstellar,8.7,2000000,74,PG-13,2014,2h 49m,Christopher Nolan,67,8
 Genie,5.9,6000,35,PG,2023,1h 33m,Sam Boyd,68,77
 The Shawshank Redemption,9.3,2800000,82,R,1994,2h 22m,Frank Darabont,70,80
-The Green Mile,8.6,1400000,61,R,1999,3h 9m,Frank Darabont,232,80
-The Mist,7.1,333000,58,R,2007,2h 6m,Frank Darabont,396,80
+A Christmas Carol,6.8,127000,55,PG,2009,1h 36m,Robert Zemeckis,71,41
 Last Christmas,6.5,87000,50,PG-13,2019,1h 43m,Paul Feig,72,81
-Bridesmaids,6.8,306000,75,R,2011,2h 5m,Paul Feig,1130,81
-The School for Good and Evil,5.9,34000,30,PG-13,2022,2h 27m,Paul Feig,1422,81
-Spy,7,255000,75,R,2015,2h,Paul Feig,1525,81
-A Simple Favor,6.8,159000,67,R,2018,1h 57m,Paul Feig,1628,81
 Reptile,6.8,73000,52,R,2023,2h 14m,Grant Singer,73,82
 The Suicide Squad,7.2,395000,72,R,2021,2h 12m,James Gunn,74,83
-Guardians of the Galaxy Vol. 3,7.9,352000,64,PG-13,2023,2h 30m,James Gunn,106,83
-Guardians of the Galaxy,8,1300000,76,PG-13,2014,2h 1m,James Gunn,413,83
-Guardians of the Galaxy Vol. 2,7.6,744000,67,PG-13,2017,2h 16m,James Gunn,1050,83
 Gremlins,7.3,242000,70,PG,1984,1h 46m,Joe Dante,75,84
 The Godfather,9.2,2000000,100,R,1972,2h 55m,Francis Ford Coppola,76,85
-Apocalypse Now,8.4,699000,94,R,1979,2h 27m,Francis Ford Coppola,218,85
-The Outsiders,7,95000,45,PG,1983,1h 31m,Francis Ford Coppola,301,85
-The Godfather Part II,9,1300000,90,R,1974,3h 22m,Francis Ford Coppola,351,85
-Bram Stoker's Dracula,7.4,234000,57,R,1992,2h 8m,Francis Ford Coppola,543,85
+The Wolf of Wall Street,8.2,1500000,75,R,2013,3h,Martin Scorsese,77,4
 The Equalizer 3,6.9,78000,58,R,2023,1h 49m,Antoine Fuqua,78,86
-The Equalizer,7.2,408000,57,R,2014,2h 12m,Antoine Fuqua,323,86
-Training Day,7.7,464000,71,R,2001,2h 2m,Antoine Fuqua,634,86
-The Equalizer 2,6.7,188000,50,R,2018,2h 1m,Antoine Fuqua,779,86
-The Magnificent Seven,6.9,225000,54,PG-13,2016,2h 12m,Antoine Fuqua,1183,86
-Shooter,7.1,351000,53,R,2007,2h 4m,Antoine Fuqua,1360,86
-Infinite,5.5,59000,28,PG-13,2021,1h 46m,Antoine Fuqua,1388,86
-The Guilty,6.3,143000,63,R,2021,1h 30m,Antoine Fuqua,1417,86
-King Arthur,6.3,174000,46,PG-13,2004,2h 6m,Antoine Fuqua,1546,86
-Southpaw,7.3,254000,57,R,2015,2h 4m,Antoine Fuqua,1687,86
 Merry Little Batman,6.4,1900,74,TV-Y7,2023,1h 32m,Mike Roth,79,87
 Underwater,5.9,93000,48,PG-13,2020,1h 35m,William Eubank,80,88
 Taylor Swift: The Eras Tour,8.2,14000,83,PG-13,2023,2h 49m,Sam Wrench,81,89
 Christmas with the Kranks,5.5,56000,22,PG,2004,1h 39m,Joe Roth,82,90
 John Wick: Chapter 4,7.7,308000,78,R,2023,2h 49m,Chad Stahelski,83,91
-John Wick: Chapter 3 - Parabellum,7.4,413000,73,R,2019,2h 10m,Chad Stahelski,572,91
-John Wick: Chapter 2,7.4,499000,75,R,2017,2h 2m,Chad Stahelski,755,91
 The Santa Clause 2,5.7,63000,48,G,2002,1h 44m,Michael Lembeck,84,92
-The Santa Clause 3: The Escape Clause,4.8,42000,32,G,2006,1h 32m,Michael Lembeck,205,92
 Gran Turismo,7.2,66000,48,PG-13,2023,2h 14m,Neill Blomkamp,85,93
-District 9,7.9,708000,81,R,2009,1h 52m,Neill Blomkamp,1095,93
-Elysium,6.6,466000,61,R,2013,1h 49m,Neill Blomkamp,1538,93
 Four Christmases,5.7,79000,41,PG-13,2008,1h 28m,Seth Gordon,87,96
-Baywatch,5.5,199000,37,R,2017,1h 56m,Seth Gordon,507,96
-Horrible Bosses,6.9,465000,57,R,2011,1h 38m,Seth Gordon,1276,96
 Mad Max: Fury Road,8.1,1100000,90,R,2015,2h,George Miller,88,97
-Mad Max,6.8,218000,73,R,1979,1h 28m,George Miller,681,97
-The Witches of Eastwick,6.5,76000,67,R,1987,1h 58m,George Miller,803,97
-The Road Warrior,7.6,190000,77,R,1981,1h 36m,George Miller,906,97
-Three Thousand Years of Longing,6.7,57000,60,R,2022,1h 48m,George Miller,1263,97
 Glory,7.8,142000,78,R,1989,2h 2m,Edward Zwick,89,98
-Love & Other Drugs,6.7,219000,55,R,2010,1h 52m,Edward Zwick,322,98
-The Last Samurai,7.8,463000,55,R,2003,2h 34m,Edward Zwick,1017,98
-Jack Reacher: Never Go Back,6.1,171000,47,PG-13,2016,1h 58m,Edward Zwick,1105,98
-Legends of the Fall,7.5,179000,45,R,1994,2h 13m,Edward Zwick,1184,98
-Blood Diamond,8,577000,64,R,2006,2h 23m,Edward Zwick,1310,98
 Suicide Squad,5.9,714000,40,PG-13,2016,2h 3m,David Ayer,90,99
-Fury,7.6,532000,64,R,2014,2h 14m,David Ayer,489,99
 The Muppet Christmas Carol,7.8,67000,64,G,1992,1h 25m,Brian Henson,91,100
 The Family Stone,6.3,73000,56,PG-13,2005,1h 43m,Thomas Bezucha,92,101
 The Lord of the Rings: The Fellowship of the Ring,8.8,2000000,92,PG-13,2001,2h 58m,Peter Jackson,94,104
-The Lord of the Rings: The Return of the King,9,1900000,94,PG-13,2003,3h 21m,Peter Jackson,191,104
-The Lord of the Rings: The Two Towers,8.8,1700000,87,PG-13,2002,2h 59m,Peter Jackson,339,104
-The Hobbit: An Unexpected Journey,7.8,860000,58,PG-13,2012,2h 49m,Peter Jackson,371,104
-The Lovely Bones,6.6,178000,42,PG-13,2009,2h 15m,Peter Jackson,687,104
-King Kong,7.2,441000,81,PG-13,2005,3h 7m,Peter Jackson,747,104
-The Hobbit: The Desolation of Smaug,7.8,694000,66,PG-13,2013,2h 41m,Peter Jackson,822,104
-The Hobbit: The Battle of the Five Armies,7.4,561000,59,PG-13,2014,2h 24m,Peter Jackson,1115,104
 Pride & Prejudice,7.8,322000,82,PG,2005,2h 9m,Joe Wright,95,105
-Atonement,7.8,295000,85,R,2007,2h 3m,Joe Wright,651,105
-Darkest Hour,7.4,216000,75,PG-13,2017,2h 5m,Joe Wright,1251,105
-Anna Karenina,6.6,105000,63,R,2012,2h 9m,Joe Wright,1500,105
+Gladiator,8.5,1600000,67,R,2000,2h 35m,Ridley Scott,96,7
+The Hunger Games: Catching Fire,7.5,707000,76,PG-13,2013,2h 26m,Francis Lawrence,97,6
 Freelance,5.4,6800,24,R,2023,1h 48m,Pierre Morel,98,106
-Taken,7.8,626000,51,PG-13,2008,1h 30m,Pierre Morel,329,106
+The Dark Knight,9,2800000,84,PG-13,2008,2h 32m,Christopher Nolan,99,8
+Blade Runner 2049,8,637000,81,R,2017,2h 44m,Denis Villeneuve,100,66
 Pulp Fiction,8.9,2200000,95,R,1994,2h 34m,Quentin Tarantino,101,107
-Once Upon a Time in Hollywood,7.6,815000,83,R,2019,2h 41m,Quentin Tarantino,122,107
-Inglourious Basterds,8.4,1500000,69,R,2009,2h 33m,Quentin Tarantino,150,107
-Django Unchained,8.5,1700000,81,R,2012,2h 45m,Quentin Tarantino,187,107
-Kill Bill: Vol. 1,8.2,1200000,69,R,2003,1h 51m,Quentin Tarantino,368,107
-The Hateful Eight,7.8,645000,68,R,2015,2h 48m,Quentin Tarantino,376,107
-Reservoir Dogs,8.3,1100000,81,R,1992,1h 39m,Quentin Tarantino,529,107
-Jackie Brown,7.5,367000,62,R,1997,2h 34m,Quentin Tarantino,1098,107
-Kill Bill: Vol. 2,8,792000,83,R,2004,2h 17m,Quentin Tarantino,1104,107
 The Age of Adaline,7.2,198000,51,PG-13,2015,1h 52m,Lee Toland Krieger,102,108
 The Exorcist: Believer,4.8,32000,39,R,2023,1h 51m,David Gordon Green,103,109
 Bad Santa,7.1,152000,70,R,2003,1h 32m,Terry Zwigoff,104,110
 Scott Pilgrim vs. the World,7.5,458000,69,PG-13,2010,1h 52m,Edgar Wright,105,111
-Last Night in Soho,7,169000,65,R,2021,1h 56m,Edgar Wright,369,111
-Baby Driver,7.6,591000,86,R,2017,1h 53m,Edgar Wright,641,111
-Hot Fuzz,7.8,528000,81,R,2007,2h 1m,Edgar Wright,720,111
-Shaun of the Dead,7.9,585000,76,R,2004,1h 39m,Edgar Wright,1021,111
+Guardians of the Galaxy Vol. 3,7.9,352000,64,PG-13,2023,2h 30m,James Gunn,106,83
 Sound of Freedom,7.7,90000,36,PG-13,2023,2h 11m,Alejandro Monteverde,108,114
 Krampus,6.2,82000,49,PG-13,2015,1h 38m,Michael Dougherty,110,117
-Godzilla: King of the Monsters,6,199000,48,PG-13,2019,2h 12m,Michael Dougherty,179,117
+Fight Club,8.8,2300000,67,R,1999,2h 19m,David Fincher,111,31
 L.A. Confidential,8.2,607000,91,R,1997,2h 18m,Curtis Hanson,112,118
-8 Mile,7.2,314000,77,R,2002,1h 50m,Curtis Hanson,434,118
 Transformers: Rise of the Beasts,6,92000,42,PG-13,2023,2h 7m,Steven Caple Jr.,113,119
 Top Gun: Maverick,8.3,647000,78,PG-13,2022,2h 10m,Joseph Kosinski,114,120
-TRON: Legacy,6.8,351000,49,PG,2010,2h 5m,Joseph Kosinski,949,120
-Oblivion,7,547000,54,PG-13,2013,2h 4m,Joseph Kosinski,1046,120
 Beverly Hills Cop,7.4,197000,66,R,1984,1h 45m,Martin Brest,115,121
-Meet Joe Black,7.2,259000,43,PG-13,1998,2h 58m,Martin Brest,442,121
-Scent of a Woman,8,322000,57,R,1992,2h 36m,Martin Brest,1029,121
-Midnight Run,7.5,93000,78,R,1988,2h 6m,Martin Brest,1297,121
 The Christmas Chronicles,7,81000,52,PG,2018,1h 44m,Clay Kaytis,116,122
-A Christmas Story Christmas,6.7,17000,55,PG,2022,1h 38m,Clay Kaytis,130,122
+Pearl,7,83000,76,R,2022,1h 43m,Ti West,118,57
 The Nightmare Before Christmas,7.9,369000,82,PG,1993,1h 16m,Henry Selick,119,125
-Coraline,7.7,258000,80,PG,2009,1h 40m,Henry Selick,983,125
 Deck the Halls,5,32000,28,PG,2006,1h 33m,John Whitesell,120,126
-Holidate,6.1,76000,44,TV-MA,2020,1h 44m,John Whitesell,236,126
 Bottoms,6.8,25000,74,R,2023,1h 31m,Emma Seligman,121,127
+Once Upon a Time in Hollywood,7.6,815000,83,R,2019,2h 41m,Quentin Tarantino,122,107
 Avatar: The Way of Water,7.6,472000,67,PG-13,2022,3h 12m,James Cameron,123,128
-Titanic,7.9,1300000,75,PG-13,1997,3h 14m,James Cameron,133,128
-Aliens,8.4,751000,84,R,1986,2h 17m,James Cameron,291,128
-Terminator 2: Judgment Day,8.6,1200000,75,R,1991,2h 17m,James Cameron,297,128
-The Abyss,7.5,188000,62,PG-13,1989,2h 20m,James Cameron,350,128
-Avatar,7.9,1400000,83,PG-13,2009,2h 42m,James Cameron,357,128
-The Terminator,8.1,909000,84,R,1984,1h 47m,James Cameron,414,128
-True Lies,7.3,276000,63,R,1994,2h 21m,James Cameron,739,128
 Love,6.1,65000,51,TV-MA,2015,2h 15m,Gaspar NoÃ©,124,129
+Inception,8.8,2500000,74,PG-13,2010,2h 28m,Christopher Nolan,125,8
+The Goonies,7.7,293000,62,PG,1985,1h 54m,Richard Donner,126,53
 Saw X,6.6,60000,60,R,2023,1h 58m,Kevin Greutert,127,130
+Godzilla,6.4,432000,62,PG-13,2014,2h 3m,Gareth Edwards,128,26
 It's a Wonderful Knife,5.3,3700,52,R,2023,1h 27m,Tyler MacIntyre,129,131
+A Christmas Story Christmas,6.7,17000,55,PG,2022,1h 38m,Clay Kaytis,130,122
 Babylon,7.1,155000,61,R,2022,3h 9m,Damien Chazelle,131,132
 Whiplash,8.5,953000,89,R,2014,1h 46m,Damien Chazelle,132,132
-La La Land,8,645000,94,PG-13,2016,2h 8m,Damien Chazelle,298,132
+Titanic,7.9,1300000,75,PG-13,1997,3h 14m,James Cameron,133,128
 Shazam! Fury of the Gods,6,116000,47,PG-13,2023,2h 10m,David F. Sandberg,134,133
-Shazam!,7,377000,71,PG-13,2019,2h 12m,David F. Sandberg,398,133
 A Good Person,7.1,18000,50,R,2023,2h 8m,Zach Braff,135,134
 The Color Purple,7.7,94000,78,PG-13,1985,2h 34m,Steven Spielberg,136,135
-Jurassic Park,8.2,1000000,68,PG-13,1993,2h 7m,Steven Spielberg,173,135
-Schindler's List,9,1400000,95,R,1993,3h 15m,Steven Spielberg,189,135
-Raiders of the Lost Ark,8.4,1000000,86,PG,1981,1h 55m,Steven Spielberg,212,135
-Saving Private Ryan,8.6,1500000,91,R,1998,2h 49m,Steven Spielberg,223,135
-Catch Me If You Can,8.1,1100000,75,PG-13,2002,2h 21m,Steven Spielberg,308,135
-Indiana Jones and the Temple of Doom,7.5,527000,57,PG,1984,1h 58m,Steven Spielberg,397,135
-Indiana Jones and the Last Crusade,8.2,799000,65,PG-13,1989,2h 7m,Steven Spielberg,451,135
-West Side Story,7.1,93000,85,PG-13,2021,2h 36m,Steven Spielberg,461,135
-The Fabelmans,7.5,109000,84,PG-13,2022,2h 31m,Steven Spielberg,491,135
-Indiana Jones and the Kingdom of the Crystal Skull,6.2,485000,65,PG-13,2008,2h 2m,Steven Spielberg,533,135
-Hook,6.8,269000,52,PG,1991,2h 22m,Steven Spielberg,592,135
-Jaws,8.1,648000,87,PG,1975,2h 4m,Steven Spielberg,603,135
-E.T. the Extra-Terrestrial,7.9,431000,92,PG,1982,1h 55m,Steven Spielberg,627,135
-Ready Player One,7.4,471000,64,PG-13,2018,2h 20m,Steven Spielberg,714,135
-Minority Report,7.6,576000,80,PG-13,2002,2h 25m,Steven Spielberg,952,135
-War of the Worlds,6.5,469000,73,PG-13,2005,1h 56m,Steven Spielberg,969,135
-A.I. Artificial Intelligence,7.2,320000,65,PG-13,2001,2h 26m,Steven Spielberg,1163,135
-The Lost World: Jurassic Park,6.5,438000,59,PG-13,1997,2h 9m,Steven Spielberg,1241,135
-The Terminal,7.4,487000,55,PG-13,2004,2h 8m,Steven Spielberg,1261,135
-Empire of the Sun,7.7,133000,62,PG,1987,2h 33m,Steven Spielberg,1389,135
-Lincoln,7.3,270000,87,PG-13,2012,2h 30m,Steven Spielberg,1480,135
-Munich,7.5,236000,74,R,2005,2h 44m,Steven Spielberg,1507,135
-Close Encounters of the Third Kind,7.6,213000,90,PG,1977,2h 18m,Steven Spielberg,1610,135
-Bridge of Spies,7.6,324000,81,PG-13,2015,2h 22m,Steven Spielberg,1725,135
 Die Hard 2,7.1,377000,67,R,1990,2h 4m,Renny Harlin,137,136
-The Long Kiss Goodnight,6.8,84000,43,R,1996,2h 1m,Renny Harlin,1112,136
 Fair Play,6.4,30000,73,R,2023,1h 53m,Chloe Domont,138,137
 Dumb Money,6.9,21000,66,R,2023,1h 45m,Craig Gillespie,141,142
-Cruella,7.3,258000,59,PG-13,2021,2h 14m,Craig Gillespie,345,142
-"I, Tonya",7.5,237000,77,R,2017,1h 59m,Craig Gillespie,1086,142
 Love Story,6.9,37000,84,PG,1970,1h 40m,Arthur Hiller,142,143
-The Hospital,7.1,7200,72,PG-13,1971,1h 43m,Arthur Hiller,711,143
 Requiem for a Dream,8.3,884000,71,Unrated,2000,1h 42m,Darren Aronofsky,143,144
-Black Swan,8,809000,79,R,2010,1h 48m,Darren Aronofsky,156,144
-The Whale,7.7,193000,60,R,2022,1h 57m,Darren Aronofsky,227,144
-Mother!,6.6,245000,76,R,2017,2h 1m,Darren Aronofsky,423,144
+The Favourite,7.5,216000,91,R,2018,1h 59m,Yorgos Lanthimos,144,3
+Goodfellas,8.7,1200000,92,R,1990,2h 25m,Martin Scorsese,146,4
 Midsommar,7.1,382000,72,R,2019,2h 28m,Ari Aster,147,147
-Beau Is Afraid,6.8,49000,63,R,2023,2h 59m,Ari Aster,186,147
-Hereditary,7.3,364000,87,R,2018,2h 7m,Ari Aster,305,147
 The Gentlemen,7.8,378000,51,R,2019,1h 53m,Guy Ritchie,148,148
-The Covenant,7.5,144000,63,R,2023,2h 3m,Guy Ritchie,196,148
-Snatch,8.2,895000,55,R,2000,1h 42m,Guy Ritchie,480,148
-Operation Fortune: Ruse de Guerre,6.3,78000,51,R,2023,1h 54m,Guy Ritchie,508,148
-Aladdin,6.9,285000,53,PG,2019,2h 8m,Guy Ritchie,880,148
-"Lock, Stock and Two Smoking Barrels",8.1,608000,66,R,1998,1h 47m,Guy Ritchie,982,148
-Wrath of Man,7.1,200000,57,R,2021,1h 59m,Guy Ritchie,1000,148
-King Arthur: Legend of the Sword,6.7,229000,41,PG-13,2017,2h 6m,Guy Ritchie,1034,148
-The Man from U.N.C.L.E.,7.2,327000,56,PG-13,2015,1h 56m,Guy Ritchie,1145,148
-Sherlock Holmes,7.6,661000,57,PG-13,2009,2h 8m,Guy Ritchie,1279,148
 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,420000,75,PG,2005,2h 23m,Andrew Adamson,149,149
-The Chronicles of Narnia: Prince Caspian,6.5,222000,62,PG,2008,2h 30m,Andrew Adamson,1150,149
+Inglourious Basterds,8.4,1500000,69,R,2009,2h 33m,Quentin Tarantino,150,107
 Godzilla vs. Kong,6.3,230000,59,PG-13,2021,1h 53m,Adam Wingard,151,150
 Mean Girls,7.1,418000,66,PG-13,2004,1h 37m,Mark Waters,152,151
-Bad Santa 2,5.6,28000,38,R,2016,1h 32m,Mark Waters,640,151
 The Family Man,6.8,117000,42,PG-13,2000,2h 5m,Brett Ratner,153,152
-Rush Hour,7,289000,60,PG-13,1998,1h 38m,Brett Ratner,1089,152
-X-Men: The Last Stand,6.6,535000,58,PG-13,2006,1h 44m,Brett Ratner,1487,152
-Red Dragon,7.2,287000,60,R,2002,2h 4m,Brett Ratner,1589,152
 She's All That,5.9,102000,51,PG-13,1999,1h 35m,Robert Iscove,154,153
 Triangle of Sadness,7.3,163000,63,R,2022,2h 27m,Ruben Ãstlund,155,154
+Black Swan,8,809000,79,R,2010,1h 48m,Darren Aronofsky,156,144
+Kingdom of Heaven,7.2,308000,63,R,2005,2h 24m,Ridley Scott,157,7
 The Northman,7,243000,82,R,2022,2h 17m,Robert Eggers,158,155
-The Lighthouse,7.4,245000,83,R,2019,1h 49m,Robert Eggers,485,155
-The Witch,7,292000,84,R,2015,1h 32m,Robert Eggers,494,155
+Prometheus,7,635000,64,R,2012,2h 4m,Ridley Scott,159,7
 Spider-Man: No Way Home,8.2,849000,71,PG-13,2021,2h 28m,Jon Watts,160,156
-Spider-Man: Homecoming,7.4,704000,73,PG-13,2017,2h 13m,Jon Watts,852,156
-Spider-Man: Far from Home,7.4,540000,69,PG-13,2019,2h 9m,Jon Watts,1144,156
 The Rocky Horror Picture Show,7.4,164000,65,R,1975,1h 40m,Jim Sharman,161,157
+Se7en,8.6,1800000,65,R,1995,2h 7m,David Fincher,162,31
 Elemental,7,103000,58,PG,2023,1h 41m,Peter Sohn,163,158
 Origin,6.5,583,76,PG-13,2023,2h 15m,Ava DuVernay,164,159
 Hunter Killer,6.6,71000,43,R,2018,2h 1m,Donovan Marsh,165,160
 Pain Hustlers,6.5,32000,44,R,2023,2h 3m,David Yates,166,161
-Harry Potter and the Deathly Hallows: Part 2,8.1,929000,85,PG-13,2011,2h 10m,David Yates,188,161
-Harry Potter and the Deathly Hallows: Part 1,7.7,586000,65,PG-13,2010,2h 26m,David Yates,346,161
-Harry Potter and the Order of the Phoenix,7.5,620000,71,PG-13,2007,2h 18m,David Yates,387,161
-Harry Potter and the Half-Blood Prince,7.6,582000,78,PG,2009,2h 33m,David Yates,427,161
-Fantastic Beasts: The Secrets of Dumbledore,6.2,163000,47,PG-13,2022,2h 22m,David Yates,601,161
-The Legend of Tarzan,6.2,185000,44,PG-13,2016,1h 50m,David Yates,778,161
-Fantastic Beasts and Where to Find Them,7.2,500000,66,PG-13,2016,2h 12m,David Yates,1019,161
-Fantastic Beasts: The Crimes of Grindelwald,6.5,303000,52,PG-13,2018,2h 14m,David Yates,1319,161
 The Silence of the Lambs,8.6,1500000,86,R,1991,1h 58m,Jonathan Demme,167,162
-Philadelphia,7.7,254000,66,PG-13,1993,2h 5m,Jonathan Demme,1493,162
 Joker,8.4,1400000,59,R,2019,2h 2m,Todd Phillips,168,163
-The Hangover,7.7,829000,73,R,2009,1h 40m,Todd Phillips,432,163
-Road Trip,6.5,176000,55,R,2000,1h 33m,Todd Phillips,1350,163
-Old School,7,241000,54,R,2003,1h 28m,Todd Phillips,1376,163
-War Dogs,7.1,245000,57,R,2016,1h 54m,Todd Phillips,1529,163
 The Flash,6.7,191000,55,PG-13,2023,2h 24m,Andy Muschietti,169,164
-It,7.3,593000,69,R,2017,2h 15m,Andy Muschietti,409,164
-It Chapter Two,6.5,294000,58,R,2019,2h 49m,Andy Muschietti,1246,164
 Old Dads,6.2,34000,42,R,2023,1h 44m,Bill Burr,170,165
 The Princess Bride,8,445000,78,PG,1987,1h 38m,Rob Reiner,171,166
-Stand by Me,8.1,432000,75,R,1986,1h 29m,Rob Reiner,498,166
-Misery,7.8,230000,75,R,1990,1h 47m,Rob Reiner,937,166
-When Harry Met Sally...,7.7,237000,76,R,1989,1h 35m,Rob Reiner,946,166
-A Few Good Men,7.7,282000,62,R,1992,2h 18m,Rob Reiner,1010,166
-This Is Spinal Tap,7.9,145000,92,R,1984,1h 22m,Rob Reiner,1394,166
 American Beauty,8.3,1200000,84,R,1999,2h 2m,Sam Mendes,172,167
-Skyfall,7.8,722000,81,PG-13,2012,2h 23m,Sam Mendes,374,167
-1917,8.2,654000,78,R,2019,1h 59m,Sam Mendes,457,167
-Spectre,6.8,460000,60,PG-13,2015,2h 28m,Sam Mendes,887,167
-Revolutionary Road,7.3,222000,69,R,2008,1h 59m,Sam Mendes,1088,167
-Jarhead,7,203000,58,R,2005,2h 5m,Sam Mendes,1631,167
+Jurassic Park,8.2,1000000,68,PG-13,1993,2h 7m,Steven Spielberg,173,135
+Heat,8.3,703000,76,R,1995,2h 50m,Michael Mann,174,54
 LÃ©on: The Professional,8.5,1200000,64,R,1994,1h 50m,Luc Besson,175,168
-Lucy,6.4,526000,62,R,2014,1h 29m,Luc Besson,203,168
-The Fifth Element,7.6,497000,52,PG-13,1997,2h 6m,Luc Besson,352,168
-Valerian and the City of a Thousand Planets,6.4,194000,51,PG-13,2017,2h 16m,Luc Besson,774,168
-Anna,6.6,91000,40,R,2019,1h 58m,Luc Besson,892,168
-DogMan,6.7,2000,37,R,2023,1h 53m,Luc Besson,1536,168
 Harry Potter and the Goblet of Fire,7.7,667000,81,PG-13,2005,2h 37m,Mike Newell,176,169
-Four Weddings and a Funeral,7.1,163000,81,R,1994,1h 57m,Mike Newell,1116,169
-Donnie Brasco,7.7,326000,77,R,1997,2h 7m,Mike Newell,1203,169
-Mona Lisa Smile,6.5,89000,45,PG-13,2003,1h 57m,Mike Newell,1385,169
 The Menu,7.2,366000,71,R,2022,1h 47m,Mark Mylod,177,170
 Expend4bles,4.8,28000,30,R,2023,1h 43m,Scott Waugh,178,171
+Godzilla: King of the Monsters,6,199000,48,PG-13,2019,2h 12m,Michael Dougherty,179,117
+Little Women,7.8,234000,91,PG,2019,2h 15m,Greta Gerwig,180,12
+The Killing of a Sacred Deer,7,174000,73,R,2017,2h 1m,Yorgos Lanthimos,181,3
 American Psycho,7.6,691000,64,R,2000,1h 42m,Mary Harron,182,172
 Fred Claus,5.7,47000,42,PG,2007,1h 56m,David Dobkin,183,173
-The Change-Up,6.3,193000,39,R,2011,1h 52m,David Dobkin,1295,173
-Wedding Crashers,7,371000,64,R,2005,1h 59m,David Dobkin,1346,173
 Eyes Wide Shut,7.5,367000,69,TV-MA,1999,2h 39m,Stanley Kubrick,184,174
-Barry Lyndon,8.1,179000,89,PG,1975,3h 5m,Stanley Kubrick,239,174
-The Shining,8.4,1100000,66,R,1980,2h 26m,Stanley Kubrick,309,174
-2001: A Space Odyssey,8.3,706000,84,G,1968,2h 29m,Stanley Kubrick,377,174
-A Clockwork Orange,8.3,868000,77,X,1971,2h 16m,Stanley Kubrick,466,174
-Full Metal Jacket,8.3,778000,78,R,1987,1h 56m,Stanley Kubrick,515,174
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,511000,97,PG,1964,1h 35m,Stanley Kubrick,1078,174
 Eight Crazy Nights,5.3,25000,23,PG-13,2002,1h 16m,Seth Kearsley,185,175
+Beau Is Afraid,6.8,49000,63,R,2023,2h 59m,Ari Aster,186,147
+Django Unchained,8.5,1700000,81,R,2012,2h 45m,Quentin Tarantino,187,107
+Harry Potter and the Deathly Hallows: Part 2,8.1,929000,85,PG-13,2011,2h 10m,David Yates,188,161
+Schindler's List,9,1400000,95,R,1993,3h 15m,Steven Spielberg,189,135
+The Lord of the Rings: The Return of the King,9,1900000,94,PG-13,2003,3h 21m,Peter Jackson,191,104
+The Departed,8.5,1400000,85,R,2006,2h 31m,Martin Scorsese,192,4
+Promising Young Woman,7.5,201000,72,R,2020,1h 53m,Emerald Fennell,193,11
 The Night Before,6.4,81000,58,R,2015,1h 41m,Jonathan Levine,194,178
-Long Shot,6.8,119000,67,R,2019,2h 5m,Jonathan Levine,1411,178
 Bullet Train,7.3,398000,49,R,2022,2h 7m,David Leitch,195,179
-Deadpool 2,7.6,627000,66,R,2018,1h 59m,David Leitch,516,179
-Fast & Furious Presents: Hobbs & Shaw,6.5,231000,60,PG-13,2019,2h 17m,David Leitch,1551,179
+The Covenant,7.5,144000,63,R,2023,2h 3m,Guy Ritchie,196,148
 Beauty and the Beast,7.1,329000,65,PG,2017,2h 9m,Bill Condon,198,182
-The Twilight Saga: Breaking Dawn - Part 2,5.5,260000,52,PG-13,2012,1h 55m,Bill Condon,1228,182
-The Twilight Saga: Breaking Dawn - Part 1,4.9,251000,45,PG-13,2011,1h 57m,Bill Condon,1632,182
 Don't Worry Darling,6.3,135000,48,R,2022,2h 3m,Olivia Wilde,199,183
-Booksmart,7.1,129000,84,R,2019,1h 42m,Olivia Wilde,1430,183
 The Little Mermaid,7.2,147000,59,PG,2023,2h 15m,Rob Marshall,200,184
-Chicago,7.2,240000,81,PG-13,2002,1h 53m,Rob Marshall,1043,184
-Pirates of the Caribbean: On Stranger Tides,6.6,555000,45,PG-13,2011,2h 16m,Rob Marshall,1198,184
-Into the Woods,5.9,147000,69,PG,2014,2h 5m,Rob Marshall,1559,184
+Forrest Gump,8.8,2200000,82,PG-13,1994,2h 22m,Robert Zemeckis,201,41
 Noelle,6.3,26000,48,G,2019,1h 40m,Marc Lawrence,202,185
+Lucy,6.4,526000,62,R,2014,1h 29m,Luc Besson,203,168
 There Will Be Blood,8.2,629000,93,R,2007,2h 38m,Paul Thomas Anderson,204,186
-Boogie Nights,7.9,278000,86,R,1997,2h 35m,Paul Thomas Anderson,440,186
-Licorice Pizza,7.1,136000,90,R,2021,2h 13m,Paul Thomas Anderson,934,186
-Phantom Thread,7.4,142000,90,R,2017,2h 10m,Paul Thomas Anderson,1039,186
-The Master,7.1,184000,86,R,2012,2h 18m,Paul Thomas Anderson,1083,186
-Magnolia,8,325000,78,R,1999,3h 8m,Paul Thomas Anderson,1262,186
+The Santa Clause 3: The Escape Clause,4.8,42000,32,G,2006,1h 32m,Michael Lembeck,205,92
 Jack Frost,5.4,40000,40,PG,1998,1h 41m,Troy Miller,207,189
 Vacation,7.3,118000,55,R,1983,1h 38m,Harold Ramis,208,190
-Groundhog Day,8,670000,72,PG,1993,1h 41m,Harold Ramis,656,190
-Caddyshack,7.2,125000,48,13+,1980,1h 38m,Harold Ramis,1113,190
-Bedazzled,6.1,111000,49,PG-13,2000,1h 33m,Harold Ramis,1503,190
+Raiders of the Lost Ark,8.4,1000000,86,PG,1981,1h 55m,Steven Spielberg,212,135
+The Hunger Games: Mockingjay - Part 2,6.5,362000,65,PG-13,2015,2h 17m,Francis Lawrence,213,6
 No Time to Die,7.3,435000,68,PG-13,2021,2h 43m,Cary Joji Fukunaga,216,198
+Watchmen,7.6,574000,56,R,2009,2h 42m,Zack Snyder,217,14
+Apocalypse Now,8.4,699000,94,R,1979,2h 27m,Francis Ford Coppola,218,85
+Alien,8.5,931000,89,R,1979,1h 57m,Ridley Scott,220,7
 Please Don't Destroy: The Treasure of Foggy Mountain,6.1,4400,49,R,2023,1h 32m,Paul Briganti,221,201
+Gone Girl,8.1,1000000,79,R,2014,2h 29m,David Fincher,222,31
+Saving Private Ryan,8.6,1500000,91,R,1998,2h 49m,Steven Spielberg,223,135
 The Notebook,7.8,606000,53,PG-13,2004,2h 3m,Nick Cassavetes,224,202
 Twilight,5.3,481000,56,PG-13,2008,2h 2m,Catherine Hardwicke,226,203
-Thirteen,6.8,96000,70,R,2003,1h 40m,Catherine Hardwicke,911,203
-Mafia Mamma,5.4,8600,42,R,2023,1h 41m,Catherine Hardwicke,1247,203
-The Nativity Story,6.8,12000,52,PG,2006,1h 41m,Catherine Hardwicke,1450,203
+The Whale,7.7,193000,60,R,2022,1h 57m,Darren Aronofsky,227,144
 Scarface,8.3,897000,65,18+,1983,2h 50m,Brian De Palma,228,204
-Mission: Impossible,7.2,462000,59,PG-13,1996,1h 50m,Brian De Palma,597,204
-The Untouchables,7.8,326000,79,R,1987,1h 59m,Brian De Palma,1123,204
-Carrie,7.4,203000,86,R,1976,1h 38m,Brian De Palma,1244,204
+Blade Runner,8.1,809000,84,R,1982,1h 57m,Ridley Scott,229,7
 Fifty Shades of Grey,4.2,332000,46,R,2015,2h 5m,Sam Taylor-Johnson,230,205
+Back to the Future,8.5,1300000,87,PG,1985,1h 56m,Robert Zemeckis,231,41
+The Green Mile,8.6,1400000,61,R,1999,3h 9m,Frank Darabont,232,80
 A Boy Called Christmas,6.7,26000,61,PG,2021,1h 46m,Gil Kenan,233,206
 Wind River,7.7,274000,73,R,2017,1h 47m,Taylor Sheridan,234,207
+Holidate,6.1,76000,44,TV-MA,2020,1h 44m,John Whitesell,236,126
 Uncharted,6.3,246000,45,PG-13,2022,1h 56m,Ruben Fleischer,237,208
-Venom,6.6,526000,35,PG-13,2018,1h 52m,Ruben Fleischer,706,208
-Zombieland,7.6,610000,73,R,2009,1h 28m,Ruben Fleischer,1068,208
-Zombieland: Double Tap,6.7,196000,55,R,2019,1h 39m,Ruben Fleischer,1550,208
 Infinity Pool,6,49000,72,R,2023,1h 57m,Brandon Cronenberg,238,209
+Barry Lyndon,8.1,179000,89,PG,1975,3h 5m,Stanley Kubrick,239,174
 10 Things I Hate About You,7.3,373000,70,PG-13,1999,1h 37m,Gil Junger,240,210
 The Marsh King's Daughter,5.8,4700,46,R,2023,1h 49m,Neil Burger,241,211
-Divergent,6.6,482000,48,PG-13,2014,2h 19m,Neil Burger,327,211
-Limitless,7.4,603000,59,PG-13,2011,1h 45m,Neil Burger,997,211
 Harry Potter and the Prisoner of Azkaban,7.9,676000,82,PG,2004,2h 22m,Alfonso CuarÃ³n,242,212
-Children of Men,7.9,522000,84,R,2006,1h 49m,Alfonso CuarÃ³n,824,212
-Gravity,7.7,853000,96,PG-13,2013,1h 31m,Alfonso CuarÃ³n,1334,212
 Good Will Hunting,8.3,1000000,71,R,1997,2h 6m,Gus Van Sant,243,213
 Don't Look Up,7.2,580000,49,R,2021,2h 18m,Adam McKay,244,214
-The Other Guys,6.6,284000,64,PG-13,2010,1h 47m,Adam McKay,477,214
-The Big Short,7.8,472000,81,R,2015,2h 10m,Adam McKay,500,214
-Step Brothers,6.9,313000,51,R,2008,1h 38m,Adam McKay,635,214
-Talladega Nights: The Ballad of Ricky Bobby,6.6,196000,66,PG-13,2006,1h 48m,Adam McKay,886,214
-Anchorman: The Legend of Ron Burgundy,7.1,374000,63,PG-13,2004,1h 34m,Adam McKay,1273,214
-Vice,7.2,159000,61,R,2018,2h 12m,Adam McKay,1555,214
+The Prestige,8.5,1400000,66,PG-13,2006,2h 10m,Christopher Nolan,245,8
 Joy Ride,6.4,18000,74,R,2023,1h 35m,Adele Lim,247,217
 Men,6.1,58000,65,R,2022,1h 40m,Alex Garland,248,218
-Ex Machina,7.7,575000,78,R,2014,1h 48m,Alex Garland,391,218
-Annihilation,6.8,353000,79,R,2018,1h 55m,Alex Garland,502,218
+Black Christmas,7.1,47000,65,R,1974,1h 38m,Bob Clark,249,49
 The Banshees of Inisherin,7.7,236000,87,R,2022,1h 54m,Martin McDonagh,250,219
-"Three Billboards Outside Ebbing, Missouri",8.1,543000,88,R,2017,1h 55m,Martin McDonagh,729,219
-In Bruges,7.9,455000,67,R,2008,1h 47m,Martin McDonagh,825,219
+The Hunger Games: Mockingjay - Part 1,6.6,491000,64,PG-13,2014,2h 3m,Francis Lawrence,251,6
+Prisoners,8.1,785000,70,R,2013,2h 33m,Denis Villeneuve,252,66
 Trading Places,7.5,162000,69,R,1983,1h 56m,John Landis,253,220
-National Lampoon's Animal House,7.4,128000,79,R,1978,1h 49m,John Landis,425,220
-Beverly Hills Cop III,5.5,86000,16,R,1994,1h 44m,John Landis,670,220
-Coming to America,7.1,220000,47,R,1988,1h 57m,John Landis,1352,220
-The Blues Brothers,7.9,210000,60,R,1980,2h 13m,John Landis,1398,220
-An American Werewolf in London,7.5,118000,55,R,1981,1h 37m,John Landis,1528,220
+Death on the Nile,6.3,180000,52,PG-13,2022,2h 7m,Kenneth Branagh,254,37
+Man of Steel,7.1,802000,55,PG-13,2013,2h 23m,Zack Snyder,255,14
 Aquaman,6.8,507000,55,PG-13,2018,2h 23m,James Wan,256,221
-The Conjuring,7.5,545000,68,R,2013,1h 52m,James Wan,684,221
-Saw,7.6,459000,46,R,2004,1h 43m,James Wan,697,221
-Malignant,6.2,105000,51,R,2021,1h 51m,James Wan,882,221
-Furious 7,7.1,410000,67,PG-13,2015,2h 17m,James Wan,905,221
-Insidious,6.8,334000,52,PG-13,2010,1h 43m,James Wan,1139,221
-The Conjuring 2,7.3,295000,65,R,2016,2h 14m,James Wan,1665,221
+Shutter Island,8.2,1400000,63,R,2010,2h 18m,Martin Scorsese,257,4
+Harry Potter and the Chamber of Secrets,7.4,677000,63,PG,2002,2h 41m,Chris Columbus,258,36
 Troy,7.3,561000,56,R,2004,2h 43m,Wolfgang Petersen,259,222
-The NeverEnding Story,7.3,154000,46,PG,1984,1h 42m,Wolfgang Petersen,986,222
-Poseidon,5.7,109000,50,PG-13,2006,1h 38m,Wolfgang Petersen,1675,222
+Spider-Man: Into the Spider-Verse,8.4,2270000,87,PG,2018,1h 57m,Peter Ramsey,260,224
+The Dark Knight Rises,8.4,1800000,78,PG-13,2012,2h 44m,Christopher Nolan,261,8
 Hypnotic,5.5,27000,53,R,2023,1h 33m,Robert Rodriguez,262,226
-From Dusk Till Dawn,7.2,335000,48,R,1996,1h 48m,Robert Rodriguez,388,226
-The Adventures of Sharkboy and Lavagirl 3-D,3.7,41000,38,PG,2005,1h 33m,Robert Rodriguez,537,226
-Alita: Battle Angel,7.3,288000,53,PG-13,2019,2h 2m,Robert Rodriguez,577,226
-Spy Kids,5.6,125000,71,PG,2001,1h 28m,Robert Rodriguez,1683,226
-Desperado,7.1,195000,55,R,1995,1h 44m,Robert Rodriguez,1706,226
-We Can Be Heroes,4.7,17000,51,PG,2020,1h 40m,Robert Rodriguez,1739,226
 Call Me by Your Name,7.8,303000,94,R,2017,2h 12m,Luca Guadagnino,263,227
-Bones and All,6.8,53000,74,R,2022,2h 11m,Luca Guadagnino,642,227
-Suspiria,6.7,89000,64,R,2018,2h 32m,Luca Guadagnino,954,227
 Get Out,7.8,674000,85,R,2017,1h 44m,Jordan Peele,264,228
-Nope,6.8,252000,77,R,2022,2h 10m,Jordan Peele,452,228
-Us,6.8,332000,81,R,2019,1h 56m,Jordan Peele,713,228
 Some Like It Hot,8.2,279000,98,Passed,1959,2h 1m,Billy Wilder,265,229
-Witness for the Prosecution,8.4,134000,76,Approved,1957,1h 56m,Billy Wilder,1668,229
-The Apartment,8.3,192000,94,Approved,1960,2h 5m,Billy Wilder,1707,229
 Meg 2: The Trench,5,67000,40,PG-13,2023,1h 56m,Ben Wheatley,266,230
 Love Hard,6.3,60000,42,TV-MA,2021,1h 44m,HernÃ¡n JimÃ©nez,267,231
 Eternal Sunshine of the Spotless Mind,8.3,1100000,89,R,2004,1h 48m,Michel Gondry,268,232
+300,7.6,853000,52,R,2006,1h 57m,Zack Snyder,269,14
 We're the Millers,7,478000,44,R,2013,1h 50m,Rawson Marshall Thurber,270,233
-Dodgeball: A True Underdog Story,6.7,263000,55,PG-13,2004,1h 32m,Rawson Marshall Thurber,1018,233
-Red Notice,6.3,308000,37,PG-13,2021,1h 58m,Rawson Marshall Thurber,1124,233
 Green Book,8.2,546000,69,PG-13,2018,2h 10m,Peter Farrelly,272,236
-The Greatest Beer Run Ever,6.8,25000,39,R,2022,2h 6m,Peter Farrelly,767,236
 Top Gun,6.9,490000,50,PG,1986,1h 49m,Tony Scott,274,239
-True Romance,7.9,239000,59,R,1993,1h 59m,Tony Scott,504,239
-Man on Fire,7.7,383000,47,R,2004,2h 26m,Tony Scott,745,239
-Beverly Hills Cop II,6.5,127000,48,R,1987,1h 40m,Tony Scott,827,239
-Spy Game,7.1,165000,63,R,2001,2h 6m,Tony Scott,1564,239
+Tenet,7.3,572000,69,PG-13,2020,2h 30m,Christopher Nolan,275,8
 12 Angry Men,9,845000,97,Approved,1957,1h 36m,Sidney Lumet,276,240
-Network,8.1,167000,83,R,1976,2h 1m,Sidney Lumet,408,240
-Dog Day Afternoon,8,270000,86,R,1975,2h 5m,Sidney Lumet,1402,240
-Serpico,7.7,132000,83,R,1973,2h 10m,Sidney Lumet,1730,240
 Burlesque,6.4,92000,47,PG-13,2010,1h 59m,Steve Antin,277,241
 BlackBerry,7.4,30000,78,R,2023,2h,Matt Johnson,278,242
 Casino Royale,8,685000,80,PG-13,2006,2h 24m,Martin Campbell,279,243
-Green Lantern,5.5,294000,39,PG-13,2011,1h 54m,Martin Campbell,344,243
-GoldenEye,7.2,267000,65,PG-13,1995,2h 10m,Martin Campbell,513,243
 Star Wars: Episode IV - A New Hope,8.6,1400000,90,PG,1977,2h 1m,George Lucas,280,244
-Star Wars: Episode I - The Phantom Menace,6.5,843000,51,PG,1999,2h 16m,George Lucas,496,244
-Star Wars: Episode III - Revenge of the Sith,7.6,832000,68,PG-13,2005,2h 20m,George Lucas,835,244
-Star Wars: Episode II - Attack of the Clones,6.6,746000,54,PG,2002,2h 22m,George Lucas,1189,244
-American Graffiti,7.4,97000,97,PG,1973,1h 50m,George Lucas,1353,244
+The Lobster,7.1,281000,82,R,2015,1h 59m,Yorgos Lanthimos,281,3
 Silent Hill,6.5,241000,31,R,2006,2h 5m,Christophe Gans,282,245
+Jack Reacher,7,359000,50,PG-13,2012,2h 10m,Christopher McQuarrie,283,58
 Fiddler on the Roof,8,47000,67,G,1971,3h 1m,Norman Jewison,284,246
-Moonstruck,7.1,66000,83,PG,1987,1h 42m,Norman Jewison,1447,246
 Glass Onion,7.1,420000,81,PG-13,2022,2h 19m,Rian Johnson,285,247
-Knives Out,7.9,751000,82,PG-13,2019,2h 10m,Rian Johnson,310,247
-Looper,7.4,596000,84,R,2012,1h 59m,Rian Johnson,738,247
-Star Wars: Episode VIII - The Last Jedi,6.9,662000,84,PG-13,2017,2h 32m,Rian Johnson,889,247
 Memory,7.1,438,72,R,2023,1h 40m,Michel Franco,286,248
 The Many Saints of Newark,6.3,61000,60,R,2021,2h,Alan Taylor,287,249
-Terminator Genisys,6.3,290000,38,PG-13,2015,2h 6m,Alan Taylor,1513,249
 Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1200000,63,PG-13,2003,2h 23m,Gore Verbinski,288,250
-Pirates of the Caribbean: Dead Man's Chest,7.4,755000,53,PG-13,2006,2h 31m,Gore Verbinski,854,250
-Pirates of the Caribbean: At World's End,7.1,682000,50,PG-13,2007,2h 49m,Gore Verbinski,1201,250
-The Ring,7.1,370000,57,PG-13,2002,1h 55m,Gore Verbinski,1408,250
 The Longest Ride,7,88000,33,PG-13,2015,2h 3m,George Tillman Jr.,289,251
-Big George Foreman,6.6,7200,45,PG-13,2023,2h 9m,George Tillman Jr.,1639,251
 A Man Called Otto,7.5,144000,51,PG-13,2022,2h 6m,Marc Forster,290,252
-World War Z,7,706000,63,PG-13,2013,1h 56m,Marc Forster,709,252
-Quantum of Solace,6.6,466000,58,PG-13,2008,1h 46m,Marc Forster,1060,252
+Aliens,8.4,751000,84,R,1986,2h 17m,James Cameron,291,128
 No One Will Save You,6.3,56000,60,PG-13,2023,1h 33m,Brian Duffield,292,253
 The Deer Hunter,8.1,356000,86,R,1978,3h 3m,Michael Cimino,294,256
 "Are You There God? It's Me, Margaret.",7.3,20000,84,PG-13,2023,1h 46m,Kelly Fremon Craig,295,257
 The Help,8.1,484000,62,PG-13,2011,2h 26m,Tate Taylor,296,258
-Ma,5.6,59000,53,R,2019,1h 39m,Tate Taylor,1363,258
-The Girl on the Train,6.5,197000,48,R,2016,1h 52m,Tate Taylor,1454,258
+Terminator 2: Judgment Day,8.6,1200000,75,R,1991,2h 17m,James Cameron,297,128
+La La Land,8,645000,94,PG-13,2016,2h 8m,Damien Chazelle,298,132
 The Truman Show,8.2,1200000,90,PG,1998,1h 43m,Peter Weir,299,259
-Dead Poets Society,8.1,531000,79,PG,1989,2h 8m,Peter Weir,386,259
-Master and Commander: The Far Side of the World,7.5,234000,81,PG-13,2003,2h 18m,Peter Weir,1090,259
-Witness,7.4,103000,76,R,1985,1h 52m,Peter Weir,1425,259
 The Sound of Music,8.1,253000,63,G,1965,2h 52m,Robert Wise,300,260
+The Outsiders,7,95000,45,PG,1983,1h 31m,Francis Ford Coppola,301,85
+Taxi Driver,8.2,899000,94,R,1976,1h 54m,Martin Scorsese,302,4
 Fast Times at Ridgemont High,7.1,114000,61,R,1982,1h 30m,Amy Heckerling,303,261
-Clueless,6.9,239000,71,PG-13,1995,1h 37m,Amy Heckerling,754,261
-National Lampoon's European Vacation,6.2,71000,47,PG-13,1985,1h 35m,Amy Heckerling,891,261
 Evil Dead Rise,6.5,127000,69,R,2023,1h 36m,Lee Cronin,304,262
+Hereditary,7.3,364000,87,R,2018,2h 7m,Ari Aster,305,147
 Her,8,656000,91,R,2013,2h 6m,Spike Jonze,306,263
+The Irishman,7.8,421000,94,R,2019,3h 29m,Martin Scorsese,307,4
+Catch Me If You Can,8.1,1100000,75,PG-13,2002,2h 21m,Steven Spielberg,308,135
+The Shining,8.4,1100000,66,R,1980,2h 26m,Stanley Kubrick,309,174
+Knives Out,7.9,751000,82,PG-13,2019,2h 10m,Rian Johnson,310,247
 Next Goal Wins,6.5,3300,44,PG-13,2023,1h 44m,Taika Waititi,311,264
-Thor: Love and Thunder,6.2,387000,57,PG-13,2022,1h 58m,Taika Waititi,392,264
-Jojo Rabbit,7.9,429000,58,PG-13,2019,1h 48m,Taika Waititi,484,264
-Thor: Ragnarok,7.9,802000,74,PG-13,2017,2h 10m,Taika Waititi,831,264
 The Last Voyage of the Demeter,6.1,39000,52,R,2023,1h 58m,AndrÃ© Ãvredal,312,265
-The Autopsy of Jane Doe,6.8,134000,65,R,2016,1h 26m,AndrÃ© Ãvredal,505,265
 Air,7.4,153000,73,R,2023,1h 51m,Ben Affleck,313,266
-The Town,7.5,410000,74,R,2010,2h 5m,Ben Affleck,910,266
-Argo,7.7,633000,86,R,2012,2h,Ben Affleck,1225,266
-Gone Baby Gone,7.6,285000,72,R,2007,1h 54m,Ben Affleck,1374,266
 She's the Man,6.4,172000,45,PG-13,2006,1h 45m,Andy Fickman,314,267
 Better Watch Out,6.5,44000,67,R,2016,1h 29m,Chris Peckover,315,268
 The Fast and the Furious,6.8,412000,58,PG-13,2001,1h 46m,Rob Cohen,316,269
 Tropic Thunder,7.1,441000,71,R,2008,1h 47m,Ben Stiller,317,270
-The Secret Life of Walter Mitty,7.3,334000,54,PG,2013,1h 54m,Ben Stiller,320,270
-Zoolander,6.5,287000,61,PG-13,2001,1h 30m,Ben Stiller,1405,270
 Nobody,7.4,312000,64,R,2021,1h 32m,Ilya Naishuller,318,271
+Murder on the Orient Express,6.5,285000,52,PG-13,2017,1h 54m,Kenneth Branagh,319,37
+The Secret Life of Walter Mitty,7.3,334000,54,PG,2013,1h 54m,Ben Stiller,320,270
 Christmas in Connecticut,7.3,11000,64,Approved,1945,1h 41m,Peter Godfrey,321,272
+Love & Other Drugs,6.7,219000,55,R,2010,1h 52m,Edward Zwick,322,98
+The Equalizer,7.2,408000,57,R,2014,2h 12m,Antoine Fuqua,323,86
+Ford v Ferrari,8.1,448000,81,PG-13,2019,2h 32m,James Mangold,324,18
 Aftersun,7.7,81000,95,R,2022,1h 42m,Charlotte Wells,325,273
 Mob Land,5.2,1900,47,R,2023,1h 51m,Nicholas Maggio,326,274
+Divergent,6.6,482000,48,PG-13,2014,2h 19m,Neil Burger,327,211
 Totally Killer,6.5,42000,62,R,2023,1h 46m,Nahnatchka Khan,328,275
+Taken,7.8,626000,51,PG-13,2008,1h 30m,Pierre Morel,329,106
 Strays,6.3,22000,54,R,2023,1h 33m,Josh Greenbaum,330,276
 The Burial,7.1,26000,74,R,2023,2h 6m,Maggie Betts,331,278
 Pretty Woman,7.1,348000,51,R,1990,1h 59m,Garry Marshall,332,279
-Valentine's Day,5.7,124000,34,PG-13,2010,2h 5m,Garry Marshall,1120,279
-Overboard,6.9,66000,53,PG,1987,1h 52m,Garry Marshall,1314,279
-The Princess Diaries,6.4,160000,52,G,2001,1h 55m,Garry Marshall,1377,279
 Renfield,6.4,84000,53,R,2023,1h 33m,Chris McKay,333,280
-The Tomorrow War,6.6,223000,45,PG-13,2021,2h 18m,Chris McKay,732,280
 Happiest Season,6.6,46000,69,PG-13,2020,1h 42m,Clea DuVall,334,281
 Ghosted,5.8,57000,34,PG-13,2023,1h 56m,Dexter Fletcher,335,282
-Rocketman,7.3,190000,69,R,2019,2h 1m,Dexter Fletcher,1378,282
 Mulholland Drive,7.9,377000,86,R,2001,2h 27m,David Lynch,336,277
-Blue Velvet,7.7,212000,75,R,1986,2h,David Lynch,962,277
-Wild at Heart,7.2,99000,52,R,1990,2h 5m,David Lynch,1606,277
-The Elephant Man,8.2,254000,78,PG,1980,2h 4m,David Lynch,1703,277
 Drive,7.8,691000,79,R,2011,1h 40m,Nicolas Winding Refn,337,283
-The Neon Demon,6.1,102000,51,R,2016,1h 57m,Nicolas Winding Refn,1427,283
 The Man Who Invented Christmas,7,18000,60,PG,2017,1h 44m,Bharat Nalluri,338,284
+The Lord of the Rings: The Two Towers,8.8,1700000,87,PG-13,2002,2h 59m,Peter Jackson,339,104
 Sisu,6.9,64000,70,R,2022,1h 31m,Jalmari Helander,340,285
 Superbad,7.6,620000,76,R,2007,1h 53m,Greg Mottola,341,286
-"Confess, Fletch",6.5,17000,64,R,2022,1h 38m,Greg Mottola,917,286
 Ghostbusters,7.8,438000,71,PG,1984,1h 45m,Ivan Reitman,342,287
-Ghostbusters II,6.6,219000,56,PG,1989,1h 48m,Ivan Reitman,1364,287
-Draft Day,6.8,65000,54,PG-13,2014,1h 50m,Ivan Reitman,1731,287
 "Planes, Trains & Automobiles",7.6,157000,72,R,1987,1h 33m,John Hughes,343,288
-Uncle Buck,7.1,106000,51,PG,1989,1h 40m,John Hughes,476,288
-The Breakfast Club,7.8,428000,66,R,1985,1h 37m,John Hughes,563,288
-Ferris Bueller's Day Off,7.8,380000,61,PG-13,1986,1h 43m,John Hughes,662,288
-Sixteen Candles,7,124000,61,PG,1984,1h 33m,John Hughes,792,288
-Weird Science,6.6,96000,46,PG-13,1985,1h 34m,John Hughes,1035,288
+Green Lantern,5.5,294000,39,PG-13,2011,1h 54m,Martin Campbell,344,243
+Cruella,7.3,258000,59,PG-13,2021,2h 14m,Craig Gillespie,345,142
+Harry Potter and the Deathly Hallows: Part 1,7.7,586000,65,PG-13,2010,2h 26m,David Yates,346,161
+The Christmas Chronicles: Part Two,6,35000,51,PG,2020,1h 52m,Chris Columbus,347,36
 Good Burger 2,5.4,2400,48,TV-PG,2023,1h 30m,Phil Traill,348,289
 Where the Crawdads Sing,7.2,112000,43,PG-13,2022,2h 5m,Olivia Newman,349,290
+The Abyss,7.5,188000,62,PG-13,1989,2h 20m,James Cameron,350,128
+The Godfather Part II,9,1300000,90,R,1974,3h 22m,Francis Ford Coppola,351,85
+The Fifth Element,7.6,497000,52,PG-13,1997,2h 6m,Luc Besson,352,168
 8-Bit Christmas,6.7,21000,66,PG,2021,1h 37m,Michael Dowse,353,291
 Black Adam,6.2,265000,41,PG-13,2022,2h 5m,Jaume Collet-Serra,354,292
-The Commuter,6.3,123000,56,PG-13,2018,1h 44m,Jaume Collet-Serra,743,292
-Orphan,7,247000,42,R,2009,2h 3m,Jaume Collet-Serra,1303,292
-Jungle Cruise,6.6,208000,50,PG-13,2021,2h 7m,Jaume Collet-Serra,1626,292
 Mr. & Mrs. Smith,6.5,528000,55,PG-13,2005,2h,Doug Liman,355,293
-Edge of Tomorrow,7.9,722000,71,PG-13,2014,1h 53m,Doug Liman,552,293
-The Bourne Identity,7.8,569000,68,PG-13,2002,1h 59m,Doug Liman,1082,293
-American Made,7.1,203000,65,R,2017,1h 55m,Doug Liman,1753,293
+Memento,8.4,1300000,83,R,2000,1h 53m,Christopher Nolan,356,8
+Avatar,7.9,1400000,83,PG-13,2009,2h 42m,James Cameron,357,128
 Gerald's Game,6.5,124000,77,TV-MA,2017,1h 43m,Mike Flanagan,358,294
-Doctor Sleep,7.3,214000,59,R,2019,2h 32m,Mike Flanagan,676,294
 Paper Moon,8.1,51000,77,PG,1973,1h 42m,Peter Bogdanovich,360,297
-"What's Up, Doc?",7.7,26000,73,G,1972,1h 34m,Peter Bogdanovich,663,297
-Mask,7.2,32000,73,PG-13,1985,2h,Peter Bogdanovich,926,297
 The Nun II,5.6,51000,47,R,2023,1h 50m,Michael Chaves,361,298
 Cobweb,6,25000,50,R,2023,1h 28m,Samuel Bodin,362,299
 Boyz n the Hood,7.8,151000,76,R,1991,1h 52m,John Singleton,363,300
-2 Fast 2 Furious,5.9,292000,38,PG-13,2003,1h 47m,John Singleton,817,300
 The Dreamers,7.1,129000,63,NC-17,2003,1h 55m,Bernardo Bertolucci,364,301
-Last Tango in Paris,6.9,57000,77,NC-17,1972,2h 9m,Bernardo Bertolucci,1173,301
 The Bikeriders,7.6,974,71,R,2023,1h 56m,Jeff Nichols,365,302
-Mud,7.4,187000,76,PG-13,2012,2h 10m,Jeff Nichols,958,302
 Deadpool,8,1100000,65,R,2016,1h 48m,Tim Miller,366,303
-Terminator: Dark Fate,6.2,190000,54,R,2019,2h 8m,Tim Miller,830,303
+Alien: Covenant,6.4,298000,65,R,2017,2h 2m,Ridley Scott,367,7
+Kill Bill: Vol. 1,8.2,1200000,69,R,2003,1h 51m,Quentin Tarantino,368,107
+Last Night in Soho,7,169000,65,R,2021,1h 56m,Edgar Wright,369,111
+The Hobbit: An Unexpected Journey,7.8,860000,58,PG-13,2012,2h 49m,Peter Jackson,371,104
 Hidden Figures,7.8,249000,74,PG,2016,2h 7m,Theodore Melfi,372,306
 Point Break,7.3,197000,59,R,1991,2h 2m,Kathryn Bigelow,373,307
-Zero Dark Thirty,7.4,315000,95,R,2012,2h 37m,Kathryn Bigelow,1065,307
-The Hurt Locker,7.5,469000,95,R,2008,2h 11m,Kathryn Bigelow,1342,307
+Skyfall,7.8,722000,81,PG-13,2012,2h 23m,Sam Mendes,374,167
 Barbarian,7,169000,78,R,2022,1h 42m,Zach Cregger,375,308
+The Hateful Eight,7.8,645000,68,R,2015,2h 48m,Quentin Tarantino,376,107
+2001: A Space Odyssey,8.3,706000,84,G,1968,2h 29m,Stanley Kubrick,377,174
 Meet Me in St. Louis,7.5,27000,94,Passed,1944,1h 53m,Vincente Minnelli,378,309
 Birds of Prey,6.1,260000,60,R,2020,1h 49m,Cathy Yan,379,310
 The Great Gatsby,7.2,584000,55,PG-13,2013,2h 23m,Baz Luhrmann,381,313
-Elvis,7.3,221000,64,PG-13,2022,2h 39m,Baz Luhrmann,433,313
-Australia,6.6,129000,53,PG-13,2008,2h 45m,Baz Luhrmann,679,313
-Romeo + Juliet,6.7,241000,60,PG-13,1996,2h,Baz Luhrmann,693,313
-Moulin Rouge!,7.6,296000,66,PG-13,2001,2h 7m,Baz Luhrmann,979,313
 Old,5.8,154000,55,PG-13,2021,1h 48m,M. Night Shyamalan,382,314
-Knock at the Cabin,6.1,107000,63,R,2023,1h 40m,M. Night Shyamalan,429,314
-The Sixth Sense,8.2,1000000,64,PG-13,1999,1h 47m,M. Night Shyamalan,596,314
-Split,7.3,537000,63,PG-13,2016,1h 57m,M. Night Shyamalan,683,314
-The Village,6.6,274000,44,PG-13,2004,1h 48m,M. Night Shyamalan,1126,314
-Glass,6.6,262000,43,PG-13,2019,2h 9m,M. Night Shyamalan,1340,314
-The Visit,6.2,147000,55,PG-13,2015,1h 34m,M. Night Shyamalan,1465,314
-Signs,6.8,381000,59,PG-13,2002,1h 46m,M. Night Shyamalan,1527,314
 The Usual Suspects,8.5,1100000,76,R,1995,1h 46m,Bryan Singer,383,315
-Bohemian Rhapsody,7.9,576000,49,PG-13,2018,2h 14m,Bryan Singer,733,315
-X-Men,7.3,638000,64,PG-13,2000,1h 44m,Bryan Singer,775,315
-X-Men: Apocalypse,6.9,455000,52,PG-13,2016,2h 24m,Bryan Singer,1081,315
-X-Men: Days of Future Past,7.9,737000,75,PG-13,2014,2h 12m,Bryan Singer,1171,315
 Me Before You,7.4,279000,51,PG-13,2016,1h 50m,Thea Sharrock,384,316
 Free Guy,7.1,410000,62,PG-13,2021,1h 55m,Shawn Levy,385,317
-Night at the Museum,6.5,371000,48,PG,2006,1h 48m,Shawn Levy,771,317
-The Adam Project,6.7,224000,55,PG-13,2022,1h 46m,Shawn Levy,1107,317
-This Is Where I Leave You,6.6,88000,44,R,2014,1h 43m,Shawn Levy,1466,317
-Real Steel,7.1,350000,56,PG-13,2011,2h 7m,Shawn Levy,1496,317
-Night at the Museum: Battle of the Smithsonian,6,209000,42,PG,2009,1h 45m,Shawn Levy,1680,317
+Dead Poets Society,8.1,531000,79,PG,1989,2h 8m,Peter Weir,386,259
+Harry Potter and the Order of the Phoenix,7.5,620000,71,PG-13,2007,2h 18m,David Yates,387,161
+From Dusk Till Dawn,7.2,335000,48,R,1996,1h 48m,Robert Rodriguez,388,226
 Kong: Skull Island,6.7,340000,62,PG-13,2017,1h 58m,Jordan Vogt-Roberts,389,318
+A Beautiful Mind,8.2,972000,72,PG-13,2001,2h 15m,Ron Howard,390,20
+Ex Machina,7.7,575000,78,R,2014,1h 48m,Alex Garland,391,218
+Thor: Love and Thunder,6.2,387000,57,PG-13,2022,1h 58m,Taika Waititi,392,264
 Dazed and Confused,7.6,196000,82,R,1993,1h 43m,Richard Linklater,393,319
-Before Sunrise,8.1,332000,77,R,1995,1h 41m,Richard Linklater,770,319
-School of Rock,7.2,324000,82,PG-13,2003,1h 49m,Richard Linklater,876,319
-Hit Man,7.8,721,82,R,2023,1h 53m,Richard Linklater,1013,319
+Sicario,7.7,462000,82,R,2015,2h 1m,Denis Villeneuve,394,66
 Unfaithful,6.7,96000,63,R,2002,2h 4m,Adrian Lyne,395,320
-Lolita,6.8,65000,46,R,1997,2h 17m,Adrian Lyne,401,320
-Deep Water,5.5,55000,53,R,2022,1h 55m,Adrian Lyne,605,320
-9Â½ Weeks,5.9,43000,50,R,1986,1h 57m,Adrian Lyne,1325,320
-Fatal Attraction,6.9,95000,67,R,1987,1h 59m,Adrian Lyne,1573,320
+The Mist,7.1,333000,58,R,2007,2h 6m,Frank Darabont,396,80
+Indiana Jones and the Temple of Doom,7.5,527000,57,PG,1984,1h 58m,Steven Spielberg,397,135
+Shazam!,7,377000,71,PG-13,2019,2h 12m,David F. Sandberg,398,133
 Smile,6.5,148000,68,R,2022,1h 55m,Parker Finn,399,321
 Home Sweet Home Alone,3.6,20000,35,PG,2021,1h 33m,Dan Mazer,400,322
+Lolita,6.8,65000,46,R,1997,2h 17m,Adrian Lyne,401,320
 Rustin,6.5,3300,68,PG-13,2023,1h 46m,George C. Wolfe,402,323
 Kandahar,6.1,28000,52,R,2023,1h 59m,Ric Roman Waugh,404,326
-Greenland,6.4,129000,64,PG-13,2020,1h 59m,Ric Roman Waugh,1737,326
+Lady Bird,7.4,318000,93,R,2017,1h 34m,Greta Gerwig,406,12
 The Exorcist,8.1,447000,82,R,1973,2h 2m,William Friedkin,407,329
+Network,8.1,167000,83,R,1976,2h 1m,Sidney Lumet,408,240
+It,7.3,593000,69,R,2017,2h 15m,Andy Muschietti,409,164
 Amsterdam,6.1,87000,48,R,2022,2h 14m,David O. Russell,411,330
-American Hustle,7.2,496000,90,R,2013,2h 18m,David O. Russell,586,330
-Silver Linings Playbook,7.7,734000,81,R,2012,2h 2m,David O. Russell,598,330
-Joy,6.6,143000,56,PG-13,2015,2h 4m,David O. Russell,1524,330
-The Fighter,7.8,384000,79,R,2010,1h 56m,David O. Russell,1713,330
 Excalibur,7.3,66000,56,PG,1981,2h 20m,John Boorman,412,331
-Deliverance,7.7,118000,80,R,1972,1h 49m,John Boorman,1348,331
+Guardians of the Galaxy,8,1300000,76,PG-13,2014,2h 1m,James Gunn,413,83
+The Terminator,8.1,909000,84,R,1984,1h 47m,James Cameron,414,128
 The Place Beyond the Pines,7.3,286000,68,R,2012,2h 20m,Derek Cianfrance,415,332
-Blue Valentine,7.3,208000,81,R,2010,1h 52m,Derek Cianfrance,1030,332
 Secretary,6.9,97000,63,R,2002,1h 47m,Steven Shainberg,416,333
 The Thing,8.2,456000,57,R,1982,1h 49m,John Carpenter,417,334
-Christine,6.8,91000,57,R,1983,1h 50m,John Carpenter,1094,334
-They Live,7.2,142000,55,R,1988,1h 34m,John Carpenter,1152,334
-Big Trouble in Little China,7.2,151000,53,PG-13,1986,1h 39m,John Carpenter,1291,334
-Escape from New York,7.1,154000,76,R,1981,1h 39m,John Carpenter,1312,334
-Halloween,7.7,302000,87,R,1978,1h 31m,John Carpenter,1562,334
 RoboCop,7.6,277000,70,R,1987,1h 42m,Paul Verhoeven,418,335
-Basic Instinct,7,215000,43,R,1992,2h 7m,Paul Verhoeven,431,335
-Total Recall,7.5,349000,60,R,1990,1h 53m,Paul Verhoeven,699,335
-Showgirls,5,73000,20,NC-17,1995,2h 8m,Paul Verhoeven,740,335
-Starship Troopers,7.3,313000,52,R,1997,2h 9m,Paul Verhoeven,764,335
-Hollow Man,5.8,137000,24,R,2000,1h 52m,Paul Verhoeven,1720,335
 Spider-Man,7.4,863000,73,PG-13,2002,2h 1m,Sam Raimi,419,336
-Doctor Strange in the Multiverse of Madness,6.9,463000,60,PG-13,2022,2h 6m,Sam Raimi,562,336
-Spider-Man 2,7.5,694000,83,PG-13,2004,2h 7m,Sam Raimi,995,336
-Spider-Man 3,6.3,626000,59,PG-13,2007,2h 19m,Sam Raimi,1191,336
-The Evil Dead,7.4,229000,71,NC-17,1981,1h 25m,Sam Raimi,1662,336
-Drag Me to Hell,6.6,215000,83,PG-13,2009,1h 39m,Sam Raimi,1747,336
+The Martian,8,905000,80,PG-13,2015,2h 24m,Ridley Scott,420,7
 The Greatest Showman,7.5,303000,48,PG,2017,1h 45m,Michael Gracey,421,337
+Mother!,6.6,245000,76,R,2017,2h 1m,Darren Aronofsky,423,144
 The Talented Mr. Ripley,7.4,228000,76,R,1999,2h 19m,Anthony Minghella,424,340
-The English Patient,7.4,198000,87,R,1996,2h 42m,Anthony Minghella,1033,340
-Cold Mountain,7.2,154000,73,R,2003,2h 34m,Anthony Minghella,1718,340
+National Lampoon's Animal House,7.4,128000,79,R,1978,1h 49m,John Landis,425,220
 While You Were Sleeping,6.8,111000,67,PG,1995,1h 43m,Jon Turteltaub,426,341
-The Meg,5.6,203000,46,PG-13,2018,1h 53m,Jon Turteltaub,576,341
+Harry Potter and the Half-Blood Prince,7.6,582000,78,PG,2009,2h 33m,David Yates,427,161
 The Fast and the Furious: Tokyo Drift,6,293000,45,PG-13,2006,1h 44m,Justin Lin,428,113
-F9: The Fast Saga,5.2,158000,58,PG-13,2021,2h 23m,Justin Lin,599,113
-Fast & Furious,6.5,306000,46,PG-13,2009,1h 47m,Justin Lin,647,113
-Fast Five,7.3,402000,66,PG-13,2011,2h 10m,Justin Lin,1003,113
-Fast & Furious 6,7,412000,61,PG-13,2013,2h 10m,Justin Lin,1290,113
-Star Trek Beyond,7,256000,68,PG-13,2016,2h 2m,Justin Lin,1660,113
+Knock at the Cabin,6.1,107000,63,R,2023,1h 40m,M. Night Shyamalan,429,314
 Braveheart,8.3,1100000,68,R,1995,2h 58m,Mel Gibson,430,342
-Hacksaw Ridge,8.1,577000,71,R,2016,2h 19m,Mel Gibson,470,342
+Basic Instinct,7,215000,43,R,1992,2h 7m,Paul Verhoeven,431,335
+The Hangover,7.7,829000,73,R,2009,1h 40m,Todd Phillips,432,163
+Elvis,7.3,221000,64,PG-13,2022,2h 39m,Baz Luhrmann,433,313
+8 Mile,7.2,314000,77,R,2002,1h 50m,Curtis Hanson,434,118
+Percy Jackson & the Olympians: The Lightning Thief,5.9,198000,47,PG,2010,1h 58m,Chris Columbus,435,36
+About Time,7.8,377000,55,R,2013,2h 3m,Richard Curtis,436,9
 The Revenant,8,855000,76,R,2015,2h 36m,Alejandro G. IÃ±Ã¡rritu,437,343
-Birdman or (The Unexpected Virtue of Ignorance),7.7,657000,87,R,2014,1h 59m,Alejandro G. IÃ±Ã¡rritu,925,343
 Pale Rider,7.3,64000,61,R,1985,1h 55m,Clint Eastwood,438,344
-The Outlaw Josey Wales,7.8,79000,69,PG,1976,2h 15m,Clint Eastwood,506,344
-Unforgiven,8.2,430000,85,R,1992,2h 10m,Clint Eastwood,752,344
-Mystic River,7.9,477000,84,R,2003,2h 18m,Clint Eastwood,788,344
-Gran Torino,8.1,805000,72,R,2008,1h 56m,Clint Eastwood,855,344
-American Sniper,7.3,520000,72,R,2014,2h 13m,Clint Eastwood,974,344
-High Plains Drifter,7.4,63000,69,R,1973,1h 45m,Clint Eastwood,1193,344
-Million Dollar Baby,8.1,713000,86,PG-13,2004,2h 12m,Clint Eastwood,1409,344
+Boogie Nights,7.9,278000,86,R,1997,2h 35m,Paul Thomas Anderson,440,186
 The Matrix Resurrections,5.7,273000,63,R,2021,2h 28m,Lana Wachowski,441,194
+Meet Joe Black,7.2,259000,43,PG-13,1998,2h 58m,Martin Brest,442,121
 The Maze Runner,6.8,498000,57,PG-13,2014,1h 53m,Wes Ball,443,347
-Maze Runner: The Scorch Trials,6.3,270000,43,PG-13,2015,2h 11m,Wes Ball,783,347
-Maze Runner: The Death Cure,6.2,157000,50,PG-13,2018,2h 23m,Wes Ball,1040,347
 Falling for Christmas,5.2,27000,40,TV-PG,2022,1h 33m,Janeen Damian,445,350
 One Flew Over the Cuckoo's Nest,8.7,1100000,84,R,1975,2h 13m,Milos Forman,446,351
-Amadeus,8.4,421000,87,PG,1984,2h 40m,Milos Forman,787,351
+Batman Begins,8.2,1500000,70,PG-13,2005,2h 20m,Christopher Nolan,447,8
 Blockers,6.2,84000,69,R,2018,1h 42m,Kay Cannon,448,352
 Jumanji,7.1,369000,39,PG,1995,1h 44m,Joe Johnston,449,312
-Captain America: The First Avenger,6.9,884000,66,PG-13,2011,2h 4m,Joe Johnston,802,312
 The Mummy,7.1,453000,48,PG-13,1999,2h 4m,Stephen Sommers,450,353
-G.I. Joe: The Rise of Cobra,5.7,214000,32,PG-13,2009,1h 58m,Stephen Sommers,1064,353
-The Mummy Returns,6.4,341000,48,PG-13,2001,2h 10m,Stephen Sommers,1369,353
-Van Helsing,6.1,281000,35,PG-13,2004,2h 11m,Stephen Sommers,1400,353
+Indiana Jones and the Last Crusade,8.2,799000,65,PG-13,1989,2h 7m,Steven Spielberg,451,135
+Nope,6.8,252000,77,R,2022,2h 10m,Jordan Peele,452,228
 Surviving Christmas,5.4,27000,19,PG-13,2004,1h 31m,Mike Mitchell,454,356
-Sky High,6.3,93000,62,PG,2005,1h 40m,Mike Mitchell,870,356
+The Grand Budapest Hotel,8.1,869000,88,R,2014,1h 39m,Wes Anderson,455,62
 Bridget Jones's Diary,6.8,259000,66,R,2001,1h 37m,Sharon Maguire,456,357
-Godmothered,6.1,14000,49,PG,2020,1h 50m,Sharon Maguire,1482,357
+1917,8.2,654000,78,R,2019,1h 59m,Sam Mendes,457,167
+The Last Duel,7.4,176000,67,R,2021,2h 32m,Ridley Scott,459,7
+West Side Story,7.1,93000,85,PG-13,2021,2h 36m,Steven Spielberg,461,135
 American History X,8.5,1200000,62,R,1998,1h 59m,Tony Kaye,462,362
 The Pianist,8.5,891000,85,R,2002,2h 30m,Roman Polanski,463,363
-Chinatown,8.2,344000,92,R,1974,2h 10m,Roman Polanski,941,363
-Rosemary's Baby,8,231000,96,Approved,1968,2h 17m,Roman Polanski,1154,363
-The Ninth Gate,6.7,195000,44,R,1999,2h 13m,Roman Polanski,1694,363
 The Star,6.3,9100,42,PG,2017,1h 26m,Timothy Reckart,464,364
+Dunkirk,7.8,721000,94,PG-13,2017,1h 46m,Christopher Nolan,465,8
+A Clockwork Orange,8.3,868000,77,X,1971,2h 16m,Stanley Kubrick,466,174
+The Social Network,7.8,745000,95,PG-13,2010,2h,David Fincher,468,31
+Hacksaw Ridge,8.1,577000,71,R,2016,2h 19m,Mel Gibson,470,342
 The Phantom of the Opera,7.2,129000,40,PG-13,2004,2h 23m,Joel Schumacher,471,368
-The Lost Boys,7.2,158000,63,R,1987,1h 37m,Joel Schumacher,590,368
-A Time to Kill,7.5,177000,53,R,1996,2h 29m,Joel Schumacher,671,368
-Batman Forever,5.4,264000,54,PG-13,1995,2h 1m,Joel Schumacher,1027,368
-Batman & Robin,3.8,265000,29,PG-13,1997,2h 5m,Joel Schumacher,1057,368
-Falling Down,7.6,203000,56,R,1993,1h 53m,Joel Schumacher,1292,368
-The Client,6.7,72000,65,PG-13,1994,1h 59m,Joel Schumacher,1336,368
-St. Elmo's Fire,6.4,45000,35,R,1985,1h 50m,Joel Schumacher,1708,368
 Once Upon a Time in America,8.3,371000,75,R,1984,3h 49m,Sergio Leone,472,369
 Fatman,5.9,29000,40,R,2020,1h 40m,Eshom NelmsIan Nelms,473,370
 Donnie Darko,8,837000,88,R,2001,1h 53m,Richard Kelly,474,371
 Fall,6.4,97000,62,PG-13,2022,1h 47m,Scott Mann,475,372
+Uncle Buck,7.1,106000,51,PG,1989,1h 40m,John Hughes,476,288
+The Other Guys,6.6,284000,64,PG-13,2010,1h 47m,Adam McKay,477,214
 The Girl Next Door,6.7,236000,47,R,2004,1h 49m,Luke Greenfield,478,373
 Almost Famous,7.9,289000,90,R,2000,2h 2m,Cameron Crowe,479,375
-Jerry Maguire,7.3,283000,77,R,1996,2h 19m,Cameron Crowe,1215,375
-Vanilla Sky,6.9,282000,45,R,2001,2h 16m,Cameron Crowe,1302,375
+Snatch,8.2,895000,55,R,2000,1h 42m,Guy Ritchie,480,148
+Batman v Superman: Dawn of Justice,6.5,744000,44,PG-13,2016,2h 31m,Zack Snyder,481,14
 The Hunt,6.5,125000,50,R,2020,1h 30m,Craig Zobel,482,376
+Jojo Rabbit,7.9,429000,58,PG-13,2019,1h 48m,Taika Waititi,484,264
+The Lighthouse,7.4,245000,83,R,2019,1h 49m,Robert Eggers,485,155
+The Girl with the Dragon Tattoo,7.8,487000,71,R,2011,2h 38m,David Fincher,488,31
+Fury,7.6,532000,64,R,2014,2h 14m,David Ayer,489,99
 The King,7.3,146000,62,R,2019,2h 20m,David MichÃ´d,490,379
+The Fabelmans,7.5,109000,84,PG-13,2022,2h 31m,Steven Spielberg,491,135
 The Unbearable Weight of Massive Talent,7,140000,68,R,2022,1h 47m,Tom Gormican,492,380
-That Awkward Moment,6.1,107000,36,R,2014,1h 34m,Tom Gormican,1207,380
 Star Wars: Episode IX - The Rise of Skywalker,6.4,482000,53,PG-13,2019,2h 21m,J.J. Abrams,493,381
-Star Wars: Episode VII - The Force Awakens,7.8,963000,80,PG-13,2015,2h 18m,J.J. Abrams,692,381
-Star Trek,7.9,616000,82,PG-13,2009,2h 7m,J.J. Abrams,859,381
-Mission: Impossible III,6.9,385000,66,PG-13,2006,2h 6m,J.J. Abrams,1188,381
-Super 8,7,365000,72,PG-13,2011,1h 52m,J.J. Abrams,1355,381
+The Witch,7,292000,84,R,2015,1h 32m,Robert Eggers,494,155
 PAW Patrol: The Mighty Movie,6,4000,49,PG,2023,1h 28m,Cal Brunker,495,382
+Star Wars: Episode I - The Phantom Menace,6.5,843000,51,PG,1999,2h 16m,George Lucas,496,244
 Crocodile Dundee,6.6,113000,62,PG-13,1986,1h 37m,Peter Faiman,497,383
+Stand by Me,8.1,432000,75,R,1986,1h 29m,Rob Reiner,498,166
 The Voyeurs,6.1,28000,54,R,2021,1h 56m,Michael Mohan,499,384
+The Big Short,7.8,472000,81,R,2015,2h 10m,Adam McKay,500,214
 Matilda,7,170000,72,PG,1996,1h 42m,Danny DeVito,501,385
+Annihilation,6.8,353000,79,R,2018,1h 55m,Alex Garland,502,218
 "Red, White & Royal Blue",7,43000,62,R,2023,1h 58m,Matthew LÃ³pez,503,386
+True Romance,7.9,239000,59,R,1993,1h 59m,Tony Scott,504,239
+The Autopsy of Jane Doe,6.8,134000,65,R,2016,1h 26m,AndrÃ© Ãvredal,505,265
+The Outlaw Josey Wales,7.8,79000,69,PG,1976,2h 15m,Clint Eastwood,506,344
+Baywatch,5.5,199000,37,R,2017,1h 56m,Seth Gordon,507,96
+Operation Fortune: Ruse de Guerre,6.3,78000,51,R,2023,1h 54m,Guy Ritchie,508,148
 Brothers,7.1,142000,58,R,2009,1h 45m,Jim Sheridan,509,388
+Mission: Impossible - Fallout,7.7,370000,86,PG-13,2018,2h 27m,Christopher McQuarrie,511,58
 Prey,7.1,219000,71,R,2022,1h 40m,Dan Trachtenberg,512,390
-10 Cloverfield Lane,7.2,349000,76,PG-13,2016,1h 43m,Dan Trachtenberg,1172,390
+GoldenEye,7.2,267000,65,PG-13,1995,2h 10m,Martin Campbell,513,243
 Wonder Woman,7.4,690000,76,PG-13,2017,2h 21m,Patty Jenkins,514,391
-Wonder Woman 1984,5.4,287000,60,PG-13,2020,2h 31m,Patty Jenkins,819,391
-Monster,7.3,159000,74,R,2003,1h 49m,Patty Jenkins,914,391
+Full Metal Jacket,8.3,778000,78,R,1987,1h 56m,Stanley Kubrick,515,174
+Deadpool 2,7.6,627000,66,R,2018,1h 59m,David Leitch,516,179
+Die Hard with a Vengeance,7.6,403000,58,R,1995,2h 8m,John McTiernan,517,30
+Zodiac,7.7,584000,79,R,2007,2h 37m,David Fincher,518,31
+Belfast,7.2,87000,75,PG-13,2021,1h 38m,Kenneth Branagh,519,37
 Idiocracy,6.5,178000,66,R,2006,1h 24m,Mike Judge,520,392
-Office Space,7.6,283000,68,R,1999,1h 29m,Mike Judge,708,392
 BlacKkKlansman,7.5,285000,83,R,2018,2h 15m,Spike Lee,521,393
-Inside Man,7.6,392000,76,R,2006,2h 9m,Spike Lee,1426,393
-Oldboy,5.8,80000,49,R,2013,1h 44m,Spike Lee,1641,393
+Batman Returns,7.1,323000,68,PG-13,1992,2h 6m,Tim Burton,522,56
+Lost in Translation,7.7,480000,91,R,2003,1h 42m,Sofia Coppola,523,70
 The Devil Wears Prada,6.9,451000,62,PG-13,2006,1h 49m,David Frankel,524,394
-Jerry and Marge Go Large,6.9,21000,52,PG-13,2022,1h 36m,David Frankel,1069,394
 What Happens Later,4.9,1500,59,R,2023,1h 43m,Meg Ryan,525,395
 Kingsman: The Secret Service,7.7,704000,60,R,2014,2h 9m,Matthew Vaughn,526,396
-Stardust,7.6,282000,66,PG-13,2007,2h 7m,Matthew Vaughn,637,396
-The King's Man,6.3,167000,44,R,2021,2h 11m,Matthew Vaughn,694,396
-Kick-Ass,7.6,586000,66,R,2010,1h 57m,Matthew Vaughn,1008,396
-Kingsman: The Golden Circle,6.7,355000,44,R,2017,2h 21m,Matthew Vaughn,1009,396
-X-Men: First Class,7.7,716000,65,PG-13,2011,2h 11m,Matthew Vaughn,1079,396
-Layer Cake,7.3,192000,73,R,2004,1h 45m,Matthew Vaughn,1634,396
+Edward Scissorhands,7.9,516000,74,PG-13,1990,1h 45m,Tim Burton,527,56
 Cocaine Bear,5.9,100000,54,R,2023,1h 35m,Elizabeth Banks,528,397
+Reservoir Dogs,8.3,1100000,81,R,1992,1h 39m,Quentin Tarantino,529,107
 Snowpiercer,7.1,383000,84,R,2013,2h 6m,Bong Joon Ho,530,398
 How It Ends,5.1,57000,36,TV-MA,2018,1h 53m,David M. Rosenthal,531,399
+Iron Man,7.9,1100000,79,PG-13,2008,2h 6m,Jon Favreau,532,19
+Indiana Jones and the Kingdom of the Crystal Skull,6.2,485000,65,PG-13,2008,2h 2m,Steven Spielberg,533,135
 Shame,7.2,204000,72,NC-17,2011,1h 41m,Steve McQueen,534,400
-12 Years a Slave,8.1,731000,96,R,2013,2h 14m,Steve McQueen,842,400
-Occupied City,7.1,141,75,PG-13,2023,4h 6m,Steve McQueen,1742,400
 Under the Skin,6.3,154000,80,R,2013,1h 48m,Jonathan Glazer,535,401
-Birth,6.2,39000,51,R,2004,1h 40m,Jonathan Glazer,1740,401
+The Adventures of Sharkboy and Lavagirl 3-D,3.7,41000,38,PG,2005,1h 33m,Robert Rodriguez,537,226
 Quiz Lady,6.7,14000,59,R,2023,1h 39m,Jessica Yu,538,402
+Zack Snyder's Justice League,7.9,429000,54,R,2021,4h 2m,Zack Snyder,539,14
 Clue,7.2,107000,41,PG,1985,1h 34m,Jonathan Lynn,540,403
-My Cousin Vinny,7.6,137000,68,R,1992,2h,Jonathan Lynn,625,403
-The Whole Nine Yards,6.7,128000,47,R,2000,1h 38m,Jonathan Lynn,1594,403
+Carol,7.2,140000,94,R,2015,1h 58m,Todd Haynes,541,5
 Men in Black,7.3,601000,71,PG-13,1997,1h 38m,Barry Sonnenfeld,542,404
-The Addams Family,6.9,177000,57,PG-13,1991,1h 39m,Barry Sonnenfeld,1042,404
-Men in Black II,6.2,397000,49,PG-13,2002,1h 28m,Barry Sonnenfeld,1146,404
-Men in Black 3,6.8,382000,58,PG-13,2012,1h 46m,Barry Sonnenfeld,1253,404
-Addams Family Values,6.8,108000,61,PG-13,1993,1h 34m,Barry Sonnenfeld,1456,404
+Bram Stoker's Dracula,7.4,234000,57,R,1992,2h 8m,Francis Ford Coppola,543,85
 Single All the Way,6.2,19000,49,TV-PG,2021,1h 39m,Michael Mayer,545,407
 Eternals,6.3,376000,52,PG-13,2021,2h 36m,ChloÃ© Zhao,546,408
-Nomadland,7.3,177000,89,R,2020,1h 47m,ChloÃ© Zhao,955,408
 Ocean's Eleven,7.7,607000,74,PG-13,2001,1h 56m,Steven Soderbergh,547,409
-Erin Brockovich,7.4,215000,73,R,2000,2h 11m,Steven Soderbergh,865,409
-Traffic,7.6,217000,86,R,2000,2h 27m,Steven Soderbergh,951,409
-Logan Lucky,7,160000,78,PG-13,2017,1h 58m,Steven Soderbergh,1143,409
-Contagion,6.8,313000,70,PG-13,2011,1h 46m,Steven Soderbergh,1468,409
-Ocean's Twelve,6.5,409000,58,PG-13,2004,2h 5m,Steven Soderbergh,1577,409
-Ocean's Thirteen,6.9,363000,62,PG-13,2007,2h 2m,Steven Soderbergh,1590,409
-Magic Mike,6.1,146000,72,R,2012,1h 50m,Steven Soderbergh,1650,409
 Ghostbusters: Afterlife,7.1,206000,45,PG-13,2021,2h 4m,Jason Reitman,548,410
-Juno,7.5,543000,81,PG-13,2007,1h 36m,Jason Reitman,989,410
 13 Going on 30,6.3,211000,57,PG-13,2004,1h 38m,Gary Winick,550,413
 Serendipity,6.8,119000,52,PG-13,2001,1h 30m,Peter Chelsom,551,414
+Edge of Tomorrow,7.9,722000,71,PG-13,2014,1h 53m,Doug Liman,552,293
+Beetlejuice,7.5,331000,70,PG,1988,1h 32m,Tim Burton,553,56
 Toy Story,8.3,1000000,96,G,1995,1h 21m,John Lasseter,554,324
 Ant-Man and the Wasp: Quantumania,6.1,215000,48,PG-13,2023,2h 4m,Peyton Reed,555,415
-Bring It On,6.1,103000,52,PG-13,2000,1h 38m,Peyton Reed,1182,415
 The Noel Diary,6.1,18000,63,TV-14,2022,1h 39m,Charles Shyer,556,416
-Father of the Bride,6.5,83000,51,PG,1991,1h 45m,Charles Shyer,1711,416
 The Nice Guys,7.4,361000,70,R,2016,1h 56m,Shane Black,557,417
-Kiss Kiss Bang Bang,7.5,235000,72,R,2005,1h 43m,Shane Black,1022,417
-Iron Man 3,7.1,887000,62,PG-13,2013,2h 10m,Shane Black,1125,417
-The Predator,5.3,141000,48,R,2018,1h 47m,Shane Black,1269,417
 Not Another Teen Movie,5.8,114000,32,R,2001,1h 29m,Joel Gallen,559,420
 The Bishop's Wife,7.6,20000,73,G,1947,1h 49m,Henry Koster,560,421
 28 Days Later,7.5,436000,73,R,2002,1h 53m,Danny Boyle,561,422
-Trainspotting,8.1,715000,83,R,1996,1h 33m,Danny Boyle,696,422
-Sunshine,7.2,263000,64,R,2007,1h 47m,Danny Boyle,862,422
-The Beach,6.6,251000,43,R,2000,1h 59m,Danny Boyle,1329,422
-Yesterday,6.8,163000,55,PG-13,2019,1h 56m,Danny Boyle,1636,422
+Doctor Strange in the Multiverse of Madness,6.9,463000,60,PG-13,2022,2h 6m,Sam Raimi,562,336
+The Breakfast Club,7.8,428000,66,R,1985,1h 37m,John Hughes,563,288
 Jennifer's Body,5.5,148000,47,R,2009,1h 42m,Karyn Kusama,564,423
 Jurassic World Dominion,5.6,196000,38,PG-13,2022,2h 27m,Colin Trevorrow,565,424
-Jurassic World,6.9,671000,59,PG-13,2015,2h 4m,Colin Trevorrow,579,424
 Just Friends,6.2,125000,47,PG-13,2005,1h 36m,Roger Kumble,566,425
-Cruel Intentions,6.8,202000,56,R,1999,1h 37m,Roger Kumble,948,425
-After We Collided,5,37000,14,R,2020,1h 45m,Roger Kumble,1213,425
 "Silent Night, Deadly Night",5.8,18000,31,R,1984,1h 19m,Charles E. Sellier Jr.,567,426
 Moonlight,7.4,326000,99,R,2016,1h 51m,Barry Jenkins,569,428
+A Knight's Tale,7,198000,56,PG-13,2001,2h 12m,Brian Helgeland,570,45
 Licence to Kill,6.6,111000,58,PG-13,1989,2h 13m,John Glen,571,429
-For Your Eyes Only,6.7,107000,54,PG,1981,2h 7m,John Glen,861,429
-The Living Daylights,6.7,104000,59,PG,1987,2h 10m,John Glen,1373,429
+John Wick: Chapter 3 - Parabellum,7.4,413000,73,R,2019,2h 10m,Chad Stahelski,572,91
 Extraction II,7,137000,57,R,2023,2h 2m,Sam Hargrave,573,430
-Extraction,6.8,256000,56,R,2020,1h 56m,Sam Hargrave,1275,430
 Let It Snow,5.8,24000,51,PG-13,2019,1h 32m,Luke Snellin,574,431
+The Meg,5.6,203000,46,PG-13,2018,1h 53m,Jon Turteltaub,576,341
+Alita: Battle Angel,7.3,288000,53,PG-13,2019,2h 2m,Robert Rodriguez,577,226
 Dear John,6.3,156000,43,PG-13,2010,1h 48m,Lasse HallstrÃ¶m,578,311
+Jurassic World,6.9,671000,59,PG-13,2015,2h 4m,Colin Trevorrow,579,424
 What's Eating Gilbert Grape,7.7,250000,73,PG-13,1993,1h 58m,Lasse HallstrÃ¶m,580,311
 TÃ¡r,7.4,87000,92,R,2022,2h 38m,Todd Field,581,433
-Little Children,7.5,116000,75,R,2006,2h 17m,Todd Field,715,433
 An American Pickle,5.7,26000,58,PG-13,2020,1h 28m,Brandon Trost,582,434
 Heart of Stone,5.7,55000,44,PG-13,2023,2h 2m,Tom Harper,583,435
 The Blue Lagoon,5.8,75000,31,R,1980,1h 44m,Randal Kleiser,584,436
-Grease,7.2,295000,70,PG,1978,1h 50m,Randal Kleiser,661,436
 The Mean One,3.8,1000,29,16+,2022,1h 33m,Steven LaMorte,585,437
+American Hustle,7.2,496000,90,R,2013,2h 18m,David O. Russell,586,330
 Smokin' Aces,6.6,151000,45,R,2006,1h 48m,Joe Carnahan,587,438
 The Wicker Man,7.5,90000,87,R,1973,1h 28m,Robin Hardy,588,439
 Scream,7.4,382000,65,R,1996,1h 51m,Wes Craven,589,440
-A Nightmare on Elm Street,7.4,258000,76,R,1984,1h 31m,Wes Craven,796,440
+The Lost Boys,7.2,158000,63,R,1987,1h 37m,Joel Schumacher,590,368
 Love the Coopers,5.8,26000,31,PG-13,2015,1h 47m,Jessie Nelson,591,441
+Hook,6.8,269000,52,PG,1991,2h 22m,Steven Spielberg,592,135
 Kung Fu Panda 2,7.2,309000,67,PG,2011,1h 30m,Jennifer Yuh Nelson,593,346
 The Avengers,8,1400000,69,PG-13,2012,2h 23m,Joss Whedon,594,442
-Serenity,7.8,303000,74,PG-13,2005,1h 59m,Joss Whedon,920,442
-Avengers: Age of Ultron,7.3,908000,66,PG-13,2015,2h 21m,Joss Whedon,1038,442
 To Catch a Killer,6.6,31000,43,R,2023,1h 59m,DamiÃ¡n Szifron,595,443
+The Sixth Sense,8.2,1000000,64,PG-13,1999,1h 47m,M. Night Shyamalan,596,314
+Mission: Impossible,7.2,462000,59,PG-13,1996,1h 50m,Brian De Palma,597,204
+Silver Linings Playbook,7.7,734000,81,R,2012,2h 2m,David O. Russell,598,330
+F9: The Fast Saga,5.2,158000,58,PG-13,2021,2h 23m,Justin Lin,599,113
+Casino,8.2,553000,73,R,1995,2h 58m,Martin Scorsese,600,4
+Fantastic Beasts: The Secrets of Dumbledore,6.2,163000,47,PG-13,2022,2h 22m,David Yates,601,161
 In Time,6.7,438000,53,PG-13,2011,1h 49m,Andrew Niccol,602,444
-Gattaca,7.7,318000,64,PG-13,1997,1h 46m,Andrew Niccol,1258,444
+Jaws,8.1,648000,87,PG,1975,2h 4m,Steven Spielberg,603,135
 Platoon,8.1,432000,92,R,1986,2h,Oliver Stone,604,445
-Natural Born Killers,7.2,248000,74,R,1994,1h 59m,Oliver Stone,1075,445
-JFK,8,167000,72,R,1991,3h 9m,Oliver Stone,1129,445
+Deep Water,5.5,55000,53,R,2022,1h 55m,Adrian Lyne,605,320
 Les MisÃ©rables,7.5,342000,63,PG-13,2012,2h 38m,Tom Hooper,606,446
-The King's Speech,8,701000,88,R,2010,1h 58m,Tom Hooper,1286,446
+Planet of the Apes,5.7,226000,50,PG-13,2001,2h,Tim Burton,607,56
 Beautiful Boy,7.4,94000,62,R,2018,2h,Felix van Groeningen,608,447
 Saturday Night Fever,6.8,86000,77,R,1977,1h 58m,John Badham,609,448
+Army of the Dead,5.8,183000,57,R,2021,2h 28m,Zack Snyder,610,14
 The Father,8.2,183000,88,PG-13,2020,1h 37m,Florian Zeller,611,449
 Diary of a Wimpy Kid,6.2,57000,56,PG,2010,1h 34m,Thor Freudenthal,612,450
-Percy Jackson: Sea of Monsters,5.7,124000,39,PG,2013,1h 46m,Thor Freudenthal,1571,450
 Love at First Sight,6.8,27000,55,PG-13,2023,1h 31m,Vanessa Caswill,613,451
 The Perks of Being a Wallflower,7.9,539000,67,PG-13,2012,1h 43m,Stephen Chbosky,614,452
-Wonder,7.9,175000,66,PG,2017,1h 53m,Stephen Chbosky,1051,452
 Casablanca,8.5,597000,100,PG,1942,1h 42m,Michael Curtiz,615,453
 Bodies Bodies Bodies,6.2,62000,69,R,2022,1h 34m,Halina Reijn,616,454
 Die Another Day,6.1,227000,56,PG-13,2002,2h 13m,Lee Tamahori,617,455
 Blonde,5.5,70000,50,NC-17,2022,2h 47m,Andrew Dominik,618,456
-Killing Them Softly,6.2,151000,64,R,2012,1h 37m,Andrew Dominik,1541,456
 Hamilton,8.3,109000,88,PG-13,2020,2h 40m,Thomas Kail,619,457
 Now You See Me,7.2,696000,50,PG-13,2013,1h 55m,Louis Leterrier,620,112
-The Incredible Hulk,6.6,517000,61,PG-13,2008,1h 52m,Louis Leterrier,1498,112
-Clash of the Titans,5.8,290000,39,PG-13,2010,1h 46m,Louis Leterrier,1689,112
 My Big Fat Greek Wedding 3,5.2,6600,35,PG-13,2023,1h 32m,Nia Vardalos,621,458
 The Pale Blue Eye,6.6,119000,56,R,2022,2h 8m,Scott Cooper,622,459
-Hostiles,7.2,93000,65,R,2017,2h 14m,Scott Cooper,1045,459
-Black Mass,6.9,190000,68,R,2015,2h 3m,Scott Cooper,1323,459
+Lethal Weapon,7.6,272000,68,R,1987,1h 49m,Richard Donner,623,53
 It Happened on Fifth Avenue,7.6,6100,66,Passed,1947,1h 56m,Roy Del Ruth,624,460
+My Cousin Vinny,7.6,137000,68,R,1992,2h,Jonathan Lynn,625,403
 The Imitation Game,8,811000,71,PG-13,2014,1h 54m,Morten Tyldum,626,461
-Passengers,7,436000,41,PG-13,2016,1h 56m,Morten Tyldum,654,461
+E.T. the Extra-Terrestrial,7.9,431000,92,PG,1982,1h 55m,Steven Spielberg,627,135
 After,5.3,63000,30,PG-13,2019,1h 45m,Jenny Gage,628,462
 Scrooge: A Christmas Carol,6.2,7100,46,TV-Y7,2022,1h 36m,Stephen Donnelly,629,463
 The Ritual,6.3,115000,57,TV-MA,2017,1h 34m,David Bruckner,630,464
 Into the Wild,8.1,649000,73,R,2007,2h 28m,Sean Penn,631,465
 Independence Day,7,598000,59,PG-13,1996,2h 25m,Roland Emmerich,632,387
-The Day After Tomorrow,6.5,470000,47,PG-13,2004,2h 4m,Roland Emmerich,680,387
-Moonfall,5.1,96000,41,PG-13,2022,2h 10m,Roland Emmerich,748,387
-Stargate,7,202000,42,PG-13,1994,1h 56m,Roland Emmerich,828,387
-The Patriot,7.2,289000,63,R,2000,2h 45m,Roland Emmerich,845,387
-Midway,6.7,93000,47,PG-13,2019,2h 18m,Roland Emmerich,899,387
-2012,5.8,393000,49,PG-13,2009,2h 38m,Roland Emmerich,1110,387
-Independence Day: Resurgence,5.2,187000,32,PG-13,2016,2h,Roland Emmerich,1653,387
 Transformers,7,667000,61,PG-13,2007,2h 24m,Michael Bay,633,466
-Transformers: The Last Knight,5.2,166000,27,PG-13,2017,2h 34m,Michael Bay,655,466
-Ambulance,6.1,90000,55,R,2022,2h 16m,Michael Bay,690,466
-Armageddon,6.7,445000,42,PG-13,1998,2h 31m,Michael Bay,712,466
-Pearl Harbor,6.2,348000,44,PG-13,2001,3h 3m,Michael Bay,960,466
-13 Hours,7.3,157000,48,R,2016,2h 24m,Michael Bay,978,466
-The Rock,7.4,354000,58,R,1996,2h 16m,Michael Bay,1278,466
-Bad Boys,6.8,281000,41,R,1995,1h 59m,Michael Bay,1522,466
-6 Underground,6.1,192000,41,R,2019,2h 8m,Michael Bay,1539,466
-The Island,6.8,325000,50,PG-13,2005,2h 16m,Michael Bay,1710,466
-Transformers: Age of Extinction,5.6,328000,32,PG-13,2014,2h 45m,Michael Bay,1748,466
+Training Day,7.7,464000,71,R,2001,2h 2m,Antoine Fuqua,634,86
+Step Brothers,6.9,313000,51,R,2008,1h 38m,Adam McKay,635,214
+Knock Knock,4.9,102000,53,R,2015,1h 39m,Eli Roth,636,46
+Stardust,7.6,282000,66,PG-13,2007,2h 7m,Matthew Vaughn,637,396
 Lady Chatterley's Lover,6.6,22000,67,R,2022,2h 6m,Laure de Clermont-Tonnerre,638,467
+Black Hawk Down,7.7,417000,74,R,2001,2h 24m,Ridley Scott,639,7
+Bad Santa 2,5.6,28000,38,R,2016,1h 32m,Mark Waters,640,151
+Baby Driver,7.6,591000,86,R,2017,1h 53m,Edgar Wright,641,111
+Bones and All,6.8,53000,74,R,2022,2h 11m,Luca Guadagnino,642,227
 Closer,7.2,233000,65,R,2004,1h 44m,Mike Nichols,643,468
-The Graduate,8,285000,83,PG,1967,1h 46m,Mike Nichols,1457,468
-The Birdcage,7.2,98000,72,R,1996,1h 57m,Mike Nichols,1648,468
 Vegas Vacation,5.9,52000,20,PG,1997,1h 33m,Stephen Kessler,644,469
 Labyrinth,7.3,147000,50,PG,1986,1h 41m,Jim Henson,645,470
+Fast & Furious,6.5,306000,46,PG-13,2009,1h 47m,Justin Lin,647,113
+Superman,7.4,185000,82,PG,1978,2h 23m,Richard Donner,648,53
+Predator,7.8,446000,47,R,1987,1h 47m,John McTiernan,649,30
 The Pelican Brief,6.6,94000,51,PG-13,1993,2h 21m,Alan J. Pakula,650,471
-Sophie's Choice,7.5,52000,68,R,1982,2h 30m,Alan J. Pakula,1317,471
+Atonement,7.8,295000,85,R,2007,2h 3m,Joe Wright,651,105
 The Fugitive,7.8,313000,87,PG-13,1993,2h 10m,Andrew Davis,652,472
-Holes,7,98000,71,PG,2003,1h 57m,Andrew Davis,1304,472
 The Secret: Dare to Dream,6.5,17000,32,PG,2020,1h 47m,Andy Tennant,653,473
-Ever After: A Cinderella Story,7.1,81000,66,PG-13,1998,2h 1m,Andy Tennant,1491,473
-Sweet Home Alabama,6.2,122000,45,PG-13,2002,1h 48m,Andy Tennant,1518,473
+Passengers,7,436000,41,PG-13,2016,1h 56m,Morten Tyldum,654,461
+Transformers: The Last Knight,5.2,166000,27,PG-13,2017,2h 34m,Michael Bay,655,466
+Groundhog Day,8,670000,72,PG,1993,1h 41m,Harold Ramis,656,190
 Scrooge,7.5,12000,58,G,1970,1h 53m,Ronald Neame,657,474
 Jumanji: Welcome to the Jungle,6.9,413000,58,PG-13,2017,1h 59m,Jake Kasdan,658,475
-Jumanji: The Next Level,6.7,275000,58,PG-13,2019,2h 3m,Jake Kasdan,1103,475
-Bad Teacher,5.6,211000,47,R,2011,1h 32m,Jake Kasdan,1696,475
-Sex Tape,5.1,117000,36,R,2014,1h 34m,Jake Kasdan,1723,475
 Notting Hill,7.2,334000,68,PG-13,1999,2h 4m,Roger Michell,659,476
+Logan,8.1,813000,77,R,2017,2h 17m,James Mangold,660,18
+Grease,7.2,295000,70,PG,1978,1h 50m,Randal Kleiser,661,436
+Ferris Bueller's Day Off,7.8,380000,61,PG-13,1986,1h 43m,John Hughes,662,288
+"What's Up, Doc?",7.7,26000,73,G,1972,1h 34m,Peter Bogdanovich,663,297
+Paddington 2,7.8,90000,88,PG,2017,1h 43m,Paul King,665,2
+Batman,7.5,399000,69,PG-13,1989,2h 6m,Tim Burton,666,56
 City of Angels,6.7,126000,54,PG-13,1998,1h 54m,Brad Silberling,667,479
-Casper,6.2,145000,49,PG,1995,1h 40m,Brad Silberling,1442,479
-A Series of Unfortunate Events,6.8,218000,62,PG,2004,1h 48m,Brad Silberling,1471,479
 Pleasure,6.4,21000,75,R,2021,1h 49m,Ninja Thyberg,668,480
 M3GAN,6.4,134000,72,PG-13,2022,1h 42m,Gerard Johnstone,669,481
+Beverly Hills Cop III,5.5,86000,16,R,1994,1h 44m,John Landis,670,220
+A Time to Kill,7.5,177000,53,R,1996,2h 29m,Joel Schumacher,671,368
+Rogue One: A Star Wars Story,7.8,675000,65,PG-13,2016,2h 13m,Gareth Edwards,672,26
 Rocky,8.1,617000,70,PG,1976,2h,John G. Avildsen,673,482
-The Karate Kid,7.3,240000,60,PG,1984,2h 6m,John G. Avildsen,890,482
 Ted,6.9,644000,62,R,2012,1h 46m,Seth MacFarlane,674,483
-Ted 2,6.3,227000,48,R,2015,1h 55m,Seth MacFarlane,1623,483
+The Virgin Suicides,7.2,166000,77,R,1999,1h 37m,Sofia Coppola,675,70
+Doctor Sleep,7.3,214000,59,R,2019,2h 32m,Mike Flanagan,676,294
 The Cell,6.4,108000,40,R,2000,1h 47m,Tarsem Singh,677,484
-Immortals,6,175000,46,R,2011,1h 50m,Tarsem Singh,1108,484
+A Star Is Born,7.6,410000,88,R,2018,2h 16m,Bradley Cooper,678,21
+Australia,6.6,129000,53,PG-13,2008,2h 45m,Baz Luhrmann,679,313
+The Day After Tomorrow,6.5,470000,47,PG-13,2004,2h 4m,Roland Emmerich,680,387
+Mad Max,6.8,218000,73,R,1979,1h 28m,George Miller,681,97
+Payback,7.1,143000,46,R,1999,1h 40m,Brian Helgeland,682,45
+Split,7.3,537000,63,PG-13,2016,1h 57m,M. Night Shyamalan,683,314
+The Conjuring,7.5,545000,68,R,2013,1h 52m,James Wan,684,221
+Daddy's Home 2,6,81000,30,PG-13,2017,1h 40m,Sean Anders,685,67
+The Lovely Bones,6.6,178000,42,PG-13,2009,2h 15m,Peter Jackson,687,104
+War for the Planet of the Apes,7.4,276000,82,PG-13,2017,2h 20m,Matt Reeves,688,73
+The Curious Case of Benjamin Button,7.8,685000,70,PG-13,2008,2h 46m,David Fincher,689,31
+Ambulance,6.1,90000,55,R,2022,2h 16m,Michael Bay,690,466
 A Bronx Tale,7.8,156000,80,R,1993,2h 1m,Robert De Niro,691,488
+Star Wars: Episode VII - The Force Awakens,7.8,963000,80,PG-13,2015,2h 18m,J.J. Abrams,692,381
+Romeo + Juliet,6.7,241000,60,PG-13,1996,2h,Baz Luhrmann,693,313
+The King's Man,6.3,167000,44,R,2021,2h 11m,Matthew Vaughn,694,396
 Fool's Paradise,4.7,4900,27,R,2023,1h 38m,Charlie Day,695,489
+Trainspotting,8.1,715000,83,R,1996,1h 33m,Danny Boyle,696,422
+Saw,7.6,459000,46,R,2004,1h 43m,James Wan,697,221
 Psycho,8.5,707000,97,R,1960,1h 49m,Alfred Hitchcock,698,490
-The Man Who Knew Too Much,7.4,68000,76,PG,1956,2h,Alfred Hitchcock,1058,490
-Rear Window,8.5,514000,100,PG,1954,1h 52m,Alfred Hitchcock,1070,490
-North by Northwest,8.3,341000,98,Approved,1959,2h 16m,Alfred Hitchcock,1111,490
-Vertigo,8.3,421000,100,PG,1958,2h 8m,Alfred Hitchcock,1248,490
+Total Recall,7.5,349000,60,R,1990,1h 53m,Paul Verhoeven,699,335
 The Reader,7.6,256000,58,R,2008,2h 4m,Stephen Daldry,701,493
 Nocturnal Animals,7.5,298000,67,R,2016,1h 56m,Tom Ford,702,494
 Ernest Saves Christmas,5.7,13000,44,PG,1988,1h 35m,John R. Cherry III,703,495
 Rise of the Guardians,7.2,189000,58,PG,2012,1h 37m,Peter Ramsey,704,224
+Venom,6.6,526000,35,PG-13,2018,1h 52m,Ruben Fleischer,706,208
 Haunted Mansion,6.1,38000,47,PG-13,2023,2h 3m,Justin Simien,707,497
+Office Space,7.6,283000,68,R,1999,1h 29m,Mike Judge,708,392
+World War Z,7,706000,63,PG-13,2013,1h 56m,Marc Forster,709,252
 Black Panther,7.3,824000,88,PG-13,2018,2h 14m,Ryan Coogler,710,498
-Black Panther: Wakanda Forever,6.7,293000,67,PG-13,2022,2h 41m,Ryan Coogler,731,498
-Creed,7.6,306000,82,PG-13,2015,2h 13m,Ryan Coogler,1179,498
+The Hospital,7.1,7200,72,PG-13,1971,1h 43m,Arthur Hiller,711,143
+Armageddon,6.7,445000,42,PG-13,1998,2h 31m,Michael Bay,712,466
+Us,6.8,332000,81,R,2019,1h 56m,Jordan Peele,713,228
+Ready Player One,7.4,471000,64,PG-13,2018,2h 20m,Steven Spielberg,714,135
+Little Children,7.5,116000,75,R,2006,2h 17m,Todd Field,715,433
 Retribution,5.3,15000,43,R,2023,1h 31m,NimrÃ³d Antal,716,499
-Predators,6.4,241000,51,R,2010,1h 47m,NimrÃ³d Antal,1371,499
+Paddington,7.3,129000,77,PG,2014,1h 35m,Paul King,717,2
 Insidious: The Red Door,5.5,44000,45,PG-13,2023,1h 47m,Patrick Wilson,718,501
 Save the Last Dance,6.2,65000,53,PG-13,2001,1h 52m,Thomas Carter,719,502
+Hot Fuzz,7.8,528000,81,R,2007,2h 1m,Edgar Wright,720,111
 The House That Jack Built,6.8,88000,42,R,2018,2h 32m,Lars von Trier,721,503
-Melancholia,7.1,193000,81,R,2011,2h 15m,Lars von Trier,1133,503
-Dogville,8,156000,61,R,2003,2h 58m,Lars von Trier,1433,503
 The Incredibles,8,790000,90,PG,2004,1h 55m,Brad Bird,722,377
-Tomorrowland,6.4,189000,60,PG,2015,2h 10m,Brad Bird,875,377
-Mission: Impossible - Ghost Protocol,7.4,522000,73,PG-13,2011,2h 12m,Brad Bird,1131,377
-Incredibles 2,7.6,322000,80,PG,2018,1h 58m,Brad Bird,1502,377
 The Mask,6.9,411000,59,PG-13,1994,1h 41m,Chuck Russell,723,504
+Gangs of New York,7.5,466000,72,R,2002,2h 47m,Martin Scorsese,725,4
 Event Horizon,6.6,194000,35,R,1997,1h 36m,Paul W.S. Anderson,726,507
-The Three Musketeers,5.7,111000,35,PG-13,2011,1h 50m,Paul W.S. Anderson,1419,507
-Resident Evil,6.6,284000,33,R,2002,1h 40m,Paul W.S. Anderson,1557,507
 Jules,6.8,7100,57,PG-13,2023,1h 27m,Marc Turtletaub,728,511
+"Three Billboards Outside Ebbing, Missouri",8.1,543000,88,R,2017,1h 55m,Martin McDonagh,729,219
 Margin Call,7.1,142000,76,R,2011,1h 47m,J.C. Chandor,730,512
-Triple Frontier,6.5,142000,61,R,2019,2h 5m,J.C. Chandor,1221,512
+Black Panther: Wakanda Forever,6.7,293000,67,PG-13,2022,2h 41m,Ryan Coogler,731,498
+The Tomorrow War,6.6,223000,45,PG-13,2021,2h 18m,Chris McKay,732,280
+Bohemian Rhapsody,7.9,576000,49,PG-13,2018,2h 14m,Bryan Singer,733,315
 Disobedience,6.6,35000,74,R,2017,1h 54m,SebastiÃ¡n Lelio,734,513
 Star Wars: Episode V - The Empire Strikes Back,8.7,1400000,82,PG,1980,2h 4m,Irvin Kershner,735,514
-Never Say Never Again,6.1,72000,68,PG,1983,2h 14m,Irvin Kershner,1223,514
 Frequency,7.4,114000,67,PG-13,2000,1h 58m,Gregory Hoblit,736,515
-Primal Fear,7.7,241000,47,R,1996,2h 9m,Gregory Hoblit,784,515
 Chronicle,7,261000,69,PG-13,2012,1h 24m,Josh Trank,737,516
-Fantastic Four,4.3,174000,27,PG-13,2015,1h 40m,Josh Trank,1122,516
+Looper,7.4,596000,84,R,2012,1h 59m,Rian Johnson,738,247
+True Lies,7.3,276000,63,R,1994,2h 21m,James Cameron,739,128
+Showgirls,5,73000,20,NC-17,1995,2h 8m,Paul Verhoeven,740,335
 Waitress,7,48000,75,PG-13,2007,1h 48m,Adrienne Shelly,741,517
 The Mother,5.6,44000,45,R,2023,1h 55m,Niki Caro,742,518
+The Commuter,6.3,123000,56,PG-13,2018,1h 44m,Jaume Collet-Serra,743,292
 "To Sir, with Love",7.6,20000,55,Approved,1967,1h 45m,James Clavell,744,519
+Man on Fire,7.7,383000,47,R,2004,2h 26m,Tony Scott,745,239
 Crazy Rich Asians,6.9,186000,74,PG-13,2018,2h,Jon M. Chu,746,520
-Now You See Me 2,6.4,314000,46,PG-13,2016,2h 9m,Jon M. Chu,1566,520
+King Kong,7.2,441000,81,PG-13,2005,3h 7m,Peter Jackson,747,104
+Moonfall,5.1,96000,41,PG-13,2022,2h 10m,Roland Emmerich,748,387
 The Little Things,6.3,120000,54,R,2021,2h 8m,John Lee Hancock,749,521
-The Highwaymen,6.9,100000,58,R,2019,2h 12m,John Lee Hancock,1199,521
-The Founder,7.2,171000,66,PG-13,2016,1h 55m,John Lee Hancock,1401,521
-The Blind Side,7.6,355000,53,PG-13,2009,2h 9m,John Lee Hancock,1486,521
 The Firm,6.9,145000,58,R,1993,2h 34m,Sydney Pollack,750,522
 Mamma Mia! Here We Go Again,6.6,106000,60,PG-13,2018,1h 54m,Ol Parker,751,523
-Ticket to Paradise,6.1,61000,50,PG-13,2022,1h 44m,Ol Parker,1181,523
+Unforgiven,8.2,430000,85,R,1992,2h 10m,Clint Eastwood,752,344
 Big,7.3,236000,73,PG,1988,1h 44m,Penny Marshall,753,524
+Clueless,6.9,239000,71,PG-13,1995,1h 37m,Amy Heckerling,754,261
+John Wick: Chapter 2,7.4,499000,75,R,2017,2h 2m,Chad Stahelski,755,91
 The Death of Stalin,7.2,111000,88,R,2017,1h 47m,Armando Iannucci,756,525
 Airheads,6.2,55000,46,PG-13,1994,1h 32m,Michael Lehmann,757,526
-Heathers,7.2,113000,72,R,1988,1h 43m,Michael Lehmann,1267,526
 Nightcrawler,7.8,591000,76,R,2014,1h 57m,Dan Gilroy,758,527
 Love Again,5.9,11000,32,PG-13,2023,1h 44m,Jim Strouse,759,528
 Waiting...,6.7,104000,30,R,2005,1h 34m,Rob McKittrick,760,529
 The Royal Hotel,5.9,6000,77,R,2023,1h 31m,Kitty Green,761,530
 Mission: Impossible II,6.1,372000,59,PG-13,2000,2h 3m,John Woo,762,531
-Face/Off,7.3,395000,82,R,1997,2h 18m,John Woo,1227,531
 The Proposal,6.7,349000,48,PG-13,2009,1h 48m,Anne Fletcher,763,532
+Starship Troopers,7.3,313000,52,R,1997,2h 9m,Paul Verhoeven,764,335
 Something from Tiffany's,6.2,9600,46,PG,2022,1h 27m,Daryl Wein,765,533
 V for Vendetta,8.2,1200000,62,R,2005,2h 12m,James McTeigue,766,534
+The Greatest Beer Run Ever,6.8,25000,39,R,2022,2h 6m,Peter Farrelly,767,236
 White Noise,5.7,43000,66,R,2022,2h 16m,Noah Baumbach,769,537
-Marriage Story,7.9,338000,94,R,2019,2h 17m,Noah Baumbach,967,537
+Before Sunrise,8.1,332000,77,R,1995,1h 41m,Richard Linklater,770,319
+Night at the Museum,6.5,371000,48,PG,2006,1h 48m,Shawn Levy,771,317
 Angel Heart,7.2,94000,61,X,1987,1h 53m,Alan Parker,772,538
 Hell or High Water,7.6,247000,88,R,2016,1h 42m,David Mackenzie,773,539
+Valerian and the City of a Thousand Planets,6.4,194000,51,PG-13,2017,2h 16m,Luc Besson,774,168
+X-Men,7.3,638000,64,PG-13,2000,1h 44m,Bryan Singer,775,315
 The Persian Version,6.4,1400,61,R,2023,1h 47m,Maryam Keshavarz,776,540
 Pitch Perfect,7.1,326000,66,PG-13,2012,1h 52m,Jason Moore,777,541
+The Legend of Tarzan,6.2,185000,44,PG-13,2016,1h 50m,David Yates,778,161
+The Equalizer 2,6.7,188000,50,R,2018,2h 1m,Antoine Fuqua,779,86
 Rise of the Planet of the Apes,7.6,551000,68,PG-13,2011,1h 45m,Rupert Wyatt,780,542
 The Human Centipede (First Sequence),4.4,86000,33,R,2009,1h 32m,Tom Six,781,543
 Unbroken,7.2,180000,59,PG-13,2014,2h 17m,Angelina Jolie,782,544
+Maze Runner: The Scorch Trials,6.3,270000,43,PG-13,2015,2h 11m,Wes Ball,783,347
+Primal Fear,7.7,241000,47,R,1996,2h 9m,Gregory Hoblit,784,515
 The Stranger,6.6,25000,74,TV-MA,2022,1h 57m,Thomas M. Wright,786,546
+Amadeus,8.4,421000,87,PG,1984,2h 40m,Milos Forman,787,351
+Mystic River,7.9,477000,84,R,2003,2h 18m,Clint Eastwood,788,344
 WALLÂ·E,8.4,1200000,95,G,2008,1h 38m,Andrew Stanton,789,535
-John Carter,6.6,283000,51,PG-13,2012,2h 12m,Andrew Stanton,1663,535
+Alice in Wonderland,6.4,435000,53,PG,2010,1h 48m,Tim Burton,790,56
+American Gangster,7.8,446000,76,R,2007,2h 37m,Ridley Scott,791,7
+Sixteen Candles,7,124000,61,PG,1984,1h 33m,John Hughes,792,288
 Fingernails,5.9,6000,63,R,2023,1h 53m,Christos Nikou,793,547
 Focus,6.6,270000,56,R,2015,1h 45m,Glenn FicarraJohn Requa,794,548
+A Nightmare on Elm Street,7.4,258000,76,R,1984,1h 31m,Wes Craven,796,440
+Legend,6.9,198000,55,R,2015,2h 12m,Brian Helgeland,797,45
 Remember the Night,7.6,6800,78,Passed,1939,1h 34m,Mitchell Leisen,798,551
 Sleeping Beauty,5.3,34000,61,TV-14,2011,1h 41m,Julia Leigh,799,552
 Remember the Titans,7.8,228000,48,PG,2000,1h 53m,Boaz Yakin,800,553
 The Black Phone,6.9,183000,65,R,2021,1h 43m,Scott Derrickson,801,554
-Sinister,6.8,274000,53,R,2012,1h 50m,Scott Derrickson,984,554
-Doctor Strange,7.5,789000,72,PG-13,2016,1h 55m,Scott Derrickson,1344,554
+Captain America: The First Avenger,6.9,884000,66,PG-13,2011,2h 4m,Joe Johnston,802,312
+The Witches of Eastwick,6.5,76000,67,R,1987,1h 58m,George Miller,803,97
 The Impossible,7.5,238000,73,PG-13,2012,1h 54m,J.A. Bayona,804,555
-Jurassic World: Fallen Kingdom,6.1,337000,51,PG-13,2018,2h 8m,J.A. Bayona,1472,555
 Room,8.1,443000,86,R,2015,1h 58m,Lenny Abrahamson,805,556
 The Invisible Man,7.1,249000,72,R,2020,2h 4m,Leigh Whannell,806,557
-Upgrade,7.5,202000,67,R,2018,1h 40m,Leigh Whannell,999,557
+Dawn of the Planet of the Apes,7.6,462000,79,PG-13,2014,2h 10m,Matt Reeves,807,73
 Wild Things,6.6,128000,52,R,1998,1h 48m,John McNaughton,808,558
 Passages,6.8,7600,79,Unrated,2023,1h 31m,Ira Sachs,809,559
 500 Days of Summer,7.7,546000,76,PG-13,2009,1h 35m,Marc Webb,810,560
-The Amazing Spider-Man,6.9,691000,66,PG-13,2012,2h 16m,Marc Webb,998,560
-The Amazing Spider-Man 2,6.6,529000,53,PG-13,2014,2h 22m,Marc Webb,1236,560
-Gifted,7.6,127000,60,PG-13,2017,1h 41m,Marc Webb,1281,560
 The Devil's Advocate,7.5,395000,60,R,1997,2h 24m,Taylor Hackford,811,561
 Weird: The Al Yankovic Story,6.9,36000,70,TV-14,2022,1h 48m,Eric Appel,812,562
+The Hunt for Red October,7.5,211000,58,PG,1990,2h 15m,John McTiernan,813,30
 Scary Movie,6.3,281000,48,R,2000,1h 28m,Keenen Ivory Wayans,814,563
-White Chicks,5.8,159000,41,PG-13,2004,1h 49m,Keenen Ivory Wayans,903,563
-Scary Movie 2,5.3,172000,29,R,2001,1h 23m,Keenen Ivory Wayans,1666,563
 Nightmare Alley,7,161000,70,R,2021,2h 30m,Guillermo del Toro,815,411
-The Shape of Water,7.3,441000,87,R,2017,2h 3m,Guillermo del Toro,820,411
-Pacific Rim,6.9,523000,65,PG-13,2013,2h 11m,Guillermo del Toro,1016,411
+Cinderella,6.9,188000,67,PG,2015,1h 45m,Kenneth Branagh,816,37
+2 Fast 2 Furious,5.9,292000,38,PG-13,2003,1h 47m,John Singleton,817,300
 The Out-Laws,5.4,33000,36,R,2023,1h 35m,Tyler Spindel,818,564
+Wonder Woman 1984,5.4,287000,60,PG-13,2020,2h 31m,Patty Jenkins,819,391
+The Shape of Water,7.3,441000,87,R,2017,2h 3m,Guillermo del Toro,820,411
 Mamma Mia!,6.5,267000,51,PG-13,2008,1h 48m,Phyllida Lloyd,821,565
+The Hobbit: The Desolation of Smaug,7.8,694000,66,PG-13,2013,2h 41m,Peter Jackson,822,104
+Children of Men,7.9,522000,84,R,2006,1h 49m,Alfonso CuarÃ³n,824,212
+In Bruges,7.9,455000,67,R,2008,1h 47m,Martin McDonagh,825,219
 Scooby-Doo,5.3,123000,35,PG,2002,1h 26m,Raja Gosnell,826,568
+Beverly Hills Cop II,6.5,127000,48,R,1987,1h 40m,Tony Scott,827,239
+Stargate,7,202000,42,PG-13,1994,1h 56m,Roland Emmerich,828,387
 A Castle for Christmas,5.6,15000,53,TV-G,2021,1h 38m,Mary Lambert,829,569
+Terminator: Dark Fate,6.2,190000,54,R,2019,2h 8m,Tim Miller,830,303
+Thor: Ragnarok,7.9,802000,74,PG-13,2017,2h 10m,Taika Waititi,831,264
 Plane,6.5,72000,62,R,2023,1h 47m,Jean-FranÃ§ois Richet,833,571
 Spotlight,8.1,494000,93,R,2015,2h 9m,Tom McCarthy,834,572
-Stillwater,6.6,54000,60,R,2021,2h 19m,Tom McCarthy,1076,572
+Star Wars: Episode III - Revenge of the Sith,7.6,832000,68,PG-13,2005,2h 20m,George Lucas,835,244
+Fantastic Mr. Fox,7.9,263000,83,PG,2009,1h 27m,Wes Anderson,836,62
 Click,6.4,351000,45,PG-13,2006,1h 47m,Frank Coraci,838,574
-The Waterboy,6.1,175000,41,PG-13,1998,1h 30m,Frank Coraci,1383,574
-Blended,6.5,141000,31,PG-13,2014,1h 57m,Frank Coraci,1495,574
-The Wedding Singer,6.9,160000,59,PG-13,1998,1h 37m,Frank Coraci,1556,574
 Live Free or Die Hard,7.1,417000,69,PG-13,2007,2h 8m,Len Wiseman,839,575
-Underworld,7,282000,42,R,2003,2h 1m,Len Wiseman,1404,575
+Red Sparrow,6.6,198000,53,R,2018,2h 20m,Francis Lawrence,840,6
 The Miracle Club,6.3,2000,49,PG-13,2023,1h 30m,Thaddeus O'Sullivan,841,576
+12 Years a Slave,8.1,731000,96,R,2013,2h 14m,Steve McQueen,842,400
 Galaxy Quest,7.4,173000,70,PG,1999,1h 42m,Dean Parisot,843,577
 The Devil All the Time,7.1,149000,55,R,2020,2h 18m,Antonio Campos,844,578
+The Patriot,7.2,289000,63,R,2000,2h 45m,Roland Emmerich,845,387
 Red Dawn,6.3,62000,53,PG-13,1984,1h 54m,John Milius,846,579
-Conan the Barbarian,6.9,160000,43,R,1982,2h 9m,John Milius,907,579
 Life,6.6,248000,54,R,2017,1h 44m,Daniel Espinosa,847,580
-Morbius,5.2,145000,35,PG-13,2022,1h 44m,Daniel Espinosa,1026,580
 She Came to Me,6,2600,53,R,2023,1h 42m,Rebecca Miller,848,581
+The Last of the Mohicans,7.7,184000,76,R,1992,1h 52m,Michael Mann,849,54
 Jingle Jangle: A Christmas Journey,6.5,20000,69,PG,2020,2h 2m,David E. Talbert,851,583
+Spider-Man: Homecoming,7.4,704000,73,PG-13,2017,2h 13m,Jon Watts,852,156
 Interview with the Vampire: The Vampire Chronicles,7.5,342000,60,R,1994,2h 3m,Neil Jordan,853,584
-Marlowe,5.3,9200,41,R,2022,1h 49m,Neil Jordan,1701,584
+Pirates of the Caribbean: Dead Man's Chest,7.4,755000,53,PG-13,2006,2h 31m,Gore Verbinski,854,250
+Gran Torino,8.1,805000,72,R,2008,1h 56m,Clint Eastwood,855,344
+Sucker Punch,6,250000,33,PG-13,2011,1h 50m,Zack Snyder,856,14
 It Follows,6.8,263000,83,R,2014,1h 40m,David Robert Mitchell,857,585
-Under the Silver Lake,6.5,49000,60,R,2018,2h 19m,David Robert Mitchell,1356,585
 Creed III,6.7,88000,73,PG-13,2023,1h 56m,Michael B. Jordan,858,586
+Star Trek,7.9,616000,82,PG-13,2009,2h 7m,J.J. Abrams,859,381
 The Texas Chain Saw Massacre,7.4,180000,89,R,1974,1h 23m,Tobe Hooper,860,587
-Lifeforce,6.1,29000,50,R,1985,1h 41m,Tobe Hooper,1160,587
-Poltergeist,7.3,177000,79,PG,1982,1h 54m,Tobe Hooper,1622,587
+For Your Eyes Only,6.7,107000,54,PG,1981,2h 7m,John Glen,861,429
+Sunshine,7.2,263000,64,R,2007,1h 47m,Danny Boyle,862,422
 Foe,5.3,2400,44,R,2023,1h 50m,Garth Davis,863,588
 Book Club: The Next Chapter,5.6,5700,46,PG-13,2023,1h 47m,Bill Holderman,864,589
+Erin Brockovich,7.4,215000,73,R,2000,2h 11m,Steven Soderbergh,865,409
 The World Is Not Enough,6.4,208000,57,PG-13,1999,2h 8m,Michael Apted,867,590
-The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,164000,53,PG,2010,1h 53m,Michael Apted,1510,590
 The Kill Room,5.4,3600,58,R,2023,1h 38m,Nicol Paone,868,591
 Legally Blonde,6.4,240000,59,PG-13,2001,1h 36m,Robert Luketic,869,592
+Sky High,6.3,93000,62,PG,2005,1h 40m,Mike Mitchell,870,356
 The Pope's Exorcist,6.1,76000,45,R,2023,1h 43m,Julius Avery,871,593
 Everest,7.1,228000,64,PG-13,2015,2h 1m,Baltasar KormÃ¡kur,872,594
+Dark Waters,7.6,98000,73,PG-13,2019,2h 6m,Todd Haynes,873,5
 Freud's Last Session,8.5,107,57,PG-13,2023,1h 48m,Matt Brown,874,595
+Tomorrowland,6.4,189000,60,PG,2015,2h 10m,Brad Bird,875,377
+School of Rock,7.2,324000,82,PG-13,2003,1h 49m,Richard Linklater,876,319
 Easy A,7,411000,72,PG-13,2010,1h 32m,Will Gluck,878,596
-Friends with Benefits,6.5,389000,63,R,2011,1h 49m,Will Gluck,1044,596
 Brokeback Mountain,7.7,376000,87,R,2005,2h 14m,Ang Lee,879,597
-Sense and Sensibility,7.7,123000,84,PG,1995,2h 16m,Ang Lee,1164,597
-Life of Pi,7.9,658000,79,PG,2012,2h 7m,Ang Lee,1588,597
-Hulk,5.6,276000,54,PG-13,2003,2h 18m,Ang Lee,1705,597
+Aladdin,6.9,285000,53,PG,2019,2h 8m,Guy Ritchie,880,148
 Warrior,8.1,491000,71,PG-13,2011,2h 20m,Gavin O'Connor,881,598
-The Accountant,7.3,313000,51,R,2016,2h 8m,Gavin O'Connor,919,598
+Malignant,6.2,105000,51,R,2021,1h 51m,James Wan,882,221
 My Girl,6.9,87000,56,PG,1991,1h 42m,Howard Zieff,883,599
 Dirty Dancing,7,250000,65,PG-13,1987,1h 40m,Emile Ardolino,884,600
 Mixed Nuts,5.4,13000,14,PG-13,1994,1h 37m,Nora Ephron,885,601
-Sleepless in Seattle,6.8,188000,72,PG,1993,1h 45m,Nora Ephron,1209,601
-You've Got Mail,6.7,226000,57,PG,1998,1h 59m,Nora Ephron,1271,601
+Talladega Nights: The Ballad of Ricky Bobby,6.6,196000,66,PG-13,2006,1h 48m,Adam McKay,886,214
+Spectre,6.8,460000,60,PG-13,2015,2h 28m,Sam Mendes,887,167
 Patriot Games,6.8,119000,64,R,1992,1h 57m,Phillip Noyce,888,602
-The Giver,6.4,124000,47,PG-13,2014,1h 37m,Phillip Noyce,991,602
-Clear and Present Danger,6.9,106000,72,PG-13,1994,2h 21m,Phillip Noyce,1232,602
-Salt,6.4,327000,65,PG-13,2010,1h 40m,Phillip Noyce,1688,602
+Star Wars: Episode VIII - The Last Jedi,6.9,662000,84,PG-13,2017,2h 32m,Rian Johnson,889,247
+The Karate Kid,7.3,240000,60,PG,1984,2h 6m,John G. Avildsen,890,482
+National Lampoon's European Vacation,6.2,71000,47,PG-13,1985,1h 35m,Amy Heckerling,891,261
+Anna,6.6,91000,40,R,2019,1h 58m,Luc Besson,892,168
+The French Dispatch,7.1,146000,74,R,2021,1h 47m,Wes Anderson,893,62
 Showing Up,6.4,3700,85,R,2022,1h 47m,Kelly Reichardt,894,603
 Better Off Dead...,7.1,48000,51,PG,1985,1h 37m,Savage Steve Holland,895,604
+Robin Hood,6.6,280000,53,PG-13,2010,2h 20m,Ridley Scott,896,7
 Remember Me,7.1,154000,40,PG-13,2010,1h 53m,Allen Coulter,897,605
 Steel Magnolias,7.3,62000,56,PG,1989,1h 57m,Herbert Ross,898,606
-Footloose,6.6,89000,42,PG,1984,1h 47m,Herbert Ross,1337,606
+Midway,6.7,93000,47,PG-13,2019,2h 18m,Roland Emmerich,899,387
+"Girl, Interrupted",7.3,206000,51,R,1999,2h 7m,James Mangold,900,18
 Lone Survivor,7.5,303000,60,R,2013,2h 1m,Peter Berg,901,607
-Deepwater Horizon,7.1,179000,68,PG-13,2016,1h 47m,Peter Berg,1570,607
 Blade,7.1,293000,47,R,1998,2h,Stephen Norrington,902,608
+White Chicks,5.8,159000,41,PG-13,2004,1h 49m,Keenen Ivory Wayans,903,563
 The Descent,7.2,242000,71,R,2005,1h 39m,Neil Marshall,904,609
-Hellboy,5.2,96000,31,R,2019,2h,Neil Marshall,1354,609
+Furious 7,7.1,410000,67,PG-13,2015,2h 17m,James Wan,905,221
+The Road Warrior,7.6,190000,77,R,1981,1h 36m,George Miller,906,97
+Conan the Barbarian,6.9,160000,43,R,1982,2h 9m,John Milius,907,579
 Napoleon Dynamite,7,233000,64,PG,2004,1h 36m,Jared Hess,909,612
+The Town,7.5,410000,74,R,2010,2h 5m,Ben Affleck,910,266
+Thirteen,6.8,96000,70,R,2003,1h 40m,Catherine Hardwicke,911,203
 Black Widow,6.7,415000,68,PG-13,2021,2h 14m,Cate Shortland,912,613
 Bridge to Terabithia,7.2,169000,74,PG,2007,1h 36m,Gabor Csupo,913,614
+Monster,7.3,159000,74,R,2003,1h 49m,Patty Jenkins,914,391
 Dredd,7.1,290000,60,R,2012,1h 35m,Pete Travis,915,615
 Champions,6.8,23000,50,PG-13,2023,2h 4m,Bobby Farrelly,916,573
+"Confess, Fletch",6.5,17000,64,R,2022,1h 38m,Greg Mottola,917,286
+The Accountant,7.3,313000,51,R,2016,2h 8m,Gavin O'Connor,919,598
+Serenity,7.8,303000,74,PG-13,2005,1h 59m,Joss Whedon,920,442
 I Spit on Your Grave,6.2,91000,27,R,2010,1h 48m,Steven R. Monroe,921,619
 Venom: Let There Be Carnage,5.9,252000,49,PG-13,2021,1h 37m,Andy Serkis,922,620
 Last Holiday,6.6,35000,52,PG-13,2006,1h 52m,Wayne Wang,923,621
+Birdman or (The Unexpected Virtue of Ignorance),7.7,657000,87,R,2014,1h 59m,Alejandro G. IÃ±Ã¡rritu,925,343
+Mask,7.2,32000,73,PG-13,1985,2h,Peter Bogdanovich,926,297
+The Game,7.7,421000,63,R,1997,2h 9m,David Fincher,927,31
 Knights of the Zodiac,4.4,10000,35,PG-13,2023,1h 52m,Tomasz Baginski,928,623
 Alfie,7,16000,70,Unrated,1966,1h 54m,Lewis Gilbert,929,624
-Moonraker,6.2,107000,66,PG,1979,2h 6m,Lewis Gilbert,1254,624
-The Spy Who Loved Me,7,115000,55,PG,1977,2h 5m,Lewis Gilbert,1403,624
+Thor,7,888000,57,PG-13,2011,1h 55m,Kenneth Branagh,930,37
 Just Go with It,6.4,261000,33,PG-13,2011,1h 57m,Dennis Dugan,931,625
-Happy Gilmore,7,243000,31,PG-13,1996,1h 32m,Dennis Dugan,1186,625
-Grown Ups,6,269000,30,PG-13,2010,1h 42m,Dennis Dugan,1192,625
-Grown Ups 2,5.4,166000,19,PG-13,2013,1h 41m,Dennis Dugan,1514,625
-Big Daddy,6.4,230000,41,PG-13,1999,1h 33m,Dennis Dugan,1654,625
 The Boogeyman,5.9,40000,55,PG-13,2023,1h 38m,Rob Savage,932,626
 Tetris,7.4,75000,61,R,2023,1h 58m,Jon S. Baird,933,627
+Licorice Pizza,7.1,136000,90,R,2021,2h 13m,Paul Thomas Anderson,934,186
 "The Cook, the Thief, His Wife & Her Lover",7.5,41000,62,X,1989,2h 4m,Peter Greenaway,935,628
+Misery,7.8,230000,75,R,1990,1h 47m,Rob Reiner,937,166
 Lakeview Terrace,6.2,55000,47,PG-13,2008,1h 50m,Neil LaBute,938,631
 Tomorrow Never Dies,6.5,203000,52,PG-13,1997,1h 59m,Roger Spottiswoode,940,633
+Chinatown,8.2,344000,92,R,1974,2h 10m,Roman Polanski,941,363
 Mary Poppins,7.8,183000,88,G,1964,2h 19m,Robert Stevenson,942,634
 The Nun,5.3,166000,46,R,2018,1h 36m,Corin Hardy,943,635
 American Symphony,7.3,861,76,PG-13,2023,1h 44m,Matthew Heineman,944,636
+Mrs. Doubtfire,7.1,285000,54,PG-13,1993,2h 5m,Chris Columbus,945,36
+When Harry Met Sally...,7.7,237000,76,R,1989,1h 35m,Rob Reiner,946,166
 You Are So Not Invited to My Bat Mitzvah,6,22000,71,PG-13,2023,1h 43m,Sammi Cohen,947,637
+Cruel Intentions,6.8,202000,56,R,1999,1h 37m,Roger Kumble,948,425
+TRON: Legacy,6.8,351000,49,PG,2010,2h 5m,Joseph Kosinski,949,120
 Legion,5.3,111000,32,R,2010,1h 40m,Scott Stewart,950,638
+Traffic,7.6,217000,86,R,2000,2h 27m,Steven Soderbergh,951,409
+Minority Report,7.6,576000,80,PG-13,2002,2h 25m,Steven Spielberg,952,135
+Justice League,6.1,473000,45,PG-13,2017,2h,Zack Snyder,953,14
+Suspiria,6.7,89000,64,R,2018,2h 32m,Luca Guadagnino,954,227
+Nomadland,7.3,177000,89,R,2020,1h 47m,ChloÃ© Zhao,955,408
 I'm Thinking of Ending Things,6.6,97000,78,R,2020,2h 14m,Charlie Kaufman,956,640
 Reality,6.7,15000,84,TV-MA,2023,1h 23m,Tina Satter,957,641
+Mud,7.4,187000,76,PG-13,2012,2h 10m,Jeff Nichols,958,302
 Highlander,7,145000,24,R,1986,1h 56m,Russell Mulcahy,959,642
-Teen Wolf: The Movie,5.5,14000,51,TV-MA,2023,2h 20m,Russell Mulcahy,1578,642
+Pearl Harbor,6.2,348000,44,PG-13,2001,3h 3m,Michael Bay,960,466
 Brazil,7.9,209000,84,R,1985,2h 12m,Terry Gilliam,961,643
+Blue Velvet,7.7,212000,75,R,1986,2h,David Lynch,962,277
+Sideways,7.5,200000,94,R,2004,2h 7m,Alexander Payne,963,16
 Sleepers,7.5,235000,49,R,1996,2h 27m,Barry Levinson,964,644
-Rain Man,8,538000,65,R,1988,2h 13m,Barry Levinson,1436,644
 A Merry Friggin' Christmas,5.1,8000,28,PG-13,2014,1h 28m,Tristram Shapeero,965,645
 Demolition,7,108000,49,R,2015,1h 41m,Jean-Marc VallÃ©e,966,646
-Dallas Buyers Club,7.9,512000,77,R,2013,1h 57m,Jean-Marc VallÃ©e,1505,646
+Marriage Story,7.9,338000,94,R,2019,2h 17m,Noah Baumbach,967,537
 The Road,7.2,251000,64,R,2009,1h 51m,John Hillcoat,968,647
-Lawless,7.2,251000,58,R,2012,1h 56m,John Hillcoat,1581,647
+War of the Worlds,6.5,469000,73,PG-13,2005,1h 56m,Steven Spielberg,969,135
 The Bad Guys,6.8,55000,64,PG,2022,1h 40m,Pierre Perifel,970,648
 The Nutcracker: The Untold Story,4.1,4100,18,PG,2010,1h 50m,Andrey Konchalovskiy,971,649
 Manchester by the Sea,7.8,305000,96,R,2016,2h 17m,Kenneth Lonergan,972,650
 The Call of the Wild,6.7,55000,48,PG,2020,1h 40m,Chris Sanders,973,567
+American Sniper,7.3,520000,72,R,2014,2h 13m,Clint Eastwood,974,344
+Hannibal,6.8,289000,57,R,2001,2h 11m,Ridley Scott,976,7
 Wrong Turn,6.1,129000,32,R,2003,1h 24m,Rob Schmidt,977,653
+13 Hours,7.3,157000,48,R,2016,2h 24m,Michael Bay,978,466
+Moulin Rouge!,7.6,296000,66,PG-13,2001,2h 7m,Baz Luhrmann,979,313
 The Cabin in the Woods,7,443000,72,R,2011,1h 35m,Drew Goddard,980,654
-Bad Times at the El Royale,7.1,162000,60,R,2018,2h 21m,Drew Goddard,1011,654
 1408,6.8,290000,64,PG-13,2007,1h 44m,Mikael HÃ¥fstrÃ¶m,981,655
+"Lock, Stock and Two Smoking Barrels",8.1,608000,66,R,1998,1h 47m,Guy Ritchie,982,148
+Coraline,7.7,258000,80,PG,2009,1h 40m,Henry Selick,983,125
+Sinister,6.8,274000,53,R,2012,1h 50m,Scott Derrickson,984,554
+Solo: A Star Wars Story,6.9,372000,62,PG-13,2018,2h 15m,Ron Howard,985,20
+The NeverEnding Story,7.3,154000,46,PG,1984,1h 42m,Wolfgang Petersen,986,222
 The Rocker,6.2,40000,53,PG-13,2008,1h 42m,Peter Cattaneo,987,656
 Dances with Wolves,8,285000,72,PG-13,1990,3h 1m,Kevin Costner,988,657
+Juno,7.5,543000,81,PG-13,2007,1h 36m,Jason Reitman,989,410
 Star Wars: Episode VI - Return of the Jedi,8.3,1100000,58,PG,1983,2h 11m,Richard Marquand,990,658
+The Giver,6.4,124000,47,PG-13,2014,1h 37m,Phillip Noyce,991,602
 Crash,7.7,446000,66,R,2004,1h 52m,Paul Haggis,992,659
+I Am Legend,7.2,800000,65,PG-13,2007,1h 41m,Francis Lawrence,993,6
 The Power of the Dog,6.8,190000,89,R,2021,2h 6m,Jane Campion,994,660
+Spider-Man 2,7.5,694000,83,PG-13,2004,2h 7m,Sam Raimi,995,336
+Limitless,7.4,603000,59,PG-13,2011,1h 45m,Neil Burger,997,211
+The Amazing Spider-Man,6.9,691000,66,PG-13,2012,2h 16m,Marc Webb,998,560
+Upgrade,7.5,202000,67,R,2018,1h 40m,Leigh Whannell,999,557
+Wrath of Man,7.1,200000,57,R,2021,1h 59m,Guy Ritchie,1000,148
 Hot Tub Time Machine,6.4,184000,63,R,2010,1h 39m,Steve Pink,1002,664
+Fast Five,7.3,402000,66,PG-13,2011,2h 10m,Justin Lin,1003,113
+That's My Boy,5.5,107000,31,R,2012,1h 56m,Sean Anders,1004,67
 They Cloned Tyrone,6.6,35000,74,R,2023,2h 2m,Juel Taylor,1006,667
+House of Gucci,6.6,154000,59,R,2021,2h 38m,Ridley Scott,1007,7
+Kick-Ass,7.6,586000,66,R,2010,1h 57m,Matthew Vaughn,1008,396
+Kingsman: The Golden Circle,6.7,355000,44,R,2017,2h 21m,Matthew Vaughn,1009,396
+A Few Good Men,7.7,282000,62,R,1992,2h 18m,Rob Reiner,1010,166
+Bad Times at the El Royale,7.1,162000,60,R,2018,2h 21m,Drew Goddard,1011,654
+Hit Man,7.8,721,82,R,2023,1h 53m,Richard Linklater,1013,319
 Shang-Chi and the Legend of the Ten Rings,7.4,423000,71,PG-13,2021,2h 12m,Destin Daniel Cretton,1014,669
 Polar,6.3,97000,19,TV-MA,2019,1h 58m,Jonas Ãkerlund,1015,670
+Pacific Rim,6.9,523000,65,PG-13,2013,2h 11m,Guillermo del Toro,1016,411
+The Last Samurai,7.8,463000,55,R,2003,2h 34m,Edward Zwick,1017,98
+Dodgeball: A True Underdog Story,6.7,263000,55,PG-13,2004,1h 32m,Rawson Marshall Thurber,1018,233
+Fantastic Beasts and Where to Find Them,7.2,500000,66,PG-13,2016,2h 12m,David Yates,1019,161
 Sea of Love,6.8,44000,66,R,1989,1h 53m,Harold Becker,1020,671
+Shaun of the Dead,7.9,585000,76,R,2004,1h 39m,Edgar Wright,1021,111
+Kiss Kiss Bang Bang,7.5,235000,72,R,2005,1h 43m,Shane Black,1022,417
 Piranha 3D,5.5,96000,53,R,2010,1h 28m,Alexandre Aja,1023,672
 Tusk,5.3,62000,55,R,2014,1h 42m,Kevin Smith,1025,674
-Dogma,7.3,226000,62,R,1999,2h 10m,Kevin Smith,1168,674
-Mallrats,7,128000,41,R,1995,1h 34m,Kevin Smith,1309,674
+Morbius,5.2,145000,35,PG-13,2022,1h 44m,Daniel Espinosa,1026,580
+Batman Forever,5.4,264000,54,PG-13,1995,2h 1m,Joel Schumacher,1027,368
 Speed,7.3,385000,78,R,1994,1h 56m,Jan de Bont,1028,675
-Twister,6.5,209000,68,PG-13,1996,1h 53m,Jan de Bont,1239,675
+Scent of a Woman,8,322000,57,R,1992,2h 36m,Martin Brest,1029,121
+Blue Valentine,7.3,208000,81,R,2010,1h 52m,Derek Cianfrance,1030,332
 Greyhound,7,110000,64,PG-13,2020,1h 31m,Aaron Schneider,1031,676
 A Bridge Too Far,7.4,61000,63,PG,1977,2h 55m,Richard Attenborough,1032,677
+The English Patient,7.4,198000,87,R,1996,2h 42m,Anthony Minghella,1033,340
+King Arthur: Legend of the Sword,6.7,229000,41,PG-13,2017,2h 6m,Guy Ritchie,1034,148
+Weird Science,6.6,96000,46,PG-13,1985,1h 34m,John Hughes,1035,288
 The Snowman,5.2,70000,23,R,2017,1h 59m,Tomas Alfredson,1036,678
-Tinker Tailor Soldier Spy,7,210000,85,R,2011,2h 7m,Tomas Alfredson,1158,678
+The Parent Trap,6.6,151000,64,PG,1998,2h 8m,Nancy Meyers,1037,47
+Avengers: Age of Ultron,7.3,908000,66,PG-13,2015,2h 21m,Joss Whedon,1038,442
+Phantom Thread,7.4,142000,90,R,2017,2h 10m,Paul Thomas Anderson,1039,186
+Maze Runner: The Death Cure,6.2,157000,50,PG-13,2018,2h 23m,Wes Ball,1040,347
 Cashback,7.1,90000,54,R,2006,1h 42m,Sean Ellis,1041,679
+The Addams Family,6.9,177000,57,PG-13,1991,1h 39m,Barry Sonnenfeld,1042,404
+Chicago,7.2,240000,81,PG-13,2002,1h 53m,Rob Marshall,1043,184
+Friends with Benefits,6.5,389000,63,R,2011,1h 49m,Will Gluck,1044,596
+Hostiles,7.2,93000,65,R,2017,2h 14m,Scott Cooper,1045,459
+Oblivion,7,547000,54,PG-13,2013,2h 4m,Joseph Kosinski,1046,120
 A Million Miles Away,7.3,18000,62,PG,2023,2h 1m,Alejandra MÃ¡rquez Abella,1047,680
 Robin Hood: Prince of Thieves,6.9,205000,51,PG-13,1991,2h 23m,Kevin Reynolds,1048,681
-The Count of Monte Cristo,7.7,146000,61,PG-13,2002,2h 11m,Kevin Reynolds,1214,681
 About My Father,5.7,10000,39,PG-13,2023,1h 30m,Laura Terruso,1049,682
+Guardians of the Galaxy Vol. 2,7.6,744000,67,PG-13,2017,2h 16m,James Gunn,1050,83
+Wonder,7.9,175000,66,PG,2017,1h 53m,Stephen Chbosky,1051,452
+Sleepy Hollow,7.3,379000,65,R,1999,1h 45m,Tim Burton,1052,56
 X-Men Origins: Wolverine,6.5,524000,40,PG-13,2009,1h 47m,Gavin Hood,1053,683
-Ender's Game,6.6,251000,51,PG-13,2013,1h 54m,Gavin Hood,1268,683
+Constantine,7,368000,50,R,2005,2h 1m,Francis Lawrence,1054,6
 The Big Ugly,5.1,6600,52,R,2020,1h 46m,Scott Wiper,1055,684
 The Others,7.6,387000,74,PG-13,2001,1h 44m,Alejandro AmenÃ¡bar,1056,685
+Batman & Robin,3.8,265000,29,PG-13,1997,2h 5m,Joel Schumacher,1057,368
+The Man Who Knew Too Much,7.4,68000,76,PG,1956,2h,Alfred Hitchcock,1058,490
+Quantum of Solace,6.6,466000,58,PG-13,2008,1h 46m,Marc Forster,1060,252
 Ponyo,7.6,158000,86,G,2008,1h 41m,Hayao Miyazaki,1061,688
 Purple Hearts,6.7,49000,30,TV-14,2022,2h 2m,Elizabeth Allen Rosenbaum,1062,689
 First Blood,7.7,270000,61,R,1982,1h 33m,Ted Kotcheff,1063,690
+G.I. Joe: The Rise of Cobra,5.7,214000,32,PG-13,2009,1h 58m,Stephen Sommers,1064,353
+Zero Dark Thirty,7.4,315000,95,R,2012,2h 37m,Kathryn Bigelow,1065,307
 Mortal Kombat,6,187000,44,R,2021,1h 50m,Simon McQuoid,1066,691
+Daddy's Home,6.2,127000,42,PG-13,2015,1h 36m,Sean Anders,1067,67
+Zombieland,7.6,610000,73,R,2009,1h 28m,Ruben Fleischer,1068,208
+Jerry and Marge Go Large,6.9,21000,52,PG-13,2022,1h 36m,David Frankel,1069,394
+Rear Window,8.5,514000,100,PG,1954,1h 52m,Alfred Hitchcock,1070,490
 Lawrence of Arabia,8.3,309000,100,Approved,1962,3h 38m,David Lean,1072,695
-Doctor Zhivago,7.9,81000,69,PG-13,1965,3h 17m,David Lean,1745,695
+Rush,8.1,505000,74,R,2013,2h 3m,Ron Howard,1073,20
 "Good Luck to You, Leo Grande",7.2,35000,78,R,2022,1h 37m,Sophie Hyde,1074,696
+Natural Born Killers,7.2,248000,74,R,1994,1h 59m,Oliver Stone,1075,445
+Stillwater,6.6,54000,60,R,2021,2h 19m,Tom McCarthy,1076,572
 Snow Day,5.1,13000,34,PG,2000,1h 29m,Chris Koch,1077,697
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,511000,97,PG,1964,1h 35m,Stanley Kubrick,1078,174
+X-Men: First Class,7.7,716000,65,PG-13,2011,2h 11m,Matthew Vaughn,1079,396
 Road House,6.7,83000,36,R,1989,1h 54m,Rowdy Herrington,1080,699
+X-Men: Apocalypse,6.9,455000,52,PG-13,2016,2h 24m,Bryan Singer,1081,315
+The Bourne Identity,7.8,569000,68,PG-13,2002,1h 59m,Doug Liman,1082,293
+The Master,7.1,184000,86,R,2012,2h 18m,Paul Thomas Anderson,1083,186
 Ace Ventura: Pet Detective,6.9,320000,37,PG-13,1994,1h 26m,Tom Shadyac,1084,700
-Liar Liar,6.9,328000,70,PG-13,1997,1h 26m,Tom Shadyac,1444,700
-Bruce Almighty,6.8,426000,46,PG-13,2003,1h 41m,Tom Shadyac,1580,700
+"I, Tonya",7.5,237000,77,R,2017,1h 59m,Craig Gillespie,1086,142
+Revolutionary Road,7.3,222000,69,R,2008,1h 59m,Sam Mendes,1088,167
+Rush Hour,7,289000,60,PG-13,1998,1h 38m,Brett Ratner,1089,152
+Master and Commander: The Far Side of the World,7.5,234000,81,PG-13,2003,2h 18m,Peter Weir,1090,259
 Spring Breakers,5.3,147000,63,R,2012,1h 34m,Harmony Korine,1091,703
+Dawn of the Dead,7.3,268000,59,R,2004,1h 41m,Zack Snyder,1092,14
 The Warriors,7.5,109000,65,R,1979,1h 33m,Walter Hill,1093,706
-The Driver,7.1,19000,56,R,1978,1h 31m,Walter Hill,1238,706
-The Long Riders,6.9,13000,68,R,1980,1h 40m,Walter Hill,1602,706
+Christine,6.8,91000,57,R,1983,1h 50m,John Carpenter,1094,334
+District 9,7.9,708000,81,R,2009,1h 52m,Neill Blomkamp,1095,93
 Alive,7.1,60000,56,R,1993,2h 8m,Frank Marshall,1096,707
 The Running Man,6.7,163000,45,R,1987,1h 41m,Paul Michael Glaser,1097,708
-Kazaam,3.1,25000,24,PG,1996,1h 33m,Paul Michael Glaser,1584,708
+Jackie Brown,7.5,367000,62,R,1997,2h 34m,Quentin Tarantino,1098,107
 eXistenZ,6.8,106000,68,R,1999,1h 37m,David Cronenberg,1099,709
-Crimes of the Future,5.8,39000,67,R,2022,1h 47m,David Cronenberg,1305,709
-Eastern Promises,7.6,257000,83,R,2007,1h 40m,David Cronenberg,1306,709
-Naked Lunch,6.9,56000,67,R,1991,1h 55m,David Cronenberg,1627,709
-The Fly,7.6,198000,79,R,1986,1h 36m,David Cronenberg,1751,709
 Straight Outta Compton,7.8,215000,72,R,2015,2h 27m,F. Gary Gray,1100,710
-Friday,7.2,122000,54,R,1995,1h 31m,F. Gary Gray,1217,710
-The Fate of the Furious,6.6,249000,56,PG-13,2017,2h 16m,F. Gary Gray,1235,710
-Law Abiding Citizen,7.4,314000,34,R,2009,1h 49m,F. Gary Gray,1256,710
 Annie,6.6,48000,39,PG,1982,2h 7m,John Huston,1101,711
+Cape Fear,7.3,212000,73,R,1991,2h 8m,Martin Scorsese,1102,4
+Jumanji: The Next Level,6.7,275000,58,PG-13,2019,2h 3m,Jake Kasdan,1103,475
+Kill Bill: Vol. 2,8,792000,83,R,2004,2h 17m,Quentin Tarantino,1104,107
+Jack Reacher: Never Go Back,6.1,171000,47,PG-13,2016,1h 58m,Edward Zwick,1105,98
 Lee,7,213,59,R,2023,1h 56m,Ellen Kuras,1106,712
+The Adam Project,6.7,224000,55,PG-13,2022,1h 46m,Shawn Levy,1107,317
+Immortals,6,175000,46,R,2011,1h 50m,Tarsem Singh,1108,484
 The Replacements,6.6,69000,30,PG-13,2000,1h 58m,Howard Deutch,1109,713
-The Great Outdoors,6.6,51000,24,PG,1988,1h 31m,Howard Deutch,1149,713
+2012,5.8,393000,49,PG-13,2009,2h 38m,Roland Emmerich,1110,387
+North by Northwest,8.3,341000,98,Approved,1959,2h 16m,Alfred Hitchcock,1111,490
+The Long Kiss Goodnight,6.8,84000,43,R,1996,2h 1m,Renny Harlin,1112,136
+Caddyshack,7.2,125000,48,13+,1980,1h 38m,Harold Ramis,1113,190
 Boiling Point,7.5,39000,73,R,2021,1h 32m,Philip Barantini,1114,714
+The Hobbit: The Battle of the Five Armies,7.4,561000,59,PG-13,2014,2h 24m,Peter Jackson,1115,104
+Four Weddings and a Funeral,7.1,163000,81,R,1994,1h 57m,Mike Newell,1116,169
 Final Destination,6.7,275000,36,R,2000,1h 38m,James Wong,1117,715
+Cast Away,7.8,627000,73,PG-13,2000,2h 23m,Robert Zemeckis,1118,41
 Eden Lake,6.7,93000,65,R,2008,1h 31m,James Watkins,1119,716
+Valentine's Day,5.7,124000,34,PG-13,2010,2h 5m,Garry Marshall,1120,279
+Cop Land,7,104000,64,R,1997,1h 45m,James Mangold,1121,18
+Fantastic Four,4.3,174000,27,PG-13,2015,1h 40m,Josh Trank,1122,516
+The Untouchables,7.8,326000,79,R,1987,1h 59m,Brian De Palma,1123,204
+Red Notice,6.3,308000,37,PG-13,2021,1h 58m,Rawson Marshall Thurber,1124,233
+Iron Man 3,7.1,887000,62,PG-13,2013,2h 10m,Shane Black,1125,417
+The Village,6.6,274000,44,PG-13,2004,1h 48m,M. Night Shyamalan,1126,314
 Luther: The Fallen Sun,6.4,61000,53,R,2023,2h 9m,Jamie Payne,1127,718
 The 40-Year-Old Virgin,7.1,459000,73,R,2005,1h 56m,Judd Apatow,1128,719
-This Is 40,6.2,149000,59,R,2012,2h 14m,Judd Apatow,1272,719
-Knocked Up,6.9,381000,85,R,2007,2h 9m,Judd Apatow,1372,719
+JFK,8,167000,72,R,1991,3h 9m,Oliver Stone,1129,445
+Bridesmaids,6.8,306000,75,R,2011,2h 5m,Paul Feig,1130,81
+Mission: Impossible - Ghost Protocol,7.4,522000,73,PG-13,2011,2h 12m,Brad Bird,1131,377
 RED,7,320000,60,PG-13,2010,1h 51m,Robert Schwentke,1132,720
-Allegiant,5.7,131000,33,PG-13,2016,2h,Robert Schwentke,1300,720
-The Time Traveler's Wife,7.1,156000,47,PG-13,2009,1h 47m,Robert Schwentke,1349,720
-The Divergent Series: Insurgent,6.2,251000,42,PG-13,2015,1h 59m,Robert Schwentke,1415,720
+Melancholia,7.1,193000,81,R,2011,2h 15m,Lars von Trier,1133,503
+The Wolverine,6.7,486000,61,PG-13,2013,2h 6m,James Mangold,1134,18
 Appaloosa,6.7,64000,64,R,2008,1h 55m,Ed Harris,1135,721
+Chef,7.3,228000,68,R,2014,1h 54m,Jon Favreau,1136,19
+Sweeney Todd: The Demon Barber of Fleet Street,7.3,383000,83,R,2007,1h 56m,Tim Burton,1137,56
+Insidious,6.8,334000,52,PG-13,2010,1h 43m,James Wan,1139,221
 Borat,7.4,434000,89,R,2006,1h 24m,Larry Charles,1140,722
-The Dictator,6.4,329000,58,R,2012,1h 23m,Larry Charles,1459,722
 Master Gardener,6.2,7400,63,R,2022,1h 51m,Paul Schrader,1141,723
 See How They Run,6.5,61000,60,PG-13,2022,1h 38m,Tom George,1142,724
+Logan Lucky,7,160000,78,PG-13,2017,1h 58m,Steven Soderbergh,1143,409
+Spider-Man: Far from Home,7.4,540000,69,PG-13,2019,2h 9m,Jon Watts,1144,156
+The Man from U.N.C.L.E.,7.2,327000,56,PG-13,2015,1h 56m,Guy Ritchie,1145,148
+Men in Black II,6.2,397000,49,PG-13,2002,1h 28m,Barry Sonnenfeld,1146,404
 Austin Powers: International Man of Mystery,7,254000,51,PG-13,1997,1h 29m,Jay Roach,1147,725
-Austin Powers in Goldmember,6.2,220000,62,PG-13,2002,1h 34m,Jay Roach,1170,725
-Bombshell,6.8,124000,64,R,2019,1h 49m,Jay Roach,1413,725
+The Great Outdoors,6.6,51000,24,PG,1988,1h 31m,Howard Deutch,1149,713
+The Chronicles of Narnia: Prince Caspian,6.5,222000,62,PG,2008,2h 30m,Andrew Adamson,1150,149
 The Little Rascals,6.3,55000,45,PG,1994,1h 22m,Penelope Spheeris,1151,726
-Wayne's World,7,168000,57,PG-13,1992,1h 34m,Penelope Spheeris,1704,726
+They Live,7.2,142000,55,R,1988,1h 34m,John Carpenter,1152,334
 17 Again,6.4,213000,48,PG-13,2009,1h 42m,Burr Steers,1153,727
+Rosemary's Baby,8,231000,96,Approved,1968,2h 17m,Roman Polanski,1154,363
+Big Fish,8,454000,58,PG-13,2003,2h 5m,Tim Burton,1155,56
 Sicario: Day of the Soldado,7.1,163000,61,R,2018,2h 2m,Stefano Sollima,1156,728
 The American,6.3,101000,61,R,2010,1h 45m,Anton Corbijn,1157,729
+Tinker Tailor Soldier Spy,7,210000,85,R,2011,2h 7m,Tomas Alfredson,1158,678
 Redeeming Love,6.7,11000,32,PG-13,2022,2h 14m,D.J. Caruso,1159,730
-I Am Number Four,6.1,244000,36,PG-13,2011,1h 51m,D.J. Caruso,1220,730
+Lifeforce,6.1,29000,50,R,1985,1h 41m,Tobe Hooper,1160,587
 Pig,6.9,86000,82,R,2021,1h 32m,Michael Sarnoski,1161,731
+Silence,7.2,121000,79,R,2016,2h 41m,Martin Scorsese,1162,4
+A.I. Artificial Intelligence,7.2,320000,65,PG-13,2001,2h 26m,Steven Spielberg,1163,135
+Sense and Sensibility,7.7,123000,84,PG,1995,2h 16m,Ang Lee,1164,597
 Perfume: The Story of a Murderer,7.5,263000,56,R,2006,2h 27m,Tom Tykwer,1165,668
 Gods of Egypt,5.4,124000,25,PG-13,2016,2h 7m,Alex Proyas,1166,732
-The Crow,7.5,196000,71,R,1994,1h 42m,Alex Proyas,1367,732
-Dark City,7.6,210000,66,R,1998,1h 40m,Alex Proyas,1533,732
 Toy Story 3,8.3,878000,92,G,2010,1h 43m,Lee Unkrich,1167,536
+Dogma,7.3,226000,62,R,1999,2h 10m,Kevin Smith,1168,674
 Ad Astra,6.5,256000,80,PG-13,2019,2h 3m,James Gray,1169,733
+Austin Powers in Goldmember,6.2,220000,62,PG-13,2002,1h 34m,Jay Roach,1170,725
+X-Men: Days of Future Past,7.9,737000,75,PG-13,2014,2h 12m,Bryan Singer,1171,315
+10 Cloverfield Lane,7.2,349000,76,PG-13,2016,1h 43m,Dan Trachtenberg,1172,390
+Last Tango in Paris,6.9,57000,77,NC-17,1972,2h 9m,Bernardo Bertolucci,1173,301
 Bird Box,6.6,377000,51,R,2018,2h 4m,Susanne Bier,1174,734
 The Fallout,7,32000,84,R,2021,1h 36m,Megan Park,1175,735
+Raging Bull,8.1,373000,90,R,1980,2h 9m,Martin Scorsese,1176,4
 Silverado,7.2,48000,64,PG-13,1985,2h 13m,Lawrence Kasdan,1177,736
 Turning Red,7,145000,83,PG,2022,1h 40m,Domee Shi,1178,737
+Creed,7.6,306000,82,PG-13,2015,2h 13m,Ryan Coogler,1179,498
+Apollo 13,7.7,310000,78,PG,1995,2h 20m,Ron Howard,1180,20
+Ticket to Paradise,6.1,61000,50,PG-13,2022,1h 44m,Ol Parker,1181,523
+Bring It On,6.1,103000,52,PG-13,2000,1h 38m,Peyton Reed,1182,415
+The Magnificent Seven,6.9,225000,54,PG-13,2016,2h 12m,Antoine Fuqua,1183,86
+Legends of the Fall,7.5,179000,45,R,1994,2h 13m,Edward Zwick,1184,98
 The Boy in the Striped Pajamas,7.7,239000,55,PG-13,2008,1h 34m,Mark Herman,1185,738
+Happy Gilmore,7,243000,31,PG-13,1996,1h 32m,Dennis Dugan,1186,625
+Mission: Impossible III,6.9,385000,66,PG-13,2006,2h 6m,J.J. Abrams,1188,381
+Star Wars: Episode II - Attack of the Clones,6.6,746000,54,PG,2002,2h 22m,George Lucas,1189,244
 Possession,7.3,41000,75,R,1981,2h 4m,Andrzej Zulawski,1190,741
+Spider-Man 3,6.3,626000,59,PG-13,2007,2h 19m,Sam Raimi,1191,336
+Grown Ups,6,269000,30,PG-13,2010,1h 42m,Dennis Dugan,1192,625
+High Plains Drifter,7.4,63000,69,R,1973,1h 45m,Clint Eastwood,1193,344
 The Art of Racing in the Rain,7.5,37000,43,PG,2019,1h 49m,Simon Curtis,1194,742
 Toy Story 4,7.7,273000,84,G,2019,1h 40m,Josh Cooley,1195,743
 No Escape,6.7,91000,38,R,2015,1h 43m,John Erick Dowdle,1196,744
-"As Above, So Below",6.2,108000,39,R,2014,1h 33m,John Erick Dowdle,1697,744
+Pirates of the Caribbean: On Stranger Tides,6.6,555000,45,PG-13,2011,2h 16m,Rob Marshall,1198,184
+The Highwaymen,6.9,100000,58,R,2019,2h 12m,John Lee Hancock,1199,521
 Riddick,6.4,176000,49,R,2013,1h 59m,David Twohy,1200,746
-The Chronicles of Riddick,6.6,239000,38,R,2004,1h 59m,David Twohy,1277,746
-Pitch Black,7,251000,49,R,2000,1h 49m,David Twohy,1463,746
+Pirates of the Caribbean: At World's End,7.1,682000,50,PG-13,2007,2h 49m,Gore Verbinski,1201,250
 A Place in the Sun,7.7,24000,76,Passed,1951,2h 2m,George Stevens,1202,747
+Donnie Brasco,7.7,326000,77,R,1997,2h 7m,Mike Newell,1203,169
+Ocean's Eight,6.3,237000,61,PG-13,2018,1h 50m,Gary Ross,1204,48
 Vicky Cristina Barcelona,7.1,266000,70,PG-13,2008,1h 36m,Woody Allen,1206,748
-Midnight in Paris,7.6,444000,81,PG-13,2011,1h 34m,Woody Allen,1438,748
-Bananas,6.9,37000,67,PG-13,1971,1h 22m,Woody Allen,1686,748
+That Awkward Moment,6.1,107000,36,R,2014,1h 34m,Tom Gormican,1207,380
+Sleepless in Seattle,6.8,188000,72,PG,1993,1h 45m,Nora Ephron,1209,601
 Citizen Kane,8.3,460000,100,PG,1941,1h 59m,Orson Welles,1210,751
 Fifty Shades Freed,4.5,72000,31,R,2018,1h 45m,James Foley,1211,752
-Fear,6.2,53000,51,R,1996,1h 37m,James Foley,1299,752
-Fifty Shades Darker,4.6,109000,33,R,2017,1h 58m,James Foley,1530,752
 Sonic the Hedgehog 2,6.5,83000,47,PG,2022,2h 2m,Jeff Fowler,1212,753
-Sonic the Hedgehog,6.5,155000,47,PG,2020,1h 39m,Jeff Fowler,1424,753
+After We Collided,5,37000,14,R,2020,1h 45m,Roger Kumble,1213,425
+The Count of Monte Cristo,7.7,146000,61,PG-13,2002,2h 11m,Kevin Reynolds,1214,681
+Jerry Maguire,7.3,283000,77,R,1996,2h 19m,Cameron Crowe,1215,375
 Sharper,6.7,28000,65,R,2023,1h 56m,Benjamin Caron,1216,754
+Friday,7.2,122000,54,R,1995,1h 31m,F. Gary Gray,1217,710
+Marie Antoinette,6.5,119000,65,PG-13,2006,2h 3m,Sofia Coppola,1218,70
 The Machinist,7.6,410000,61,R,2004,1h 41m,Brad Anderson,1219,755
+I Am Number Four,6.1,244000,36,PG-13,2011,1h 51m,D.J. Caruso,1220,730
+Triple Frontier,6.5,142000,61,R,2019,2h 5m,J.C. Chandor,1221,512
 My Best Friend's Wedding,6.3,152000,50,PG-13,1997,1h 45m,P.J. Hogan,1222,756
-Peter Pan,6.8,79000,64,PG,2003,1h 53m,P.J. Hogan,1464,756
+Never Say Never Again,6.1,72000,68,PG,1983,2h 14m,Irvin Kershner,1223,514
 Secondhand Lions,7.5,61000,52,PG,2003,1h 49m,Tim McCanlies,1224,757
+Argo,7.7,633000,86,R,2012,2h,Ben Affleck,1225,266
 "Love, Rosie",7.1,153000,44,R,2014,1h 42m,Christian Ditter,1226,758
+Face/Off,7.3,395000,82,R,1997,2h 18m,John Woo,1227,531
+The Twilight Saga: Breaking Dawn - Part 2,5.5,260000,52,PG-13,2012,1h 55m,Bill Condon,1228,182
 Hustlers,6.3,106000,79,R,2019,1h 50m,Lorene Scafaria,1229,759
 The Thin Red Line,7.6,197000,78,R,1998,2h 50m,Terrence Malick,1230,761
 The Outfit,7.2,60000,69,R,2022,1h 45m,Graham Moore,1231,762
+Clear and Present Danger,6.9,106000,72,PG-13,1994,2h 21m,Phillip Noyce,1232,602
 Blazing Saddles,7.7,149000,73,R,1974,1h 33m,Mel Brooks,1234,765
-Spaceballs,7.1,203000,46,PG,1987,1h 36m,Mel Brooks,1315,765
-Young Frankenstein,8,167000,83,PG,1974,1h 46m,Mel Brooks,1393,765
-Robin Hood: Men in Tights,6.7,134000,44,PG-13,1993,1h 44m,Mel Brooks,1429,765
+The Fate of the Furious,6.6,249000,56,PG-13,2017,2h 16m,F. Gary Gray,1235,710
+The Amazing Spider-Man 2,6.6,529000,53,PG-13,2014,2h 22m,Marc Webb,1236,560
 Fresh,6.7,70000,67,R,2022,1h 54m,Mimi Cave,1237,766
+The Driver,7.1,19000,56,R,1978,1h 31m,Walter Hill,1238,706
+Twister,6.5,209000,68,PG-13,1996,1h 53m,Jan de Bont,1239,675
 Good Burger,5.8,32000,41,PG,1997,1h 35m,Brian Robbins,1240,767
-Varsity Blues,6.5,48000,50,R,1999,1h 46m,Brian Robbins,1296,767
-Norbit,4.2,78000,27,PG-13,2007,1h 42m,Brian Robbins,1630,767
+The Lost World: Jurassic Park,6.5,438000,59,PG-13,1997,2h 9m,Steven Spielberg,1241,135
 Rat Race,6.5,122000,52,PG-13,2001,1h 52m,Jerry Zucker,1242,510
 Ghost,7.1,232000,52,PG-13,1990,2h 7m,Jerry Zucker,1243,510
+Carrie,7.4,203000,86,R,1976,1h 38m,Brian De Palma,1244,204
+It Chapter Two,6.5,294000,58,R,2019,2h 49m,Andy Muschietti,1246,164
+Mafia Mamma,5.4,8600,42,R,2023,1h 41m,Catherine Hardwicke,1247,203
+Vertigo,8.3,421000,100,PG,1958,2h 8m,Alfred Hitchcock,1248,490
+Mars Attacks!,6.4,240000,52,PG-13,1996,1h 46m,Tim Burton,1249,56
 A Quiet Place Part II,7.2,264000,71,PG-13,2020,1h 37m,John Krasinski,1250,770
+Darkest Hour,7.4,216000,75,PG-13,2017,2h 5m,Joe Wright,1251,105
 You People,5.5,61000,50,R,2023,1h 57m,Kenya Barris,1252,771
+Men in Black 3,6.8,382000,58,PG-13,2012,1h 46m,Barry Sonnenfeld,1253,404
+Moonraker,6.2,107000,66,PG,1979,2h 6m,Lewis Gilbert,1254,624
 Slap Shot,7.3,41000,61,R,1977,2h 3m,George Roy Hill,1255,772
+Law Abiding Citizen,7.4,314000,34,R,2009,1h 49m,F. Gary Gray,1256,710
+Collateral,7.5,427000,71,R,2004,2h,Michael Mann,1257,54
+Gattaca,7.7,318000,64,PG-13,1997,1h 46m,Andrew Niccol,1258,444
 The Ref,6.9,26000,59,R,1994,1h 37m,Ted Demme,1259,773
-Blow,7.5,272000,52,R,2001,2h 4m,Ted Demme,1673,773
 Cold Pursuit,6.2,76000,57,R,2019,1h 59m,Hans Petter Moland,1260,774
+The Terminal,7.4,487000,55,PG-13,2004,2h 8m,Steven Spielberg,1261,135
+Magnolia,8,325000,78,R,1999,3h 8m,Paul Thomas Anderson,1262,186
+Three Thousand Years of Longing,6.7,57000,60,R,2022,1h 48m,George Miller,1263,97
+Enemy,6.9,209000,61,R,2013,1h 31m,Denis Villeneuve,1264,66
 Police Academy,6.7,135000,41,R,1984,1h 36m,Hugh Wilson,1265,775
 The Gift,7,169000,77,R,2015,1h 48m,Joel Edgerton,1266,776
+Heathers,7.2,113000,72,R,1988,1h 43m,Michael Lehmann,1267,526
+Ender's Game,6.6,251000,51,PG-13,2013,1h 54m,Gavin Hood,1268,683
+The Predator,5.3,141000,48,R,2018,1h 47m,Shane Black,1269,417
+Sex Drive,6.5,91000,49,R,2008,1h 49m,Sean Anders,1270,67
+You've Got Mail,6.7,226000,57,PG,1998,1h 59m,Nora Ephron,1271,601
+This Is 40,6.2,149000,59,R,2012,2h 14m,Judd Apatow,1272,719
+Anchorman: The Legend of Ron Burgundy,7.1,374000,63,PG-13,2004,1h 34m,Adam McKay,1273,214
+Extraction,6.8,256000,56,R,2020,1h 56m,Sam Hargrave,1275,430
+Horrible Bosses,6.9,465000,57,R,2011,1h 38m,Seth Gordon,1276,96
+The Chronicles of Riddick,6.6,239000,38,R,2004,1h 59m,David Twohy,1277,746
+The Rock,7.4,354000,58,R,1996,2h 16m,Michael Bay,1278,466
+Sherlock Holmes,7.6,661000,57,PG-13,2009,2h 8m,Guy Ritchie,1279,148
+The Da Vinci Code,6.6,453000,46,PG-13,2006,2h 29m,Ron Howard,1280,20
+Gifted,7.6,127000,60,PG-13,2017,1h 41m,Marc Webb,1281,560
 Somewhere in Queens,6.8,3800,61,R,2022,1h 46m,Ray Romano,1282,777
 Greater,7.3,7500,35,PG,2016,2h 10m,David L. Hunt,1283,778
 Dora and the Lost City of Gold,6.1,34000,63,PG,2019,1h 42m,James Bobin,1284,779
 Captain Fantastic,7.8,231000,72,R,2016,1h 58m,Matt Ross,1285,780
+The King's Speech,8,701000,88,R,2010,1h 58m,Tom Hooper,1286,446
+Flight,7.3,371000,76,R,2012,2h 18m,Robert Zemeckis,1287,41
 U-571,6.6,86000,62,PG-13,2000,1h 56m,Jonathan Mostow,1288,781
-Terminator 3: Rise of the Machines,6.3,415000,66,R,2003,1h 49m,Jonathan Mostow,1664,781
 Career Opportunities,5.8,17000,41,PG-13,1991,1h 23m,Bryan Gordon,1289,782
+Fast & Furious 6,7,412000,61,PG-13,2013,2h 10m,Justin Lin,1290,113
+Big Trouble in Little China,7.2,151000,53,PG-13,1986,1h 39m,John Carpenter,1291,334
+Falling Down,7.6,203000,56,R,1993,1h 53m,Joel Schumacher,1292,368
 Source Code,7.5,542000,74,PG-13,2011,1h 33m,Duncan Jones,1293,783
-Moon,7.8,372000,67,R,2009,1h 37m,Duncan Jones,1568,783
 Taken 2,6.2,319000,45,PG-13,2012,1h 32m,Olivier Megaton,1294,784
-Taken 3,6,202000,26,PG-13,2014,1h 48m,Olivier Megaton,1633,784
+The Change-Up,6.3,193000,39,R,2011,1h 52m,David Dobkin,1295,173
+Varsity Blues,6.5,48000,50,R,1999,1h 46m,Brian Robbins,1296,767
+Midnight Run,7.5,93000,78,R,1988,2h 6m,Martin Brest,1297,121
 Dr. No,7.2,177000,78,PG,1962,1h 50m,Terence Young,1298,785
+Fear,6.2,53000,51,R,1996,1h 37m,James Foley,1299,752
+Allegiant,5.7,131000,33,PG-13,2016,2h,Robert Schwentke,1300,720
+The Counselor,5.4,105000,48,R,2013,1h 57m,Ridley Scott,1301,7
+Vanilla Sky,6.9,282000,45,R,2001,2h 16m,Cameron Crowe,1302,375
+Orphan,7,247000,42,R,2009,2h 3m,Jaume Collet-Serra,1303,292
+Holes,7,98000,71,PG,2003,1h 57m,Andrew Davis,1304,472
+Crimes of the Future,5.8,39000,67,R,2022,1h 47m,David Cronenberg,1305,709
+Eastern Promises,7.6,257000,83,R,2007,1h 40m,David Cronenberg,1306,709
 The Garden of Eden,5.2,1200,28,R,2008,1h 51m,John Irvin,1308,788
+Mallrats,7,128000,41,R,1995,1h 34m,Kevin Smith,1309,674
+Blood Diamond,8,577000,64,R,2006,2h 23m,Edward Zwick,1310,98
+Mission: Impossible - Rogue Nation,7.4,404000,75,PG-13,2015,2h 11m,Christopher McQuarrie,1311,58
+Escape from New York,7.1,154000,76,R,1981,1h 39m,John Carpenter,1312,334
+Overboard,6.9,66000,53,PG,1987,1h 52m,Garry Marshall,1314,279
+Spaceballs,7.1,203000,46,PG,1987,1h 36m,Mel Brooks,1315,765
 Enola Holmes,6.6,213000,68,PG-13,2020,2h 3m,Harry Bradbeer,1316,789
+Sophie's Choice,7.5,52000,68,R,1982,2h 30m,Alan J. Pakula,1317,471
+AlienÂ³,6.4,315000,59,R,1992,1h 54m,David Fincher,1318,31
+Fantastic Beasts: The Crimes of Grindelwald,6.5,303000,52,PG-13,2018,2h 14m,David Yates,1319,161
 The Machine,5.8,14000,37,R,2023,1h 52m,Peter Atencio,1320,791
 Commando,6.7,172000,51,R,1985,1h 30m,Mark L. Lester,1321,792
 The Name of the Rose,7.7,115000,54,R,1986,2h 10m,Jean-Jacques Annaud,1322,793
+Black Mass,6.9,190000,68,R,2015,2h 3m,Scott Cooper,1323,459
 Run,6.7,92000,67,PG-13,2020,1h 30m,Aneesh Chaganty,1324,794
+9Â½ Weeks,5.9,43000,50,R,1986,1h 57m,Adrian Lyne,1325,320
 This Christmas,6.3,10000,63,PG-13,2007,1h 57m,Preston A. Whitmore II,1326,795
 The Old Guard,6.7,180000,70,R,2020,2h 5m,Gina Prince-Bythewood,1327,796
-The Woman King,6.9,70000,77,PG-13,2022,2h 15m,Gina Prince-Bythewood,1359,796
 Willy's Wonderland,5.5,37000,44,TV-MA,2021,1h 28m,Kevin Lewis,1328,797
+The Beach,6.6,251000,43,R,2000,1h 59m,Danny Boyle,1329,422
 Vivarium,5.9,71000,64,R,2019,1h 37m,Lorcan Finnegan,1330,798
+Terminator Salvation,6.5,374000,49,PG-13,2009,1h 55m,McG,1333,17
+Gravity,7.7,853000,96,PG-13,2013,1h 31m,Alfonso CuarÃ³n,1334,212
+Hugo,7.5,334000,83,PG,2011,2h 6m,Martin Scorsese,1335,4
+The Client,6.7,72000,65,PG-13,1994,1h 59m,Joel Schumacher,1336,368
+Footloose,6.6,89000,42,PG,1984,1h 47m,Herbert Ross,1337,606
+Parenthood,7.1,54000,82,PG-13,1989,2h 4m,Ron Howard,1338,20
 Teenage Mutant Ninja Turtles,5.8,218000,31,PG-13,2014,1h 41m,Jonathan Liebesman,1339,801
+Glass,6.6,262000,43,PG-13,2019,2h 9m,M. Night Shyamalan,1340,314
+The Hurt Locker,7.5,469000,95,R,2008,2h 11m,Kathryn Bigelow,1342,307
 A Walk in the Woods,6.4,29000,51,R,2015,1h 44m,Ken Kwapis,1343,803
-He's Just Not That Into You,6.4,180000,47,PG-13,2009,2h 9m,Ken Kwapis,1691,803
+Doctor Strange,7.5,789000,72,PG-13,2016,1h 55m,Scott Derrickson,1344,554
 The Girl in the Spider's Web,6.1,51000,43,R,2018,1h 55m,Fede Alvarez,1345,804
-Don't Breathe,7.1,295000,71,R,2016,1h 28m,Fede Alvarez,1637,804
+Wedding Crashers,7,371000,64,R,2005,1h 59m,David Dobkin,1346,173
 Brightburn,6.1,106000,44,R,2019,1h 30m,David Yarovesky,1347,805
+Deliverance,7.7,118000,80,R,1972,1h 49m,John Boorman,1348,331
+The Time Traveler's Wife,7.1,156000,47,PG-13,2009,1h 47m,Robert Schwentke,1349,720
+Road Trip,6.5,176000,55,R,2000,1h 33m,Todd Phillips,1350,163
 A Good Day to Die Hard,5.2,213000,28,R,2013,1h 38m,John Moore,1351,806
-Behind Enemy Lines,6.4,111000,49,PG-13,2001,1h 46m,John Moore,1563,806
+Coming to America,7.1,220000,47,R,1988,1h 57m,John Landis,1352,220
+American Graffiti,7.4,97000,97,PG,1973,1h 50m,George Lucas,1353,244
+Hellboy,5.2,96000,31,R,2019,2h,Neil Marshall,1354,609
+Super 8,7,365000,72,PG-13,2011,1h 52m,J.J. Abrams,1355,381
+Under the Silver Lake,6.5,49000,60,R,2018,2h 19m,David Robert Mitchell,1356,585
+Hostel,5.9,189000,55,R,2005,1h 34m,Eli Roth,1357,46
+The Life Aquatic with Steve Zissou,7.2,208000,62,R,2004,1h 59m,Wes Anderson,1358,62
+The Woman King,6.9,70000,77,PG-13,2022,2h 15m,Gina Prince-Bythewood,1359,796
+Shooter,7.1,351000,53,R,2007,2h 4m,Antoine Fuqua,1360,86
+Downsizing,5.8,121000,64,R,2017,2h 15m,Alexander Payne,1361,16
 Jason Bourne,6.6,239000,58,PG-13,2016,2h 3m,Paul Greengrass,1362,807
-The Bourne Ultimatum,8,653000,85,PG-13,2007,1h 55m,Paul Greengrass,1674,807
+Ma,5.6,59000,53,R,2019,1h 39m,Tate Taylor,1363,258
+Ghostbusters II,6.6,219000,56,PG,1989,1h 48m,Ivan Reitman,1364,287
 The Pursuit of Happyness,8,549000,64,PG-13,2006,1h 57m,Gabriele Muccino,1365,808
 Sister Act 2: Back in the Habit,5.7,58000,38,PG,1993,1h 47m,Bill Duke,1366,809
+The Crow,7.5,196000,71,R,1994,1h 42m,Alex Proyas,1367,732
 The Emperor's New Groove,7.4,221000,70,G,2000,1h 18m,Mark Dindal,1368,811
+The Mummy Returns,6.4,341000,48,PG-13,2001,2h 10m,Stephen Sommers,1369,353
+Public Enemies,7,315000,70,R,2009,2h 20m,Michael Mann,1370,54
+Predators,6.4,241000,51,R,2010,1h 47m,NimrÃ³d Antal,1371,499
+Knocked Up,6.9,381000,85,R,2007,2h 9m,Judd Apatow,1372,719
+The Living Daylights,6.7,104000,59,PG,1987,2h 10m,John Glen,1373,429
+Gone Baby Gone,7.6,285000,72,R,2007,1h 54m,Ben Affleck,1374,266
 El Camino: A Breaking Bad Movie,7.3,283000,72,TV-MA,2019,2h 2m,Vince Gilligan,1375,812
+Old School,7,241000,54,R,2003,1h 28m,Todd Phillips,1376,163
+The Princess Diaries,6.4,160000,52,G,2001,1h 55m,Garry Marshall,1377,279
+Rocketman,7.3,190000,69,R,2019,2h 1m,Dexter Fletcher,1378,282
 50 First Dates,6.8,375000,48,PG-13,2004,1h 39m,Peter Segal,1379,813
 The Courier,7.2,71000,65,PG-13,2020,1h 52m,Dominic Cooke,1380,814
+Porky's,6.2,45000,40,R,1981,1h 34m,Bob Clark,1381,49
 Downton Abbey,7.4,62000,64,PG,2019,2h 2m,Michael Engler,1382,816
+The Waterboy,6.1,175000,41,PG-13,1998,1h 30m,Frank Coraci,1383,574
 How to Lose a Guy in 10 Days,6.5,262000,45,PG-13,2003,1h 56m,Donald Petrie,1384,817
-Richie Rich,5.4,73000,49,PG,1994,1h 35m,Donald Petrie,1736,817
+Mona Lisa Smile,6.5,89000,45,PG-13,2003,1h 57m,Mike Newell,1385,169
+Adventures in Babysitting,6.9,48000,45,PG-13,1987,1h 42m,Chris Columbus,1386,36
 Watcher,6.3,39000,72,R,2022,1h 36m,Chloe Okuno,1387,818
+Infinite,5.5,59000,28,PG-13,2021,1h 46m,Antoine Fuqua,1388,86
+Empire of the Sun,7.7,133000,62,PG,1987,2h 33m,Steven Spielberg,1389,135
 The Sandlot,7.8,100000,55,PG,1993,1h 41m,David Mickey Evans,1390,819
 The Good Son,6.4,45000,45,R,1993,1h 27m,Joseph Ruben,1391,820
 Butcher's Crossing,5.7,2400,55,R,2022,1h 45m,Gabe Polsky,1392,821
+Young Frankenstein,8,167000,83,PG,1974,1h 46m,Mel Brooks,1393,765
+This Is Spinal Tap,7.9,145000,92,R,1984,1h 22m,Rob Reiner,1394,166
 The Craft,6.4,105000,55,R,1996,1h 41m,Andrew Fleming,1395,822
 Con Air,6.9,314000,52,R,1997,1h 55m,Simon West,1396,823
 Ben-Hur,5.7,46000,38,PG-13,2016,2h 3m,Timur Bekmambetov,1397,824
+The Blues Brothers,7.9,210000,60,R,1980,2h 13m,John Landis,1398,220
+Miss Peregrine's Home for Peculiar Children,6.7,185000,57,PG-13,2016,2h 7m,Tim Burton,1399,56
+Van Helsing,6.1,281000,35,PG-13,2004,2h 11m,Stephen Sommers,1400,353
+The Founder,7.2,171000,66,PG-13,2016,1h 55m,John Lee Hancock,1401,521
+Dog Day Afternoon,8,270000,86,R,1975,2h 5m,Sidney Lumet,1402,240
+The Spy Who Loved Me,7,115000,55,PG,1977,2h 5m,Lewis Gilbert,1403,624
+Underworld,7,282000,42,R,2003,2h 1m,Len Wiseman,1404,575
+Zoolander,6.5,287000,61,PG-13,2001,1h 30m,Ben Stiller,1405,270
 Life of the Party,5.6,39000,46,PG-13,2018,1h 45m,Ben Falcone,1406,825
+The Ring,7.1,370000,57,PG-13,2002,1h 55m,Gore Verbinski,1408,250
+Million Dollar Baby,8.1,713000,86,PG-13,2004,2h 12m,Clint Eastwood,1409,344
+Identity,7.3,263000,64,R,2003,1h 30m,James Mangold,1410,18
+Long Shot,6.8,119000,67,R,2019,2h 5m,Jonathan Levine,1411,178
 Tomb Raider,6.3,224000,48,PG-13,2018,1h 59m,Roar Uthaug,1412,827
+Bombshell,6.8,124000,64,R,2019,1h 49m,Jay Roach,1413,725
+The Divergent Series: Insurgent,6.2,251000,42,PG-13,2015,1h 59m,Robert Schwentke,1415,720
 Den of Thieves,7,121000,49,R,2018,2h 20m,Christian Gudegast,1416,829
+The Guilty,6.3,143000,63,R,2021,1h 30m,Antoine Fuqua,1417,86
 99 Homes,7.1,37000,76,R,2014,1h 52m,Ramin Bahrani,1418,830
+The Three Musketeers,5.7,111000,35,PG-13,2011,1h 50m,Paul W.S. Anderson,1419,507
 Billy Madison,6.3,154000,16,PG-13,1995,1h 29m,Tamra Davis,1420,831
 The Boondock Saints,7.7,247000,44,R,1999,1h 48m,Troy Duffy,1421,832
+The School for Good and Evil,5.9,34000,30,PG-13,2022,2h 27m,Paul Feig,1422,81
 Winter's Bone,7.1,148000,90,R,2010,1h 40m,Debra Granik,1423,833
+Sonic the Hedgehog,6.5,155000,47,PG,2020,1h 39m,Jeff Fowler,1424,753
+Witness,7.4,103000,76,R,1985,1h 52m,Peter Weir,1425,259
+Inside Man,7.6,392000,76,R,2006,2h 9m,Spike Lee,1426,393
+The Neon Demon,6.1,102000,51,R,2016,1h 57m,Nicolas Winding Refn,1427,283
 Never Let Me Go,7.1,151000,69,R,2010,1h 43m,Mark Romanek,1428,835
+Robin Hood: Men in Tights,6.7,134000,44,PG-13,1993,1h 44m,Mel Brooks,1429,765
+Booksmart,7.1,129000,84,R,2019,1h 42m,Olivia Wilde,1430,183
 Burnt,6.6,130000,42,R,2015,1h 41m,John Wells,1431,836
 Crocodile Dundee II,5.7,60000,41,PG,1988,1h 48m,John Cornell,1432,837
+Dogville,8,156000,61,R,2003,2h 58m,Lars von Trier,1433,503
 Boston Strangler,6.5,31000,58,R,2023,1h 52m,Matt Ruskin,1434,838
+Rain Man,8,538000,65,R,1988,2h 13m,Barry Levinson,1436,644
 Bumblebee,6.7,184000,66,PG-13,2018,1h 54m,Travis Knight,1437,840
+Midnight in Paris,7.6,444000,81,PG-13,2011,1h 34m,Woody Allen,1438,748
 Ghost Rider,5.3,249000,35,PG-13,2007,1h 50m,Mark Steven Johnson,1439,841
+Backdraft,6.7,86000,39,R,1991,2h 17m,Ron Howard,1440,20
 A Thousand and One,7,5200,81,R,2023,1h 57m,A.V. Rockwell,1441,842
+Casper,6.2,145000,49,PG,1995,1h 40m,Brad Silberling,1442,479
 Dark Phoenix,5.7,201000,43,PG-13,2019,1h 53m,Simon Kinberg,1443,843
-The 355,5.6,36000,40,PG-13,2022,2h 2m,Simon Kinberg,1489,843
+Liar Liar,6.9,328000,70,PG-13,1997,1h 26m,Tom Shadyac,1444,700
+The Intern,7.1,269000,51,PG-13,2015,2h 1m,Nancy Meyers,1446,47
+Moonstruck,7.1,66000,83,PG,1987,1h 42m,Norman Jewison,1447,246
 "Paris, Texas",8.1,115000,81,R,1984,2h 25m,Wim Wenders,1449,844
+The Nativity Story,6.8,12000,52,PG,2006,1h 41m,Catherine Hardwicke,1450,203
 The Hitman's Bodyguard,6.9,243000,47,R,2017,1h 58m,Patrick Hughes,1451,845
 Criminal,6.3,69000,36,R,2016,1h 53m,Ariel Vromen,1452,846
 Trapped in Paradise,5.9,16000,31,PG-13,1994,1h 51m,George Gallo,1453,847
+The Girl on the Train,6.5,197000,48,R,2016,1h 52m,Tate Taylor,1454,258
 The Expendables,6.4,361000,45,R,2010,1h 43m,Sylvester Stallone,1455,848
+Addams Family Values,6.8,108000,61,PG-13,1993,1h 34m,Barry Sonnenfeld,1456,404
+The Graduate,8,285000,83,PG,1967,1h 46m,Mike Nichols,1457,468
 The Lesson,6.3,1300,62,R,2023,1h 43m,Alice Troughton,1458,849
+The Dictator,6.4,329000,58,R,2012,1h 23m,Larry Charles,1459,722
 The Dirty Dozen,7.7,78000,73,Approved,1967,2h 30m,Robert Aldrich,1460,850
 The Adjustment Bureau,7,268000,60,PG-13,2011,1h 46m,George Nolfi,1461,851
 The House Bunny,5.5,89000,55,PG-13,2008,1h 37m,Fred Wolf,1462,852
+Pitch Black,7,251000,49,R,2000,1h 49m,David Twohy,1463,746
+Peter Pan,6.8,79000,64,PG,2003,1h 53m,P.J. Hogan,1464,756
+The Visit,6.2,147000,55,PG-13,2015,1h 34m,M. Night Shyamalan,1465,314
+This Is Where I Leave You,6.6,88000,44,R,2014,1h 43m,Shawn Levy,1466,317
+Contagion,6.8,313000,70,PG-13,2011,1h 46m,Steven Soderbergh,1468,409
 Army of Thieves,6.4,86000,49,TV-MA,2021,2h 7m,Matthias SchweighÃ¶fer,1469,855
 Heaven Help Us,6.9,4900,64,R,1985,1h 44m,Michael Dinner,1470,856
+A Series of Unfortunate Events,6.8,218000,62,PG,2004,1h 48m,Brad Silberling,1471,479
+Jurassic World: Fallen Kingdom,6.1,337000,51,PG-13,2018,2h 8m,J.A. Bayona,1472,555
 Dark Harvest,5.5,5100,51,R,2023,1h 36m,David Slade,1473,857
-Hard Candy,7,167000,58,R,2005,1h 44m,David Slade,1670,857
 On Her Majesty's Secret Service,6.7,98000,61,PG,1969,2h 22m,Peter R. Hunt,1474,858
 A Very Harold & Kumar Christmas,6.2,72000,61,R,2011,1h 30m,Todd Strauss-Schulson,1475,859
 Barbarella,5.8,37000,51,Approved,1968,1h 38m,Roger Vadim,1477,861
 High Life,5.8,40000,78,R,2018,1h 53m,Claire Denis,1478,862
 Flora and Son,7,9800,76,R,2023,1h 37m,John Carney,1479,863
+Lincoln,7.3,270000,87,PG-13,2012,2h 30m,Steven Spielberg,1480,135
 Fried Green Tomatoes,7.7,81000,64,PG-13,1991,2h 10m,Jon Avnet,1481,864
+Godmothered,6.1,14000,49,PG,2020,1h 50m,Sharon Maguire,1482,357
 Ghost in the Shell,6.3,225000,52,PG-13,2017,1h 47m,Rupert Sanders,1484,867
 The Purge,5.7,237000,41,R,2013,1h 25m,James DeMonaco,1485,868
+The Blind Side,7.6,355000,53,PG-13,2009,2h 9m,John Lee Hancock,1486,521
+X-Men: The Last Stand,6.6,535000,58,PG-13,2006,1h 44m,Brett Ratner,1487,152
+Exodus: Gods and Kings,6,176000,52,PG-13,2014,2h 30m,Ridley Scott,1488,7
+The 355,5.6,36000,40,PG-13,2022,2h 2m,Simon Kinberg,1489,843
 Inside,5.5,14000,53,R,2023,1h 45m,Vasilis Katsoupis,1490,869
+Ever After: A Cinderella Story,7.1,81000,66,PG-13,1998,2h 1m,Andy Tennant,1491,473
 Species,5.9,84000,49,R,1995,1h 48m,Roger Donaldson,1492,870
+Philadelphia,7.7,254000,66,PG-13,1993,2h 5m,Jonathan Demme,1493,162
+Iron Man 2,6.9,856000,57,PG-13,2010,2h 4m,Jon Favreau,1494,19
+Blended,6.5,141000,31,PG-13,2014,1h 57m,Frank Coraci,1495,574
+Real Steel,7.1,350000,56,PG-13,2011,2h 7m,Shawn Levy,1496,317
 Red Rocket,7.1,30000,76,R,2021,2h 10m,Sean Baker,1497,871
-The Florida Project,7.6,124000,92,R,2017,1h 51m,Sean Baker,1709,871
+The Incredible Hulk,6.6,517000,61,PG-13,2008,1h 52m,Louis Leterrier,1498,112
 To Kill a Mockingbird,8.3,329000,88,Approved,1962,2h 9m,Robert Mulligan,1499,872
+Anna Karenina,6.6,105000,63,R,2012,2h 9m,Joe Wright,1500,105
 Moneyball,7.6,455000,87,PG-13,2011,2h 13m,Bennett Miller,1501,873
+Incredibles 2,7.6,322000,80,PG,2018,1h 58m,Brad Bird,1502,377
+Bedazzled,6.1,111000,49,PG-13,2000,1h 33m,Harold Ramis,1503,190
+Dallas Buyers Club,7.9,512000,77,R,2013,1h 57m,Jean-Marc VallÃ©e,1505,646
+Insomnia,7.2,313000,78,R,2002,1h 58m,Christopher Nolan,1506,8
+Munich,7.5,236000,74,R,2005,2h 44m,Steven Spielberg,1507,135
 Funny Games,6.5,102000,44,R,2007,1h 51m,Michael Haneke,1508,874
+Inferno,6.2,187000,42,PG-13,2016,2h 1m,Ron Howard,1509,20
+The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,164000,53,PG,2010,1h 53m,Michael Apted,1510,590
+The Aviator,7.5,379000,77,PG-13,2004,2h 50m,Martin Scorsese,1511,4
+Terminator Genisys,6.3,290000,38,PG-13,2015,2h 6m,Alan Taylor,1513,249
+Grown Ups 2,5.4,166000,19,PG-13,2013,1h 41m,Dennis Dugan,1514,625
 Palm Springs,7.4,177000,83,R,2020,1h 30m,Max Barbakow,1516,877
 Pieces of a Woman,7,55000,66,R,2020,2h 6m,KornÃ©l MundruczÃ³,1517,878
+Sweet Home Alabama,6.2,122000,45,PG-13,2002,1h 48m,Andy Tennant,1518,473
+Instant Family,7.3,117000,57,PG-13,2018,1h 58m,Sean Anders,1520,67
 Living,7.2,30000,81,PG-13,2022,1h 42m,Oliver Hermanus,1521,880
+Bad Boys,6.8,281000,41,R,1995,1h 59m,Michael Bay,1522,466
 The Tragedy of Macbeth,7.1,38000,87,R,2021,1h 45m,Joel Coen,1523,140
+Joy,6.6,143000,56,PG-13,2015,2h 4m,David O. Russell,1524,330
+Spy,7,255000,75,R,2015,2h,Paul Feig,1525,81
 The Land Before Time,7.4,97000,66,G,1988,1h 9m,Don Bluth,1526,629
+Signs,6.8,381000,59,PG-13,2002,1h 46m,M. Night Shyamalan,1527,314
+An American Werewolf in London,7.5,118000,55,R,1981,1h 37m,John Landis,1528,220
+War Dogs,7.1,245000,57,R,2016,1h 54m,Todd Phillips,1529,163
+Fifty Shades Darker,4.6,109000,33,R,2017,1h 58m,James Foley,1530,752
+Contact,7.5,289000,62,PG,1997,2h 30m,Robert Zemeckis,1531,41
+In the Heart of the Sea,6.9,147000,47,PG-13,2015,2h 2m,Ron Howard,1532,20
+Dark City,7.6,210000,66,R,1998,1h 40m,Alex Proyas,1533,732
 Life of Brian,8,418000,77,R,1979,1h 34m,Terry Jones,1534,745
+DogMan,6.7,2000,37,R,2023,1h 53m,Luc Besson,1536,168
 The Lost Daughter,6.7,73000,86,R,2021,2h 1m,Maggie Gyllenhaal,1537,884
+Elysium,6.6,466000,61,R,2013,1h 49m,Neill Blomkamp,1538,93
+6 Underground,6.1,192000,41,R,2019,2h 8m,Michael Bay,1539,466
 Finch,6.9,94000,57,PG-13,2021,1h 55m,Miguel Sapochnik,1540,885
+Killing Them Softly,6.2,151000,64,R,2012,1h 37m,Andrew Dominik,1541,456
 The Twilight Saga: New Moon,4.8,296000,44,PG-13,2009,2h 10m,Chris Weitz,1542,197
-The Golden Compass,6.1,195000,51,PG-13,2007,1h 53m,Chris Weitz,1569,197
+Who Framed Roger Rabbit,7.7,213000,83,PG,1988,1h 44m,Robert Zemeckis,1543,41
 The Hitchhiker's Guide to the Galaxy,6.7,206000,63,PG,2005,1h 49m,Garth Jennings,1544,176
+King Arthur,6.3,174000,46,PG-13,2004,2h 6m,Antoine Fuqua,1546,86
 Forgetting Sarah Marshall,7.1,299000,67,R,2008,1h 51m,Nicholas Stoller,1547,887
+Willow,7.2,129000,47,PG,1988,2h 6m,Ron Howard,1549,20
+Zombieland: Double Tap,6.7,196000,55,R,2019,1h 39m,Ruben Fleischer,1550,208
+Fast & Furious Presents: Hobbs & Shaw,6.5,231000,60,PG-13,2019,2h 17m,David Leitch,1551,179
+Cloverfield,7,416000,64,PG-13,2008,1h 25m,Matt Reeves,1553,73
 Spencer,6.6,75000,76,R,2021,1h 57m,Pablo LarraÃ­n,1554,893
+Vice,7.2,159000,61,R,2018,2h 12m,Adam McKay,1555,214
+The Wedding Singer,6.9,160000,59,PG-13,1998,1h 37m,Frank Coraci,1556,574
+Resident Evil,6.6,284000,33,R,2002,1h 40m,Paul W.S. Anderson,1557,507
+Pixels,5.6,156000,27,PG-13,2015,1h 45m,Chris Columbus,1558,36
+Into the Woods,5.9,147000,69,PG,2014,2h 5m,Rob Marshall,1559,184
 I See You,6.8,64000,65,R,2019,1h 38m,Adam Randall,1560,894
 28 Weeks Later,6.9,289000,78,R,2007,1h 40m,Juan Carlos Fresnadillo,1561,895
+Halloween,7.7,302000,87,R,1978,1h 31m,John Carpenter,1562,334
+Behind Enemy Lines,6.4,111000,49,PG-13,2001,1h 46m,John Moore,1563,806
+Spy Game,7.1,165000,63,R,2001,2h 6m,Tony Scott,1564,239
 The Toxic Avenger,5.9,361,66,R,2023,1h 42m,Macon Blair,1565,896
+Now You See Me 2,6.4,314000,46,PG-13,2016,2h 9m,Jon M. Chu,1566,520
 Megamind,7.3,288000,63,PG,2010,1h 35m,Tom McGrath,1567,787
+Moon,7.8,372000,67,R,2009,1h 37m,Duncan Jones,1568,783
+The Golden Compass,6.1,195000,51,PG-13,2007,1h 53m,Chris Weitz,1569,197
+Deepwater Horizon,7.1,179000,68,PG-13,2016,1h 47m,Peter Berg,1570,607
+Percy Jackson: Sea of Monsters,5.7,124000,39,PG,2013,1h 46m,Thor Freudenthal,1571,450
+Back to the Future Part II,7.8,563000,57,PG,1989,1h 48m,Robert Zemeckis,1572,41
+Fatal Attraction,6.9,95000,67,R,1987,1h 59m,Adrian Lyne,1573,320
 300: Rise of an Empire,6.2,313000,48,R,2014,1h 42m,Noam Murro,1574,897
 Pretty Baby,6.5,12000,66,R,1978,1h 50m,Louis Malle,1575,898
 Demolition Man,6.7,190000,34,R,1993,1h 55m,Marco Brambilla,1576,899
+Ocean's Twelve,6.5,409000,58,PG-13,2004,2h 5m,Steven Soderbergh,1577,409
+Teen Wolf: The Movie,5.5,14000,51,TV-MA,2023,2h 20m,Russell Mulcahy,1578,642
 Roald Dahl's Matilda the Musical,7,27000,72,PG,2022,1h 57m,Matthew Warchus,1579,900
+Bruce Almighty,6.8,426000,46,PG-13,2003,1h 41m,Tom Shadyac,1580,700
+Lawless,7.2,251000,58,R,2012,1h 56m,John Hillcoat,1581,647
 A Walk to Remember,7.3,219000,35,PG,2002,1h 41m,Adam Shankman,1582,901
 Couples Retreat,5.5,114000,23,PG-13,2009,1h 53m,Peter Billingsley,1583,902
+Kazaam,3.1,25000,24,PG,1996,1h 33m,Paul Michael Glaser,1584,708
 Hotel Transylvania,7,275000,47,PG,2012,1h 31m,Genndy Tartakovsky,1585,903
 Marry Me,6.1,39000,51,PG-13,2022,1h 52m,Kat Coiro,1586,904
 Diamonds Are Forever,6.5,113000,59,GP,1971,2h,Guy Hamilton,1587,905
-The Man with the Golden Gun,6.7,112000,43,PG,1974,2h 5m,Guy Hamilton,1646,905
-Goldfinger,7.7,200000,87,PG,1964,1h 50m,Guy Hamilton,1732,905
+Life of Pi,7.9,658000,79,PG,2012,2h 7m,Ang Lee,1588,597
+Red Dragon,7.2,287000,60,R,2002,2h 4m,Brett Ratner,1589,152
+Ocean's Thirteen,6.9,363000,62,PG-13,2007,2h 2m,Steven Soderbergh,1590,409
 Pet Sematary: Bloodlines,4.6,9100,31,R,2023,1h 27m,Lindsey Anderson Beer,1591,906
 Project X,6.7,228000,46,R,2012,1h 28m,Nima Nourizadeh,1592,907
 Sound of Metal,7.7,145000,82,R,2019,2h,Darius Marder,1593,908
+The Whole Nine Yards,6.7,128000,47,R,2000,1h 38m,Jonathan Lynn,1594,403
 Maleficent,6.9,395000,56,PG,2014,1h 37m,Robert Stromberg,1597,913
 Mr. Nobody,7.7,243000,63,R,2009,2h 21m,Jaco Van Dormael,1598,914
 Hackers,6.2,73000,46,PG-13,1995,1h 45m,Iain Softley,1600,917
 Mortal Engines,6.1,136000,44,PG-13,2018,2h 8m,Christian Rivers,1601,918
+The Long Riders,6.9,13000,68,R,1980,1h 40m,Walter Hill,1602,706
 Golda,5.9,8000,48,PG-13,2023,1h 40m,Guy Nattiv,1603,919
 The Great Wall,5.9,144000,42,PG-13,2016,1h 43m,Yimou Zhang,1604,920
 Breakfast at Tiffany's,7.6,189000,76,Approved,1961,1h 55m,Blake Edwards,1605,921
+Wild at Heart,7.2,99000,52,R,1990,2h 5m,David Lynch,1606,277
 Christmas with You,5.6,7400,39,TV-PG,2022,1h 29m,Gabriela Tagliavini,1608,923
 Burn After Reading,7,348000,63,R,2008,1h 36m,Ethan CoenJoel Coen,1609,924
+Close Encounters of the Third Kind,7.6,213000,90,PG,1977,2h 18m,Steven Spielberg,1610,135
 Hellraiser,6.9,138000,56,R,1987,1h 34m,Clive Barker,1611,925
 Emma.,6.7,61000,71,PG,2020,2h 4m,Autumn de Wilde,1616,928
 Sanctuary,6.3,6800,67,R,2022,1h 36m,Zachary Wigon,1617,929
 Rudy,7.5,68000,71,PG,1993,1h 54m,David Anspaugh,1619,930
 The Great Escape,8.2,255000,86,Approved,1963,2h 52m,John Sturges,1620,931
 How to Train Your Dragon: The Hidden World,7.4,145000,71,PG,2019,1h 44m,Dean DeBlois,1621,566
+Poltergeist,7.3,177000,79,PG,1982,1h 54m,Tobe Hooper,1622,587
+Ted 2,6.3,227000,48,R,2015,1h 55m,Seth MacFarlane,1623,483
 Don Jon,6.5,245000,66,R,2013,1h 30m,Joseph Gordon-Levitt,1624,932
 Women Talking,6.9,39000,78,PG-13,2022,1h 44m,Sarah Polley,1625,933
+Jungle Cruise,6.6,208000,50,PG-13,2021,2h 7m,Jaume Collet-Serra,1626,292
+Naked Lunch,6.9,56000,67,R,1991,1h 55m,David Cronenberg,1627,709
+A Simple Favor,6.8,159000,67,R,2018,1h 57m,Paul Feig,1628,81
+Norbit,4.2,78000,27,PG-13,2007,1h 42m,Brian Robbins,1630,767
+Jarhead,7,203000,58,R,2005,2h 5m,Sam Mendes,1631,167
+The Twilight Saga: Breaking Dawn - Part 1,4.9,251000,45,PG-13,2011,1h 57m,Bill Condon,1632,182
+Taken 3,6,202000,26,PG-13,2014,1h 48m,Olivier Megaton,1633,784
+Layer Cake,7.3,192000,73,R,2004,1h 45m,Matthew Vaughn,1634,396
+Yesterday,6.8,163000,55,PG-13,2019,1h 56m,Danny Boyle,1636,422
+Don't Breathe,7.1,295000,71,R,2016,1h 28m,Fede Alvarez,1637,804
 Charade,7.9,84000,83,Passed,1963,1h 53m,Stanley Donen,1638,799
+Big George Foreman,6.6,7200,45,PG-13,2023,2h 9m,George Tillman Jr.,1639,251
 PokÃ©mon: Detective Pikachu,6.5,179000,53,PG,2019,1h 44m,Rob Letterman,1640,934
+Oldboy,5.8,80000,49,R,2013,1h 44m,Spike Lee,1641,393
 Real Genius,6.9,37000,71,PG,1985,1h 48m,Martha Coolidge,1642,935
 Bonnie and Clyde,7.7,119000,86,R,1967,1h 51m,Arthur Penn,1643,936
+The Royal Tenenbaums,7.6,309000,76,R,2001,1h 50m,Wes Anderson,1644,62
 You Hurt My Feelings,6.6,8900,80,R,2023,1h 33m,Nicole Holofcener,1645,937
+The Man with the Golden Gun,6.7,112000,43,PG,1974,2h 5m,Guy Hamilton,1646,905
 9,7,146000,60,PG-13,2009,1h 19m,Shane Acker,1647,938
+The Birdcage,7.2,98000,72,R,1996,1h 57m,Mike Nichols,1648,468
 Luca,7.4,186000,71,PG,2021,1h 35m,Enrico Casarosa,1649,939
+Magic Mike,6.1,146000,72,R,2012,1h 50m,Steven Soderbergh,1650,409
 It Lives Inside,5.2,4900,50,PG-13,2023,1h 39m,Bishal Dutta,1651,940
 The Prophecy,6.4,33000,44,R,1995,1h 38m,Gregory Widen,1652,941
+Independence Day: Resurgence,5.2,187000,32,PG-13,2016,2h,Roland Emmerich,1653,387
+Big Daddy,6.4,230000,41,PG-13,1999,1h 33m,Dennis Dugan,1654,625
+Walk the Line,7.8,262000,72,PG-13,2005,2h 16m,James Mangold,1655,18
 The Fault in Our Stars,7.7,396000,69,PG-13,2014,2h 6m,Josh Boone,1656,942
 My Big Fat Greek Wedding,6.6,143000,62,PG,2002,1h 35m,Joel Zwick,1658,944
 Maybe I Do,4.9,7500,42,PG-13,2023,1h 35m,Michael Jacobs,1659,945
+Star Trek Beyond,7,256000,68,PG-13,2016,2h 2m,Justin Lin,1660,113
+Thelma & Louise,7.6,168000,89,R,1991,2h 10m,Ridley Scott,1661,7
+The Evil Dead,7.4,229000,71,NC-17,1981,1h 25m,Sam Raimi,1662,336
+John Carter,6.6,283000,51,PG-13,2012,2h 12m,Andrew Stanton,1663,535
+Terminator 3: Rise of the Machines,6.3,415000,66,R,2003,1h 49m,Jonathan Mostow,1664,781
+The Conjuring 2,7.3,295000,65,R,2016,2h 14m,James Wan,1665,221
+Scary Movie 2,5.3,172000,29,R,2001,1h 23m,Keenen Ivory Wayans,1666,563
 The Sum of All Fears,6.4,123000,45,PG-13,2002,2h 4m,Phil Alden Robinson,1667,947
+Witness for the Prosecution,8.4,134000,76,Approved,1957,1h 56m,Billy Wilder,1668,229
+Moonrise Kingdom,7.8,364000,84,PG-13,2012,1h 34m,Wes Anderson,1669,62
+Hard Candy,7,167000,58,R,2005,1h 44m,David Slade,1670,857
 Alien: Resurrection,6.2,260000,63,R,1997,1h 49m,Jean-Pierre Jeunet,1671,948
+Knight and Day,6.3,208000,46,PG-13,2010,1h 49m,James Mangold,1672,18
+Blow,7.5,272000,52,R,2001,2h 4m,Ted Demme,1673,773
+The Bourne Ultimatum,8,653000,85,PG-13,2007,1h 55m,Paul Greengrass,1674,807
+Poseidon,5.7,109000,50,PG-13,2006,1h 38m,Wolfgang Petersen,1675,222
 Original Sin,6,59000,33,R,2001,1h 56m,Michael Cristofer,1676,949
 Bill & Ted's Excellent Adventure,6.9,140000,50,PG,1989,1h 30m,Stephen Herek,1677,950
-The Mighty Ducks,6.5,71000,46,PG,1992,1h 44m,Stephen Herek,1752,950
+After Hours,7.6,78000,90,R,1985,1h 37m,Martin Scorsese,1678,4
 The Monuments Men,6.1,138000,52,PG-13,2014,1h 58m,George Clooney,1679,951
+Night at the Museum: Battle of the Smithsonian,6,209000,42,PG,2009,1h 45m,Shawn Levy,1680,317
+Charlie's Angels,5.6,194000,52,PG-13,2000,1h 38m,McG,1681,17
 Young Guns,6.8,67000,50,R,1988,1h 47m,Christopher Cain,1682,952
+Spy Kids,5.6,125000,71,PG,2001,1h 28m,Robert Rodriguez,1683,226
 Back to School,6.7,35000,68,PG-13,1986,1h 36m,Alan Metter,1685,953
+Bananas,6.9,37000,67,PG-13,1971,1h 22m,Woody Allen,1686,748
+Southpaw,7.3,254000,57,R,2015,2h 4m,Antoine Fuqua,1687,86
+Salt,6.4,327000,65,PG-13,2010,1h 40m,Phillip Noyce,1688,602
+Clash of the Titans,5.8,290000,39,PG-13,2010,1h 46m,Louis Leterrier,1689,112
 Truth or Dare,5.2,62000,35,PG-13,2018,1h 40m,Jeff Wadlow,1690,954
+He's Just Not That Into You,6.4,180000,47,PG-13,2009,2h 9m,Ken Kwapis,1691,803
 Coyote Ugly,5.7,120000,27,PG-13,2000,1h 40m,David McNally,1692,955
 The Punisher,6.4,169000,33,R,2004,2h 4m,Jonathan Hensleigh,1693,956
+The Ninth Gate,6.7,195000,44,R,1999,2h 13m,Roman Polanski,1694,363
 Flash Gordon,6.5,60000,58,PG,1980,1h 51m,Mike Hodges,1695,958
+Bad Teacher,5.6,211000,47,R,2011,1h 32m,Jake Kasdan,1696,475
+"As Above, So Below",6.2,108000,39,R,2014,1h 33m,John Erick Dowdle,1697,744
 San Andreas,6.1,253000,43,PG-13,2015,1h 54m,Brad Peyton,1698,959
-Rampage,6.1,182000,45,PG-13,2018,1h 47m,Brad Peyton,1702,959
+The Witches,5.4,45000,47,PG,2020,1h 46m,Robert Zemeckis,1699,41
 Palmer,7.3,42000,53,R,2021,1h 50m,Fisher Stevens,1700,960
+Marlowe,5.3,9200,41,R,2022,1h 49m,Neil Jordan,1701,584
+Rampage,6.1,182000,45,PG-13,2018,1h 47m,Brad Peyton,1702,959
+The Elephant Man,8.2,254000,78,PG,1980,2h 4m,David Lynch,1703,277
+Wayne's World,7,168000,57,PG-13,1992,1h 34m,Penelope Spheeris,1704,726
+Hulk,5.6,276000,54,PG-13,2003,2h 18m,Ang Lee,1705,597
+Desperado,7.1,195000,55,R,1995,1h 44m,Robert Rodriguez,1706,226
+The Apartment,8.3,192000,94,Approved,1960,2h 5m,Billy Wilder,1707,229
+St. Elmo's Fire,6.4,45000,35,R,1985,1h 50m,Joel Schumacher,1708,368
+The Florida Project,7.6,124000,92,R,2017,1h 51m,Sean Baker,1709,871
+The Island,6.8,325000,50,PG-13,2005,2h 16m,Michael Bay,1710,466
+Father of the Bride,6.5,83000,51,PG,1991,1h 45m,Charles Shyer,1711,416
 Masters of the Universe,5.3,44000,35,PG,1987,1h 46m,Gary Goddard,1712,961
+The Fighter,7.8,384000,79,R,2010,1h 56m,David O. Russell,1713,330
+Death Becomes Her,6.6,129000,56,PG-13,1992,1h 44m,Robert Zemeckis,1714,41
+Pinocchio,5.1,41000,38,PG,2022,1h 45m,Robert Zemeckis,1715,41
+The Jungle Book,7.4,289000,77,PG,2016,1h 46m,Jon Favreau,1716,19
+Cold Mountain,7.2,154000,73,R,2003,2h 34m,Anthony Minghella,1718,340
 State of Play,7.1,159000,64,PG-13,2009,2h 7m,Kevin Macdonald,1719,964
+Hollow Man,5.8,137000,24,R,2000,1h 52m,Paul Verhoeven,1720,335
 Anna and the Apocalypse,6.1,15000,63,R,2017,1h 33m,John McPhail,1722,965
+Sex Tape,5.1,117000,36,R,2014,1h 34m,Jake Kasdan,1723,475
+Bridge of Spies,7.6,324000,81,PG-13,2015,2h 22m,Steven Spielberg,1725,135
 Lucky Number Slevin,7.7,323000,53,R,2006,1h 50m,Paul McGuigan,1726,968
 The Strangers,6.1,141000,47,R,2008,1h 26m,Bryan Bertino,1727,969
 Gosford Park,7.2,93000,90,R,2001,2h 17m,Robert Altman,1728,970
+Monsters,6.4,96000,63,R,2010,1h 34m,Gareth Edwards,1729,26
+Serpico,7.7,132000,83,R,1973,2h 10m,Sidney Lumet,1730,240
+Draft Day,6.8,65000,54,PG-13,2014,1h 50m,Ivan Reitman,1731,287
+Goldfinger,7.7,200000,87,PG,1964,1h 50m,Guy Hamilton,1732,905
 The Theory of Everything,7.7,475000,71,PG-13,2014,2h 3m,James Marsh,1733,971
 Geostorm,5.3,116000,21,PG-13,2017,1h 49m,Dean Devlin,1734,972
 The Lincoln Lawyer,7.3,251000,63,R,2011,1h 58m,Brad Furman,1735,973
+Richie Rich,5.4,73000,49,PG,1994,1h 35m,Donald Petrie,1736,817
+Greenland,6.4,129000,64,PG-13,2020,1h 59m,Ric Roman Waugh,1737,326
 The Bodyguard,6.3,145000,39,R,1992,2h 9m,Mick Jackson,1738,974
+We Can Be Heroes,4.7,17000,51,PG,2020,1h 40m,Robert Rodriguez,1739,226
+Birth,6.2,39000,51,R,2004,1h 40m,Jonathan Glazer,1740,401
 The Remains of the Day,7.8,82000,86,PG,1993,2h 14m,James Ivory,1741,975
+Occupied City,7.1,141,75,PG-13,2023,4h 6m,Steve McQueen,1742,400
 The Man in the Iron Mask,6.5,176000,48,PG-13,1998,2h 12m,Randall Wallace,1743,976
 We Were Soldiers,7.2,149000,65,R,2002,2h 18m,Randall Wallace,1744,976
+Doctor Zhivago,7.9,81000,69,PG-13,1965,3h 17m,David Lean,1745,695
 Dragged Across Concrete,6.9,54000,60,R,2018,2h 39m,S. Craig Zahler,1746,977
+Drag Me to Hell,6.6,215000,83,PG-13,2009,1h 39m,Sam Raimi,1747,336
+Transformers: Age of Extinction,5.6,328000,32,PG-13,2014,2h 45m,Michael Bay,1748,466
 Annette,6.3,22000,67,R,2021,2h 21m,Leos Carax,1749,978
 "Definitely, Maybe",7.1,172000,59,PG-13,2008,1h 52m,Adam Brooks,1750,979
+The Fly,7.6,198000,79,R,1986,1h 36m,David Cronenberg,1751,709
+The Mighty Ducks,6.5,71000,46,PG,1992,1h 44m,Stephen Herek,1752,950
+American Made,7.1,203000,65,R,2017,1h 55m,Doug Liman,1753,293

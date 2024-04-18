@@ -1,0 +1,4645 @@
+Movie_ID,Movie_Name,Oscar_Award_ID,GG_Award_ID
+1,Leave the World Behind,,
+2,Wonka,,
+3,Paddington 2,,
+4,Paddington,,
+5,Poor Things,,
+6,The Favourite,OWA0081,GG005
+7,The Killing of a Sacred Deer,,
+8,The Lobster,,
+9,Killers of the Flower Moon,,
+10,The Wolf of Wall Street,,GG006
+11,Goodfellas,,
+12,The Departed,OWA0012,
+12,The Departed,OWA0020,
+12,The Departed,OWA0060,
+12,The Departed,OWA0099,
+13,Shutter Island,,
+14,Taxi Driver,,
+15,The Irishman,,
+16,Casino,,GG002
+17,Gangs of New York,,GG014
+18,Cape Fear,,
+19,Silence,,
+20,Raging Bull,OWA0080,GG003
+20,Raging Bull,OWA0020,GG003
+21,Hugo,OWA0003,GG011
+21,Hugo,OWA0004,GG011
+21,Hugo,OWA0097,GG011
+21,Hugo,OWA0100,GG011
+21,Hugo,OWA0084,GG011
+22,The Aviator,OWA0026,GG013
+22,The Aviator,OWA0026,GG001
+22,The Aviator,OWA0003,GG013
+22,The Aviator,OWA0003,GG001
+22,The Aviator,OWA0004,GG013
+22,The Aviator,OWA0004,GG001
+22,The Aviator,OWA0053,GG013
+22,The Aviator,OWA0053,GG001
+22,The Aviator,OWA0020,GG013
+22,The Aviator,OWA0020,GG001
+23,After Hours,,
+24,May December,,
+25,Carol,,
+26,Dark Waters,,
+27,The Hunger Games: The Ballad of Songbirds & Snakes,,
+28,The Hunger Games: Catching Fire,,
+29,The Hunger Games: Mockingjay - Part 2,,
+30,The Hunger Games: Mockingjay - Part 1,,
+31,Red Sparrow,,
+32,I Am Legend,,
+33,Constantine,,
+34,Napoleon,,
+35,Gladiator,OWA0080,GG001
+35,Gladiator,OWA0080,GG013
+35,Gladiator,OWA0053,GG001
+35,Gladiator,OWA0053,GG013
+35,Gladiator,OWA0060,GG001
+35,Gladiator,OWA0060,GG013
+35,Gladiator,OWA0057,GG001
+35,Gladiator,OWA0057,GG013
+35,Gladiator,OWA0084,GG001
+35,Gladiator,OWA0084,GG013
+36,Kingdom of Heaven,,
+37,Prometheus,,
+38,Alien,OWA0084,
+39,Blade Runner,,
+40,Alien: Covenant,,
+41,The Martian,,GG004
+41,The Martian,,GG006
+42,The Last Duel,,
+43,Black Hawk Down,OWA0020,
+43,Black Hawk Down,OWA0057,
+44,American Gangster,,
+45,Robin Hood,,
+46,Hannibal,,
+47,House of Gucci,,
+48,The Counselor,,
+49,Exodus: Gods and Kings,,
+50,Thelma & Louise,OWA0088,
+51,Oppenheimer,,
+52,Interstellar,OWA0084,
+53,The Dark Knight,OWA0025,GG010
+53,The Dark Knight,OWA0097,GG010
+54,Inception,OWA0004,
+54,Inception,OWA0097,
+54,Inception,OWA0100,
+54,Inception,OWA0084,
+55,The Prestige,,
+56,The Dark Knight Rises,,
+57,Tenet,OWA0084,
+58,Memento,,
+59,Batman Begins,,
+60,Dunkirk,OWA0020,
+60,Dunkirk,OWA0097,
+60,Dunkirk,OWA0100,
+61,Insomnia,,
+62,Love Actually,,
+63,About Time,,
+64,Candy Cane Lane,,
+65,Saltburn,,
+66,Promising Young Woman,OWA0036,
+67,Barbie,,
+68,Little Women,OWA0010,
+68,Little Women,OWA0035,
+68,Little Women,OWA0053,
+69,Lady Bird,,GG004
+69,Lady Bird,,GG005
+70,National Lampoon's Christmas Vacation,,
+71,Rebel Moon - Part One: A Child of Fire,,
+72,Watchmen,,
+73,Man of Steel,,
+74,300,,
+75,Batman v Superman: Dawn of Justice,,
+76,Zack Snyder's Justice League,,
+77,Army of the Dead,,
+78,Sucker Punch,,
+79,Justice League,,
+80,Dawn of the Dead,,
+81,The Family Plan,,
+82,The Holdovers,,
+83,Sideways,OWA0099,GG004
+84,Downsizing,,
+85,Family Switch,,
+86,Terminator Salvation,,
+87,Charlie's Angels,,
+88,Indiana Jones and the Dial of Destiny,,
+89,Ford v Ferrari,OWA0020,
+89,Ford v Ferrari,OWA0097,
+90,Logan,,
+91,"Girl, Interrupted",OWA0026,
+92,Cop Land,,
+93,The Wolverine,,
+94,Identity,,
+95,Walk the Line,OWA0081,
+96,Knight and Day,,
+97,Elf,,
+98,Iron Man,,
+99,Chef,,
+100,Iron Man 2,,
+101,The Jungle Book,OWA0084,
+102,How the Grinch Stole Christmas,,
+103,A Beautiful Mind,OWA0026,GG003
+103,A Beautiful Mind,OWA0026,GG012
+103,A Beautiful Mind,OWA0026,GG001
+103,A Beautiful Mind,OWA0026,GG009
+103,A Beautiful Mind,OWA0012,GG003
+103,A Beautiful Mind,OWA0012,GG012
+103,A Beautiful Mind,OWA0012,GG001
+103,A Beautiful Mind,OWA0012,GG009
+103,A Beautiful Mind,OWA0060,GG003
+103,A Beautiful Mind,OWA0060,GG012
+103,A Beautiful Mind,OWA0060,GG001
+103,A Beautiful Mind,OWA0060,GG009
+103,A Beautiful Mind,OWA0095,GG003
+103,A Beautiful Mind,OWA0095,GG012
+103,A Beautiful Mind,OWA0095,GG001
+103,A Beautiful Mind,OWA0095,GG009
+104,Solo: A Star Wars Story,,
+105,Rush,,
+106,Apollo 13,OWA0020,
+106,Apollo 13,OWA0057,
+107,The Da Vinci Code,,
+108,Parenthood,,
+109,Backdraft,,
+110,Inferno,,
+111,In the Heart of the Sea,,
+112,Willow,,
+113,Maestro,,
+114,A Star Is Born,OWA0011,
+114,A Star Is Born,OWA0078,
+114,A Star Is Born,OWA0078,
+115,Mr. Monk's Last Case: A Monk Movie,,
+116,The Creator,,
+117,Godzilla,,
+118,Rogue One: A Star Wars Story,,
+119,Monsters,,
+120,Chicken Run: Dawn of the Nugget,,
+121,Die Hard,,
+122,Die Hard with a Vengeance,,
+123,Predator,,
+124,The Hunt for Red October,OWA0093,
+125,The Killer,,
+126,Fight Club,,
+127,Se7en,,
+128,Gone Girl,,
+129,The Social Network,OWA0020,GG011
+129,The Social Network,OWA0020,GG001
+129,The Social Network,OWA0030,GG011
+129,The Social Network,OWA0030,GG001
+129,The Social Network,OWA0099,GG011
+129,The Social Network,OWA0099,GG001
+130,The Girl with the Dragon Tattoo,OWA0020,
+131,Zodiac,,
+132,The Curious Case of Benjamin Button,OWA0003,
+132,The Curious Case of Benjamin Button,OWA0092,
+132,The Curious Case of Benjamin Button,OWA0084,
+133,The Game,,
+134,AlienÂ³,,
+135,Violent Night,,
+136,Home Alone 2: Lost in New York,,
+137,Harry Potter and the Sorcerer's Stone,,
+138,Harry Potter and the Chamber of Secrets,,
+139,The Christmas Chronicles: Part Two,,
+140,Percy Jackson & the Olympians: The Lightning Thief,,
+141,Mrs. Doubtfire,OWA0092,GG004
+141,Mrs. Doubtfire,OWA0092,GG006
+142,Adventures in Babysitting,,
+143,Pixels,,
+144,A Haunting in Venice,,
+145,Death on the Nile,OWA0053,
+146,Murder on the Orient Express,OWA0026,
+147,Belfast,OWA0036,GG012
+148,Cinderella,,
+149,Thor,,
+150,The Marvels,,
+151,The Polar Express,,
+152,A Christmas Carol,OWA0072,
+153,Forrest Gump,OWA0080,GG001
+153,Forrest Gump,OWA0080,GG011
+153,Forrest Gump,OWA0012,GG001
+153,Forrest Gump,OWA0012,GG011
+153,Forrest Gump,OWA0020,GG001
+153,Forrest Gump,OWA0020,GG011
+153,Forrest Gump,OWA0060,GG001
+153,Forrest Gump,OWA0060,GG011
+153,Forrest Gump,OWA0084,GG001
+153,Forrest Gump,OWA0084,GG011
+153,Forrest Gump,OWA0095,GG001
+153,Forrest Gump,OWA0095,GG011
+154,Back to the Future,OWA0093,
+155,Cast Away,,GG003
+156,Flight,,
+157,Contact,,
+158,Who Framed Roger Rabbit,OWA0020,
+158,Who Framed Roger Rabbit,OWA0093,
+158,Who Framed Roger Rabbit,OWA0084,
+159,Back to the Future Part II,,
+160,The Witches,,
+161,Death Becomes Her,OWA0084,
+162,Pinocchio,OWA0030,
+162,Pinocchio,OWA0022,
+163,It's a Wonderful Life,,
+164,Five Nights at Freddy's,,
+165,The Santa Clause,,
+166,Finestkind,,
+167,A Knight's Tale,,
+168,Payback,,
+169,Legend,,
+170,Thanksgiving,,
+171,Knock Knock,,
+172,Hostel,,
+173,The Holiday,,
+174,The Parent Trap,,
+175,The Intern,,
+176,The Hunger Games,,
+177,Ocean's Eight,,
+178,A Christmas Story,,
+179,Black Christmas,,
+180,Porky's,,
+181,Willy Wonka & the Chocolate Factory,,
+182,Scrooged,,
+183,The Goonies,,
+184,Lethal Weapon,,
+185,Superman,OWA0073,
+186,Ferrari,,
+187,Heat,,
+188,The Last of the Mohicans,OWA0057,
+189,Collateral,,
+190,Public Enemies,,
+191,No Hard Feelings,,
+192,Charlie and the Chocolate Factory,,
+193,Batman Returns,,
+194,Edward Scissorhands,,
+195,Beetlejuice,OWA0092,
+196,Planet of the Apes,,
+197,Batman,OWA0003,
+198,Alice in Wonderland,OWA0003,
+198,Alice in Wonderland,OWA0053,
+199,Sleepy Hollow,OWA0003,
+200,Sweeney Todd: The Demon Barber of Fleet Street,,GG006
+200,Sweeney Todd: The Demon Barber of Fleet Street,,GG004
+201,Big Fish,,
+202,Mars Attacks!,,
+203,Miss Peregrine's Home for Peculiar Children,,
+204,X,,
+205,Pearl,,
+206,Mission: Impossible - Dead Reckoning Part One,,
+207,Jack Reacher,,
+208,Mission: Impossible - Fallout,,
+209,Mission: Impossible - Rogue Nation,,
+210,Asteroid City,,
+211,The Grand Budapest Hotel,OWA0053,GG004
+211,The Grand Budapest Hotel,OWA0101,GG004
+211,The Grand Budapest Hotel,OWA0030,GG004
+211,The Grand Budapest Hotel,OWA0102,GG004
+212,Fantastic Mr. Fox,,
+213,The French Dispatch,,
+214,The Life Aquatic with Steve Zissou,,
+215,The Royal Tenenbaums,,GG006
+216,Moonrise Kingdom,,
+217,Blue Beetle,,
+218,Eileen,,
+219,Love and Monsters,,
+220,Dune,OWA0004,GG013
+220,Dune,OWA0020,GG013
+220,Dune,OWA0030,GG013
+220,Dune,OWA0102,GG013
+220,Dune,OWA0057,GG013
+220,Dune,OWA0084,GG013
+221,Blade Runner 2049,OWA0004,
+221,Blade Runner 2049,OWA0084,
+222,Prisoners,,
+223,Sicario,,
+224,Enemy,,
+225,Spirited,,
+226,Daddy's Home 2,,
+227,That's My Boy,,
+228,Daddy's Home,,
+229,Sex Drive,,
+230,Instant Family,,
+231,Dream Scenario,,
+232,Jingle All the Way,,
+233,Priscilla,,
+234,Lost in Translation,OWA0036,GG012
+234,Lost in Translation,OWA0036,GG004
+234,Lost in Translation,OWA0036,GG006
+235,The Virgin Suicides,,
+236,Marie Antoinette,OWA0053,
+237,The Batman,,
+238,War for the Planet of the Apes,,
+239,Dawn of the Planet of the Apes,,
+240,Cloverfield,,
+241,American Fiction,,
+242,Genie,,
+243,The Shawshank Redemption,,
+244,The Green Mile,,
+245,The Mist,,
+246,Last Christmas,,
+247,Bridesmaids,,
+248,The School for Good and Evil,,
+249,Spy,,
+250,A Simple Favor,,
+251,Reptile,,
+252,The Suicide Squad,,
+253,Guardians of the Galaxy Vol. 3,,
+254,Guardians of the Galaxy,,
+255,Guardians of the Galaxy Vol. 2,,
+256,Gremlins,,
+257,The Godfather,OWA0001,GG003
+257,The Godfather,OWA0001,GG012
+257,The Godfather,OWA0001,GG001
+257,The Godfather,OWA0001,GG013
+257,The Godfather,OWA0060,GG003
+257,The Godfather,OWA0060,GG012
+257,The Godfather,OWA0060,GG001
+257,The Godfather,OWA0060,GG013
+257,The Godfather,OWA0055,GG003
+257,The Godfather,OWA0055,GG012
+257,The Godfather,OWA0055,GG001
+257,The Godfather,OWA0055,GG013
+258,Apocalypse Now,OWA0004,GG013
+258,Apocalypse Now,OWA0004,GG011
+258,Apocalypse Now,OWA0004,GG010
+258,Apocalypse Now,OWA0057,GG013
+258,Apocalypse Now,OWA0057,GG011
+258,Apocalypse Now,OWA0057,GG010
+259,The Outsiders,,
+260,The Godfather Part II,OWA0025,
+260,The Godfather Part II,OWA0003,
+260,The Godfather Part II,OWA0012,
+260,The Godfather Part II,OWA0070,
+260,The Godfather Part II,OWA0060,
+260,The Godfather Part II,OWA0077,
+261,Bram Stoker's Dracula,OWA0053,
+261,Bram Stoker's Dracula,OWA0092,
+261,Bram Stoker's Dracula,OWA0093,
+262,The Equalizer 3,,
+263,The Equalizer,,
+264,Training Day,OWA0080,
+265,The Equalizer 2,,
+266,The Magnificent Seven,,
+267,Shooter,,
+268,Infinite,,
+269,The Guilty,,
+270,King Arthur,,
+271,Southpaw,,
+272,Merry Little Batman,,
+273,Underwater,,
+274,Taylor Swift: The Eras Tour,,
+275,Christmas with the Kranks,,
+276,John Wick: Chapter 4,,
+277,John Wick: Chapter 3 - Parabellum,,
+278,John Wick: Chapter 2,,
+279,The Santa Clause 2,,
+280,The Santa Clause 3: The Escape Clause,,
+281,Gran Turismo,,
+282,District 9,,
+283,Elysium,,
+284,Four Christmases,,
+285,Baywatch,,
+286,Horrible Bosses,,
+287,Mad Max: Fury Road,OWA0053,
+287,Mad Max: Fury Road,OWA0020,
+287,Mad Max: Fury Road,OWA0101,
+287,Mad Max: Fury Road,OWA0102,
+287,Mad Max: Fury Road,OWA0097,
+287,Mad Max: Fury Road,OWA0100,
+288,Mad Max,,
+289,The Witches of Eastwick,,
+290,The Road Warrior,,
+291,Three Thousand Years of Longing,,
+292,Glory,OWA0025,GG010
+292,Glory,OWA0004,GG010
+292,Glory,OWA0057,GG010
+293,Love & Other Drugs,,
+294,The Last Samurai,,
+295,Jack Reacher: Never Go Back,,
+296,Legends of the Fall,OWA0004,
+297,Blood Diamond,,
+298,Suicide Squad,OWA0101,
+299,Fury,,
+300,The Muppet Christmas Carol,,
+301,The Family Stone,,
+302,The Lord of the Rings: The Fellowship of the Ring,OWA0004,
+302,The Lord of the Rings: The Fellowship of the Ring,OWA0092,
+302,The Lord of the Rings: The Fellowship of the Ring,OWA0030,
+302,The Lord of the Rings: The Fellowship of the Ring,OWA0084,
+303,The Lord of the Rings: The Return of the King,OWA0003,GG001
+303,The Lord of the Rings: The Return of the King,OWA0003,GG011
+303,The Lord of the Rings: The Return of the King,OWA0053,GG001
+303,The Lord of the Rings: The Return of the King,OWA0053,GG011
+303,The Lord of the Rings: The Return of the King,OWA0012,GG001
+303,The Lord of the Rings: The Return of the King,OWA0012,GG011
+303,The Lord of the Rings: The Return of the King,OWA0020,GG001
+303,The Lord of the Rings: The Return of the King,OWA0020,GG011
+303,The Lord of the Rings: The Return of the King,OWA0092,GG001
+303,The Lord of the Rings: The Return of the King,OWA0092,GG011
+303,The Lord of the Rings: The Return of the King,OWA0030,GG001
+303,The Lord of the Rings: The Return of the King,OWA0030,GG011
+303,The Lord of the Rings: The Return of the King,OWA0078,GG001
+303,The Lord of the Rings: The Return of the King,OWA0078,GG011
+303,The Lord of the Rings: The Return of the King,OWA0060,GG001
+303,The Lord of the Rings: The Return of the King,OWA0060,GG011
+303,The Lord of the Rings: The Return of the King,OWA0100,GG001
+303,The Lord of the Rings: The Return of the King,OWA0100,GG011
+303,The Lord of the Rings: The Return of the King,OWA0084,GG001
+303,The Lord of the Rings: The Return of the King,OWA0084,GG011
+303,The Lord of the Rings: The Return of the King,OWA0099,GG001
+303,The Lord of the Rings: The Return of the King,OWA0099,GG011
+304,The Lord of the Rings: The Two Towers,OWA0097,
+304,The Lord of the Rings: The Two Towers,OWA0084,
+305,The Hobbit: An Unexpected Journey,,
+306,The Lovely Bones,,
+307,King Kong,OWA0073,
+307,King Kong,OWA0097,
+307,King Kong,OWA0100,
+307,King Kong,OWA0084,
+308,The Hobbit: The Desolation of Smaug,,
+309,The Hobbit: The Battle of the Five Armies,,
+310,Pride & Prejudice,,
+311,Atonement,OWA0030,GG013
+312,Darkest Hour,OWA0080,GG003
+312,Darkest Hour,OWA0101,GG003
+313,Anna Karenina,OWA0053,
+314,Freelance,,
+315,Taken,,
+316,Pulp Fiction,OWA0088,
+317,Once Upon a Time in Hollywood,,
+318,Inglourious Basterds,OWA0025,
+319,Django Unchained,OWA0025,GG010
+319,Django Unchained,OWA0036,GG010
+320,Kill Bill: Vol. 1,,
+321,The Hateful Eight,OWA0030,GG013
+322,Reservoir Dogs,,
+323,Jackie Brown,,
+324,Kill Bill: Vol. 2,,
+325,The Age of Adaline,,
+326,The Exorcist: Believer,,
+327,Bad Santa,,
+328,Scott Pilgrim vs. the World,,
+329,Last Night in Soho,,
+330,Baby Driver,,
+331,Hot Fuzz,,
+332,Shaun of the Dead,,
+333,Sound of Freedom,,
+334,Krampus,,
+335,Godzilla: King of the Monsters,,
+336,L.A. Confidential,OWA0026,GG009
+336,L.A. Confidential,OWA0095,GG009
+337,8 Mile,OWA0078,
+338,Transformers: Rise of the Beasts,,
+339,Top Gun: Maverick,OWA0057,
+340,TRON: Legacy,,
+341,Oblivion,,
+342,Beverly Hills Cop,,
+343,Meet Joe Black,,
+344,Scent of a Woman,OWA0080,GG003
+344,Scent of a Woman,OWA0080,GG012
+344,Scent of a Woman,OWA0080,GG001
+345,Midnight Run,,
+346,The Christmas Chronicles,,
+347,A Christmas Story Christmas,,
+348,The Nightmare Before Christmas,,
+349,Coraline,,
+350,Deck the Halls,,
+351,Holidate,,
+352,Bottoms,,
+353,Avatar: The Way of Water,OWA0084,
+354,Titanic,OWA0049,GG001
+354,Titanic,OWA0049,GG013
+354,Titanic,OWA0003,GG001
+354,Titanic,OWA0003,GG013
+354,Titanic,OWA0004,GG001
+354,Titanic,OWA0004,GG013
+354,Titanic,OWA0053,GG001
+354,Titanic,OWA0053,GG013
+354,Titanic,OWA0012,GG001
+354,Titanic,OWA0012,GG013
+354,Titanic,OWA0020,GG001
+354,Titanic,OWA0020,GG013
+354,Titanic,OWA0070,GG001
+354,Titanic,OWA0070,GG013
+354,Titanic,OWA0078,GG001
+354,Titanic,OWA0078,GG013
+354,Titanic,OWA0060,GG001
+354,Titanic,OWA0060,GG013
+354,Titanic,OWA0057,GG001
+354,Titanic,OWA0057,GG013
+354,Titanic,OWA0093,GG001
+354,Titanic,OWA0093,GG013
+354,Titanic,OWA0084,GG001
+354,Titanic,OWA0084,GG013
+355,Aliens,OWA0093,
+355,Aliens,OWA0084,
+356,Terminator 2: Judgment Day,OWA0092,
+356,Terminator 2: Judgment Day,OWA0057,
+356,Terminator 2: Judgment Day,OWA0093,
+356,Terminator 2: Judgment Day,OWA0084,
+357,The Abyss,OWA0084,
+358,Avatar,OWA0003,GG011
+358,Avatar,OWA0004,GG011
+358,Avatar,OWA0084,GG011
+359,The Terminator,,
+360,True Lies,,GG005
+361,Love,,
+362,Saw X,,
+363,It's a Wonderful Knife,,
+364,Babylon,,GG013
+365,Whiplash,OWA0025,GG010
+365,Whiplash,OWA0020,GG010
+365,Whiplash,OWA0100,GG010
+366,La La Land,OWA0081,GG004
+366,La La Land,OWA0081,GG014
+366,La La Land,OWA0081,GG006
+366,La La Land,OWA0004,GG004
+366,La La Land,OWA0004,GG014
+366,La La Land,OWA0004,GG006
+366,La La Land,OWA0012,GG004
+366,La La Land,OWA0012,GG014
+366,La La Land,OWA0012,GG006
+366,La La Land,OWA0030,GG004
+366,La La Land,OWA0030,GG014
+366,La La Land,OWA0030,GG006
+366,La La Land,OWA0078,GG004
+366,La La Land,OWA0078,GG014
+366,La La Land,OWA0078,GG006
+366,La La Land,OWA0102,GG004
+366,La La Land,OWA0102,GG014
+366,La La Land,OWA0102,GG006
+367,Shazam! Fury of the Gods,,
+368,Shazam!,,
+369,A Good Person,,
+370,The Color Purple,,GG002
+371,Jurassic Park,OWA0057,
+371,Jurassic Park,OWA0093,
+371,Jurassic Park,OWA0084,
+372,Schindler's List,OWA0003,GG001
+372,Schindler's List,OWA0004,GG001
+372,Schindler's List,OWA0012,GG001
+372,Schindler's List,OWA0020,GG001
+372,Schindler's List,OWA0030,GG001
+372,Schindler's List,OWA0060,GG001
+372,Schindler's List,OWA0095,GG001
+373,Raiders of the Lost Ark,OWA0003,
+373,Raiders of the Lost Ark,OWA0020,
+373,Raiders of the Lost Ark,OWA0057,
+373,Raiders of the Lost Ark,OWA0084,
+373,Raiders of the Lost Ark,OWA0085,
+374,Saving Private Ryan,OWA0004,GG001
+374,Saving Private Ryan,OWA0012,GG001
+374,Saving Private Ryan,OWA0020,GG001
+374,Saving Private Ryan,OWA0057,GG001
+374,Saving Private Ryan,OWA0093,GG001
+375,Catch Me If You Can,,
+376,Indiana Jones and the Temple of Doom,OWA0084,
+377,Indiana Jones and the Last Crusade,OWA0093,
+378,West Side Story,OWA0025,GG009
+378,West Side Story,OWA0025,GG010
+378,West Side Story,OWA0026,GG009
+378,West Side Story,OWA0026,GG010
+378,West Side Story,OWA0035,GG009
+378,West Side Story,OWA0035,GG010
+378,West Side Story,OWA0032,GG009
+378,West Side Story,OWA0032,GG010
+378,West Side Story,OWA0048,GG009
+378,West Side Story,OWA0048,GG010
+378,West Side Story,OWA0012,GG009
+378,West Side Story,OWA0012,GG010
+378,West Side Story,OWA0020,GG009
+378,West Side Story,OWA0020,GG010
+378,West Side Story,OWA0039,GG009
+378,West Side Story,OWA0039,GG010
+378,West Side Story,OWA0045,GG009
+378,West Side Story,OWA0045,GG010
+378,West Side Story,OWA0057,GG009
+378,West Side Story,OWA0057,GG010
+378,West Side Story,OWA0026,GG009
+378,West Side Story,OWA0026,GG010
+379,The Fabelmans,,GG001
+379,The Fabelmans,,GG011
+380,Indiana Jones and the Kingdom of the Crystal Skull,,
+381,Hook,,
+382,Jaws,OWA0020,
+382,Jaws,OWA0030,
+382,Jaws,OWA0057,
+383,E.T. the Extra-Terrestrial,,
+384,Ready Player One,,
+385,Minority Report,,
+386,War of the Worlds,,
+387,A.I. Artificial Intelligence,,
+388,The Lost World: Jurassic Park,,
+389,The Terminal,,
+390,Empire of the Sun,,
+391,Lincoln,OWA0080,GG003
+391,Lincoln,OWA0102,GG003
+392,Munich,,
+393,Close Encounters of the Third Kind,OWA0004,
+393,Close Encounters of the Third Kind,OWA0085,
+394,Bridge of Spies,OWA0025,
+395,Die Hard 2,,
+396,The Long Kiss Goodnight,,
+397,Fair Play,,
+398,Dumb Money,,
+399,Cruella,OWA0053,
+400,"I, Tonya",OWA0026,
+401,Love Story,OWA0030,GG012
+401,Love Story,OWA0030,GG001
+401,Love Story,OWA0030,GG013
+401,Love Story,OWA0030,GG011
+401,Love Story,OWA0030,GG002
+402,The Hospital,OWA0069,
+403,Requiem for a Dream,,
+404,Black Swan,OWA0081,GG002
+405,The Whale,OWA0080,
+405,The Whale,OWA0101,
+406,Mother!,,
+407,Midsommar,,
+408,Beau Is Afraid,,
+409,Hereditary,,
+410,The Gentlemen,,
+411,The Covenant,,
+412,Snatch,,
+413,Operation Fortune: Ruse de Guerre,,
+414,Aladdin,OWA0030,GG015
+414,Aladdin,OWA0030,GG013
+414,Aladdin,OWA0030,GG014
+414,Aladdin,OWA0078,GG015
+414,Aladdin,OWA0078,GG013
+414,Aladdin,OWA0078,GG014
+415,"Lock, Stock and Two Smoking Barrels",,
+416,Wrath of Man,,
+417,King Arthur: Legend of the Sword,,
+418,The Man from U.N.C.L.E.,,
+419,Sherlock Holmes,,GG006
+420,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",OWA0092,
+421,The Chronicles of Narnia: Prince Caspian,,
+422,Godzilla vs. Kong,,
+423,Mean Girls,,
+424,Bad Santa 2,,
+425,The Family Man,,
+426,Rush Hour,,
+427,X-Men: The Last Stand,,
+428,Red Dragon,,
+429,She's All That,,
+430,Triangle of Sadness,,
+431,The Northman,,
+432,The Lighthouse,,
+433,The Witch,,
+434,Spider-Man: No Way Home,,
+435,Spider-Man: Homecoming,,
+436,Spider-Man: Far from Home,,
+437,The Rocky Horror Picture Show,,
+438,Elemental,,
+439,Origin,,
+440,Hunter Killer,,
+441,Pain Hustlers,,
+442,Harry Potter and the Deathly Hallows: Part 2,,
+443,Harry Potter and the Deathly Hallows: Part 1,,
+444,Harry Potter and the Order of the Phoenix,,
+445,Harry Potter and the Half-Blood Prince,,
+446,Fantastic Beasts: The Secrets of Dumbledore,,
+447,The Legend of Tarzan,,
+448,Fantastic Beasts and Where to Find Them,OWA0053,
+449,Fantastic Beasts: The Crimes of Grindelwald,,
+450,The Silence of the Lambs,OWA0080,GG002
+450,The Silence of the Lambs,OWA0081,GG002
+450,The Silence of the Lambs,OWA0012,GG002
+450,The Silence of the Lambs,OWA0060,GG002
+450,The Silence of the Lambs,OWA0095,GG002
+451,Philadelphia,OWA0080,GG014
+451,Philadelphia,OWA0078,GG014
+452,Joker,OWA0080,GG013
+452,Joker,OWA0030,GG013
+453,The Hangover,,GG004
+454,Road Trip,,
+455,Old School,,
+456,War Dogs,,
+457,The Flash,,
+458,It,,
+459,It Chapter Two,,
+460,Old Dads,,
+461,The Princess Bride,,
+462,Stand by Me,,
+463,Misery,OWA0081,GG002
+464,When Harry Met Sally...,,
+465,A Few Good Men,,
+466,This Is Spinal Tap,,
+467,American Beauty,OWA0080,GG012
+467,American Beauty,OWA0080,GG001
+467,American Beauty,OWA0004,GG012
+467,American Beauty,OWA0004,GG001
+467,American Beauty,OWA0012,GG012
+467,American Beauty,OWA0012,GG001
+467,American Beauty,OWA0060,GG012
+467,American Beauty,OWA0060,GG001
+467,American Beauty,OWA0088,GG012
+467,American Beauty,OWA0088,GG001
+468,Skyfall,OWA0078,
+468,Skyfall,OWA0097,
+469,1917,OWA0004,GG001
+469,1917,OWA0004,GG011
+469,1917,OWA0100,GG001
+469,1917,OWA0100,GG011
+469,1917,OWA0084,GG001
+469,1917,OWA0084,GG011
+470,Spectre,OWA0078,GG014
+471,Revolutionary Road,,GG002
+472,Jarhead,,
+473,LÃ©on: The Professional,,
+474,Lucy,,
+475,The Fifth Element,,
+476,Valerian and the City of a Thousand Planets,,
+477,Anna,,GG002
+478,DogMan,,
+479,Harry Potter and the Goblet of Fire,,
+480,Four Weddings and a Funeral,,GG006
+481,Donnie Brasco,,
+482,Mona Lisa Smile,,
+483,The Menu,,
+484,Expend4bles,,
+485,American Psycho,,
+486,Fred Claus,,
+487,The Change-Up,,
+488,Wedding Crashers,,
+489,Eyes Wide Shut,,
+490,Barry Lyndon,OWA0003,
+490,Barry Lyndon,OWA0004,
+490,Barry Lyndon,OWA0053,
+490,Barry Lyndon,OWA0074,
+491,The Shining,,
+492,2001: A Space Odyssey,OWA0062,
+493,A Clockwork Orange,,
+494,Full Metal Jacket,,
+495,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,,
+496,Eight Crazy Nights,,
+497,The Night Before,,
+498,Long Shot,,
+499,Bullet Train,,
+500,Deadpool 2,,
+501,Fast & Furious Presents: Hobbs & Shaw,,
+502,Beauty and the Beast,OWA0030,GG004
+502,Beauty and the Beast,OWA0078,GG004
+503,The Twilight Saga: Breaking Dawn - Part 2,,
+504,The Twilight Saga: Breaking Dawn - Part 1,,
+505,Don't Worry Darling,,
+506,Booksmart,,
+507,The Little Mermaid,OWA0030,
+507,The Little Mermaid,OWA0078,
+508,Chicago,OWA0026,GG004
+508,Chicago,OWA0026,GG005
+508,Chicago,OWA0026,GG006
+508,Chicago,OWA0003,GG004
+508,Chicago,OWA0003,GG005
+508,Chicago,OWA0003,GG006
+508,Chicago,OWA0053,GG004
+508,Chicago,OWA0053,GG005
+508,Chicago,OWA0053,GG006
+508,Chicago,OWA0020,GG004
+508,Chicago,OWA0020,GG005
+508,Chicago,OWA0020,GG006
+508,Chicago,OWA0060,GG004
+508,Chicago,OWA0060,GG005
+508,Chicago,OWA0060,GG006
+508,Chicago,OWA0057,GG004
+508,Chicago,OWA0057,GG005
+508,Chicago,OWA0057,GG006
+509,Pirates of the Caribbean: On Stranger Tides,,
+510,Into the Woods,,
+511,Noelle,,
+512,There Will Be Blood,OWA0080,
+512,There Will Be Blood,OWA0004,
+513,Boogie Nights,,GG010
+514,Licorice Pizza,,
+515,Phantom Thread,OWA0053,
+516,The Master,,
+517,Magnolia,,GG010
+518,Jack Frost,,
+519,Vacation,,
+520,Groundhog Day,,
+521,Caddyshack,,
+522,Bedazzled,,
+523,No Time to Die,OWA0078,
+524,Please Don't Destroy: The Treasure of Foggy Mountain,,
+525,The Notebook,,
+526,Twilight,,
+527,Thirteen,,
+528,Mafia Mamma,,
+529,The Nativity Story,,
+530,Scarface,,
+531,Mission: Impossible,,
+532,The Untouchables,OWA0025,GG010
+533,Carrie,,
+534,Fifty Shades of Grey,,
+535,A Boy Called Christmas,,
+536,Wind River,,
+537,Uncharted,,
+538,Venom,,
+539,Zombieland,,
+540,Zombieland: Double Tap,,
+541,Infinity Pool,,
+542,10 Things I Hate About You,,
+543,The Marsh King's Daughter,,
+544,Divergent,,
+545,Limitless,,
+546,Harry Potter and the Prisoner of Azkaban,,
+547,Children of Men,,
+548,Gravity,OWA0004,
+548,Gravity,OWA0012,
+548,Gravity,OWA0020,
+548,Gravity,OWA0030,
+548,Gravity,OWA0097,
+548,Gravity,OWA0100,
+548,Gravity,OWA0084,
+549,Good Will Hunting,OWA0025,GG012
+549,Good Will Hunting,OWA0088,GG012
+550,Don't Look Up,,
+551,The Other Guys,,
+552,The Big Short,OWA0099,
+553,Step Brothers,,
+554,Talladega Nights: The Ballad of Ricky Bobby,,
+555,Anchorman: The Legend of Ron Burgundy,,
+556,Vice,OWA0101,GG006
+557,Joy Ride,,
+558,Men,,
+559,Ex Machina,OWA0084,
+560,Annihilation,,
+561,The Banshees of Inisherin,,GG004
+561,The Banshees of Inisherin,,GG006
+561,The Banshees of Inisherin,,GG012
+562,"Three Billboards Outside Ebbing, Missouri",,GG001
+562,"Three Billboards Outside Ebbing, Missouri",,GG002
+562,"Three Billboards Outside Ebbing, Missouri",,GG010
+563,In Bruges,,
+564,Trading Places,,
+565,National Lampoon's Animal House,,
+566,Beverly Hills Cop III,,
+567,Coming to America,,
+568,The Blues Brothers,,
+569,An American Werewolf in London,OWA0092,
+570,Aquaman,,
+571,The Conjuring,,
+572,Saw,,
+573,Malignant,,
+574,Furious 7,,
+575,Insidious,,
+576,The Conjuring 2,,
+577,Troy,,
+578,The NeverEnding Story,,
+579,Poseidon,,
+580,Hypnotic,,
+581,From Dusk Till Dawn,,
+582,The Adventures of Sharkboy and Lavagirl 3-D,,
+583,Alita: Battle Angel,,
+584,Spy Kids,,
+585,Desperado,,
+586,We Can Be Heroes,,
+587,Call Me by Your Name,OWA0099,
+588,Bones and All,,
+589,Suspiria,,
+590,Get Out,OWA0036,
+591,Nope,,
+592,Us,,
+593,Some Like It Hot,OWA0047,GG026
+593,Some Like It Hot,OWA0047,GG023
+594,Witness for the Prosecution,,GG009
+595,The Apartment,OWA0034,GG026
+595,The Apartment,OWA0012,GG026
+595,The Apartment,OWA0020,GG026
+595,The Apartment,OWA0045,GG026
+595,The Apartment,OWA0056,GG026
+596,Meg 2: The Trench,,
+597,Love Hard,,
+598,Eternal Sunshine of the Spotless Mind,OWA0036,
+599,We're the Millers,,
+600,Dodgeball: A True Underdog Story,,
+601,Red Notice,,
+602,Green Book,OWA0025,GG004
+602,Green Book,OWA0025,GG012
+602,Green Book,OWA0060,GG004
+602,Green Book,OWA0060,GG012
+602,Green Book,OWA0036,GG004
+602,Green Book,OWA0036,GG012
+603,The Greatest Beer Run Ever,,
+604,Top Gun,OWA0078,GG014
+605,True Romance,,
+606,Man on Fire,,
+607,Beverly Hills Cop II,,
+608,Spy Game,,
+609,12 Angry Men,,
+610,Network,OWA0080,GG003
+610,Network,OWA0080,GG012
+610,Network,OWA0080,GG011
+610,Network,OWA0080,GG002
+610,Network,OWA0081,GG003
+610,Network,OWA0081,GG012
+610,Network,OWA0081,GG011
+610,Network,OWA0081,GG002
+610,Network,OWA0026,GG003
+610,Network,OWA0026,GG012
+610,Network,OWA0026,GG011
+610,Network,OWA0026,GG002
+610,Network,OWA0083,GG003
+610,Network,OWA0083,GG012
+610,Network,OWA0083,GG011
+610,Network,OWA0083,GG002
+611,Dog Day Afternoon,OWA0036,
+612,Serpico,,
+613,Burlesque,,GG014
+614,BlackBerry,,
+615,Casino Royale,,
+616,Green Lantern,,
+617,GoldenEye,,
+618,Star Wars: Episode IV - A New Hope,,
+619,Star Wars: Episode I - The Phantom Menace,,
+620,Star Wars: Episode III - Revenge of the Sith,,
+621,Star Wars: Episode II - Attack of the Clones,,
+622,American Graffiti,,GG004
+622,American Graffiti,,GG017
+623,Silent Hill,,
+624,Fiddler on the Roof,OWA0004,GG006
+624,Fiddler on the Roof,OWA0071,GG006
+624,Fiddler on the Roof,OWA0057,GG006
+625,Moonstruck,OWA0081,GG009
+625,Moonstruck,OWA0026,GG009
+625,Moonstruck,OWA0088,GG009
+626,Glass Onion,,
+627,Knives Out,,
+628,Looper,,
+629,Star Wars: Episode VIII - The Last Jedi,,
+630,Memory,,
+631,The Many Saints of Newark,,
+632,Terminator Genisys,,
+633,Pirates of the Caribbean: The Curse of the Black Pearl,,
+634,Pirates of the Caribbean: Dead Man's Chest,OWA0084,
+635,Pirates of the Caribbean: At World's End,,
+636,The Ring,,
+637,The Longest Ride,,
+638,Big George Foreman,,
+639,A Man Called Otto,,
+640,World War Z,,
+641,Quantum of Solace,,
+642,No One Will Save You,,
+643,The Deer Hunter,OWA0025,GG011
+643,The Deer Hunter,OWA0012,GG011
+643,The Deer Hunter,OWA0020,GG011
+643,The Deer Hunter,OWA0060,GG011
+643,The Deer Hunter,OWA0057,GG011
+644,"Are You There God? It's Me, Margaret.",,
+645,The Help,OWA0026,GG009
+646,Ma,,
+647,The Girl on the Train,,
+648,The Truman Show,,GG003
+648,The Truman Show,,GG013
+648,The Truman Show,,GG010
+649,Dead Poets Society,OWA0088,
+650,Master and Commander: The Far Side of the World,OWA0004,
+650,Master and Commander: The Far Side of the World,OWA0097,
+651,Witness,OWA0020,
+651,Witness,OWA0088,
+652,The Sound of Music,OWA0012,GG004
+652,The Sound of Music,OWA0012,GG023
+652,The Sound of Music,OWA0020,GG004
+652,The Sound of Music,OWA0020,GG023
+652,The Sound of Music,OWA0059,GG004
+652,The Sound of Music,OWA0059,GG023
+652,The Sound of Music,OWA0060,GG004
+652,The Sound of Music,OWA0060,GG023
+652,The Sound of Music,OWA0057,GG004
+652,The Sound of Music,OWA0057,GG023
+653,Fast Times at Ridgemont High,,
+654,Clueless,,
+655,National Lampoon's European Vacation,,
+656,Evil Dead Rise,,
+657,Her,OWA0036,
+658,Next Goal Wins,,
+659,Thor: Love and Thunder,,
+660,Jojo Rabbit,OWA0099,
+661,Thor: Ragnarok,,
+662,The Last Voyage of the Demeter,,
+663,The Autopsy of Jane Doe,,
+664,Air,,
+665,The Town,,
+666,Argo,OWA0020,GG011
+666,Argo,OWA0020,GG001
+666,Argo,OWA0060,GG011
+666,Argo,OWA0060,GG001
+666,Argo,OWA0099,GG011
+666,Argo,OWA0099,GG001
+667,Gone Baby Gone,,
+668,She's the Man,,
+669,Better Watch Out,,
+670,The Fast and the Furious,,
+671,Tropic Thunder,,
+672,The Secret Life of Walter Mitty,,
+673,Zoolander,,
+674,Nobody,,
+675,Christmas in Connecticut,,
+676,Aftersun,,
+677,Mob Land,,
+678,Totally Killer,,
+679,Strays,,
+680,The Burial,,
+681,Pretty Woman,,GG005
+682,Valentine's Day,,
+683,Overboard,,
+684,The Princess Diaries,,
+685,Renfield,,
+686,The Tomorrow War,,
+687,Happiest Season,,
+688,Ghosted,,
+689,Rocketman,OWA0078,GG006
+689,Rocketman,OWA0078,GG014
+690,Mulholland Drive,,
+691,Blue Velvet,,
+692,Wild at Heart,,
+693,The Elephant Man,,
+694,Drive,,
+695,The Neon Demon,,
+696,The Man Who Invented Christmas,,
+697,Sisu,,
+698,Superbad,,
+699,"Confess, Fletch",,
+700,Ghostbusters,,
+701,Ghostbusters II,,
+702,Draft Day,,
+703,"Planes, Trains & Automobiles",,
+704,Uncle Buck,,
+705,The Breakfast Club,,
+706,Ferris Bueller's Day Off,,
+707,Sixteen Candles,,
+708,Weird Science,,
+709,Good Burger 2,,
+710,Where the Crawdads Sing,,
+711,8-Bit Christmas,,
+712,Black Adam,,
+713,The Commuter,,
+714,Orphan,,
+715,Jungle Cruise,,
+716,Mr. & Mrs. Smith,,
+717,Edge of Tomorrow,,
+718,The Bourne Identity,,
+719,American Made,,
+720,Gerald's Game,,
+721,Doctor Sleep,,
+722,Paper Moon,OWA0026,GG016
+723,"What's Up, Doc?",,
+724,Mask,OWA0092,
+725,The Nun II,,
+726,Cobweb,,
+727,Boyz n the Hood,,
+728,2 Fast 2 Furious,,
+729,The Dreamers,,
+730,Last Tango in Paris,,
+731,The Bikeriders,,
+732,Mud,,
+733,Deadpool,,
+734,Terminator: Dark Fate,,
+735,Hidden Figures,,
+736,Point Break,,
+737,Zero Dark Thirty,OWA0097,GG002
+738,The Hurt Locker,OWA0012,
+738,The Hurt Locker,OWA0020,
+738,The Hurt Locker,OWA0060,
+738,The Hurt Locker,OWA0097,
+738,The Hurt Locker,OWA0100,
+738,The Hurt Locker,OWA0036,
+739,Barbarian,,
+740,Meet Me in St. Louis,,
+741,Birds of Prey,,
+742,The Great Gatsby,OWA0053,GG009
+742,The Great Gatsby,OWA0074,GG009
+742,The Great Gatsby,OWA0053,GG009
+742,The Great Gatsby,OWA0102,GG009
+743,Elvis,,GG003
+744,Australia,,
+745,Romeo + Juliet,,
+746,Moulin Rouge!,,GG004
+746,Moulin Rouge!,,GG013
+746,Moulin Rouge!,,GG005
+746,Moulin Rouge!,,GG016
+747,Old,,
+748,Knock at the Cabin,,
+749,The Sixth Sense,,
+750,Split,,
+751,The Village,,
+752,Glass,OWA0037,
+753,The Visit,,
+754,Signs,,
+755,The Usual Suspects,OWA0025,
+755,The Usual Suspects,OWA0088,
+756,Bohemian Rhapsody,OWA0080,GG001
+756,Bohemian Rhapsody,OWA0020,GG001
+756,Bohemian Rhapsody,OWA0097,GG001
+756,Bohemian Rhapsody,OWA0100,GG001
+757,X-Men,,
+758,X-Men: Apocalypse,,
+759,X-Men: Days of Future Past,,
+760,Me Before You,,
+761,Free Guy,,
+762,Night at the Museum,,
+763,The Adam Project,,
+764,This Is Where I Leave You,,
+765,Real Steel,,
+766,Night at the Museum: Battle of the Smithsonian,,
+767,Kong: Skull Island,,
+768,Dazed and Confused,,
+769,Before Sunrise,,
+770,School of Rock,,
+771,Hit Man,,
+772,Unfaithful,,
+773,Lolita,,GG016
+774,Deep Water,,
+775,9Â½ Weeks,,
+776,Fatal Attraction,,
+777,Smile,,
+778,Home Sweet Home Alone,,
+779,Rustin,,
+780,Kandahar,,
+781,Greenland,,
+782,The Exorcist,OWA0057,GG001
+782,The Exorcist,OWA0057,GG009
+782,The Exorcist,OWA0055,GG001
+782,The Exorcist,OWA0055,GG009
+783,Amsterdam,,
+784,American Hustle,,GG009
+784,American Hustle,,GG004
+785,Silver Linings Playbook,OWA0081,GG005
+786,Joy,,
+787,The Fighter,OWA0025,GG009
+787,The Fighter,OWA0025,GG010
+787,The Fighter,OWA0026,GG009
+787,The Fighter,OWA0026,GG010
+788,Excalibur,,
+789,Deliverance,,
+790,The Place Beyond the Pines,,
+791,Blue Valentine,,
+792,Secretary,,
+793,The Thing,,
+794,Christine,,
+795,They Live,,
+796,Big Trouble in Little China,,
+797,Escape from New York,,
+798,Halloween,,
+799,RoboCop,OWA0085,
+800,Basic Instinct,,
+801,Total Recall,OWA0073,
+802,Showgirls,,
+803,Starship Troopers,,
+804,Hollow Man,,
+805,Spider-Man,,
+806,Doctor Strange in the Multiverse of Madness,,
+807,Spider-Man 2,OWA0084,
+808,Spider-Man 3,,
+809,The Evil Dead,,
+810,Drag Me to Hell,,
+811,The Greatest Showman,,
+812,The Talented Mr. Ripley,,
+813,The English Patient,OWA0026,GG013
+813,The English Patient,OWA0003,GG013
+813,The English Patient,OWA0004,GG013
+813,The English Patient,OWA0053,GG013
+813,The English Patient,OWA0012,GG013
+813,The English Patient,OWA0020,GG013
+813,The English Patient,OWA0070,GG013
+813,The English Patient,OWA0060,GG013
+813,The English Patient,OWA0057,GG013
+814,Cold Mountain,OWA0026,GG009
+815,While You Were Sleeping,,
+816,The Meg,,
+817,The Fast and the Furious: Tokyo Drift,,
+818,F9: The Fast Saga,,
+819,Fast & Furious,,
+820,Fast Five,,
+821,Fast & Furious 6,,
+822,Star Trek Beyond,,
+823,Braveheart,OWA0004,
+823,Braveheart,OWA0012,
+823,Braveheart,OWA0092,
+823,Braveheart,OWA0060,
+823,Braveheart,OWA0093,
+824,Hacksaw Ridge,OWA0020,
+824,Hacksaw Ridge,OWA0100,
+825,The Revenant,OWA0080,GG011
+825,The Revenant,OWA0080,GG001
+825,The Revenant,OWA0080,GG003
+825,The Revenant,OWA0004,GG011
+825,The Revenant,OWA0004,GG001
+825,The Revenant,OWA0004,GG003
+825,The Revenant,OWA0012,GG011
+825,The Revenant,OWA0012,GG001
+825,The Revenant,OWA0012,GG003
+826,Birdman or (The Unexpected Virtue of Ignorance),OWA0004,
+826,Birdman or (The Unexpected Virtue of Ignorance),OWA0012,
+826,Birdman or (The Unexpected Virtue of Ignorance),OWA0060,
+826,Birdman or (The Unexpected Virtue of Ignorance),OWA0036,
+827,Pale Rider,,
+828,The Outlaw Josey Wales,,
+829,Unforgiven,OWA0025,GG010
+829,Unforgiven,OWA0012,GG010
+829,Unforgiven,OWA0020,GG010
+829,Unforgiven,OWA0060,GG010
+830,Mystic River,OWA0080,GG010
+830,Mystic River,OWA0025,GG010
+831,Gran Torino,,
+832,American Sniper,OWA0097,
+833,High Plains Drifter,,
+834,Million Dollar Baby,OWA0025,GG002
+834,Million Dollar Baby,OWA0025,GG011
+834,Million Dollar Baby,OWA0081,GG002
+834,Million Dollar Baby,OWA0081,GG011
+834,Million Dollar Baby,OWA0012,GG002
+834,Million Dollar Baby,OWA0012,GG011
+834,Million Dollar Baby,OWA0060,GG002
+834,Million Dollar Baby,OWA0060,GG011
+835,The Matrix Resurrections,,
+836,The Maze Runner,,
+837,Maze Runner: The Scorch Trials,,
+838,Maze Runner: The Death Cure,,
+839,Falling for Christmas,,
+840,One Flew Over the Cuckoo's Nest,,
+841,Amadeus,OWA0080,GG003
+841,Amadeus,OWA0080,GG012
+841,Amadeus,OWA0080,GG001
+841,Amadeus,OWA0003,GG003
+841,Amadeus,OWA0003,GG012
+841,Amadeus,OWA0003,GG001
+841,Amadeus,OWA0053,GG003
+841,Amadeus,OWA0053,GG012
+841,Amadeus,OWA0053,GG001
+841,Amadeus,OWA0012,GG003
+841,Amadeus,OWA0012,GG012
+841,Amadeus,OWA0012,GG001
+841,Amadeus,OWA0092,GG003
+841,Amadeus,OWA0092,GG012
+841,Amadeus,OWA0092,GG001
+841,Amadeus,OWA0060,GG003
+841,Amadeus,OWA0060,GG012
+841,Amadeus,OWA0060,GG001
+841,Amadeus,OWA0057,GG003
+841,Amadeus,OWA0057,GG012
+841,Amadeus,OWA0057,GG001
+841,Amadeus,OWA0087,GG003
+841,Amadeus,OWA0087,GG012
+841,Amadeus,OWA0087,GG001
+842,Blockers,,
+843,Jumanji,,
+844,Captain America: The First Avenger,,
+845,The Mummy,,
+846,G.I. Joe: The Rise of Cobra,,
+847,The Mummy Returns,,
+848,Van Helsing,,
+849,Surviving Christmas,,
+850,Sky High,,
+851,Bridget Jones's Diary,,
+852,Godmothered,,
+853,American History X,,
+854,The Pianist,OWA0080,
+854,The Pianist,OWA0012,
+854,The Pianist,OWA0099,
+855,Chinatown,OWA0036,GG012
+855,Chinatown,OWA0036,GG001
+855,Chinatown,OWA0036,GG011
+856,Rosemary's Baby,OWA0026,GG009
+857,The Ninth Gate,,
+858,The Star,,
+859,The Phantom of the Opera,,
+860,The Lost Boys,,
+861,A Time to Kill,,
+862,Batman Forever,,
+863,Batman & Robin,,
+864,Falling Down,,
+865,The Client,,
+866,St. Elmo's Fire,,
+867,Once Upon a Time in America,,
+868,Fatman,,
+869,Donnie Darko,,
+870,Fall,,
+871,The Girl Next Door,,
+872,Almost Famous,OWA0088,GG004
+872,Almost Famous,OWA0088,GG009
+873,Jerry Maguire,OWA0025,GG006
+874,Vanilla Sky,,
+875,The Hunt,,
+876,The King,,
+877,The Unbearable Weight of Massive Talent,,
+878,That Awkward Moment,,
+879,Star Wars: Episode IX - The Rise of Skywalker,,
+880,Star Wars: Episode VII - The Force Awakens,,
+881,Star Trek,OWA0092,
+882,Mission: Impossible III,,
+883,Super 8,,
+884,PAW Patrol: The Mighty Movie,,
+885,Crocodile Dundee,,
+886,The Voyeurs,,
+887,Matilda,,
+888,"Red, White & Royal Blue",,
+889,Brothers,,
+890,Prey,,
+891,10 Cloverfield Lane,,
+892,Wonder Woman,,
+893,Wonder Woman 1984,,
+894,Monster,OWA0081,GG002
+895,Idiocracy,,
+896,Office Space,,
+897,BlacKkKlansman,OWA0099,
+898,Inside Man,,
+899,Oldboy,,
+900,The Devil Wears Prada,,
+901,Jerry and Marge Go Large,,
+902,What Happens Later,,
+903,Kingsman: The Secret Service,,
+904,Stardust,,
+905,The King's Man,,
+906,Kick-Ass,,
+907,Kingsman: The Golden Circle,,
+908,X-Men: First Class,,
+909,Layer Cake,,
+910,Cocaine Bear,,
+911,Snowpiercer,,
+912,How It Ends,,
+913,Shame,,
+914,12 Years a Slave,OWA0026,GG001
+914,12 Years a Slave,OWA0060,GG001
+914,12 Years a Slave,OWA0099,GG001
+915,Occupied City,,
+916,Under the Skin,,
+917,Birth,,
+918,Quiz Lady,,
+919,Clue,,
+920,My Cousin Vinny,OWA0026,
+921,The Whole Nine Yards,,
+922,Men in Black,OWA0092,
+923,The Addams Family,,
+924,Men in Black II,,
+925,Men in Black 3,,
+926,Addams Family Values,,
+927,Single All the Way,,
+928,Eternals,,
+929,Nomadland,OWA0081,GG001
+929,Nomadland,OWA0081,GG011
+929,Nomadland,OWA0012,GG001
+929,Nomadland,OWA0012,GG011
+929,Nomadland,OWA0060,GG001
+929,Nomadland,OWA0060,GG011
+930,Ocean's Eleven,,
+931,Erin Brockovich,OWA0081,GG002
+932,Traffic,OWA0025,GG012
+932,Traffic,OWA0025,GG010
+932,Traffic,OWA0012,GG012
+932,Traffic,OWA0012,GG010
+932,Traffic,OWA0020,GG012
+932,Traffic,OWA0020,GG010
+932,Traffic,OWA0095,GG012
+932,Traffic,OWA0095,GG010
+933,Logan Lucky,,
+934,Contagion,,
+935,Ocean's Twelve,,
+936,Ocean's Thirteen,,
+937,Magic Mike,,
+938,Ghostbusters: Afterlife,,
+939,Juno,OWA0036,
+940,13 Going on 30,,
+941,Serendipity,,
+942,Toy Story,,
+943,Ant-Man and the Wasp: Quantumania,,
+944,Bring It On,,
+945,The Noel Diary,,
+946,Father of the Bride,,
+947,The Nice Guys,,
+948,Kiss Kiss Bang Bang,,
+949,Iron Man 3,,
+950,The Predator,,
+951,Not Another Teen Movie,,
+952,The Bishop's Wife,OWA0015,
+953,28 Days Later,,
+954,Trainspotting,,
+955,Sunshine,,
+956,The Beach,,
+957,Yesterday,,
+958,Jennifer's Body,,
+959,Jurassic World Dominion,,
+960,Jurassic World,,
+961,Just Friends,,
+962,Cruel Intentions,,
+963,After We Collided,,
+964,"Silent Night, Deadly Night",,
+965,Moonlight,OWA0025,GG001
+965,Moonlight,OWA0060,GG001
+965,Moonlight,OWA0099,GG001
+966,Licence to Kill,,
+967,For Your Eyes Only,,
+968,The Living Daylights,,
+969,Extraction II,,
+970,Extraction,,
+971,Let It Snow,,
+972,Dear John,,
+973,What's Eating Gilbert Grape,,
+974,TÃ¡r,,
+975,Little Children,,
+976,An American Pickle,,
+977,Heart of Stone,,
+978,The Blue Lagoon,,
+979,Grease,,
+980,The Mean One,,
+981,Smokin' Aces,,
+982,The Wicker Man,,
+983,Scream,,
+984,A Nightmare on Elm Street,,
+985,Love the Coopers,,
+986,Kung Fu Panda 2,,
+987,The Avengers,,
+988,Serenity,,
+989,Avengers: Age of Ultron,,
+990,To Catch a Killer,,
+991,In Time,,
+992,Gattaca,,
+993,Platoon,OWA0012,GG001
+993,Platoon,OWA0012,GG010
+993,Platoon,OWA0020,GG001
+993,Platoon,OWA0020,GG010
+993,Platoon,OWA0060,GG001
+993,Platoon,OWA0060,GG010
+993,Platoon,OWA0057,GG001
+993,Platoon,OWA0057,GG010
+994,Natural Born Killers,,
+995,JFK,OWA0004,GG011
+995,JFK,OWA0020,GG011
+996,Les MisÃ©rables,,
+997,The King's Speech,OWA0080,GG003
+997,The King's Speech,OWA0012,GG003
+997,The King's Speech,OWA0060,GG003
+997,The King's Speech,OWA0036,GG003
+998,Beautiful Boy,,
+999,Saturday Night Fever,,
+1000,The Father,OWA0080,
+1000,The Father,OWA0099,
+1001,Diary of a Wimpy Kid,,
+1002,Percy Jackson: Sea of Monsters,,
+1003,Love at First Sight,,
+1004,The Perks of Being a Wallflower,,
+1005,Wonder,,
+1006,Casablanca,OWA0012,
+1006,Casablanca,OWA0040,
+1006,Casablanca,OWA0024,
+1007,Bodies Bodies Bodies,,
+1008,Die Another Day,,
+1009,Blonde,,
+1010,Killing Them Softly,,
+1011,Hamilton,,
+1012,Now You See Me,,
+1013,The Incredible Hulk,,
+1014,Clash of the Titans,,
+1015,My Big Fat Greek Wedding 3,,
+1016,The Pale Blue Eye,,
+1017,Hostiles,,
+1018,Black Mass,,
+1019,It Happened on Fifth Avenue,,
+1020,The Imitation Game,OWA0099,
+1021,Passengers,,
+1022,After,,
+1023,Scrooge: A Christmas Carol,,
+1024,The Ritual,,
+1025,Into the Wild,,
+1026,Independence Day,OWA0084,
+1027,The Day After Tomorrow,,
+1028,Moonfall,,
+1029,Stargate,,
+1030,The Patriot,OWA0013,
+1031,Midway,,
+1032,2012,,
+1033,Independence Day: Resurgence,,
+1034,Transformers,,
+1035,Transformers: The Last Knight,,
+1036,Ambulance,,
+1037,Armageddon,,
+1038,Pearl Harbor,OWA0097,
+1039,13 Hours,,
+1040,The Rock,,
+1041,Bad Boys,,
+1042,6 Underground,,
+1043,The Island,,
+1044,Transformers: Age of Extinction,,
+1045,Lady Chatterley's Lover,,
+1046,Closer,,GG009
+1046,Closer,,GG010
+1047,The Graduate,OWA0012,GG004
+1047,The Graduate,OWA0012,GG016
+1047,The Graduate,OWA0012,GG017
+1047,The Graduate,OWA0012,GG011
+1047,The Graduate,OWA0012,GG023
+1048,The Birdcage,,
+1049,Vegas Vacation,,
+1050,Labyrinth,,
+1051,The Pelican Brief,,
+1052,Sophie's Choice,OWA0081,GG002
+1053,The Fugitive,OWA0025,GG010
+1054,Holes,,
+1055,The Secret: Dare to Dream,,
+1056,Ever After: A Cinderella Story,,
+1057,Sweet Home Alabama,,
+1058,Scrooge,,GG006
+1059,Jumanji: Welcome to the Jungle,,
+1060,Jumanji: The Next Level,,
+1061,Bad Teacher,,
+1062,Sex Tape,,
+1063,Notting Hill,,
+1064,City of Angels,,
+1065,Casper,,
+1066,A Series of Unfortunate Events,,
+1067,Pleasure,,
+1068,M3GAN,,
+1069,Rocky,OWA0012,GG001
+1069,Rocky,OWA0020,GG001
+1069,Rocky,OWA0060,GG001
+1070,The Karate Kid,,
+1071,Ted,,
+1072,Ted 2,,
+1073,The Cell,,
+1074,Immortals,,
+1075,A Bronx Tale,,
+1076,Fool's Paradise,,
+1077,Psycho,,
+1078,The Man Who Knew Too Much,OWA0022,
+1079,Rear Window,,
+1080,North by Northwest,,
+1081,Vertigo,,
+1082,The Reader,OWA0081,
+1083,Nocturnal Animals,,GG010
+1084,Ernest Saves Christmas,,
+1085,Rise of the Guardians,,
+1086,Haunted Mansion,,
+1087,Black Panther,OWA0053,
+1087,Black Panther,OWA0030,
+1087,Black Panther,OWA0102,
+1088,Black Panther: Wakanda Forever,OWA0053,GG009
+1089,Creed,,GG010
+1090,Retribution,,
+1091,Predators,,
+1092,Insidious: The Red Door,,
+1093,Save the Last Dance,,
+1094,The House That Jack Built,,
+1095,Melancholia,,
+1096,Dogville,,
+1097,The Incredibles,OWA0098,
+1097,The Incredibles,OWA0097,
+1098,Tomorrowland,,
+1099,Mission: Impossible - Ghost Protocol,,
+1100,Incredibles 2,,
+1101,The Mask,,
+1102,Event Horizon,,
+1103,The Three Musketeers,,
+1104,Resident Evil,,
+1105,Jules,,
+1106,Margin Call,,
+1107,Triple Frontier,,
+1108,Disobedience,,
+1109,Star Wars: Episode V - The Empire Strikes Back,,
+1110,Never Say Never Again,,
+1111,Frequency,,
+1112,Primal Fear,,
+1113,Chronicle,,
+1114,Fantastic Four,,
+1115,Waitress,,
+1116,The Mother,,
+1117,"To Sir, with Love",,
+1118,Crazy Rich Asians,,
+1119,Now You See Me 2,,
+1120,The Little Things,,
+1121,The Highwaymen,,
+1122,The Founder,,
+1123,The Blind Side,OWA0081,
+1124,The Firm,,
+1125,Mamma Mia! Here We Go Again,,
+1126,Ticket to Paradise,,
+1127,Big,,GG006
+1128,The Death of Stalin,,
+1129,Airheads,,
+1130,Heathers,,
+1131,Nightcrawler,,
+1132,Love Again,,
+1133,Waiting...,,
+1134,The Royal Hotel,,
+1135,Mission: Impossible II,,
+1136,Face/Off,,
+1137,The Proposal,,
+1138,Something from Tiffany's,,
+1139,V for Vendetta,,
+1140,White Noise,,
+1141,Marriage Story,OWA0026,GG009
+1142,Angel Heart,,
+1143,Hell or High Water,,
+1144,The Persian Version,,
+1145,Pitch Perfect,,
+1146,Rise of the Planet of the Apes,,
+1147,The Human Centipede (First Sequence),,
+1148,Unbroken,,
+1149,The Stranger,,
+1150,WALLÂ·E,,
+1151,John Carter,,
+1152,Fingernails,,
+1153,Focus,,
+1154,Remember the Night,,
+1155,Sleeping Beauty,,
+1156,Remember the Titans,,
+1157,The Black Phone,,
+1158,Sinister,,
+1159,Doctor Strange,,
+1160,The Impossible,,
+1161,Jurassic World: Fallen Kingdom,,
+1162,Room,OWA0081,
+1163,The Invisible Man,,
+1164,Upgrade,,
+1165,Wild Things,,
+1166,Passages,,
+1167,500 Days of Summer,,
+1168,The Amazing Spider-Man,,
+1169,The Amazing Spider-Man 2,,
+1170,Gifted,,
+1171,The Devil's Advocate,,
+1172,Weird: The Al Yankovic Story,,
+1173,Scary Movie,,
+1174,White Chicks,,
+1175,Scary Movie 2,,
+1176,Nightmare Alley,,
+1177,The Shape of Water,OWA0012,GG011
+1177,The Shape of Water,OWA0012,GG013
+1177,The Shape of Water,OWA0030,GG011
+1177,The Shape of Water,OWA0030,GG013
+1177,The Shape of Water,OWA0060,GG011
+1177,The Shape of Water,OWA0060,GG013
+1177,The Shape of Water,OWA0102,GG011
+1177,The Shape of Water,OWA0102,GG013
+1178,Pacific Rim,,
+1179,The Out-Laws,,
+1180,Mamma Mia!,,
+1181,Scooby-Doo,,
+1182,A Castle for Christmas,,
+1183,Plane,,
+1184,Spotlight,OWA0060,
+1184,Spotlight,OWA0036,
+1185,Stillwater,,
+1186,Click,,
+1187,The Waterboy,,
+1188,Blended,,
+1189,The Wedding Singer,,
+1190,Live Free or Die Hard,,
+1191,Underworld,OWA0011,
+1192,The Miracle Club,,
+1193,Galaxy Quest,,
+1194,The Devil All the Time,,
+1195,Red Dawn,,
+1196,Conan the Barbarian,,GG016
+1197,Life,,
+1198,Morbius,,
+1199,She Came to Me,,
+1200,Jingle Jangle: A Christmas Journey,,
+1201,Interview with the Vampire: The Vampire Chronicles,,
+1202,Marlowe,,
+1203,It Follows,,
+1204,Under the Silver Lake,,
+1205,Creed III,,
+1206,The Texas Chain Saw Massacre,,
+1207,Lifeforce,,
+1208,Poltergeist,,
+1209,Foe,,
+1210,Book Club: The Next Chapter,,
+1211,The World Is Not Enough,,
+1212,The Chronicles of Narnia: The Voyage of the Dawn Treader,,
+1213,The Kill Room,,
+1214,Legally Blonde,,
+1215,The Pope's Exorcist,,
+1216,Everest,,
+1217,Freud's Last Session,,
+1218,Easy A,,
+1219,Friends with Benefits,,
+1220,Brokeback Mountain,OWA0012,GG011
+1220,Brokeback Mountain,OWA0012,GG012
+1220,Brokeback Mountain,OWA0012,GG001
+1220,Brokeback Mountain,OWA0012,GG014
+1220,Brokeback Mountain,OWA0030,GG011
+1220,Brokeback Mountain,OWA0030,GG012
+1220,Brokeback Mountain,OWA0030,GG001
+1220,Brokeback Mountain,OWA0030,GG014
+1220,Brokeback Mountain,OWA0099,GG011
+1220,Brokeback Mountain,OWA0099,GG012
+1220,Brokeback Mountain,OWA0099,GG001
+1220,Brokeback Mountain,OWA0099,GG014
+1221,Sense and Sensibility,OWA0095,GG012
+1221,Sense and Sensibility,OWA0095,GG001
+1222,Life of Pi,OWA0004,GG013
+1222,Life of Pi,OWA0012,GG013
+1222,Life of Pi,OWA0030,GG013
+1222,Life of Pi,OWA0084,GG013
+1223,Hulk,,
+1224,Warrior,,
+1225,The Accountant,,
+1226,My Girl,,
+1227,Dirty Dancing,OWA0078,GG014
+1228,Mixed Nuts,,
+1229,Sleepless in Seattle,,
+1230,You've Got Mail,,
+1231,Patriot Games,,
+1232,The Giver,,
+1233,Clear and Present Danger,,
+1234,Salt,,
+1235,Showing Up,,
+1236,Better Off Dead...,,
+1237,Remember Me,,
+1238,Steel Magnolias,,GG009
+1239,Footloose,,
+1240,Lone Survivor,,
+1241,Deepwater Horizon,,
+1242,Blade,,
+1243,The Descent,,
+1244,Hellboy,,
+1245,Napoleon Dynamite,,
+1246,Black Widow,,
+1247,Bridge to Terabithia,,
+1248,Dredd,,
+1249,Champions,,
+1250,I Spit on Your Grave,,
+1251,Venom: Let There Be Carnage,,
+1252,Last Holiday,,
+1253,Knights of the Zodiac,,
+1254,Alfie,,
+1255,Moonraker,,
+1256,The Spy Who Loved Me,,
+1257,Just Go with It,,
+1258,Happy Gilmore,,
+1259,Grown Ups,,
+1260,Grown Ups 2,,
+1261,Big Daddy,,
+1262,The Boogeyman,,
+1263,Tetris,,
+1264,"The Cook, the Thief, His Wife & Her Lover",,
+1265,Lakeview Terrace,,
+1266,Tomorrow Never Dies,,
+1267,Mary Poppins,OWA0002,
+1267,Mary Poppins,OWA0020,
+1267,Mary Poppins,OWA0058,
+1267,Mary Poppins,OWA0022,
+1267,Mary Poppins,OWA0062,
+1268,The Nun,,
+1269,American Symphony,,
+1270,You Are So Not Invited to My Bat Mitzvah,,
+1271,Legion,,
+1272,I'm Thinking of Ending Things,,
+1273,Reality,,
+1274,Highlander,,
+1275,Teen Wolf: The Movie,,
+1276,Brazil,,
+1277,Sleepers,,
+1278,Rain Man,OWA0080,GG003
+1278,Rain Man,OWA0080,GG001
+1278,Rain Man,OWA0012,GG003
+1278,Rain Man,OWA0012,GG001
+1278,Rain Man,OWA0060,GG003
+1278,Rain Man,OWA0060,GG001
+1278,Rain Man,OWA0088,GG003
+1278,Rain Man,OWA0088,GG001
+1279,A Merry Friggin' Christmas,,
+1280,Demolition,,
+1281,Dallas Buyers Club,OWA0080,GG003
+1281,Dallas Buyers Club,OWA0080,GG010
+1281,Dallas Buyers Club,OWA0025,GG003
+1281,Dallas Buyers Club,OWA0025,GG010
+1281,Dallas Buyers Club,OWA0101,GG003
+1281,Dallas Buyers Club,OWA0101,GG010
+1282,The Road,,
+1283,Lawless,,
+1284,The Bad Guys,,
+1285,The Nutcracker: The Untold Story,,
+1286,Manchester by the Sea,OWA0080,GG003
+1286,Manchester by the Sea,OWA0036,GG003
+1287,The Call of the Wild,,
+1288,Wrong Turn,,
+1289,The Cabin in the Woods,,
+1290,Bad Times at the El Royale,,
+1291,1408,,
+1292,The Rocker,,
+1293,Dances with Wolves,,GG012
+1293,Dances with Wolves,,GG001
+1293,Dances with Wolves,,GG011
+1294,Star Wars: Episode VI - Return of the Jedi,,
+1295,Crash,OWA0020,
+1295,Crash,OWA0060,
+1295,Crash,OWA0036,
+1296,The Power of the Dog,OWA0012,GG001
+1296,The Power of the Dog,OWA0012,GG010
+1296,The Power of the Dog,OWA0012,GG011
+1297,Hot Tub Time Machine,,
+1298,They Cloned Tyrone,,
+1299,Shang-Chi and the Legend of the Ten Rings,,
+1300,Polar,,
+1301,Sea of Love,,
+1302,Piranha 3D,,
+1303,Tusk,,
+1304,Dogma,,
+1305,Mallrats,,
+1306,Speed,OWA0057,
+1306,Speed,OWA0093,
+1307,Twister,,
+1308,Greyhound,,
+1309,A Bridge Too Far,,
+1310,The Snowman,,
+1311,Tinker Tailor Soldier Spy,,
+1312,Cashback,,
+1313,A Million Miles Away,,
+1314,Robin Hood: Prince of Thieves,,
+1315,The Count of Monte Cristo,,
+1316,About My Father,,
+1317,X-Men Origins: Wolverine,,
+1318,Ender's Game,,
+1319,The Big Ugly,,
+1320,The Others,,
+1321,Ponyo,,
+1322,Purple Hearts,,
+1323,First Blood,,
+1324,Mortal Kombat,,
+1325,Lawrence of Arabia,OWA0035,GG017
+1325,Lawrence of Arabia,OWA0035,GG017
+1325,Lawrence of Arabia,OWA0035,GG028
+1325,Lawrence of Arabia,OWA0032,GG017
+1325,Lawrence of Arabia,OWA0032,GG017
+1325,Lawrence of Arabia,OWA0032,GG028
+1325,Lawrence of Arabia,OWA0012,GG017
+1325,Lawrence of Arabia,OWA0012,GG017
+1325,Lawrence of Arabia,OWA0012,GG028
+1325,Lawrence of Arabia,OWA0020,GG017
+1325,Lawrence of Arabia,OWA0020,GG017
+1325,Lawrence of Arabia,OWA0020,GG028
+1325,Lawrence of Arabia,OWA0058,GG017
+1325,Lawrence of Arabia,OWA0058,GG017
+1325,Lawrence of Arabia,OWA0058,GG028
+1325,Lawrence of Arabia,OWA0060,GG017
+1325,Lawrence of Arabia,OWA0060,GG017
+1325,Lawrence of Arabia,OWA0060,GG028
+1325,Lawrence of Arabia,OWA0057,GG017
+1325,Lawrence of Arabia,OWA0057,GG017
+1325,Lawrence of Arabia,OWA0057,GG028
+1326,Doctor Zhivago,OWA0035,GG001
+1326,Doctor Zhivago,OWA0035,GG011
+1326,Doctor Zhivago,OWA0032,GG001
+1326,Doctor Zhivago,OWA0032,GG011
+1326,Doctor Zhivago,OWA0048,GG001
+1326,Doctor Zhivago,OWA0048,GG011
+1326,Doctor Zhivago,OWA0058,GG001
+1326,Doctor Zhivago,OWA0058,GG011
+1326,Doctor Zhivago,OWA0055,GG001
+1326,Doctor Zhivago,OWA0055,GG011
+1327,"Good Luck to You, Leo Grande",,
+1328,Snow Day,,
+1329,Road House,,
+1330,Ace Ventura: Pet Detective,,
+1331,Liar Liar,,
+1332,Bruce Almighty,,
+1333,Spring Breakers,,
+1334,The Warriors,,
+1335,The Driver,,
+1336,The Long Riders,,
+1337,Alive,,
+1338,The Running Man,,
+1339,Kazaam,,
+1340,eXistenZ,,
+1341,Crimes of the Future,,
+1342,Eastern Promises,,
+1343,Naked Lunch,,
+1344,The Fly,OWA0075,
+1344,The Fly,OWA0092,
+1345,Straight Outta Compton,,
+1346,Friday,,
+1347,The Fate of the Furious,,
+1348,Law Abiding Citizen,,
+1349,Annie,,
+1350,Lee,,
+1351,The Replacements,,
+1352,The Great Outdoors,,
+1353,Boiling Point,,
+1354,Final Destination,,
+1355,Eden Lake,,
+1356,Luther: The Fallen Sun,,
+1357,The 40-Year-Old Virgin,,
+1358,This Is 40,,
+1359,Knocked Up,,
+1360,RED,,
+1361,Allegiant,,
+1362,The Time Traveler's Wife,,
+1363,The Divergent Series: Insurgent,,
+1364,Appaloosa,,
+1365,Borat,,
+1366,The Dictator,,
+1367,Master Gardener,,
+1368,See How They Run,,
+1369,Austin Powers: International Man of Mystery,,
+1370,Austin Powers in Goldmember,,
+1371,Bombshell,OWA0101,
+1372,The Little Rascals,,
+1373,Wayne's World,,
+1374,17 Again,,
+1375,Sicario: Day of the Soldado,,
+1376,The American,,
+1377,Redeeming Love,,
+1378,I Am Number Four,,
+1379,Pig,,
+1380,Perfume: The Story of a Murderer,,
+1381,Gods of Egypt,,
+1382,The Crow,,
+1383,Dark City,,
+1384,Toy Story 3,OWA0098,
+1384,Toy Story 3,OWA0078,
+1385,Ad Astra,,
+1386,Bird Box,,
+1387,The Fallout,,
+1388,Silverado,,
+1389,Turning Red,,
+1390,The Boy in the Striped Pajamas,,
+1391,Possession,,
+1392,The Art of Racing in the Rain,,
+1393,Toy Story 4,OWA0098,
+1394,No Escape,,
+1395,"As Above, So Below",,
+1396,Riddick,,
+1397,The Chronicles of Riddick,,
+1398,Pitch Black,,
+1399,A Place in the Sun,OWA0031,
+1399,A Place in the Sun,OWA0047,
+1399,A Place in the Sun,OWA0012,
+1399,A Place in the Sun,OWA0020,
+1399,A Place in the Sun,OWA0042,
+1399,A Place in the Sun,OWA0024,
+1400,Vicky Cristina Barcelona,OWA0026,GG004
+1401,Midnight in Paris,OWA0036,
+1402,Bananas,,
+1403,Citizen Kane,OWA0036,
+1404,Fifty Shades Freed,,
+1405,Fear,,
+1406,Fifty Shades Darker,,
+1407,Sonic the Hedgehog 2,,
+1408,Sonic the Hedgehog,,
+1409,Sharper,,
+1410,The Machinist,,
+1411,My Best Friend's Wedding,,
+1412,Peter Pan,,
+1413,Secondhand Lions,,
+1414,"Love, Rosie",,
+1415,Hustlers,,
+1416,The Thin Red Line,,
+1417,The Outfit,,
+1418,Blazing Saddles,,
+1419,Spaceballs,,
+1420,Young Frankenstein,,
+1421,Robin Hood: Men in Tights,,
+1422,Fresh,,
+1423,Good Burger,,
+1424,Varsity Blues,,
+1425,Norbit,,
+1426,Rat Race,,
+1427,Ghost,OWA0026,GG009
+1427,Ghost,OWA0088,GG009
+1428,A Quiet Place Part II,,
+1429,You People,,
+1430,Slap Shot,,
+1431,The Ref,,
+1432,Blow,,
+1433,Cold Pursuit,,
+1434,Police Academy,,
+1435,The Gift,,
+1436,Somewhere in Queens,,
+1437,Greater,,
+1438,Dora and the Lost City of Gold,,
+1439,Captain Fantastic,,
+1440,U-571,OWA0097,
+1441,Terminator 3: Rise of the Machines,,
+1442,Career Opportunities,,
+1443,Source Code,,
+1444,Moon,,
+1445,Taken 2,,
+1446,Taken 3,,
+1447,Dr. No,,GG016
+1448,The Garden of Eden,,
+1449,Enola Holmes,,
+1450,The Machine,,
+1451,Commando,,
+1452,The Name of the Rose,,
+1453,Run,,
+1454,This Christmas,,
+1455,The Old Guard,,
+1456,The Woman King,,
+1457,Willy's Wonderland,,
+1458,Vivarium,,
+1459,Teenage Mutant Ninja Turtles,,
+1460,A Walk in the Woods,,
+1461,He's Just Not That Into You,,
+1462,The Girl in the Spider's Web,,
+1463,Don't Breathe,,
+1464,Brightburn,,
+1465,A Good Day to Die Hard,,
+1466,Behind Enemy Lines,,
+1467,Jason Bourne,,
+1468,The Bourne Ultimatum,OWA0020,
+1468,The Bourne Ultimatum,OWA0097,
+1468,The Bourne Ultimatum,OWA0100,
+1469,The Pursuit of Happyness,,
+1470,Sister Act 2: Back in the Habit,,
+1471,The Emperor's New Groove,,
+1472,El Camino: A Breaking Bad Movie,,
+1473,50 First Dates,,
+1474,The Courier,,
+1475,Downton Abbey,,
+1476,How to Lose a Guy in 10 Days,,
+1477,Richie Rich,,
+1478,Watcher,,
+1479,The Sandlot,,
+1480,The Good Son,,
+1481,Butcher's Crossing,,
+1482,The Craft,,
+1483,Con Air,,
+1484,Ben-Hur,OWA0001,GG015
+1484,Ben-Hur,OWA0001,GG001
+1484,Ben-Hur,OWA0001,GG011
+1484,Ben-Hur,OWA0001,GG010
+1484,Ben-Hur,OWA0025,GG015
+1484,Ben-Hur,OWA0025,GG001
+1484,Ben-Hur,OWA0025,GG011
+1484,Ben-Hur,OWA0025,GG010
+1484,Ben-Hur,OWA0035,GG015
+1484,Ben-Hur,OWA0035,GG001
+1484,Ben-Hur,OWA0035,GG011
+1484,Ben-Hur,OWA0035,GG010
+1484,Ben-Hur,OWA0032,GG015
+1484,Ben-Hur,OWA0032,GG001
+1484,Ben-Hur,OWA0032,GG011
+1484,Ben-Hur,OWA0032,GG010
+1484,Ben-Hur,OWA0048,GG015
+1484,Ben-Hur,OWA0048,GG001
+1484,Ben-Hur,OWA0048,GG011
+1484,Ben-Hur,OWA0048,GG010
+1484,Ben-Hur,OWA0012,GG015
+1484,Ben-Hur,OWA0012,GG001
+1484,Ben-Hur,OWA0012,GG011
+1484,Ben-Hur,OWA0012,GG010
+1484,Ben-Hur,OWA0020,GG015
+1484,Ben-Hur,OWA0020,GG001
+1484,Ben-Hur,OWA0020,GG011
+1484,Ben-Hur,OWA0020,GG010
+1484,Ben-Hur,OWA0042,GG015
+1484,Ben-Hur,OWA0042,GG001
+1484,Ben-Hur,OWA0042,GG011
+1484,Ben-Hur,OWA0042,GG010
+1484,Ben-Hur,OWA0045,GG015
+1484,Ben-Hur,OWA0045,GG001
+1484,Ben-Hur,OWA0045,GG011
+1484,Ben-Hur,OWA0045,GG010
+1484,Ben-Hur,OWA0057,GG015
+1484,Ben-Hur,OWA0057,GG001
+1484,Ben-Hur,OWA0057,GG011
+1484,Ben-Hur,OWA0057,GG010
+1484,Ben-Hur,OWA0033,GG015
+1484,Ben-Hur,OWA0033,GG001
+1484,Ben-Hur,OWA0033,GG011
+1484,Ben-Hur,OWA0033,GG010
+1485,Life of the Party,,
+1486,Tomb Raider,,
+1487,Den of Thieves,,
+1488,99 Homes,,
+1489,Billy Madison,,
+1490,The Boondock Saints,,
+1491,Winter's Bone,,
+1492,Never Let Me Go,,
+1493,Burnt,,
+1494,Crocodile Dundee II,,
+1495,Boston Strangler,,
+1496,Bumblebee,,
+1497,Ghost Rider,,
+1498,A Thousand and One,,
+1499,Dark Phoenix,,
+1500,The 355,,
+1501,"Paris, Texas",,
+1502,The Hitman's Bodyguard,,
+1503,Criminal,,
+1504,Trapped in Paradise,,
+1505,The Expendables,,
+1506,The Lesson,,
+1507,The Dirty Dozen,OWA0061,
+1508,The Adjustment Bureau,,
+1509,The House Bunny,,
+1510,Army of Thieves,,
+1511,Heaven Help Us,,
+1512,Dark Harvest,,
+1513,Hard Candy,,
+1514,On Her Majesty's Secret Service,,
+1515,A Very Harold & Kumar Christmas,,
+1516,Barbarella,,
+1517,High Life,,
+1518,Flora and Son,,
+1519,Fried Green Tomatoes,,
+1520,Ghost in the Shell,,
+1521,The Purge,,
+1522,Inside,,
+1523,Species,,
+1524,Red Rocket,,
+1525,The Florida Project,,
+1526,To Kill a Mockingbird,OWA0001,
+1526,To Kill a Mockingbird,OWA0034,
+1526,To Kill a Mockingbird,OWA0055,
+1527,Moneyball,,
+1528,Funny Games,,
+1529,Palm Springs,,
+1530,Pieces of a Woman,,
+1531,Living,,
+1532,The Tragedy of Macbeth,,
+1533,The Land Before Time,,
+1534,Life of Brian,,
+1535,The Lost Daughter,,
+1536,Finch,,
+1537,The Twilight Saga: New Moon,,
+1538,The Golden Compass,OWA0084,
+1539,The Hitchhiker's Guide to the Galaxy,,
+1540,Forgetting Sarah Marshall,,
+1541,Spencer,,
+1542,I See You,,
+1543,28 Weeks Later,,
+1544,The Toxic Avenger,,
+1545,Megamind,,
+1546,300: Rise of an Empire,,
+1547,Pretty Baby,,
+1548,Demolition Man,,
+1549,Roald Dahl's Matilda the Musical,,
+1550,A Walk to Remember,,
+1551,Couples Retreat,,
+1552,Hotel Transylvania,,
+1553,Marry Me,,
+1554,Diamonds Are Forever,,
+1555,The Man with the Golden Gun,,
+1556,Goldfinger,OWA0061,
+1557,Pet Sematary: Bloodlines,,
+1558,Project X,,
+1559,Sound of Metal,OWA0020,
+1559,Sound of Metal,OWA0057,
+1560,Maleficent,,
+1561,Mr. Nobody,,
+1562,Hackers,,
+1563,Mortal Engines,,
+1564,Golda,,
+1565,The Great Wall,,
+1566,Breakfast at Tiffany's,OWA0042,
+1566,Breakfast at Tiffany's,OWA0022,
+1567,Christmas with You,,
+1568,Burn After Reading,,
+1569,Hellraiser,,
+1570,Emma.,,
+1571,Sanctuary,,
+1572,Rudy,,
+1573,The Great Escape,,
+1574,How to Train Your Dragon: The Hidden World,,
+1575,Don Jon,,
+1576,Women Talking,OWA0099,
+1577,Charade,OWA0075,
+1578,PokÃ©mon: Detective Pikachu,,
+1579,Real Genius,,
+1580,Bonnie and Clyde,OWA0026,
+1580,Bonnie and Clyde,OWA0004,
+1581,You Hurt My Feelings,,
+1582,9,,
+1583,Luca,,
+1584,It Lives Inside,,
+1585,The Prophecy,,
+1586,The Fault in Our Stars,,
+1587,My Big Fat Greek Wedding,,
+1588,Maybe I Do,,
+1589,The Sum of All Fears,,
+1590,Alien: Resurrection,,
+1591,Original Sin,,
+1592,Bill & Ted's Excellent Adventure,,
+1593,The Mighty Ducks,,
+1594,The Monuments Men,,
+1595,Young Guns,,
+1596,Back to School,,
+1597,Truth or Dare,,
+1598,Coyote Ugly,,
+1599,The Punisher,,
+1600,Flash Gordon,,
+1601,San Andreas,,
+1602,Rampage,,
+1603,Palmer,,
+1604,Masters of the Universe,,
+1605,State of Play,,
+1606,Anna and the Apocalypse,,
+1607,Lucky Number Slevin,,
+1608,The Strangers,,
+1609,Gosford Park,OWA0088,GG011
+1610,The Theory of Everything,OWA0080,GG003
+1610,The Theory of Everything,OWA0080,GG013
+1611,Geostorm,,
+1612,The Lincoln Lawyer,,
+1613,The Bodyguard,,
+1614,The Remains of the Day,,
+1615,The Man in the Iron Mask,,
+1616,We Were Soldiers,,
+1617,Dragged Across Concrete,,
+1618,Annette,,
+1619,"Definitely, Maybe",,
+1620,The Last Command,OWA0001,
+1621,7th Heaven,OWA0002,
+1621,7th Heaven,OWA0006,
+1621,7th Heaven,OWA0010,
+1622,The Dove;,OWA0003,
+1623,Sunrise,OWA0004,
+1623,Sunrise,OWA0004,
+1623,Sunrise,OWA0009,
+1624,Two Arabian Knights,OWA0005,
+1625,Wings,OWA0007,
+1625,Wings,OWA0008,
+1626,In Old Arizona,OWA0001,
+1627,Coquette,OWA0002,
+1628,The Bridge of San Luis Rey,OWA0003,
+1629,White Shadows in the South Seas,OWA0004,
+1630,The Divine Lady,OWA0012,
+1631,The Broadway Melody,OWA0008,
+1632,Disraeli,OWA0001,
+1633,The Divorcee,OWA0002,
+1634,King of Jazz,OWA0003,
+1635,With Byrd at the South Pole,OWA0004,
+1636,All Quiet on the Western Front,OWA0012,
+1636,All Quiet on the Western Front,OWA0014,
+1636,All Quiet on the Western Front,OWA0004,
+1636,All Quiet on the Western Front,OWA0103,
+1636,All Quiet on the Western Front,OWA0030,
+1636,All Quiet on the Western Front,OWA0102,
+1637,The Big House,OWA0015,
+1637,The Big House,OWA0013,
+1638,A Free Soul,OWA0001,
+1639,Min and Bill,OWA0002,
+1640,Cimarron,OWA0003,
+1640,Cimarron,OWA0014,
+1640,Cimarron,OWA0010,
+1641,Tabu,OWA0004,
+1642,Skippy,OWA0012,
+1643,The Dawn Patrol,OWA0011,
+1644,The Champ,OWA0001,GG017
+1644,The Champ,OWA0011,GG017
+1645,Dr. Jekyll and Mr. Hyde,OWA0001,
+1646,The Sin of Madelon Claudet,OWA0002,
+1647,Transatlantic,OWA0003,
+1648,Shanghai Express,OWA0004,
+1649,Bad Girl,OWA0012,
+1649,Bad Girl,OWA0010,
+1650,Grand Hotel,OWA0014,
+1651,Flowers and Trees,OWA0016,
+1652,The Music Box,OWA0017,
+1653,Wrestling Swordfish,OWA0018,
+1654,The Private Life of Henry VIII,OWA0001,
+1655,Morning Glory,OWA0002,
+1656,Cavalcade,OWA0003,
+1656,Cavalcade,OWA0012,
+1656,Cavalcade,OWA0014,
+1657,A Farewell to Arms,OWA0004,
+1657,A Farewell to Arms,OWA0015,
+1658,The Three Little Pigs,OWA0016,
+1659,So This Is Harris,OWA0017,
+1660,Krakatoa,OWA0018,
+1661,One Way Passage,OWA0011,
+1662,It Happened One Night,OWA0001,
+1662,It Happened One Night,OWA0002,
+1662,It Happened One Night,OWA0012,
+1662,It Happened One Night,OWA0014,
+1662,It Happened One Night,OWA0010,
+1663,The Merry Widow,OWA0003,
+1664,Viva Villa!,OWA0019,
+1665,Cleopatra,OWA0004,
+1665,Cleopatra,OWA0035,
+1665,Cleopatra,OWA0032,
+1665,Cleopatra,OWA0048,
+1665,Cleopatra,OWA0033,
+1666,Eskimo,OWA0020,
+1667,One Night of Love,OWA0021,
+1667,One Night of Love,OWA0015,
+1668,The Gay Divorcee,OWA0022,
+1669,The Tortoise and the Hare,OWA0016,
+1670,La Cucaracha,OWA0017,
+1671,City of Wax,OWA0018,
+1672,Manhattan Melodrama,OWA0011,
+1673,The Informer,OWA0001,
+1673,The Informer,OWA0012,
+1673,The Informer,OWA0021,
+1673,The Informer,OWA0024,
+1674,Dangerous,OWA0002,
+1675,The Dark Angel,OWA0003,
+1676,The Lives of a Bengal Lancer,OWA0019,
+1677,A Midsummer Night's Dream,OWA0004,
+1677,A Midsummer Night's Dream,OWA0020,
+1678,Broadway Melody of 1936;,OWA0023,
+1679,Gold Diggers of 1935,OWA0022,
+1680,Mutiny on the Bounty,OWA0014,
+1681,Three Orphan Kittens,OWA0016,
+1682,How to Sleep,OWA0017,
+1683,Wings over Mt. Everest,OWA0018,
+1684,Naughty Marietta,OWA0015,
+1685,The Scoundrel,OWA0011,
+1686,The Story of Louis Pasteur,OWA0001,
+1686,The Story of Louis Pasteur,OWA0011,
+1686,The Story of Louis Pasteur,OWA0024,
+1687,Come and Get It,OWA0025,
+1688,The Great Ziegfeld,OWA0002,
+1688,The Great Ziegfeld,OWA0023,
+1688,The Great Ziegfeld,OWA0014,
+1689,Anthony Adverse,OWA0026,
+1689,Anthony Adverse,OWA0004,
+1689,Anthony Adverse,OWA0020,
+1689,Anthony Adverse,OWA0021,
+1690,Dodsworth,OWA0003,
+1691,The Charge of the Light Brigade,OWA0019,
+1692,Mr. Deeds Goes to Town,OWA0012,
+1693,Swing Time,OWA0022,
+1694,The Country Cousin,OWA0016,
+1695,Give Me Liberty,OWA0027,
+1696,Bored of Education,OWA0028,
+1697,The Public Pays,OWA0029,
+1698,San Francisco,OWA0015,
+1699,Captains Courageous,OWA0001,
+1700,The Life of Emile Zola,OWA0025,
+1700,The Life of Emile Zola,OWA0014,
+1700,The Life of Emile Zola,OWA0024,
+1701,The Good Earth,OWA0002,
+1701,The Good Earth,OWA0004,
+1702,In Old Chicago,OWA0026,
+1702,In Old Chicago,OWA0019,
+1703,Lost Horizon,OWA0003,
+1703,Lost Horizon,OWA0020,
+1704,A Damsel in Distress,OWA0023,
+1705,The Awful Truth,OWA0012,
+1706,One Hundred Men and a Girl,OWA0021,
+1707,Waikiki Wedding,OWA0022,
+1708,The Old Mill,OWA0016,
+1709,Penny Wisdom,OWA0027,
+1710,The Private Life of the Gannets,OWA0028,
+1711,Torture Money,OWA0029,
+1712,The Hurricane,OWA0015,GG003
+1713,Boys Town,OWA0001,
+1713,Boys Town,OWA0011,
+1714,Kentucky,OWA0025,
+1715,Jezebel,OWA0002,
+1715,Jezebel,OWA0026,
+1716,The Adventures of Robin Hood,OWA0003,
+1716,The Adventures of Robin Hood,OWA0020,
+1716,The Adventures of Robin Hood,OWA0030,
+1717,The Great Waltz,OWA0004,
+1718,You Can't Take It with You,OWA0012,
+1718,You Can't Take It with You,OWA0014,
+1719,Alexander's Ragtime Band,OWA0021,
+1720,The Big Broadcast of 1938,OWA0022,
+1721,Ferdinand the Bull,OWA0016,
+1722,That Mothers Might Live,OWA0028,
+1723,Declaration of Independence,OWA0029,
+1724,The Cowboy and the Lady,OWA0015,
+1725,Pygmalion,OWA0024,
+1726,"Goodbye, Mr. Chips",OWA0001,GG006
+1727,Stagecoach,OWA0025,
+1727,Stagecoach,OWA0021,
+1728,Gone with the Wind,OWA0002,
+1728,Gone with the Wind,OWA0026,
+1728,Gone with the Wind,OWA0003,
+1728,Gone with the Wind,OWA0032,
+1728,Gone with the Wind,OWA0012,
+1728,Gone with the Wind,OWA0020,
+1728,Gone with the Wind,OWA0014,
+1728,Gone with the Wind,OWA0024,
+1729,Wuthering Heights,OWA0031,
+1730,The Wizard of Oz,OWA0030,
+1730,The Wizard of Oz,OWA0022,
+1731,The Ugly Duckling,OWA0016,
+1732,Busy Little Bears,OWA0028,
+1733,Sons of Liberty,OWA0029,
+1734,When Tomorrow Comes,OWA0015,
+1735,The Rains Came,OWA0033,
+1736,Mr. Smith Goes to Washington,OWA0011,
+1737,The Philadelphia Story,OWA0001,
+1737,The Philadelphia Story,OWA0024,
+1738,The Westerner,OWA0025,
+1739,Kitty Foyle,OWA0002,
+1740,The Grapes of Wrath,OWA0026,
+1740,The Grapes of Wrath,OWA0012,
+1741,Pride and Prejudice,OWA0034,
+1742,The Thief of Bagdad,OWA0035,
+1742,The Thief of Bagdad,OWA0032,
+1742,The Thief of Bagdad,OWA0033,
+1743,Rebecca,OWA0031,
+1743,Rebecca,OWA0014,
+1744,North West Mounted Police,OWA0020,
+1745,Tin Pan Alley,OWA0021,
+1746,The Milky Way,OWA0016,
+1747,Quicker 'N a Wink,OWA0028,
+1748,"Teddy, the Rough Rider",OWA0029,
+1749,Strike Up the Band,OWA0015,
+1750,The Great McGinty,OWA0036,
+1751,"Arise, My Love",OWA0011,
+1752,Sergeant York,OWA0001,
+1752,Sergeant York,OWA0020,
+1753,How Green Was My Valley,OWA0025,
+1753,How Green Was My Valley,OWA0034,
+1753,How Green Was My Valley,OWA0031,
+1753,How Green Was My Valley,OWA0012,
+1753,How Green Was My Valley,OWA0040,
+1754,Suspicion,OWA0002,
+1755,The Great Lie,OWA0026,
+1756,Blossoms in the Dust,OWA0035,
+1757,Blood and Sand,OWA0032,
+1758,Churchill's Island,OWA0037,
+1759,All That Money Can Buy,OWA0038,
+1760,Dumbo,OWA0039,
+1761,Lady Be Good,OWA0022,
+1762,Lend a Paw,OWA0016,
+1763,Of Pups and Puzzles,OWA0028,
+1764,Main Street on the March!,OWA0029,
+1765,That Hamilton Woman,OWA0015,
+1766,I Wanted Wings,OWA0033,
+1767,Here Comes Mr. Jordan,OWA0011,
+1767,Here Comes Mr. Jordan,OWA0024,
+1768,Yankee Doodle Dandy,OWA0001,
+1768,Yankee Doodle Dandy,OWA0039,
+1768,Yankee Doodle Dandy,OWA0015,
+1769,Johnny Eager,OWA0025,
+1770,Mrs. Miniver,OWA0002,
+1770,Mrs. Miniver,OWA0026,
+1770,Mrs. Miniver,OWA0031,
+1770,Mrs. Miniver,OWA0012,
+1770,Mrs. Miniver,OWA0040,
+1770,Mrs. Miniver,OWA0024,
+1771,This above All,OWA0034,
+1772,My Gal Sal,OWA0035,
+1773,The Black Swan,OWA0032,
+1774,The Battle of Midway,OWA0041,
+1775,Kokoda Front Line!,OWA0041,
+1776,Moscow Strikes Back,OWA0041,
+1777,Prelude to War,OWA0041,
+1778,The Pride of the Yankees,OWA0020,
+1779,"Now, Voyager",OWA0042,
+1780,Holiday Inn,OWA0022,
+1781,Der Fuehrer's Face,OWA0016,
+1782,Speaking of Animals and Their Families,OWA0028,
+1783,Beyond the Line of Duty,OWA0029,
+1784,Reap the Wild Wind,OWA0033,
+1785,The Invaders,OWA0043,
+1786,Woman of the Year,OWA0036,
+1787,Watch on the Rhine,OWA0001,
+1788,The More the Merrier,OWA0025,
+1789,The Song of Bernadette,OWA0002,
+1789,The Song of Bernadette,OWA0034,
+1789,The Song of Bernadette,OWA0031,
+1789,The Song of Bernadette,OWA0042,
+1790,For Whom the Bell Tolls,OWA0026,
+1791,Phantom of the Opera,OWA0035,
+1791,Phantom of the Opera,OWA0032,
+1792,Desert Victory,OWA0044,
+1793,December 7th,OWA0037,
+1794,Air Force,OWA0020,
+1795,This Is the Army,OWA0039,
+1796,"Hello, Frisco, Hello",OWA0022,
+1797,Yankee Doodle Mouse,OWA0016,
+1798,Amphibious Fighters,OWA0028,
+1799,Heavenly Music,OWA0029,
+1800,This Land Is Mine,OWA0015,
+1801,Crash Dive,OWA0033,
+1802,The Human Comedy,OWA0043,
+1803,Princess O'Rourke,OWA0036,
+1804,Going My Way,OWA0001,
+1804,Going My Way,OWA0025,
+1804,Going My Way,OWA0012,
+1804,Going My Way,OWA0022,
+1804,Going My Way,OWA0045,
+1804,Going My Way,OWA0043,
+1804,Going My Way,OWA0024,
+1805,Gaslight,OWA0002,
+1805,Gaslight,OWA0034,
+1806,None but the Lonely Heart,OWA0026,
+1807,Wilson,OWA0035,
+1807,Wilson,OWA0032,
+1807,Wilson,OWA0020,
+1807,Wilson,OWA0015,
+1807,Wilson,OWA0036,
+1808,Laura,OWA0031,
+1809,The Fighting Lady,OWA0044,
+1810,With the Marines at Tarawa,OWA0037,
+1811,Since You Went Away,OWA0042,
+1812,Cover Girl,OWA0039,
+1813,Mouse Trouble,OWA0016,
+1814,Who's Who in Animal Land,OWA0028,
+1815,I Won't Play,OWA0029,
+1816,Thirty Seconds over Tokyo,OWA0033,
+1817,The Lost Weekend,OWA0001,GG037
+1817,The Lost Weekend,OWA0001,GG038
+1817,The Lost Weekend,OWA0012,GG037
+1817,The Lost Weekend,OWA0012,GG038
+1817,The Lost Weekend,OWA0045,GG037
+1817,The Lost Weekend,OWA0045,GG038
+1817,The Lost Weekend,OWA0024,GG037
+1817,The Lost Weekend,OWA0024,GG038
+1818,A Tree Grows in Brooklyn,OWA0025,
+1819,Mildred Pierce,OWA0002,
+1820,National Velvet,OWA0026,
+1820,National Velvet,OWA0020,
+1821,Blood on the Sun,OWA0034,
+1822,Frenchman's Creek,OWA0035,
+1823,The Picture of Dorian Gray,OWA0031,
+1824,Leave Her to Heaven,OWA0032,
+1825,The True Glory,OWA0044,
+1826,Hitler Lives?,OWA0037,
+1827,Spellbound,OWA0042,
+1828,Anchors Aweigh,OWA0039,
+1829,State Fair,OWA0022,
+1830,Quiet Please!,OWA0016,
+1831,Stairway to Light,OWA0028,
+1832,Star in the Night,OWA0029,
+1833,The Bells of St. Mary's,OWA0015,GG040
+1834,Wonder Man,OWA0033,
+1835,The House on 92nd Street,OWA0043,
+1836,Marie-Louise,OWA0036,
+1837,The Best Years of Our Lives,OWA0001,GG015
+1837,The Best Years of Our Lives,OWA0001,GG038
+1837,The Best Years of Our Lives,OWA0025,GG015
+1837,The Best Years of Our Lives,OWA0025,GG038
+1837,The Best Years of Our Lives,OWA0012,GG015
+1837,The Best Years of Our Lives,OWA0012,GG038
+1837,The Best Years of Our Lives,OWA0020,GG015
+1837,The Best Years of Our Lives,OWA0020,GG038
+1837,The Best Years of Our Lives,OWA0042,GG015
+1837,The Best Years of Our Lives,OWA0042,GG038
+1837,The Best Years of Our Lives,OWA0045,GG015
+1837,The Best Years of Our Lives,OWA0045,GG038
+1837,The Best Years of Our Lives,OWA0024,GG015
+1837,The Best Years of Our Lives,OWA0024,GG038
+1838,To Each His Own,OWA0002,
+1839,The Razor's Edge,OWA0026,GG009
+1839,The Razor's Edge,OWA0026,GG010
+1840,Anna and the King of Siam,OWA0034,
+1840,Anna and the King of Siam,OWA0031,
+1841,The Yearling,OWA0035,GG037
+1841,The Yearling,OWA0032,GG037
+1842,Seeds of Destiny,OWA0037,
+1843,The Jolson Story,OWA0039,
+1843,The Jolson Story,OWA0015,
+1844,The Harvey Girls,OWA0022,
+1845,The Cat Concerto,OWA0016,
+1846,Facing Your Danger,OWA0028,
+1847,A Boy and His Dog,OWA0029,
+1848,Blithe Spirit,OWA0033,
+1849,Vacation from Marriage,OWA0043,
+1850,The Seventh Veil,OWA0036,
+1851,A Double Life,OWA0001,GG037
+1851,A Double Life,OWA0042,GG037
+1852,Miracle on 34th Street,OWA0025,GG012
+1852,Miracle on 34th Street,OWA0025,GG010
+1852,Miracle on 34th Street,OWA0046,GG012
+1852,Miracle on 34th Street,OWA0046,GG010
+1852,Miracle on 34th Street,OWA0024,GG012
+1852,Miracle on 34th Street,OWA0024,GG010
+1853,The Farmer's Daughter,OWA0002,
+1854,Gentleman's Agreement,OWA0026,GG032
+1854,Gentleman's Agreement,OWA0026,GG009
+1854,Gentleman's Agreement,OWA0026,GG038
+1854,Gentleman's Agreement,OWA0012,GG032
+1854,Gentleman's Agreement,OWA0012,GG009
+1854,Gentleman's Agreement,OWA0012,GG038
+1854,Gentleman's Agreement,OWA0045,GG032
+1854,Gentleman's Agreement,OWA0045,GG009
+1854,Gentleman's Agreement,OWA0045,GG038
+1855,Great Expectations,OWA0034,
+1855,Great Expectations,OWA0031,
+1856,Black Narcissus,OWA0035,GG039
+1856,Black Narcissus,OWA0032,GG039
+1857,Design for Death,OWA0044,
+1858,First Steps,OWA0037,
+1859,Body and Soul,OWA0020,
+1860,Mother Wore Tights,OWA0039,
+1861,Song of the South,OWA0022,
+1862,Tweetie Pie,OWA0016,
+1863,Good-bye Miss Turlock,OWA0028,
+1864,Climbing the Matterhorn,OWA0029,
+1865,Green Dolphin Street,OWA0033,
+1866,The Bachelor and the Bobby-Soxer,OWA0036,
+1867,Hamlet,OWA0001,
+1867,Hamlet,OWA0034,
+1867,Hamlet,OWA0047,
+1867,Hamlet,OWA0045,
+1868,The Treasure of the Sierra Madre,OWA0025,GG038
+1868,The Treasure of the Sierra Madre,OWA0025,GG011
+1868,The Treasure of the Sierra Madre,OWA0025,GG010
+1868,The Treasure of the Sierra Madre,OWA0012,GG038
+1868,The Treasure of the Sierra Madre,OWA0012,GG011
+1868,The Treasure of the Sierra Madre,OWA0012,GG010
+1868,The Treasure of the Sierra Madre,OWA0024,GG038
+1868,The Treasure of the Sierra Madre,OWA0024,GG011
+1868,The Treasure of the Sierra Madre,OWA0024,GG010
+1869,Johnny Belinda,OWA0002,GG038
+1869,Johnny Belinda,OWA0002,GG040
+1870,Key Largo,OWA0026,
+1871,The Red Shoes,OWA0035,GG013
+1871,The Red Shoes,OWA0042,GG013
+1872,The Naked City,OWA0031,
+1872,The Naked City,OWA0020,
+1873,Joan of Arc,OWA0032,
+1873,Joan of Arc,OWA0048,
+1874,The Secret Land,OWA0044,
+1875,Toward Independence,OWA0037,
+1876,Easter Parade,OWA0039,
+1877,The Paleface,OWA0022,
+1878,The Little Orphan,OWA0016,
+1879,Symphony of a City,OWA0028,
+1880,Seal Island,OWA0029,
+1881,The Snake Pit,OWA0015,
+1882,Portrait of Jennie,OWA0033,
+1883,The Search,OWA0046,GG012
+1883,The Search,OWA0046,GG032
+1883,The Search,OWA0046,GG025
+1884,All the King's Men,OWA0001,
+1884,All the King's Men,OWA0026,
+1884,All the King's Men,OWA0045,
+1885,Twelve O'Clock High,OWA0025,
+1885,Twelve O'Clock High,OWA0015,
+1886,The Heiress,OWA0002,GG040
+1886,The Heiress,OWA0034,GG040
+1886,The Heiress,OWA0047,GG040
+1886,The Heiress,OWA0042,GG040
+1887,Battleground,OWA0031,GG012
+1887,Battleground,OWA0031,GG010
+1887,Battleground,OWA0049,GG012
+1887,Battleground,OWA0049,GG010
+1888,She Wore a Yellow Ribbon,OWA0032,
+1889,The Adventures of Don Juan,OWA0048,
+1890,A Letter to Three Wives,OWA0012,
+1890,A Letter to Three Wives,OWA0024,
+1891,Daybreak in Udi,OWA0044,
+1892,A Chance to Live,OWA0037,
+1893,So Much for So Little,OWA0037,
+1894,Champion,OWA0020,GG039
+1895,On the Town,OWA0039,
+1896,Neptune's Daughter,OWA0022,
+1897,For Scent-Imental Reasons,OWA0016,
+1898,Aquatic House-Party,OWA0028,
+1899,Van Gogh,OWA0029,
+1900,Mighty Joe Young,OWA0033,
+1901,The Stratton Story,OWA0046,
+1902,Cyrano de Bergerac,OWA0001,
+1902,Cyrano de Bergerac,OWA0053,
+1903,All about Eve,OWA0025,
+1903,All about Eve,OWA0047,
+1903,All about Eve,OWA0012,
+1903,All about Eve,OWA0045,
+1903,All about Eve,OWA0015,
+1903,All about Eve,OWA0024,
+1904,Born Yesterday,OWA0002,
+1905,Harvey,OWA0026,GG009
+1906,Sunset Blvd.,OWA0034,
+1906,Sunset Blvd.,OWA0042,
+1906,Sunset Blvd.,OWA0049,
+1907,Samson and Delilah,OWA0035,
+1907,Samson and Delilah,OWA0048,
+1908,The Third Man,OWA0031,
+1909,King Solomon's Mines,OWA0032,GG028
+1909,King Solomon's Mines,OWA0020,GG028
+1910,The Titan: Story of Michelangelo,OWA0044,
+1911,Why Korea?,OWA0037,
+1912,Annie Get Your Gun,OWA0039,
+1913,"Captain Carey, U.S.A.",OWA0022,
+1914,Gerald McBoing-Boing,OWA0016,
+1915,Grandad of Races,OWA0028,
+1916,In Beaver Valley,OWA0029,
+1917,Destination Moon,OWA0033,
+1918,Panic in the Streets,OWA0046,
+1919,The African Queen,OWA0001,
+1920,A Streetcar Named Desire,OWA0025,
+1920,A Streetcar Named Desire,OWA0002,
+1920,A Streetcar Named Desire,OWA0026,
+1920,A Streetcar Named Desire,OWA0034,
+1921,An American in Paris,OWA0035,
+1921,An American in Paris,OWA0032,
+1921,An American in Paris,OWA0048,
+1921,An American in Paris,OWA0039,
+1921,An American in Paris,OWA0045,
+1921,An American in Paris,OWA0049,
+1922,Kon-Tiki,OWA0044,
+1923,Benjy,OWA0037,
+1924,Here Comes the Groom,OWA0022,
+1925,The Two Mouseketeers,OWA0016,
+1926,World of Kids,OWA0028,
+1927,Nature's Half Acre,OWA0029,
+1928,The Great Caruso,OWA0015,
+1929,When Worlds Collide,OWA0033,
+1930,Seven Days to Noon,OWA0046,
+1931,High Noon,OWA0001,GG003
+1931,High Noon,OWA0001,GG009
+1931,High Noon,OWA0001,GG027
+1931,High Noon,OWA0020,GG003
+1931,High Noon,OWA0020,GG009
+1931,High Noon,OWA0020,GG027
+1931,High Noon,OWA0042,GG003
+1931,High Noon,OWA0042,GG009
+1931,High Noon,OWA0042,GG027
+1931,High Noon,OWA0022,GG003
+1931,High Noon,OWA0022,GG009
+1931,High Noon,OWA0022,GG027
+1932,Viva Zapata!,OWA0025,
+1933,"Come Back, Little Sheba",OWA0002,GG002
+1934,The Bad and the Beautiful,OWA0026,
+1934,The Bad and the Beautiful,OWA0034,
+1934,The Bad and the Beautiful,OWA0031,
+1934,The Bad and the Beautiful,OWA0047,
+1934,The Bad and the Beautiful,OWA0024,
+1935,Moulin Rouge,OWA0035,
+1935,Moulin Rouge,OWA0048,
+1935,Moulin Rouge,OWA0003,
+1935,Moulin Rouge,OWA0053,
+1936,The Quiet Man,OWA0032,
+1936,The Quiet Man,OWA0012,
+1937,The Sea around Us,OWA0044,
+1938,Neighbours,OWA0037,
+1939,With a Song in My Heart,OWA0039,GG004
+1939,With a Song in My Heart,OWA0039,GG023
+1940,The Greatest Show on Earth,OWA0045,GG001
+1940,The Greatest Show on Earth,OWA0045,GG011
+1940,The Greatest Show on Earth,OWA0045,GG028
+1940,The Greatest Show on Earth,OWA0046,GG001
+1940,The Greatest Show on Earth,OWA0046,GG011
+1940,The Greatest Show on Earth,OWA0046,GG028
+1941,Johann Mouse,OWA0016,
+1942,Light in the Window: The Art of Vermeer,OWA0028,
+1943,Water Birds,OWA0029,
+1944,Breaking the Sound Barrier,OWA0015,
+1945,Plymouth Adventure,OWA0033,
+1946,The Lavender Hill Mob,OWA0049,
+1947,Stalag 17,OWA0001,
+1948,From Here to Eternity,OWA0025,GG010
+1948,From Here to Eternity,OWA0026,GG010
+1948,From Here to Eternity,OWA0031,GG010
+1948,From Here to Eternity,OWA0012,GG010
+1948,From Here to Eternity,OWA0020,GG010
+1948,From Here to Eternity,OWA0045,GG010
+1948,From Here to Eternity,OWA0015,GG010
+1948,From Here to Eternity,OWA0024,GG010
+1949,Roman Holiday,OWA0002,GG002
+1949,Roman Holiday,OWA0047,GG002
+1949,Roman Holiday,OWA0046,GG002
+1950,Julius Caesar,OWA0034,
+1951,The Robe,OWA0035,GG001
+1951,The Robe,OWA0048,GG001
+1952,Shane,OWA0032,
+1953,The Living Desert,OWA0044,
+1954,The Alaskan Eskimo,OWA0037,
+1955,Lili,OWA0042,
+1956,Call Me Madam,OWA0039,GG023
+1957,Calamity Jane,OWA0022,
+1958,"Toot, Whistle, Plunk and Boom",OWA0016,
+1959,The Merry Wives of Windsor Overture,OWA0028,
+1960,Bear Country,OWA0029,
+1961,The War of the Worlds,OWA0033,
+1962,On the Waterfront,OWA0001,GG001
+1962,On the Waterfront,OWA0026,GG001
+1962,On the Waterfront,OWA0034,GG001
+1962,On the Waterfront,OWA0031,GG001
+1962,On the Waterfront,OWA0012,GG001
+1962,On the Waterfront,OWA0020,GG001
+1962,On the Waterfront,OWA0045,GG001
+1962,On the Waterfront,OWA0049,GG001
+1963,The Barefoot Contessa,OWA0025,
+1964,The Country Girl,OWA0002,
+1964,The Country Girl,OWA0024,
+1965,"20,000 Leagues under the Sea",OWA0035,
+1965,"20,000 Leagues under the Sea",OWA0033,
+1966,Three Coins in the Fountain,OWA0032,
+1966,Three Coins in the Fountain,OWA0022,
+1967,Sabrina,OWA0047,GG012
+1968,Gate of Hell,OWA0048,
+1969,The Vanishing Prairie,OWA0044,
+1970,Thursday's Children,OWA0037,
+1971,The High and the Mighty,OWA0042,
+1972,Seven Brides for Seven Brothers,OWA0039,GG017
+1973,When Magoo Flew,OWA0016,
+1974,This Mechanical Age,OWA0028,
+1975,A Time Out of War,OWA0029,
+1976,The Glenn Miller Story,OWA0015,
+1977,Broken Lance,OWA0046,GG025
+1978,Marty,OWA0001,GG003
+1978,Marty,OWA0012,GG003
+1978,Marty,OWA0045,GG003
+1978,Marty,OWA0024,GG003
+1979,Mister Roberts,OWA0025,
+1980,The Rose Tattoo,OWA0002,GG009
+1980,The Rose Tattoo,OWA0002,GG002
+1980,The Rose Tattoo,OWA0034,GG009
+1980,The Rose Tattoo,OWA0034,GG002
+1980,The Rose Tattoo,OWA0031,GG009
+1980,The Rose Tattoo,OWA0031,GG002
+1981,East of Eden,OWA0026,GG015
+1981,East of Eden,OWA0026,GG001
+1982,Picnic,OWA0035,GG011
+1982,Picnic,OWA0020,GG011
+1983,To Catch a Thief,OWA0032,
+1984,I'll Cry Tomorrow,OWA0047,GG017
+1985,Love Is a Many-Splendored Thing,OWA0048,
+1985,Love Is a Many-Splendored Thing,OWA0042,
+1985,Love Is a Many-Splendored Thing,OWA0022,
+1986,Helen Keller in Her Story,OWA0044,
+1987,Men against the Arctic,OWA0037,
+1988,Oklahoma!,OWA0039,
+1988,Oklahoma!,OWA0015,
+1989,Speedy Gonzales,OWA0016,
+1990,Survival City,OWA0028,
+1991,The Face of Lincoln,OWA0029,
+1992,The Bridges at Toko-Ri,OWA0033,
+1993,Love Me or Leave Me,OWA0046,
+1994,Interrupted Melody,OWA0049,
+1995,The King and I,OWA0001,GG004
+1995,The King and I,OWA0001,GG023
+1995,The King and I,OWA0035,GG004
+1995,The King and I,OWA0035,GG023
+1995,The King and I,OWA0048,GG004
+1995,The King and I,OWA0048,GG023
+1995,The King and I,OWA0039,GG004
+1995,The King and I,OWA0039,GG023
+1995,The King and I,OWA0015,GG004
+1995,The King and I,OWA0015,GG023
+1996,Lust for Life,OWA0025,
+1997,Anastasia,OWA0002,
+1998,Written on the Wind,OWA0026,
+1999,Somebody Up There Likes Me,OWA0034,
+1999,Somebody Up There Likes Me,OWA0031,
+2000,Around the World in 80 Days,OWA0032,GG001
+2000,Around the World in 80 Days,OWA0032,GG006
+2000,Around the World in 80 Days,OWA0020,GG001
+2000,Around the World in 80 Days,OWA0020,GG006
+2000,Around the World in 80 Days,OWA0042,GG001
+2000,Around the World in 80 Days,OWA0042,GG006
+2000,Around the World in 80 Days,OWA0045,GG001
+2000,Around the World in 80 Days,OWA0045,GG006
+2000,Around the World in 80 Days,OWA0051,GG001
+2000,Around the World in 80 Days,OWA0051,GG006
+2001,The Solid Gold Cadillac,OWA0047,
+2002,Giant,OWA0012,
+2003,The Silent World,OWA0044,
+2004,The True Story of the Civil War,OWA0037,
+2005,La Strada,OWA0050,
+2006,Mister Magoo's Puddle Jumper,OWA0016,
+2007,Crashing the Water Barrier,OWA0028,
+2008,The Bespoke Overcoat,OWA0029,
+2009,The Ten Commandments,OWA0033,
+2010,The Brave One,OWA0046,
+2011,The Red Balloon,OWA0052,
+2012,The Bridge on the River Kwai,OWA0001,GG003
+2012,The Bridge on the River Kwai,OWA0001,GG001
+2012,The Bridge on the River Kwai,OWA0004,GG003
+2012,The Bridge on the River Kwai,OWA0004,GG001
+2012,The Bridge on the River Kwai,OWA0012,GG003
+2012,The Bridge on the River Kwai,OWA0012,GG001
+2012,The Bridge on the River Kwai,OWA0020,GG003
+2012,The Bridge on the River Kwai,OWA0020,GG001
+2012,The Bridge on the River Kwai,OWA0021,GG003
+2012,The Bridge on the River Kwai,OWA0021,GG001
+2012,The Bridge on the River Kwai,OWA0045,GG003
+2012,The Bridge on the River Kwai,OWA0045,GG001
+2012,The Bridge on the River Kwai,OWA0055,GG003
+2012,The Bridge on the River Kwai,OWA0055,GG001
+2013,Sayonara,OWA0025,GG017
+2013,Sayonara,OWA0026,GG017
+2013,Sayonara,OWA0003,GG017
+2013,Sayonara,OWA0015,GG017
+2014,The Three Faces of Eve,OWA0002,GG002
+2015,Les Girls,OWA0053,GG004
+2015,Les Girls,OWA0053,GG023
+2016,Albert Schweitzer,OWA0044,
+2017,The Nights of Cabiria,OWA0050,
+2018,The Joker Is Wild,OWA0022,
+2019,Birds Anonymous,OWA0016,
+2020,The Wetback Hound,OWA0054,
+2021,The Enemy Below,OWA0033,
+2022,Designing Woman,OWA0056,
+2023,Separate Tables,OWA0001,GG003
+2023,Separate Tables,OWA0026,GG003
+2024,The Big Country,OWA0025,GG010
+2025,I Want to Live!,OWA0002,
+2026,Gigi,OWA0003,GG030
+2026,Gigi,OWA0003,GG011
+2026,Gigi,OWA0003,GG009
+2026,Gigi,OWA0032,GG030
+2026,Gigi,OWA0032,GG011
+2026,Gigi,OWA0032,GG009
+2026,Gigi,OWA0053,GG030
+2026,Gigi,OWA0053,GG011
+2026,Gigi,OWA0053,GG009
+2026,Gigi,OWA0012,GG030
+2026,Gigi,OWA0012,GG011
+2026,Gigi,OWA0012,GG009
+2026,Gigi,OWA0020,GG030
+2026,Gigi,OWA0020,GG011
+2026,Gigi,OWA0020,GG009
+2026,Gigi,OWA0039,GG030
+2026,Gigi,OWA0039,GG011
+2026,Gigi,OWA0039,GG009
+2026,Gigi,OWA0022,GG030
+2026,Gigi,OWA0022,GG011
+2026,Gigi,OWA0022,GG009
+2026,Gigi,OWA0045,GG030
+2026,Gigi,OWA0045,GG011
+2026,Gigi,OWA0045,GG009
+2026,Gigi,OWA0055,GG030
+2026,Gigi,OWA0055,GG011
+2026,Gigi,OWA0055,GG009
+2027,The Defiant Ones,OWA0031,GG001
+2027,The Defiant Ones,OWA0056,GG001
+2028,White Wilderness,OWA0044,
+2029,Ama Girls,OWA0037,
+2030,My Uncle,OWA0050,
+2031,The Old Man and the Sea,OWA0042,
+2031,The Old Man and the Sea,OWA0075,
+2032,Knighty Knight Bugs,OWA0016,
+2033,Grand Canyon,OWA0054,
+2034,South Pacific,OWA0057,
+2035,tom thumb,OWA0033,
+2036,Room at the Top,OWA0002,
+2036,Room at the Top,OWA0055,
+2037,The Diary of Anne Frank,OWA0026,GG025
+2037,The Diary of Anne Frank,OWA0034,GG025
+2037,The Diary of Anne Frank,OWA0031,GG025
+2038,Serengeti Shall Not Die,OWA0044,
+2039,Black Orpheus,OWA0050,GG022
+2040,Porgy and Bess,OWA0039,GG030
+2041,A Hole in the Head,OWA0022,
+2042,Moonbird,OWA0016,
+2043,The Golden Fish,OWA0054,
+2044,Pillow Talk,OWA0056,
+2045,Elmer Gantry,OWA0001,GG003
+2045,Elmer Gantry,OWA0026,GG003
+2045,Elmer Gantry,OWA0055,GG003
+2046,Spartacus,OWA0025,GG001
+2046,Spartacus,OWA0035,GG001
+2046,Spartacus,OWA0032,GG001
+2046,Spartacus,OWA0048,GG001
+2047,Butterfield 8,OWA0002,
+2048,Sons and Lovers,OWA0031,GG011
+2049,The Facts of Life,OWA0047,
+2050,The Horse with the Flying Tail,OWA0044,
+2051,Giuseppina,OWA0037,
+2052,The Virgin Spring,OWA0050,GG022
+2053,Exodus,OWA0042,GG010
+2054,Song without End (The Story of Franz Liszt),OWA0039,
+2055,Never on Sunday,OWA0022,
+2056,Munro,OWA0016,
+2057,Day of the Painter,OWA0054,
+2058,The Alamo,OWA0057,
+2059,The Time Machine,OWA0033,
+2060,Judgment at Nuremberg,OWA0001,GG003
+2060,Judgment at Nuremberg,OWA0001,GG011
+2060,Judgment at Nuremberg,OWA0055,GG003
+2060,Judgment at Nuremberg,OWA0055,GG011
+2061,Two Women,OWA0002,GG022
+2062,The Hustler,OWA0034,
+2062,The Hustler,OWA0031,
+2063,La Dolce Vita,OWA0047,
+2064,Le Ciel et la Boue (Sky Above and Mud Beneath),OWA0044,
+2065,Project Hope,OWA0037,
+2066,Through a Glass Darkly,OWA0050,
+2067,Ersatz (The Substitute),OWA0016,
+2068,Seawards the Great Ships,OWA0054,
+2069,The Guns of Navarone,OWA0033,
+2070,Splendor in the Grass,OWA0056,GG017
+2071,Sweet Bird of Youth,OWA0025,GG002
+2072,The Miracle Worker,OWA0002,
+2072,The Miracle Worker,OWA0026,
+2073,The Longest Day,OWA0031,GG027
+2073,The Longest Day,OWA0033,GG027
+2074,What Ever Happened to Baby Jane?,OWA0047,
+2075,The Wonderful World of the Brothers Grimm,OWA0048,
+2076,Black Fox,OWA0044,
+2077,Dylan Thomas,OWA0037,
+2078,Sundays and Cybele,OWA0050,
+2079,Meredith Willson's The Music Man,OWA0059,
+2080,Days of Wine and Roses,OWA0022,
+2081,The Hole,OWA0016,
+2082,Heureux Anniversaire (Happy Anniversary),OWA0054,
+2083,Divorce--Italian Style,OWA0056,
+2084,Lilies of the Field,OWA0001,GG003
+2084,Lilies of the Field,OWA0001,GG025
+2085,Hud,OWA0025,
+2085,Hud,OWA0002,
+2085,Hud,OWA0031,
+2086,The V.I.P.s,OWA0026,
+2087,America America,OWA0034,
+2088,Federico Fellini's 8-1/2,OWA0047,
+2088,Federico Fellini's 8-1/2,OWA0050,
+2089,Tom Jones,OWA0012,GG004
+2089,Tom Jones,OWA0012,GG017
+2089,Tom Jones,OWA0058,GG004
+2089,Tom Jones,OWA0058,GG017
+2089,Tom Jones,OWA0060,GG004
+2089,Tom Jones,OWA0060,GG017
+2089,Tom Jones,OWA0055,GG004
+2089,Tom Jones,OWA0055,GG017
+2090,Robert Frost: A Lover's Quarrel with the World,OWA0044,
+2091,Chagall,OWA0037,
+2092,How the West Was Won,OWA0020,
+2092,How the West Was Won,OWA0057,
+2092,How the West Was Won,OWA0056,
+2093,Irma La Douce,OWA0059,GG023
+2094,Papa's Delicate Condition,OWA0022,
+2095,The Critic,OWA0016,
+2096,An Occurrence at Owl Creek Bridge,OWA0054,
+2097,"It's a Mad, Mad, Mad, Mad World",OWA0061,
+2098,My Fair Lady,OWA0001,GG011
+2098,My Fair Lady,OWA0001,GG006
+2098,My Fair Lady,OWA0035,GG011
+2098,My Fair Lady,OWA0035,GG006
+2098,My Fair Lady,OWA0032,GG011
+2098,My Fair Lady,OWA0032,GG006
+2098,My Fair Lady,OWA0048,GG011
+2098,My Fair Lady,OWA0048,GG006
+2098,My Fair Lady,OWA0012,GG011
+2098,My Fair Lady,OWA0012,GG006
+2098,My Fair Lady,OWA0059,GG011
+2098,My Fair Lady,OWA0059,GG006
+2098,My Fair Lady,OWA0060,GG011
+2098,My Fair Lady,OWA0060,GG006
+2098,My Fair Lady,OWA0057,GG011
+2098,My Fair Lady,OWA0057,GG006
+2099,Topkapi,OWA0025,
+2100,Zorba the Greek,OWA0026,
+2100,Zorba the Greek,OWA0034,
+2100,Zorba the Greek,OWA0031,
+2101,The Night of the Iguana,OWA0047,
+2102,Jacques-Yves Cousteau's World without Sun,OWA0044,
+2103,Nine from Little Rock,OWA0037,
+2104,"Yesterday, Today and Tomorrow",OWA0050,GG024
+2105,The Pink Phink,OWA0016,
+2106,Casals Conducts: 1964,OWA0054,
+2107,Becket,OWA0055,
+2108,Father Goose,OWA0056,
+2109,Cat Ballou,OWA0001,GG006
+2110,A Thousand Clowns,OWA0025,
+2111,Darling,OWA0002,GG021
+2111,Darling,OWA0047,GG021
+2111,Darling,OWA0056,GG021
+2112,A Patch of Blue,OWA0026,GG016
+2113,Ship of Fools,OWA0034,
+2113,Ship of Fools,OWA0031,
+2114,The Eleanor Roosevelt Story,OWA0044,
+2115,To Be Alive!,OWA0037,
+2116,The Shop on Main Street,OWA0050,
+2117,The Sandpiper,OWA0022,
+2118,The Dot and the Line,OWA0016,
+2119,The Chicken (Le Poulet),OWA0054,
+2120,The Great Race,OWA0061,
+2121,Thunderball,OWA0062,
+2122,A Man for All Seasons,OWA0001,GG003
+2122,A Man for All Seasons,OWA0001,GG001
+2122,A Man for All Seasons,OWA0001,GG011
+2122,A Man for All Seasons,OWA0032,GG003
+2122,A Man for All Seasons,OWA0032,GG001
+2122,A Man for All Seasons,OWA0032,GG011
+2122,A Man for All Seasons,OWA0048,GG003
+2122,A Man for All Seasons,OWA0048,GG001
+2122,A Man for All Seasons,OWA0048,GG011
+2122,A Man for All Seasons,OWA0012,GG003
+2122,A Man for All Seasons,OWA0012,GG001
+2122,A Man for All Seasons,OWA0012,GG011
+2122,A Man for All Seasons,OWA0060,GG003
+2122,A Man for All Seasons,OWA0060,GG001
+2122,A Man for All Seasons,OWA0060,GG011
+2122,A Man for All Seasons,OWA0055,GG003
+2122,A Man for All Seasons,OWA0055,GG001
+2122,A Man for All Seasons,OWA0055,GG011
+2123,The Fortune Cookie,OWA0025,
+2124,Who's Afraid of Virginia Woolf?,OWA0002,
+2124,Who's Afraid of Virginia Woolf?,OWA0026,
+2124,Who's Afraid of Virginia Woolf?,OWA0034,
+2124,Who's Afraid of Virginia Woolf?,OWA0031,
+2124,Who's Afraid of Virginia Woolf?,OWA0047,
+2125,Fantastic Voyage,OWA0035,
+2125,Fantastic Voyage,OWA0062,
+2126,The War Game,OWA0044,
+2127,A Year toward Tomorrow,OWA0037,
+2128,Grand Prix,OWA0020,
+2128,Grand Prix,OWA0057,
+2128,Grand Prix,OWA0061,
+2129,A Man and a Woman,OWA0050,
+2129,A Man and a Woman,OWA0056,
+2130,Born Free,OWA0063,
+2130,Born Free,OWA0022,
+2131,A Funny Thing Happened on the Way to the Forum,OWA0059,
+2132,Herb Alpert and the Tijuana Brass Double Feature,OWA0016,
+2133,Wild Wings,OWA0054,
+2134,In the Heat of the Night,OWA0001,GG003
+2134,In the Heat of the Night,OWA0001,GG001
+2134,In the Heat of the Night,OWA0020,GG003
+2134,In the Heat of the Night,OWA0020,GG001
+2134,In the Heat of the Night,OWA0060,GG003
+2134,In the Heat of the Night,OWA0060,GG001
+2134,In the Heat of the Night,OWA0057,GG003
+2134,In the Heat of the Night,OWA0057,GG001
+2134,In the Heat of the Night,OWA0055,GG003
+2134,In the Heat of the Night,OWA0055,GG001
+2135,Cool Hand Luke,OWA0025,
+2136,Guess Who's Coming to Dinner,OWA0002,
+2136,Guess Who's Coming to Dinner,OWA0056,
+2137,Camelot,OWA0003,GG013
+2137,Camelot,OWA0003,GG006
+2137,Camelot,OWA0003,GG014
+2137,Camelot,OWA0053,GG013
+2137,Camelot,OWA0053,GG006
+2137,Camelot,OWA0053,GG014
+2137,Camelot,OWA0059,GG013
+2137,Camelot,OWA0059,GG006
+2137,Camelot,OWA0059,GG014
+2138,The Anderson Platoon,OWA0044,
+2139,The Redwoods,OWA0037,
+2140,Closely Watched Trains,OWA0050,
+2141,Thoroughly Modern Millie,OWA0063,GG009
+2142,Doctor Dolittle,OWA0022,GG010
+2142,Doctor Dolittle,OWA0062,GG010
+2143,The Box,OWA0016,
+2144,A Place to Stand,OWA0054,
+2145,Charly,OWA0001,GG012
+2146,The Subject Was Roses,OWA0025,
+2147,The Lion in Winter,OWA0002,GG003
+2147,The Lion in Winter,OWA0002,GG001
+2147,The Lion in Winter,OWA0064,GG003
+2147,The Lion in Winter,OWA0064,GG001
+2147,The Lion in Winter,OWA0055,GG003
+2147,The Lion in Winter,OWA0055,GG001
+2148,Funny Girl,OWA0002,GG023
+2149,Oliver!,OWA0003,GG004
+2149,Oliver!,OWA0003,GG006
+2149,Oliver!,OWA0012,GG004
+2149,Oliver!,OWA0012,GG006
+2149,Oliver!,OWA0065,GG004
+2149,Oliver!,OWA0065,GG006
+2149,Oliver!,OWA0060,GG004
+2149,Oliver!,OWA0060,GG006
+2149,Oliver!,OWA0057,GG004
+2149,Oliver!,OWA0057,GG006
+2150,Romeo and Juliet,OWA0004,GG016
+2150,Romeo and Juliet,OWA0004,GG017
+2150,Romeo and Juliet,OWA0004,GG021
+2150,Romeo and Juliet,OWA0053,GG016
+2150,Romeo and Juliet,OWA0053,GG017
+2150,Romeo and Juliet,OWA0053,GG021
+2151,Journey into Self,OWA0044,
+2152,Why Man Creates,OWA0037,
+2153,Bullitt,OWA0020,
+2154,War and Peace,OWA0050,GG022
+2155,The Thomas Crown Affair,OWA0066,GG014
+2156,Winnie the Pooh and the Blustery Day,OWA0016,
+2157,Robert Kennedy Remembered,OWA0054,
+2158,The Producers,OWA0056,
+2159,True Grit,OWA0001,GG003
+2160,"They Shoot Horses, Don't They?",OWA0025,GG010
+2161,The Prime of Miss Jean Brodie,OWA0002,GG014
+2162,Cactus Flower,OWA0026,GG009
+2163,"Hello, Dolly!",OWA0003,
+2163,"Hello, Dolly!",OWA0065,
+2163,"Hello, Dolly!",OWA0057,
+2164,Butch Cassidy and the Sundance Kid,OWA0004,
+2164,Butch Cassidy and the Sundance Kid,OWA0064,
+2164,Butch Cassidy and the Sundance Kid,OWA0066,
+2164,Butch Cassidy and the Sundance Kid,OWA0067,
+2165,Anne of the Thousand Days,OWA0053,GG012
+2165,Anne of the Thousand Days,OWA0053,GG001
+2165,Anne of the Thousand Days,OWA0053,GG011
+2165,Anne of the Thousand Days,OWA0053,GG002
+2166,Midnight Cowboy,OWA0012,GG017
+2166,Midnight Cowboy,OWA0060,GG017
+2166,Midnight Cowboy,OWA0055,GG017
+2167,Arthur Rubinstein - The Love of Life,OWA0044,
+2168,Czechoslovakia 1968,OWA0037,
+2169,Z,OWA0020,GG022
+2169,Z,OWA0050,GG022
+2170,It's Tough to Be a Bird,OWA0016,
+2171,The Magic Machines,OWA0054,
+2172,Marooned,OWA0062,
+2173,Patton,OWA0001,
+2173,Patton,OWA0003,
+2173,Patton,OWA0012,
+2173,Patton,OWA0020,
+2173,Patton,OWA0060,
+2173,Patton,OWA0057,
+2173,Patton,OWA0069,
+2174,Ryan's Daughter,OWA0025,GG010
+2174,Ryan's Daughter,OWA0004,GG010
+2175,Women in Love,OWA0002,
+2176,Airport,OWA0026,GG009
+2177,Cromwell,OWA0053,
+2178,Woodstock,OWA0044,
+2179,Interviews with My Lai Veterans,OWA0037,
+2180,Investigation of a Citizen above Suspicion,OWA0050,
+2181,Let It Be,OWA0068,
+2182,Lovers and Other Strangers,OWA0066,
+2183,Is It Always Right to Be Right?,OWA0016,
+2184,The Resurrection of Broncho Billy,OWA0054,
+2185,Tora! Tora! Tora!,OWA0062,
+2186,M*A*S*H,OWA0055,GG004
+2187,The French Connection,OWA0001,GG003
+2187,The French Connection,OWA0001,GG011
+2187,The French Connection,OWA0012,GG003
+2187,The French Connection,OWA0012,GG011
+2187,The French Connection,OWA0020,GG003
+2187,The French Connection,OWA0020,GG011
+2187,The French Connection,OWA0060,GG003
+2187,The French Connection,OWA0060,GG011
+2187,The French Connection,OWA0055,GG003
+2187,The French Connection,OWA0055,GG011
+2188,The Last Picture Show,OWA0025,GG010
+2188,The Last Picture Show,OWA0026,GG010
+2189,Klute,OWA0002,
+2190,Nicholas and Alexandra,OWA0003,
+2190,Nicholas and Alexandra,OWA0053,
+2191,The Hellstrom Chronicle,OWA0044,
+2192,Sentinels of Silence,OWA0037,
+2192,Sentinels of Silence,OWA0054,
+2193,The Garden of the Finzi Continis,OWA0050,
+2194,Summer of '42,OWA0070,
+2195,Shaft,OWA0066,GG013
+2196,The Crunch Bird,OWA0072,
+2197,Bedknobs and Broomsticks,OWA0062,
+2198,Cabaret,OWA0025,GG004
+2198,Cabaret,OWA0025,GG005
+2198,Cabaret,OWA0025,GG010
+2198,Cabaret,OWA0002,GG004
+2198,Cabaret,OWA0002,GG005
+2198,Cabaret,OWA0002,GG010
+2198,Cabaret,OWA0003,GG004
+2198,Cabaret,OWA0003,GG005
+2198,Cabaret,OWA0003,GG010
+2198,Cabaret,OWA0004,GG004
+2198,Cabaret,OWA0004,GG005
+2198,Cabaret,OWA0004,GG010
+2198,Cabaret,OWA0012,GG004
+2198,Cabaret,OWA0012,GG005
+2198,Cabaret,OWA0012,GG010
+2198,Cabaret,OWA0020,GG004
+2198,Cabaret,OWA0020,GG005
+2198,Cabaret,OWA0020,GG010
+2198,Cabaret,OWA0071,GG004
+2198,Cabaret,OWA0071,GG005
+2198,Cabaret,OWA0071,GG010
+2198,Cabaret,OWA0057,GG004
+2198,Cabaret,OWA0057,GG005
+2198,Cabaret,OWA0057,GG010
+2199,Butterflies Are Free,OWA0026,GG017
+2200,Travels with My Aunt,OWA0053,
+2201,Marjoe,OWA0044,
+2202,This Tiny World,OWA0037,
+2203,The Discreet Charm of the Bourgeoisie,OWA0050,
+2204,Limelight,OWA0070,
+2205,The Poseidon Adventure,OWA0066,GG009
+2205,The Poseidon Adventure,OWA0073,GG009
+2206,Norman Rockwell's World...An American Dream,OWA0054,
+2207,The Candidate,OWA0069,
+2208,Save the Tiger,OWA0001,
+2209,The Paper Chase,OWA0025,GG010
+2210,A Touch of Class,OWA0002,GG005
+2210,A Touch of Class,OWA0002,GG006
+2211,The Sting,OWA0003,
+2211,The Sting,OWA0053,
+2211,The Sting,OWA0012,
+2211,The Sting,OWA0020,
+2211,The Sting,OWA0074,
+2211,The Sting,OWA0060,
+2211,The Sting,OWA0069,
+2212,Cries and Whispers,OWA0004,
+2213,The Great American Cowboy,OWA0044,
+2214,Princeton: A Search for Answers,OWA0037,
+2215,Day for Night,OWA0050,
+2216,The Way We Were,OWA0070,
+2216,The Way We Were,OWA0022,
+2217,Frank Film,OWA0072,
+2218,The Bolero,OWA0054,
+2219,Harry and Tonto,OWA0001,
+2220,Alice Doesn't Live Here Anymore,OWA0002,
+2221,The Towering Inferno,OWA0004,GG016
+2221,The Towering Inferno,OWA0004,GG010
+2221,The Towering Inferno,OWA0020,GG016
+2221,The Towering Inferno,OWA0020,GG010
+2221,The Towering Inferno,OWA0022,GG016
+2221,The Towering Inferno,OWA0022,GG010
+2222,Hearts and Minds,OWA0044,
+2223,Don't,OWA0037,
+2224,Amarcord,OWA0050,
+2225,Closed Mondays,OWA0075,
+2226,One-Eyed Men Are Kings,OWA0076,
+2227,Earthquake,OWA0057,
+2227,Earthquake,OWA0073,
+2228,One Flew over the Cuckoo's Nest,OWA0001,
+2228,One Flew over the Cuckoo's Nest,OWA0002,
+2228,One Flew over the Cuckoo's Nest,OWA0012,
+2228,One Flew over the Cuckoo's Nest,OWA0060,
+2228,One Flew over the Cuckoo's Nest,OWA0077,
+2229,The Sunshine Boys,OWA0025,GG004
+2229,The Sunshine Boys,OWA0025,GG010
+2230,Shampoo,OWA0026,
+2231,The Man Who Skied down Everest,OWA0044,
+2232,The End of the Game,OWA0037,
+2233,Dersu Uzala,OWA0050,
+2234,Nashville,OWA0078,GG014
+2235,Great,OWA0075,
+2236,Angel and Big Joe,OWA0076,
+2237,The Hindenburg,OWA0079,
+2237,The Hindenburg,OWA0073,
+2238,All the President's Men,OWA0025,
+2238,All the President's Men,OWA0003,
+2238,All the President's Men,OWA0057,
+2238,All the President's Men,OWA0055,
+2239,Bound for Glory,OWA0004,
+2239,Bound for Glory,OWA0082,
+2240,Fellini's Casanova,OWA0053,
+2241,"Harlan County, U.S.A.",OWA0044,
+2242,Number Our Days,OWA0037,
+2243,Black and White in Color,OWA0050,
+2244,The Omen,OWA0030,
+2245,Leisure,OWA0075,
+2246,In the Region of Ice,OWA0076,
+2247,Logan's Run,OWA0073,
+2248,The Goodbye Girl,OWA0080,GG012
+2248,The Goodbye Girl,OWA0080,GG004
+2248,The Goodbye Girl,OWA0080,GG005
+2248,The Goodbye Girl,OWA0080,GG006
+2249,Julia,OWA0025,
+2249,Julia,OWA0026,
+2249,Julia,OWA0055,
+2250,Annie Hall,OWA0081,
+2250,Annie Hall,OWA0012,
+2250,Annie Hall,OWA0060,
+2250,Annie Hall,OWA0083,
+2251,Star Wars,OWA0003,
+2251,Star Wars,OWA0053,
+2251,Star Wars,OWA0020,
+2251,Star Wars,OWA0030,
+2251,Star Wars,OWA0057,
+2251,Star Wars,OWA0084,
+2252,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,OWA0044,
+2253,Gravity Is My Enemy,OWA0037,
+2254,Madame Rosa,OWA0050,
+2255,A Little Night Music,OWA0082,
+2256,You Light Up My Life,OWA0078,GG014
+2257,The Sand Castle,OWA0075,
+2258,I'll Find a Way,OWA0076,
+2259,Coming Home,OWA0080,GG003
+2259,Coming Home,OWA0080,GG002
+2259,Coming Home,OWA0081,GG003
+2259,Coming Home,OWA0081,GG002
+2259,Coming Home,OWA0088,GG003
+2259,Coming Home,OWA0088,GG002
+2260,California Suite,OWA0026,GG005
+2261,Heaven Can Wait,OWA0003,GG004
+2261,Heaven Can Wait,OWA0003,GG009
+2261,Heaven Can Wait,OWA0003,GG006
+2262,Days of Heaven,OWA0004,
+2263,Scared Straight!,OWA0044,
+2264,The Flight of the Gossamer Condor,OWA0037,
+2265,Get Out Your Handkerchiefs,OWA0050,
+2266,The Buddy Holly Story,OWA0086,
+2267,Midnight Express,OWA0030,GG012
+2267,Midnight Express,OWA0030,GG001
+2267,Midnight Express,OWA0030,GG016
+2267,Midnight Express,OWA0030,GG017
+2267,Midnight Express,OWA0087,GG012
+2267,Midnight Express,OWA0087,GG001
+2267,Midnight Express,OWA0087,GG016
+2267,Midnight Express,OWA0087,GG017
+2268,Thank God It's Friday,OWA0078,GG014
+2269,Special Delivery,OWA0075,
+2270,Teenage Father,OWA0076,
+2271,Kramer vs. Kramer,OWA0080,GG001
+2271,Kramer vs. Kramer,OWA0026,GG001
+2271,Kramer vs. Kramer,OWA0012,GG001
+2271,Kramer vs. Kramer,OWA0060,GG001
+2271,Kramer vs. Kramer,OWA0087,GG001
+2272,Being There,OWA0025,GG006
+2272,Being There,OWA0025,GG010
+2273,Norma Rae,OWA0081,
+2273,Norma Rae,OWA0078,
+2274,All That Jazz,OWA0003,
+2274,All That Jazz,OWA0053,
+2274,All That Jazz,OWA0020,
+2274,All That Jazz,OWA0089,
+2275,Best Boy,OWA0044,
+2276,Paul Robeson: Tribute to an Artist,OWA0037,
+2277,The Tin Drum,OWA0050,
+2278,A Little Romance,OWA0030,
+2279,Every Child,OWA0075,
+2280,Board and Care,OWA0076,
+2281,Breaking Away,OWA0088,GG004
+2282,The Black Stallion,OWA0090,
+2283,Ordinary People,OWA0025,GG001
+2283,Ordinary People,OWA0025,GG017
+2283,Ordinary People,OWA0025,GG010
+2283,Ordinary People,OWA0025,GG002
+2283,Ordinary People,OWA0012,GG001
+2283,Ordinary People,OWA0012,GG017
+2283,Ordinary People,OWA0012,GG010
+2283,Ordinary People,OWA0012,GG002
+2283,Ordinary People,OWA0060,GG001
+2283,Ordinary People,OWA0060,GG017
+2283,Ordinary People,OWA0060,GG010
+2283,Ordinary People,OWA0060,GG002
+2283,Ordinary People,OWA0087,GG001
+2283,Ordinary People,OWA0087,GG017
+2283,Ordinary People,OWA0087,GG010
+2283,Ordinary People,OWA0087,GG002
+2284,Coal Miner's Daughter,OWA0081,GG004
+2285,Melvin and Howard,OWA0026,GG009
+2285,Melvin and Howard,OWA0088,GG009
+2286,Tess,OWA0003,GG016
+2286,Tess,OWA0004,GG016
+2286,Tess,OWA0053,GG016
+2287,From Mao to Mozart: Isaac Stern in China,OWA0044,
+2288,Karl Hess: Toward Liberty,OWA0037,
+2289,Moscow Does Not Believe in Tears,OWA0050,
+2290,Fame,OWA0030,GG014
+2290,Fame,OWA0078,GG014
+2291,The Dollar Bottom,OWA0091,
+2292,The Empire Strikes Back,OWA0057,
+2292,The Empire Strikes Back,OWA0073,
+2293,On Golden Pond,OWA0080,GG003
+2293,On Golden Pond,OWA0080,GG001
+2293,On Golden Pond,OWA0081,GG003
+2293,On Golden Pond,OWA0081,GG001
+2293,On Golden Pond,OWA0087,GG003
+2293,On Golden Pond,OWA0087,GG001
+2294,Arthur,OWA0025,GG004
+2294,Arthur,OWA0025,GG010
+2294,Arthur,OWA0025,GG014
+2294,Arthur,OWA0078,GG004
+2294,Arthur,OWA0078,GG010
+2294,Arthur,OWA0078,GG014
+2295,Reds,OWA0026,GG011
+2295,Reds,OWA0004,GG011
+2295,Reds,OWA0012,GG011
+2296,Chariots of Fire,OWA0053,GG008
+2296,Chariots of Fire,OWA0030,GG008
+2296,Chariots of Fire,OWA0060,GG008
+2296,Chariots of Fire,OWA0088,GG008
+2297,Genocide,OWA0044,
+2298,Close Harmony,OWA0037,
+2299,Mephisto,OWA0050,
+2300,Crac,OWA0075,
+2301,Violet,OWA0076,
+2302,Gandhi,OWA0080,GG003
+2302,Gandhi,OWA0080,GG012
+2302,Gandhi,OWA0080,GG017
+2302,Gandhi,OWA0080,GG011
+2302,Gandhi,OWA0080,GG008
+2302,Gandhi,OWA0003,GG003
+2302,Gandhi,OWA0003,GG012
+2302,Gandhi,OWA0003,GG017
+2302,Gandhi,OWA0003,GG011
+2302,Gandhi,OWA0003,GG008
+2302,Gandhi,OWA0004,GG003
+2302,Gandhi,OWA0004,GG012
+2302,Gandhi,OWA0004,GG017
+2302,Gandhi,OWA0004,GG011
+2302,Gandhi,OWA0004,GG008
+2302,Gandhi,OWA0053,GG003
+2302,Gandhi,OWA0053,GG012
+2302,Gandhi,OWA0053,GG017
+2302,Gandhi,OWA0053,GG011
+2302,Gandhi,OWA0053,GG008
+2302,Gandhi,OWA0012,GG003
+2302,Gandhi,OWA0012,GG012
+2302,Gandhi,OWA0012,GG017
+2302,Gandhi,OWA0012,GG011
+2302,Gandhi,OWA0012,GG008
+2302,Gandhi,OWA0020,GG003
+2302,Gandhi,OWA0020,GG012
+2302,Gandhi,OWA0020,GG017
+2302,Gandhi,OWA0020,GG011
+2302,Gandhi,OWA0020,GG008
+2302,Gandhi,OWA0060,GG003
+2302,Gandhi,OWA0060,GG012
+2302,Gandhi,OWA0060,GG017
+2302,Gandhi,OWA0060,GG011
+2302,Gandhi,OWA0060,GG008
+2302,Gandhi,OWA0088,GG003
+2302,Gandhi,OWA0088,GG012
+2302,Gandhi,OWA0088,GG017
+2302,Gandhi,OWA0088,GG011
+2302,Gandhi,OWA0088,GG008
+2303,An Officer and a Gentleman,OWA0025,
+2303,An Officer and a Gentleman,OWA0078,
+2304,Tootsie,OWA0026,GG006
+2305,Just Another Missing Kid,OWA0044,
+2306,If You Love This Planet,OWA0037,
+2307,Volver a Empezar ('To Begin Again'),OWA0050,
+2308,Quest for Fire,OWA0092,
+2309,E.T. The Extra-Terrestrial,OWA0030,
+2309,E.T. The Extra-Terrestrial,OWA0057,
+2309,E.T. The Extra-Terrestrial,OWA0093,
+2309,E.T. The Extra-Terrestrial,OWA0084,
+2310,Victor/Victoria,OWA0089,
+2311,Tango,OWA0075,
+2312,A Shocking Accident,OWA0076,
+2313,Missing,OWA0087,
+2314,Tender Mercies,OWA0080,GG003
+2314,Tender Mercies,OWA0088,GG003
+2315,Terms of Endearment,OWA0025,GG001
+2315,Terms of Endearment,OWA0025,GG010
+2315,Terms of Endearment,OWA0081,GG001
+2315,Terms of Endearment,OWA0081,GG010
+2315,Terms of Endearment,OWA0012,GG001
+2315,Terms of Endearment,OWA0012,GG010
+2315,Terms of Endearment,OWA0060,GG001
+2315,Terms of Endearment,OWA0060,GG010
+2315,Terms of Endearment,OWA0087,GG001
+2315,Terms of Endearment,OWA0087,GG010
+2316,The Year of Living Dangerously,OWA0026,
+2317,Fanny & Alexander,OWA0003,GG008
+2317,Fanny & Alexander,OWA0004,GG008
+2317,Fanny & Alexander,OWA0053,GG008
+2317,Fanny & Alexander,OWA0050,GG008
+2318,He Makes Me Feel Like Dancin',OWA0044,
+2319,Flamenco at 5:15,OWA0037,
+2320,The Right Stuff,OWA0020,
+2320,The Right Stuff,OWA0030,
+2320,The Right Stuff,OWA0057,
+2320,The Right Stuff,OWA0093,
+2321,Yentl,OWA0094,GG004
+2321,Yentl,OWA0094,GG011
+2322,Flashdance,OWA0078,GG013
+2322,Flashdance,OWA0078,GG014
+2323,Sundae in New York,OWA0075,
+2324,Boys and Girls,OWA0076,
+2325,Return of the Jedi,OWA0073,
+2326,The Killing Fields,OWA0025,GG010
+2326,The Killing Fields,OWA0004,GG010
+2326,The Killing Fields,OWA0020,GG010
+2327,Places in the Heart,OWA0081,GG002
+2327,Places in the Heart,OWA0088,GG002
+2328,A Passage to India,OWA0026,GG008
+2328,A Passage to India,OWA0026,GG009
+2328,A Passage to India,OWA0030,GG008
+2328,A Passage to India,OWA0030,GG009
+2329,The Times of Harvey Milk,OWA0044,
+2330,The Stone Carvers,OWA0037,
+2331,Dangerous Moves,OWA0050,
+2332,Purple Rain,OWA0068,
+2333,The Woman in Red,OWA0078,GG014
+2334,Up,OWA0076,GG013
+2334,Up,OWA0076,GG007
+2334,Up,OWA0098,GG013
+2334,Up,OWA0098,GG007
+2334,Up,OWA0030,GG013
+2334,Up,OWA0030,GG007
+2335,The River,OWA0085,
+2336,Kiss of the Spider Woman,OWA0080,
+2337,Cocoon,OWA0025,
+2337,Cocoon,OWA0084,
+2338,The Trip to Bountiful,OWA0081,
+2339,Prizzi's Honor,OWA0026,GG004
+2339,Prizzi's Honor,OWA0026,GG005
+2339,Prizzi's Honor,OWA0026,GG006
+2340,Out of Africa,OWA0003,GG001
+2340,Out of Africa,OWA0003,GG010
+2340,Out of Africa,OWA0004,GG001
+2340,Out of Africa,OWA0004,GG010
+2340,Out of Africa,OWA0012,GG001
+2340,Out of Africa,OWA0012,GG010
+2340,Out of Africa,OWA0030,GG001
+2340,Out of Africa,OWA0030,GG010
+2340,Out of Africa,OWA0060,GG001
+2340,Out of Africa,OWA0060,GG010
+2340,Out of Africa,OWA0057,GG001
+2340,Out of Africa,OWA0057,GG010
+2340,Out of Africa,OWA0087,GG001
+2340,Out of Africa,OWA0087,GG010
+2341,Ran,OWA0053,
+2342,Broken Rainbow,OWA0044,
+2343,Witness to War: Dr. Charlie Clements,OWA0037,
+2344,The Official Story,OWA0050,GG008
+2345,White Nights,OWA0078,GG014
+2346,Anna & Bella,OWA0075,
+2347,Molly's Pilgrim,OWA0076,
+2348,The Color of Money,OWA0080,
+2349,Hannah and Her Sisters,OWA0025,GG004
+2349,Hannah and Her Sisters,OWA0026,GG004
+2349,Hannah and Her Sisters,OWA0088,GG004
+2350,Children of a Lesser God,OWA0081,GG002
+2351,A Room with a View,OWA0003,
+2351,A Room with a View,OWA0053,
+2351,A Room with a View,OWA0087,
+2352,The Mission,OWA0004,GG012
+2353,Artie Shaw: Time Is All You've Got,OWA0044,
+2354,Down and Out in America,OWA0044,
+2355,"Women--for America, for the World",OWA0037,
+2356,The Assault,OWA0050,
+2357,'Round Midnight,OWA0030,
+2358,A Greek Tragedy,OWA0075,
+2359,Precious Images,OWA0076,
+2360,Wall Street,OWA0080,GG003
+2361,The Last Emperor,OWA0003,GG012
+2361,The Last Emperor,OWA0003,GG001
+2361,The Last Emperor,OWA0003,GG013
+2361,The Last Emperor,OWA0003,GG011
+2361,The Last Emperor,OWA0004,GG012
+2361,The Last Emperor,OWA0004,GG001
+2361,The Last Emperor,OWA0004,GG013
+2361,The Last Emperor,OWA0004,GG011
+2361,The Last Emperor,OWA0053,GG012
+2361,The Last Emperor,OWA0053,GG001
+2361,The Last Emperor,OWA0053,GG013
+2361,The Last Emperor,OWA0053,GG011
+2361,The Last Emperor,OWA0012,GG012
+2361,The Last Emperor,OWA0012,GG001
+2361,The Last Emperor,OWA0012,GG013
+2361,The Last Emperor,OWA0012,GG011
+2361,The Last Emperor,OWA0020,GG012
+2361,The Last Emperor,OWA0020,GG001
+2361,The Last Emperor,OWA0020,GG013
+2361,The Last Emperor,OWA0020,GG011
+2361,The Last Emperor,OWA0030,GG012
+2361,The Last Emperor,OWA0030,GG001
+2361,The Last Emperor,OWA0030,GG013
+2361,The Last Emperor,OWA0030,GG011
+2361,The Last Emperor,OWA0060,GG012
+2361,The Last Emperor,OWA0060,GG001
+2361,The Last Emperor,OWA0060,GG013
+2361,The Last Emperor,OWA0060,GG011
+2361,The Last Emperor,OWA0057,GG012
+2361,The Last Emperor,OWA0057,GG001
+2361,The Last Emperor,OWA0057,GG013
+2361,The Last Emperor,OWA0057,GG011
+2361,The Last Emperor,OWA0087,GG012
+2361,The Last Emperor,OWA0087,GG001
+2361,The Last Emperor,OWA0087,GG013
+2361,The Last Emperor,OWA0087,GG011
+2362,The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,OWA0044,
+2363,Young at Heart,OWA0037,
+2364,Babette's Feast,OWA0050,
+2365,Harry and the Hendersons,OWA0092,
+2366,The Man Who Planted Trees,OWA0075,
+2367,Ray's Male Heterosexual Dance Hall,OWA0076,
+2368,Innerspace,OWA0084,
+2369,A Fish Called Wanda,OWA0025,
+2370,The Accused,OWA0081,
+2371,The Accidental Tourist,OWA0026,
+2372,Dangerous Liaisons,OWA0003,
+2372,Dangerous Liaisons,OWA0053,
+2372,Dangerous Liaisons,OWA0087,
+2373,Mississippi Burning,OWA0004,
+2374,Hotel Terminus: The Life and Times of Klaus Barbie,OWA0044,
+2375,You Don't Have to Die,OWA0037,
+2376,Pelle the Conqueror,OWA0050,
+2377,The Milagro Beanfield War,OWA0030,
+2378,Working Girl,OWA0078,GG004
+2378,Working Girl,OWA0078,GG009
+2379,Tin Toy,OWA0075,
+2380,The Appointments of Dennis Jennings,OWA0076,
+2381,Bird,OWA0057,
+2382,My Left Foot,OWA0080,
+2382,My Left Foot,OWA0026,
+2383,Driving Miss Daisy,OWA0081,GG004
+2383,Driving Miss Daisy,OWA0081,GG005
+2383,Driving Miss Daisy,OWA0081,GG006
+2383,Driving Miss Daisy,OWA0092,GG004
+2383,Driving Miss Daisy,OWA0092,GG005
+2383,Driving Miss Daisy,OWA0092,GG006
+2383,Driving Miss Daisy,OWA0060,GG004
+2383,Driving Miss Daisy,OWA0060,GG005
+2383,Driving Miss Daisy,OWA0060,GG006
+2383,Driving Miss Daisy,OWA0087,GG004
+2383,Driving Miss Daisy,OWA0087,GG005
+2383,Driving Miss Daisy,OWA0087,GG006
+2384,Henry V,OWA0053,
+2385,Born on the Fourth of July,OWA0012,GG003
+2385,Born on the Fourth of July,OWA0012,GG001
+2385,Born on the Fourth of July,OWA0012,GG012
+2385,Born on the Fourth of July,OWA0020,GG003
+2385,Born on the Fourth of July,OWA0020,GG001
+2385,Born on the Fourth of July,OWA0020,GG012
+2386,Common Threads: Stories from the Quilt,OWA0044,
+2387,The Johnstown Flood,OWA0037,
+2388,Cinema Paradiso,OWA0050,GG008
+2389,Balance,OWA0075,
+2390,Work Experience,OWA0076,
+2391,Reversal of Fortune,OWA0080,GG003
+2392,Good Fellas,OWA0025,
+2393,Dick Tracy,OWA0003,
+2393,Dick Tracy,OWA0092,
+2393,Dick Tracy,OWA0078,
+2394,Dances With Wolves,OWA0004,
+2394,Dances With Wolves,OWA0012,
+2394,Dances With Wolves,OWA0020,
+2394,Dances With Wolves,OWA0030,
+2394,Dances With Wolves,OWA0060,
+2394,Dances With Wolves,OWA0057,
+2394,Dances With Wolves,OWA0087,
+2395,American Dream,OWA0044,
+2396,Days of Waiting,OWA0037,
+2397,Journey of Hope,OWA0050,
+2398,Creature Comforts,OWA0075,
+2399,The Lunch Date,OWA0076,
+2400,City Slickers,OWA0025,GG010
+2401,The Fisher King,OWA0026,GG009
+2402,Bugsy,OWA0003,GG001
+2402,Bugsy,OWA0053,GG001
+2403,In the Shadow of the Stars,OWA0044,
+2404,"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",OWA0037,
+2405,Mediterraneo,OWA0050,
+2406,Manipulation,OWA0075,
+2407,Session Man,OWA0076,
+2408,Howards End,OWA0081,GG002
+2408,Howards End,OWA0003,GG002
+2408,Howards End,OWA0095,GG002
+2409,A River Runs through It,OWA0004,
+2410,The Panama Deception,OWA0044,
+2411,Educating Peter,OWA0037,
+2412,Indochine,OWA0050,GG008
+2413,Mona Lisa Descending a Staircase,OWA0075,
+2414,Omnibus,OWA0076,
+2415,The Crying Game,OWA0088,
+2416,The Piano,OWA0081,GG002
+2416,The Piano,OWA0026,GG002
+2416,The Piano,OWA0088,GG002
+2417,The Age of Innocence,OWA0053,GG009
+2418,I Am a Promise: The Children of Stanton Elementary School,OWA0044,
+2419,Defending Our Lives,OWA0037,
+2420,Belle Epoque,OWA0050,
+2421,The Wrong Trousers,OWA0075,
+2422,Black Rider (Schwarzfahrer),OWA0076,
+2423,Ed Wood,OWA0025,GG010
+2423,Ed Wood,OWA0092,GG010
+2424,Blue Sky,OWA0081,GG002
+2425,Bullets over Broadway,OWA0026,
+2426,The Madness of King George,OWA0003,
+2427,"The Adventures of Priscilla, Queen of the Desert",OWA0053,
+2428,Maya Lin: A Strong Clear Vision,OWA0044,
+2429,A Time for Justice,OWA0037,
+2430,Burnt by the Sun,OWA0050,
+2431,The Lion King,OWA0030,
+2431,The Lion King,OWA0078,
+2432,Bob's Birthday,OWA0075,
+2433,Franz Kafka's It's a Wonderful Life,OWA0076,
+2434,Trevor,OWA0076,
+2435,Leaving Las Vegas,OWA0080,GG003
+2436,Dead Man Walking,OWA0081,
+2437,Mighty Aphrodite,OWA0026,GG009
+2438,Restoration,OWA0003,
+2438,Restoration,OWA0053,
+2439,Anne Frank Remembered,OWA0044,
+2440,One Survivor Remembers,OWA0037,
+2441,Antonia's Line,OWA0050,
+2442,The Postman (Il Postino),OWA0070,
+2443,Pocahontas,OWA0096,GG014
+2443,Pocahontas,OWA0078,GG014
+2444,A Close Shave,OWA0075,
+2445,Lieberman in Love,OWA0076,
+2446,Babe,OWA0084,GG004
+2447,Shine,OWA0080,
+2448,Fargo,OWA0081,
+2448,Fargo,OWA0088,
+2449,When We Were Kings,OWA0044,
+2450,Breathing Lessons: The Life and Work of Mark O'Brien,OWA0037,
+2451,Kolya,OWA0050,GG008
+2452,The Nutty Professor,OWA0092,
+2453,Emma,OWA0096,
+2454,Evita,OWA0078,GG005
+2454,Evita,OWA0078,GG014
+2455,Quest,OWA0075,
+2456,Dear Diary,OWA0076,
+2457,The Ghost and the Darkness,OWA0093,
+2458,Sling Blade,OWA0095,
+2459,As Good as It Gets,OWA0080,GG004
+2459,As Good as It Gets,OWA0080,GG005
+2459,As Good as It Gets,OWA0081,GG004
+2459,As Good as It Gets,OWA0081,GG005
+2460,The Long Way Home,OWA0044,
+2461,A Story of Healing,OWA0037,
+2462,Character,OWA0050,
+2463,The Full Monty,OWA0096,
+2464,Geri's Game,OWA0075,
+2465,Visas and Virtue,OWA0076,
+2466,Life Is Beautiful,OWA0080,
+2466,Life Is Beautiful,OWA0050,
+2466,Life Is Beautiful,OWA0070,
+2467,Affliction,OWA0025,
+2468,Shakespeare in Love,OWA0081,GG012
+2468,Shakespeare in Love,OWA0081,GG004
+2468,Shakespeare in Love,OWA0081,GG005
+2468,Shakespeare in Love,OWA0026,GG012
+2468,Shakespeare in Love,OWA0026,GG004
+2468,Shakespeare in Love,OWA0026,GG005
+2468,Shakespeare in Love,OWA0003,GG012
+2468,Shakespeare in Love,OWA0003,GG004
+2468,Shakespeare in Love,OWA0003,GG005
+2468,Shakespeare in Love,OWA0053,GG012
+2468,Shakespeare in Love,OWA0053,GG004
+2468,Shakespeare in Love,OWA0053,GG005
+2468,Shakespeare in Love,OWA0096,GG012
+2468,Shakespeare in Love,OWA0096,GG004
+2468,Shakespeare in Love,OWA0096,GG005
+2468,Shakespeare in Love,OWA0060,GG012
+2468,Shakespeare in Love,OWA0060,GG004
+2468,Shakespeare in Love,OWA0060,GG005
+2468,Shakespeare in Love,OWA0088,GG012
+2468,Shakespeare in Love,OWA0088,GG004
+2468,Shakespeare in Love,OWA0088,GG005
+2469,The Last Days,OWA0044,
+2470,The Personals: Improvisations on Romance in the Golden Years,OWA0037,
+2471,Elizabeth,OWA0092,
+2472,The Prince of Egypt,OWA0078,
+2473,Bunny,OWA0075,
+2474,Election Night (Valgaften),OWA0076,
+2475,What Dreams May Come,OWA0084,
+2476,Gods and Monsters,OWA0095,GG009
+2477,The Cider House Rules,OWA0025,
+2477,The Cider House Rules,OWA0095,
+2478,Boys Don't Cry,OWA0081,
+2479,Topsy-Turvy,OWA0053,
+2479,Topsy-Turvy,OWA0092,
+2480,One Day in September,OWA0044,
+2481,King Gimp,OWA0037,
+2482,The Matrix,OWA0020,
+2482,The Matrix,OWA0057,
+2482,The Matrix,OWA0093,
+2482,The Matrix,OWA0084,
+2483,All about My Mother,OWA0050,
+2484,The Red Violin,OWA0030,
+2485,Tarzan,OWA0078,GG014
+2486,My Mother Dreams the Satan's Disciples in New York,OWA0076,
+2487,Pollock,OWA0026,
+2488,"Crouching Tiger, Hidden Dragon",OWA0003,GG008
+2488,"Crouching Tiger, Hidden Dragon",OWA0004,GG008
+2488,"Crouching Tiger, Hidden Dragon",OWA0050,GG008
+2488,"Crouching Tiger, Hidden Dragon",OWA0030,GG008
+2489,Into the Arms of Strangers: Stories of the Kindertransport,OWA0044,
+2490,Big Mama,OWA0037,
+2491,Dr. Seuss' How the Grinch Stole Christmas,OWA0092,
+2492,Wonder Boys,OWA0078,GG014
+2493,Father and Daughter,OWA0075,
+2494,Quiero Ser (I want to be...),OWA0076,
+2495,Iris,OWA0025,GG010
+2496,Monster's Ball,OWA0081,
+2497,Shrek,OWA0098,
+2498,Murder on a Sunday Morning,OWA0044,
+2499,Thoth,OWA0037,
+2500,No Man's Land,OWA0050,GG008
+2501,"Monsters, Inc.",OWA0078,
+2502,For the Birds,OWA0075,
+2503,the accountant,OWA0076,
+2504,Adaptation,OWA0025,GG009
+2504,Adaptation,OWA0025,GG010
+2505,The Hours,OWA0081,GG001
+2506,Spirited Away,OWA0098,
+2507,Road to Perdition,OWA0004,
+2508,Bowling for Columbine,OWA0044,
+2509,Twin Towers,OWA0037,
+2510,Nowhere in Africa,OWA0050,
+2511,Frida,OWA0092,GG013
+2511,Frida,OWA0030,GG013
+2512,The ChubbChubbs!,OWA0075,
+2513,This Charming Man (Der Er En Yndig Mand),OWA0076,
+2514,Talk to Her,OWA0036,
+2515,Finding Nemo,OWA0098,
+2516,The Fog of War,OWA0044,
+2517,Chernobyl Heart,OWA0037,
+2518,The Barbarian Invasions,OWA0050,
+2519,Harvie Krumpet,OWA0075,
+2520,Two Soldiers,OWA0076,
+2521,Ray,OWA0080,GG006
+2521,Ray,OWA0100,GG006
+2522,Born into Brothels,OWA0044,
+2523,Mighty Times: The Children's March,OWA0037,
+2524,The Sea Inside,OWA0050,GG008
+2525,Lemony Snicket's A Series of Unfortunate Events,OWA0092,
+2526,Finding Neverland,OWA0030,
+2527,The Motorcycle Diaries,OWA0078,
+2528,Ryan,OWA0075,
+2529,Wasp,OWA0076,
+2530,Capote,OWA0080,GG003
+2531,Syriana,OWA0025,GG010
+2532,The Constant Gardener,OWA0026,GG009
+2533,Wallace & Gromit in The Curse of the Were-Rabbit,OWA0098,
+2534,Memoirs of a Geisha,OWA0003,GG013
+2534,Memoirs of a Geisha,OWA0004,GG013
+2534,Memoirs of a Geisha,OWA0053,GG013
+2535,March of the Penguins,OWA0044,
+2536,A Note of Triumph: The Golden Age of Norman Corwin,OWA0037,
+2537,Tsotsi,OWA0050,
+2538,Hustle & Flow,OWA0078,
+2539,The Moon and the Son: An Imagined Conversation,OWA0075,
+2540,Six Shooter,OWA0076,
+2541,The Last King of Scotland,OWA0080,GG003
+2542,Little Miss Sunshine,OWA0025,
+2542,Little Miss Sunshine,OWA0036,
+2543,The Queen,OWA0081,GG002
+2543,The Queen,OWA0081,GG012
+2544,Dreamgirls,OWA0026,GG009
+2544,Dreamgirls,OWA0026,GG010
+2544,Dreamgirls,OWA0026,GG004
+2544,Dreamgirls,OWA0100,GG009
+2544,Dreamgirls,OWA0100,GG010
+2544,Dreamgirls,OWA0100,GG004
+2545,Happy Feet,OWA0098,GG014
+2546,Pan's Labyrinth,OWA0003,
+2546,Pan's Labyrinth,OWA0004,
+2546,Pan's Labyrinth,OWA0092,
+2547,An Inconvenient Truth,OWA0044,
+2547,An Inconvenient Truth,OWA0078,
+2548,The Blood of Yingzhou District,OWA0037,
+2549,The Lives of Others,OWA0050,
+2550,Babel,OWA0030,GG001
+2551,The Danish Poet,OWA0075,
+2552,West Bank Story,OWA0076,
+2553,Letters from Iwo Jima,OWA0097,GG008
+2554,No Country for Old Men,OWA0025,GG010
+2554,No Country for Old Men,OWA0025,GG012
+2554,No Country for Old Men,OWA0012,GG010
+2554,No Country for Old Men,OWA0012,GG012
+2554,No Country for Old Men,OWA0060,GG010
+2554,No Country for Old Men,OWA0060,GG012
+2554,No Country for Old Men,OWA0099,GG010
+2554,No Country for Old Men,OWA0099,GG012
+2555,La Vie en Rose,OWA0081,
+2555,La Vie en Rose,OWA0092,
+2556,Michael Clayton,OWA0026,
+2557,Ratatouille,OWA0098,GG007
+2558,Sweeney Todd The Demon Barber of Fleet Street,OWA0003,
+2559,Elizabeth: The Golden Age,OWA0053,
+2560,Taxi to the Dark Side,OWA0044,
+2561,Freeheld,OWA0037,
+2562,The Counterfeiters,OWA0050,
+2563,Once,OWA0078,
+2564,Peter & the Wolf,OWA0075,
+2565,Le Mozart des Pickpockets (The Mozart of Pickpockets),OWA0076,
+2566,Milk,OWA0080,
+2566,Milk,OWA0036,
+2567,WALL-E,OWA0098,
+2568,Slumdog Millionaire,OWA0004,GG011
+2568,Slumdog Millionaire,OWA0004,GG013
+2568,Slumdog Millionaire,OWA0004,GG001
+2568,Slumdog Millionaire,OWA0004,GG012
+2568,Slumdog Millionaire,OWA0012,GG011
+2568,Slumdog Millionaire,OWA0012,GG013
+2568,Slumdog Millionaire,OWA0012,GG001
+2568,Slumdog Millionaire,OWA0012,GG012
+2568,Slumdog Millionaire,OWA0020,GG011
+2568,Slumdog Millionaire,OWA0020,GG013
+2568,Slumdog Millionaire,OWA0020,GG001
+2568,Slumdog Millionaire,OWA0020,GG012
+2568,Slumdog Millionaire,OWA0030,GG011
+2568,Slumdog Millionaire,OWA0030,GG013
+2568,Slumdog Millionaire,OWA0030,GG001
+2568,Slumdog Millionaire,OWA0030,GG012
+2568,Slumdog Millionaire,OWA0078,GG011
+2568,Slumdog Millionaire,OWA0078,GG013
+2568,Slumdog Millionaire,OWA0078,GG001
+2568,Slumdog Millionaire,OWA0078,GG012
+2568,Slumdog Millionaire,OWA0060,GG011
+2568,Slumdog Millionaire,OWA0060,GG013
+2568,Slumdog Millionaire,OWA0060,GG001
+2568,Slumdog Millionaire,OWA0060,GG012
+2568,Slumdog Millionaire,OWA0100,GG011
+2568,Slumdog Millionaire,OWA0100,GG013
+2568,Slumdog Millionaire,OWA0100,GG001
+2568,Slumdog Millionaire,OWA0100,GG012
+2568,Slumdog Millionaire,OWA0099,GG011
+2568,Slumdog Millionaire,OWA0099,GG013
+2568,Slumdog Millionaire,OWA0099,GG001
+2568,Slumdog Millionaire,OWA0099,GG012
+2569,The Duchess,OWA0053,
+2570,Man on Wire,OWA0044,
+2571,Smile Pinki,OWA0037,
+2572,Departures,OWA0050,
+2573,La Maison en Petits Cubes,OWA0075,
+2574,Spielzeugland (Toyland),OWA0076,
+2575,Crazy Heart,OWA0080,GG003
+2575,Crazy Heart,OWA0080,GG014
+2575,Crazy Heart,OWA0078,GG003
+2575,Crazy Heart,OWA0078,GG014
+2576,Precious: Based on the Novel 'Push' by Sapphire,OWA0026,
+2576,Precious: Based on the Novel 'Push' by Sapphire,OWA0099,
+2577,The Young Victoria,OWA0053,
+2578,The Cove,OWA0044,
+2579,Music by Prudence,OWA0037,
+2580,The Secret in Their Eyes,OWA0050,
+2581,Logorama,OWA0075,
+2582,The New Tenants,OWA0076,
+2583,Inside Job,OWA0044,
+2584,Strangers No More,OWA0037,
+2585,In a Better World,OWA0050,
+2586,The Wolfman,OWA0092,
+2587,The Lost Thing,OWA0075,
+2588,God of Love,OWA0076,
+2589,The Artist,OWA0080,GG006
+2589,The Artist,OWA0080,GG013
+2589,The Artist,OWA0080,GG004
+2589,The Artist,OWA0053,GG006
+2589,The Artist,OWA0053,GG013
+2589,The Artist,OWA0053,GG004
+2589,The Artist,OWA0012,GG006
+2589,The Artist,OWA0012,GG013
+2589,The Artist,OWA0012,GG004
+2589,The Artist,OWA0030,GG006
+2589,The Artist,OWA0030,GG013
+2589,The Artist,OWA0030,GG004
+2589,The Artist,OWA0060,GG006
+2589,The Artist,OWA0060,GG013
+2589,The Artist,OWA0060,GG004
+2590,Beginners,OWA0025,GG010
+2591,The Iron Lady,OWA0081,
+2591,The Iron Lady,OWA0092,
+2592,Rango,OWA0098,
+2593,Undefeated,OWA0044,
+2594,Saving Face,OWA0037,
+2595,A Separation,OWA0050,GG008
+2596,The Muppets,OWA0078,
+2597,The Fantastic Flying Books of Mr. Morris Lessmore,OWA0075,
+2598,The Shore,OWA0076,
+2599,The Descendants,OWA0099,GG001
+2600,Les Misérables,OWA0026,GG009
+2600,Les Misérables,OWA0026,GG004
+2600,Les Misérables,OWA0101,GG009
+2600,Les Misérables,OWA0101,GG004
+2600,Les Misérables,OWA0100,GG009
+2600,Les Misérables,OWA0100,GG004
+2601,Brave,OWA0098,GG007
+2602,Searching for Sugar Man,OWA0044,
+2603,Inocente,OWA0037,
+2604,Amour,OWA0050,GG008
+2605,Paperman,OWA0075,
+2606,Curfew,OWA0076,
+2607,Blue Jasmine,OWA0081,
+2608,Frozen,OWA0098,GG007
+2608,Frozen,OWA0078,GG007
+2609,20 Feet from Stardom,OWA0044,
+2610,The Lady in Number 6: Music Saved My Life,OWA0037,
+2611,The Great Beauty,OWA0050,GG008
+2612,Mr. Hublot,OWA0075,
+2613,Helium,OWA0076,
+2614,Still Alice,OWA0081,GG002
+2615,Boyhood,OWA0026,GG009
+2615,Boyhood,OWA0026,GG011
+2615,Boyhood,OWA0026,GG001
+2616,Big Hero 6,OWA0098,
+2617,CitizenFour,OWA0044,
+2618,Crisis Hotline: Veterans Press 1,OWA0037,
+2619,Ida,OWA0050,
+2620,Selma,OWA0078,GG014
+2621,Feast,OWA0075,
+2622,The Phone Call,OWA0076,
+2623,The Danish Girl,OWA0026,
+2624,Inside Out,OWA0098,GG007
+2625,Amy,OWA0044,
+2626,A Girl in the River: The Price of Forgiveness,OWA0037,
+2627,Son of Saul,OWA0050,GG008
+2628,Bear Story,OWA0075,
+2629,Stutterer,OWA0076,
+2630,Fences,OWA0026,
+2631,Zootopia,OWA0098,GG007
+2632,O.J.: Made in America,OWA0044,
+2633,The White Helmets,OWA0037,
+2634,The Salesman,OWA0050,
+2635,Piper,OWA0075,
+2636,Sing,OWA0076,
+2637,Arrival,OWA0097,
+2638,"Three Billboards outside Ebbing, Missouri",OWA0025,
+2638,"Three Billboards outside Ebbing, Missouri",OWA0081,
+2639,Coco,OWA0098,GG007
+2639,Coco,OWA0078,GG007
+2640,Icarus,OWA0044,
+2641,Heaven Is a Traffic Jam on the 405,OWA0037,
+2642,A Fantastic Woman,OWA0050,
+2643,Dear Basketball,OWA0075,
+2644,The Silent Child,OWA0076,
+2645,If Beale Street Could Talk,OWA0026,
+2646,Spider-Man: Into the Spider-Verse,OWA0098,GG007
+2647,Roma,OWA0004,GG008
+2647,Roma,OWA0004,GG011
+2647,Roma,OWA0012,GG008
+2647,Roma,OWA0012,GG011
+2647,Roma,OWA0050,GG008
+2647,Roma,OWA0050,GG011
+2648,Free Solo,OWA0044,
+2649,Period. End of Sentence.,OWA0037,
+2650,Bao,OWA0075,
+2651,Skin,OWA0076,
+2652,First Man,OWA0084,
+2653,Once upon a Time...in Hollywood,OWA0025,
+2653,Once upon a Time...in Hollywood,OWA0102,
+2654,Judy,OWA0081,GG002
+2655,Parasite,OWA0012,GG008
+2655,Parasite,OWA0103,GG008
+2655,Parasite,OWA0060,GG008
+2655,Parasite,OWA0036,GG008
+2656,American Factory,OWA0044,
+2657,Learning to Skateboard in a Warzone (If You're a Girl),OWA0037,
+2658,Hair Love,OWA0075,
+2659,The Neighbors' Window,OWA0076,
+2660,Judas and the Black Messiah,OWA0025,GG010
+2660,Judas and the Black Messiah,OWA0078,GG010
+2661,Minari,OWA0026,GG008
+2662,Soul,OWA0098,GG007
+2662,Soul,OWA0098,GG013
+2662,Soul,OWA0030,GG007
+2662,Soul,OWA0030,GG013
+2663,Mank,OWA0004,
+2663,Mank,OWA0102,
+2664,Ma Rainey's Black Bottom,OWA0053,GG003
+2664,Ma Rainey's Black Bottom,OWA0101,GG003
+2665,My Octopus Teacher,OWA0044,
+2666,Colette,OWA0037,
+2667,Another Round,OWA0103,
+2668,If Anything Happens I Love You,OWA0075,
+2669,Two Distant Strangers,OWA0076,
+2670,King Richard,OWA0080,GG003
+2671,CODA,OWA0025,
+2671,CODA,OWA0060,
+2671,CODA,OWA0099,
+2672,The Eyes of Tammy Faye,OWA0081,
+2672,The Eyes of Tammy Faye,OWA0101,
+2673,Encanto,OWA0098,GG007
+2674,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",OWA0044,
+2675,The Queen of Basketball,OWA0037,
+2676,Drive My Car,OWA0103,
+2677,The Windshield Wiper,OWA0075,
+2678,The Long Goodbye,OWA0076,
+2679,Everything Everywhere All at Once,OWA0025,GG005
+2679,Everything Everywhere All at Once,OWA0025,GG010
+2679,Everything Everywhere All at Once,OWA0081,GG005
+2679,Everything Everywhere All at Once,OWA0081,GG010
+2679,Everything Everywhere All at Once,OWA0026,GG005
+2679,Everything Everywhere All at Once,OWA0026,GG010
+2679,Everything Everywhere All at Once,OWA0012,GG005
+2679,Everything Everywhere All at Once,OWA0012,GG010
+2679,Everything Everywhere All at Once,OWA0020,GG005
+2679,Everything Everywhere All at Once,OWA0020,GG010
+2679,Everything Everywhere All at Once,OWA0060,GG005
+2679,Everything Everywhere All at Once,OWA0060,GG010
+2679,Everything Everywhere All at Once,OWA0036,GG005
+2679,Everything Everywhere All at Once,OWA0036,GG010
+2680,Guillermo del Toro's Pinocchio,OWA0098,GG007
+2681,Navalny,OWA0104,
+2682,The Elephant Whisperers,OWA0105,
+2683,RRR,OWA0078,GG014
+2684,"The Boy, the Mole, the Fox and the Horse",OWA0075,
+2685,An Irish Goodbye,OWA0076,
+2686,Welcome to Chechnya,OWA0106,
+2687,TÁR,,GG002
+2688,"Argentina, 1985",,GG008
+2689,Being the Ricardos,,GG002
+2690,West Side Story (2021),,GG004
+2690,West Side Story (2021),,GG005
+2690,West Side Story (2021),,GG009
+2691,"tick, tick...BOOM!",,GG006
+2692,No Time To Die,,GG014
+2693,The United States vs. Billie Holiday,,GG002
+2694,Borat Subsequent Moviefilm,,GG004
+2694,Borat Subsequent Moviefilm,,GG006
+2695,I Care A Lot,,GG005
+2696,The Mauritanian,,GG009
+2697,The Trial of the Chicago 7,,GG012
+2698,The Farewell,,GG005
+2699,Missing Link,,GG007
+2700,Once Upon a Time...in Hollywood,,GG010
+2700,Once Upon a Time...in Hollywood,,GG012
+2701,The Wife,,GG002
+2702,"Star Is Born, A (2018)",,GG014
+2703,In The Fade,,GG008
+2704,The Disaster Artist,,GG006
+2705,Elle,,GG008
+2705,Elle,,GG002
+2706,Steve Jobs,,GG009
+2707,Birdman,,GG006
+2707,Birdman,,GG012
+2708,Big Eyes,,GG005
+2709,How to Train Your Dragon 2,,GG007
+2710,Leviathan,,GG008
+2711,Mandela: Long Walk to Freedom,,GG014
+2712,My Week With Marilyn,,GG005
+2713,W.E.,,GG014
+2714,The Adventures of Tintin,,GG007
+2715,Midnight In Paris,,GG012
+2716,The Kids Are All Right,,GG005
+2716,The Kids Are All Right,,GG004
+2717,Barney's Version,,GG006
+2718,In A Better World,,GG008
+2719,Julie & Julia,,GG005
+2720,The White Ribbon (Das weiße Band - Eine Deutsche Kindergeschichte),,GG008
+2721,Precious: Based on the novel Push by Sapphire,,GG009
+2722,Up In The Air,,GG012
+2723,The Wrestler,,GG003
+2723,The Wrestler,,GG014
+2724,Happy-Go-Lucky,,GG005
+2725,Waltz with Bashir,,GG008
+2726,Wall-E,,GG007
+2727,Away From Her,,GG002
+2728,La Vie En Rose,,GG005
+2729,The Diving Bell and the Butterfly,,GG008
+2729,The Diving Bell and the Butterfly,,GG011
+2730,I'm Not There,,GG009
+2731,Cars,,GG007
+2732,Transamerica,,GG002
+2733,Walk The Line,,GG005
+2733,Walk The Line,,GG006
+2733,Walk The Line,,GG004
+2734,Paradise Now,,GG008
+2735,Osama,,GG008
+2736,Something's Gotta Give,,GG005
+2737,About Schmidt,,GG003
+2738,Talk To Her,,GG008
+2739,In the Bedroom,,GG002
+2740,Kate & Leopold,,GG014
+2741,Toy Story 2,,GG004
+2742,All About My Mother,,GG008
+2743,Tumbleweeds,,GG005
+2744,Central Station,,GG008
+2745,Quest For Camelot: The Magic Sword,,GG014
+2746,Ulee's Gold,,GG003
+2747,Ma Vie en Rose,,GG008
+2748,Mrs. Brown,,GG002
+2749,The People vs. Larry Flynt,,GG012
+2749,The People vs. Larry Flynt,,GG011
+2749,The People vs. Larry Flynt,,GG012
+2750,The Mirror Has Two Faces,,GG009
+2751,Secrets & Lies,,GG002
+2752,A Walk in the Clouds,,GG013
+2753,Get Shorty,,GG006
+2754,The Lion King (1994),,GG004
+2754,The Lion King (1994),,GG014
+2755,Farinelli,,GG008
+2756,Bullets Over Broadway,,GG009
+2757,Heaven & Earth,,GG013
+2758,Farewell My Concubine,,GG008
+2759,What's Love Got To Do With It,,GG005
+2760,The Player,,GG004
+2760,The Player,,GG006
+2761,Enchanted April,,GG009
+2761,Enchanted April,,GG005
+2762,The Prince of Tides,,GG003
+2763,For The Boys,,GG005
+2764,Green Card,,GG004
+2765,The Sheltering Sky,,GG013
+2766,Cyrano De Bergerac (1990),,GG008
+2767,Longtime Companion,,GG010
+2768,The Fabulous Baker Boys,,GG002
+2769,Running on Empty,,GG012
+2770,Madame Sousatzka,,GG002
+2771,Gorillas in the Mist: The Adventure of Dian Fossey,,GG002
+2772,Hope and Glory,,GG004
+2773,My Life as a Dog,,GG008
+2774,Mona Lisa,,GG003
+2775,Crimes of the Heart,,GG005
+2776,Agnes of God,,GG009
+2777,Romancing the Stone,,GG004
+2778,Micki & Maude,,GG006
+2779,The Dresser,,GG003
+2780,Silkwood,,GG009
+2781,Educating Rita,,GG005
+2781,Educating Rita,,GG006
+2782,Victor Victoria,,GG005
+2783,"Officer and a Gentleman, An",,GG010
+2783,"Officer and a Gentleman, An",,GG014
+2784,Butterfly,,GG018
+2785,Only When I Laugh,,GG009
+2786,Pennies from Heaven,,GG005
+2787,The Ninth Configuration,,GG012
+2788,The Stunt Man,,GG013
+2789,The Rose,,GG016
+2789,The Rose,,GG014
+2790,"Cage aux Folles, La",,GG008
+2791,Jane Fonda,,GG019
+2792,Roger Moore,,GG019
+2793,Autumn Sonata,,GG008
+2794,John Travolta,,GG019
+2795,"Same Time, Next Year",,GG005
+2796,Equus,,GG003
+2796,Equus,,GG010
+2797,The Turning Point,,GG001
+2797,The Turning Point,,GG011
+2798,"Star Is Born, A (1976)",,GG004
+2798,"Star Is Born, A (1976)",,GG005
+2798,"Star Is Born, A (1976)",,GG006
+2798,"Star Is Born, A (1976)",,GG014
+2798,"Star Is Born, A (1976)",,GG013
+2799,Stay Hungry,,GG017
+2800,Face to Face,,GG008
+2801,Sophia Loren,,GG019
+2802,Robert Redford,,GG019
+2803,Voyage of the Damned,,GG009
+2804,Marathon Man,,GG010
+2805,Altars of the World,,GG020
+2806,Jessica Lange,,GG016
+2807,One Flew Over The Cuckoo's Nest,,GG001
+2807,One Flew Over The Cuckoo's Nest,,GG017
+2807,One Flew Over The Cuckoo's Nest,,GG002
+2808,The Other Side of the Mountain,,GG016
+2809,Lies My Father Told Me,,GG008
+2810,Jacqueline Susann's Once Is Not Enough,,GG009
+2811,Tommy,,GG005
+2812,Youthquake,,GG020
+2813,The Longest Yard,,GG004
+2814,The Dove,,GG017
+2815,The Little Prince,,GG013
+2816,Scenes From a Marriage,,GG008
+2817,Barbra Streisand,,GG019
+2818,Harry & Tonto,,GG006
+2819,A Woman Under The Influence,,GG002
+2820,Animals Are Beautiful People,,GG020
+2821,Benji,,GG014
+2822,The Pedestrian,,GG008
+2823,Marlon Brando,,GG019
+2824,Elizabeth Taylor,,GG019
+2824,Elizabeth Taylor,,GG015
+2825,Cinderella Liberty,,GG002
+2826,Visions of Eight,,GG020
+2827,Lady Sings the Blues,,GG016
+2828,Young Winston,,GG021
+2829,The Emigrants,,GG022
+2830,The New Land,,GG022
+2831,Avanti!,,GG006
+2832,Elvis on Tour,,GG020
+2833,Walls of Fire,,GG020
+2834,Ben,,GG014
+2835,The Boy Friend,,GG016
+2835,The Boy Friend,,GG023
+2836,Red Sky at Morning,,GG017
+2837,Carnal Knowledge,,GG009
+2838,Kotch,,GG014
+2839,Diary of a Mad Housewife,,GG016
+2839,Diary of a Mad Housewife,,GG023
+2840,The Great White Hope,,GG017
+2841,Women In Love,,GG021
+2842,Rider on the Rain,,GG022
+2843,Clint Eastwood,,GG019
+2844,Sidney Poitier,,GG019
+2845,Darling Lili,,GG014
+2846,The Secret of Santa Vittoria,,GG004
+2847,"Goodbye, Columbus",,GG016
+2848,Butch Cassidy and The Sundance Kid,,GG013
+2849,Oh! What a Lovely War,,GG021
+2850,Julie Andrews,,GG019
+2851,Mia Farrow,,GG019
+2852,Steve McQueen,,GG019
+2853,"Me, Natalie",,GG023
+2854,The Shoes of the Fisherman,,GG013
+2855,"Rachel, Rachel",,GG011
+2856,War and Peace (1966),,GG022
+2857,Richard Burton,,GG019
+2858,Sean Connery,,GG019
+2859,Star!,,GG010
+2860,The Fox,,GG021
+2861,Live For Life,,GG022
+2862,Paul Newman,,GG019
+2863,The Whisperers,,GG002
+2864,"The Russians Are Coming, The Russians Are Coming",,GG004
+2864,"The Russians Are Coming, The Russians Are Coming",,GG006
+2865,Dead Heat on a Merry-Go-Round,,GG016
+2866,The Pad,,GG017
+2867,Hawaii,,GG013
+2867,Hawaii,,GG009
+2868,Alfie (1966),,GG021
+2869,A Man And A Woman,,GG022
+2869,A Man And A Woman,,GG002
+2870,A Man Could Get Killed,,GG014
+2871,Inside Daisy Clover,,GG017
+2872,Juliet of the Spirits,,GG022
+2873,Ursula Andress,,GG019
+2874,Doris Day,,GG019
+2875,Rex Harrison,,GG019
+2876,Rock Hudson,,GG019
+2877,Marcello Mastroianni,,GG019
+2878,Natalie Wood,,GG019
+2879,The Spy Who Came in from the Cold,,GG010
+2880,The Collector,,GG002
+2881,The Yellow Rolls-Royce,,GG014
+2882,Sallah,,GG024
+2882,Sallah,,GG017
+2882,Sallah,,GG022
+2883,Guns at Batasi,,GG016
+2884,Island of the Blue Dolphins,,GG016
+2885,Get Yourself a College Girl!,,GG016
+2886,The Unsinkable Molly Brown,,GG017
+2887,The New Interns,,GG017
+2888,The Fall of the Roman Empire,,GG013
+2889,"Hush...Hush, Sweet Charlotte",,GG009
+2890,Seven Days In May,,GG010
+2891,The Pumpkin Eater,,GG002
+2892,Circus World,,GG014
+2893,Connie Francis,,GG015
+2894,The Cardinal,,GG001
+2894,The Cardinal,,GG010
+2895,Any Number Can Win,,GG022
+2896,The Birds,,GG016
+2897,The Prize,,GG016
+2898,"America, America",,GG017
+2898,"America, America",,GG011
+2899,The Ceremony,,GG017
+2900,The V. I. P.'s,,GG009
+2901,To Bed Or Not To Bed,,GG006
+2902,The L-Shaped Room,,GG002
+2903,To Kill A Mockingbird,,GG003
+2903,To Kill A Mockingbird,,GG025
+2904,That Touch of Mink,,GG026
+2905,A Taste of Honey,,GG016
+2906,David and Lisa,,GG017
+2907,Billy Budd,,GG017
+2908,The Manchurian Candidate,,GG009
+2909,Gypsy,,GG023
+2910,"Divorce, Italian Style",,GG006
+2911,Telstar,,GG029
+2912,Nathaniel Coles,,GG015
+2913,El Cid,,GG015
+2914,Pocketful of Miracles,,GG016
+2914,Pocketful of Miracles,,GG006
+2915,Tall Story,,GG016
+2916,Town Without Pity,,GG016
+2916,Town Without Pity,,GG014
+2917,Come September,,GG017
+2918,Charlton Heston,,GG019
+2919,Marilyn Monroe,,GG019
+2920,A Majority Of One,,GG026
+2920,A Majority Of One,,GG025
+2921,Inherit the Wind - 1960,,GG015
+2922,The Sundowners,,GG015
+2923,The Trials of Oscar Wilde (The Man With The Green Carnation),,GG021
+2924,La vérité (The Truth),,GG022
+2925,From the Terrace,,GG016
+2926,The World of Suzie Wong,,GG016
+2927,Pollyanna,,GG016
+2928,Because They're Young,,GG017
+2929,House of Usher,,GG017
+2930,Desire In The Dust,,GG017
+2931,Tony Curtis,,GG019
+2932,Gina Lollobrigida,,GG019
+2933,Hand In Hand,,GG025
+2934,Sunrise at Campobello,,GG002
+2935,Rocco and His Brothers,,GG008
+2936,Career,,GG003
+2937,Room At The Top,,GG024
+2938,Wir Wunderkinder (Aren't We Wonderful!),,GG022
+2939,The Bridge,,GG022
+2940,Odd Obsession,,GG022
+2941,Wild Strawberries,,GG022
+2942,Rio Bravo,,GG016
+2943,Darby O'Gill and The Little People,,GG016
+2944,Say One for Me,,GG016
+2945,The Five Pennies,,GG016
+2946,A Private's Affair,,GG017
+2947,A Summer Place,,GG017
+2948,"Crime & Punishment, USA",,GG017
+2949,The Crimson Kimono,,GG017
+2950,On The Beach,,GG013
+2951,Imitation of Life,,GG009
+2952,"Suddenly, Last Summer",,GG002
+2953,José Ramon Samaniego,,GG031
+2954,Auntie Mame,,GG026
+2955,"Do Ankhen Barah Haath (Two Eyes, Twelve Hands)",,GG024
+2956,Rosemary,,GG022
+2957,A Night To Remember,,GG021
+2958,The Year Long Road,,GG022
+2959,The Perfect Furlough,,GG016
+2960,The Gene Krupa Story,,GG016
+2961,God's Little Acre,,GG016
+2962,In Love and War - 1958,,GG017
+2963,A Time to Love and a Time to Die,,GG017
+2964,"Too Much, Too Soon",,GG017
+2965,Deborah Kerr,,GG019
+2966,The Proud Rebel,,GG032
+2967,The Inn of the Sixth Happiness,,GG025
+2968,Me and the Colonel,,GG006
+2969,I Want To Live!,,GG002
+2970,L'eau vive (Girl And The River),,GG022
+2971,Hugo Friedhofer,,GG015
+2972,Zsa Zsa Gabor,,GG015
+2973,Bob Hope,,GG015
+2974,Le Roy Prinze,,GG015
+2975,Jean Simmons,,GG015
+2976,Until They Sail,,GG016
+2977,Carolyn Jones,,GG016
+2978,Peyton Place,,GG016
+2979,This Happy Feeling,,GG017
+2980,The Searchers,,GG017
+2981,Confessions of Felix Krull,,GG022
+2982,Tizoc,,GG022
+2983,Woman In A Dressing Gown,,GG021
+2984,Kiiroi karasu (Yellow Crow),,GG022
+2985,The Happy Road,,GG025
+2986,Lust For Life,,GG003
+2987,Edwin Schallert,,GG015
+2988,Dimitri Tiomkin,,GG015
+2989,Baby Doll,,GG016
+2990,The Girl Can't Help It,,GG016
+2991,Rebel Without a Cause,,GG016
+2992,Tea and Sympathy,,GG017
+2993,The Silver Chalice,,GG017
+2994,Friendly Persuasion,,GG017
+2995,Before Sundown,,GG022
+2996,A Girl In Black,,GG022
+2997,Richard III  (1955),,GG021
+2998,The Rose On His Arm,,GG022
+2999,The White Reindeer,,GG022
+3000,James Dean,,GG019
+3001,Kim Novak,,GG019
+3002,Ronald Reagan,,GG033
+3003,Battle Hymn,,GG025
+3004,Taina Elg,,GG034
+3005,Jacques Bergerac,,GG035
+3006,The Bad Seed,,GG009
+3007,The Rainmaker,,GG010
+3008,Anastasia (1956),,GG002
+3009,Guys and Dolls,,GG004
+3009,Guys and Dolls,,GG023
+3010,Blood Alley,,GG016
+3011,The Eddy Duchin Story,,GG016
+3012,The View From Pompey's Head,,GG016
+3013,Hit The Deck,,GG017
+3014,Eyes of Children,,GG008
+3015,"Sons, Mothers And A General",,GG008
+3016,Stella,,GG008
+3017,Ordet,,GG008
+3018,Grace Kelly,,GG019
+3019,Esther Williams,,GG033
+3019,Esther Williams,,GG019
+3020,Love Is A Many-Splendored Thing,,GG025
+3021,The Seven Year Itch,,GG006
+3022,Trial,,GG010
+3023,Dangerous Curves (UK),,GG008
+3024,Wichita,,GG036
+3025,,,GG015
+3026,Carmen Jones,,GG004
+3026,Carmen Jones,,GG017
+3027,The Trouble With Harry,,GG016
+3028,Phffft!,,GG016
+3029,The High and The Mighty,,GG016
+3029,The High and The Mighty,,GG009
+3030,Four Guns to the Border,,GG017
+3031,Genevieve,,GG008
+3032,The Lady Of The Camelias,,GG008
+3033,No Way Back,,GG008
+3034,Twenty-Four Eyes,,GG008
+3035,Audrey Hepburn,,GG019
+3036,Gregory Peck,,GG019
+3037,Money From Home,,GG016
+3038,The Egyptian,,GG016
+3039,It Came From Outer Space,,GG016
+3040,The Glory Brigade,,GG017
+3041,So Big,,GG017
+3042,The Man From The Alamo,,GG017
+3043,Alan Ladd,,GG019
+3044,Robert Taylor,,GG019
+3045,Little Boy Lost,,GG025
+3046,Mogambo,,GG009
+3047,The Moon Is Blue,,GG006
+3048,A Queen Is Crowned,,GG020
+3049,5 Fingers,,GG012
+3050,Navajo,,GG015
+3051,My Cousin Rachel,,GG017
+3052,Susan Hayward,,GG019
+3053,John Wayne,,GG019
+3054,The Member of the Wedding,,GG032
+3055,Anything Can Happen,,GG025
+3056,Singin' in the Rain,,GG006
+3057,My Six Convicts,,GG010
+3058,Death of a Salesman (1951),,GG003
+3058,Death of a Salesman (1951),,GG017
+3058,Death of a Salesman (1951),,GG011
+3058,Death of a Salesman (1951),,GG027
+3059,Bright Victory,,GG012
+3060,Pictura,,GG015
+3061,A Place In The Sun,,GG001
+3062,An American In Paris,,GG004
+3063,Teresa,,GG016
+3064,September Affair,,GG013
+3065,The Day The Earth Stood Still,,GG025
+3066,A Streetcar Named Desire (1951),,GG009
+3067,Quo Vadis,,GG028
+3067,Quo Vadis,,GG010
+3068,Too Young To Kiss,,GG023
+3069,The Blue Veil,,GG002
+3070,Cyrano de Bergerac (1950),,GG003
+3070,Cyrano de Bergerac (1950),,GG027
+3071,All About Eve,,GG012
+3072,Sunset Boulevard,,GG013
+3072,Sunset Boulevard,,GG011
+3073,Jane Wyman,,GG019
+3074,Broken Arrow,,GG025
+3075,Tea For Two,,GG018
+3076,All The King's Men,,GG037
+3076,All The King's Men,,GG038
+3076,All The King's Men,,GG016
+3076,All The King's Men,,GG011
+3076,All The King's Men,,GG009
+3077,The Hasty Heart,,GG017
+3077,The Hasty Heart,,GG025
+3078,The Inspector General,,GG013
+3079,The Bicycle Thief,,GG008
+3080,The Adventures of Ichabod and Mr. Toad,,GG041
+3081,Hamlet (1948),,GG037
+3081,Hamlet (1948),,GG021
+3082,I Remember Mama,,GG009
+3083,The Pearl,,GG039
+3084,Bambi,,GG015
+3085,That Hagen Girl,,GG016
+3086,Kiss of Death,,GG017
+3087,Life with Father,,GG013
+3088,Mourning Becomes Electra,,GG040
+3089,It's A Wonderful Life,,GG011
+3090,The Last Chance,,GG025
+3091,A Medal For Benny,,GG010
+3092,The House I Live In,,GG025
